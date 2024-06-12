@@ -16,9 +16,9 @@ At its core, the high-low offense is designed to exploit gaps in the defense by 
 
 | Position               | Role and Responsibilities |
 |------------------------|----------------------------|
-| **High Post (Power Forward)** | - Act as a playmaker with passing lanes to the low post <br> - Take mid-range jump shots to keep the defense honest <br> - Set screens and create space for perimeter players |
-| **Low Post (Center)**  | - Establish strong positions near the basket <br> - Finish plays with layups, dunks, and hook shots <br> - Be a rebounding threat on both ends |
-| **Perimeter Players**  | - Space the floor to stretch the defense <br> - Be ready for catch-and-shoot opportunities <br> - Drive to the basket when lanes open up |
+| **High Post (Power Forward)** | - Act as a playmaker with passing lanes to the low post <br/> - Take mid-range jump shots to keep the defense honest <br/> - Set screens and create space for perimeter players |
+| **Low Post (Center)**  | - Establish strong positions near the basket <br/> - Finish plays with layups, dunks, and hook shots <br/> - Be a rebounding threat on both ends |
+| **Perimeter Players**  | - Space the floor to stretch the defense <br/> - Be ready for catch-and-shoot opportunities <br/> - Drive to the basket when lanes open up |
 
 ### Role of the Power Forward
 
@@ -46,12 +46,6 @@ A power forward in a high-low offense must be versatile enough to score and crea
 
 ### Conclusion
 
-The high-low offense leverages the unique skill set of the power forward to orchestrate the Teams offensive rhythm. By mastering positioning, passing, and scoring from the high post, power forwards can unlock a cascade of scoring opportunities for their team. Coaches and players alike must dedicate time to honing the intricate synergy required for this strategy to thrive.
+The high-low offense leverages the unique skill set of the power forward to orchestrate the team’s offensive rhythm. By mastering positioning, passing, and scoring from the high post, power forwards can unlock a cascade of scoring opportunities for their team. Coaches and players alike must dedicate time to honing the intricate synergy required for this strategy to thrive.
 
 Take it to the court and watch your offense elevate to new heights!
-
----
-
-Have insights or experiences with the high-low offense? Share your thoughts in the comments below or join the discussion on our forum!
-```
-

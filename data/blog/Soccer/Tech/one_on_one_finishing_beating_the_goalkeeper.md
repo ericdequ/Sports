@@ -41,8 +41,8 @@ Shooting early capitalizes on the element of surprise. It leaves the keeper with
 
 | Strategy            | Pros                                                                                      | Cons                                                                |
 |---------------------|-------------------------------------------------------------------------------------------|---------------------------------------------------------------------|
-| **Rounding the Keeper** | - High success rate when executed flawlessly <br>- Keeper out of play post-rounding           | - Requires more skill and precision <br>- Risk of being tackled by the keeper |
-| **Shooting Early**      | - Catching the keeper off guard <br>- Easier execution compared to dribbling past keeper | - Higher reliance on accuracy <br>- Less margin for error                           |
+| **Rounding the Keeper** | - High success rate when executed flawlessly <br/> - Keeper out of play post-rounding           | - Requires more skill and precision <br/> - Risk of being tackled by the keeper |
+| **Shooting Early**      | - Catching the keeper off guard <br/> - Easier execution compared to dribbling past keeper | - Higher reliance on accuracy <br/> - Less margin for error                           |
 
 ## Tips from the Pros
 
@@ -65,9 +65,8 @@ Shooting early capitalizes on the element of surprise. It leaves the keeper with
 
 ## Conclusion
 
-Mastering one-on-one finishing requires practice, confidence, and a deep understanding of both your abilities and the goalkeeper's tendencies. Whether you choose to round the keeper or shoot early, the key lies in making quick, decisive actions while maintaining composure. By integrating these strategies into your training routine, you'll be better equipped to convert those one-on-one opportunities into goals, boosting both your performance and your Teams success.
+Mastering one-on-one finishing requires practice, confidence, and a deep understanding of both your abilities and the goalkeeper's tendencies. Whether you choose to round the keeper or shoot early, the key lies in making quick, decisive actions while maintaining composure. By integrating these strategies into your training routine, you'll be better equipped to convert those one-on-one opportunities into goals, boosting both your performance and your team's success.
 
 Keep your eyes on the prize, stay cool under pressure, and remember—perfect practice makes perfect!
 
 Happy scoring!
-```

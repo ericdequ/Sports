@@ -21,8 +21,8 @@ Footwork is the cornerstone of effective pass protection. A right guard’s init
 
 | Technique    | When to Use              | Key Steps                          |
 |--------------|--------------------------|------------------------------------|
-| Quick Set    | Short dropbacks          | 1. Explode out of stance <br> 2. Engage quickly <br> 3. Maintain balance         |
-| Vertical Set | Deep dropbacks           | 1. Kick-step back <br> 2. Create space <br> 3. Stay on balls of feet             |
+| Quick Set    | Short dropbacks          | 1. Explode out of stance <br/> 2. Engage quickly <br/> 3. Maintain balance         |
+| Vertical Set | Deep dropbacks           | 1. Kick-step back <br/> 2. Create space <br/> 3. Stay on balls of feet             |
 
 ## Precision in Hand Placement
 
@@ -42,7 +42,7 @@ Leverage is all about positioning and leverage over your opponent. A good right 
 
 1. **Low Pad Level:** Stay lower than your opponent to control the engagement.
 2. **Anchor Drill:** Practice sinking your hips and digging in your cleats to prevent being driven back.
-3. **Core Strength**: A strong core allows for better balance and resistance against power rushes.
+3. **Core Strength:** A strong core allows for better balance and resistance against power rushes.
 
 ### Pro Tips
 
@@ -73,4 +73,3 @@ Stay sharp, hone your techniques, and rise to the challenge of the trenches. Foo
 ---
 
 If you found these tips helpful, make sure to subscribe for more coaching wisdom and player development insights!
-```
