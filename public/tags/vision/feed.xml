@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/vision/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/RB/vision_and_patience_finding_the_running_lanes</guid>
+    <title>Vision and Patience: Finding the Running Lanes</title>
+    <link>https://www.sportstips.org/blog/Football/RB/vision_and_patience_finding_the_running_lanes</link>
+    <description>Explore techniques for improving vision and patience as a running back, including reading blocks and anticipating openings.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Football</category><category>Running Back</category><category>Techniques</category><category>Vision</category><category>Patience</category><category>Coaching</category><category>Player Development</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Positions/wide_playmakers_creativity_from_the_flanks</guid>
+    <title>Wide Playmakers: Creativity from the Flanks</title>
+    <link>https://www.sportstips.org/blog/Soccer/Positions/wide_playmakers_creativity_from_the_flanks</link>
+    <description>Explore the art of playmaking from wide areas, examining legends like David Beckham and modern examples who excel in creating chances from the flanks with their exceptional crossing and vision.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>soccer</category><category>tactics</category><category>David Beckham</category><category>playmakers</category><category>wingers</category><category>crossing</category><category>vision</category><category>coaching</category>
+  </item>
+
+    </channel>
+  </rss>

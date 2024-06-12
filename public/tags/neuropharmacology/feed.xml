@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 22 May 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/neuropharmacology/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Health/ibogaine</guid>
+    <title>Ibogaine: Pharmacological Profile, Anti-Addiction Properties, and Spiritual Impact 🌿✨</title>
+    <link>https://www.sportstips.org/blog/Health/ibogaine</link>
+    <description>Explore the potential of ibogaine as a transformative treatment for addiction. Delve into its pharmacological makeup, therapeutic applications, and the profound spiritual impact it can have on individuals seeking recovery. 🌿💊🧠</description>
+    <pubDate>Sun, 22 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Ibogaine</category><category>Addiction Treatment</category><category>Psychedelics</category><category>Pharmacology</category><category>Mental Health</category><category>Spiritual Healing</category><category>Neuropharmacology</category><category>Therapeutic Benefits</category><category>Alternative Medicine</category>
+  </item>
+
+    </channel>
+  </rss>

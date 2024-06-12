@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Thu, 19 Oct 2017 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/rainbow-in-a-jar/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Kids/ScienceExperiments/RainbowInAJar</guid>
+    <title>🌈 Rainbow in a Jar: Exploring Liquid Density and Color 🌈</title>
+    <link>https://www.sportstips.org/blog/Kids/ScienceExperiments/RainbowInAJar</link>
+    <description>Create a stunning rainbow in a jar and learn about liquid density. This blog post explains the science behind this colorful experiment and provides detailed steps for conducting it with kids, either one-on-one or in a classroom setting.</description>
+    <pubDate>Thu, 19 Oct 2017 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Rainbow in a Jar</category><category>Density</category><category>Science Experiments</category><category>Kids Science</category><category>Physics</category><category>Fun with Science</category>
+  </item>
+
+    </channel>
+  </rss>

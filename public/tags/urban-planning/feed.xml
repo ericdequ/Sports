@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sat, 16 Mar 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/urban-planning/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Simulation/FungusSimulation</guid>
+    <title>Slime Mold and the Future of Sustainable Infrastructure: Learning from Natures Efficiency</title>
+    <link>https://www.sportstips.org/blog/Simulation/FungusSimulation</link>
+    <description>Discover how the humble slime mold, Physarum polycephalum, is revolutionizing the way we think about sustainable infrastructure and transportation networks. By studying the molds ability to create efficient pathways, researchers are gaining invaluable insights into optimizing our urban systems and paving the way for a more sustainable, quantum-inspired future.</description>
+    <pubDate>Sat, 16 Mar 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Biomimicry</category><category>Sustainable Infrastructure</category><category>Transportation</category><category>Urban Planning</category><category>Quantum Computing</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Construction/SmartCity</guid>
+    <title>Building Smart Cities: A Blueprint for Secure and Sustainable Urban Development</title>
+    <link>https://www.sportstips.org/blog/Construction/SmartCity</link>
+    <description>Discover the key principles and strategies for building smart cities that are both secure and sustainable. From robust cybersecurity measures to green infrastructure and community engagement, learn how to create urban environments that thrive in the face of 21st-century challenges.</description>
+    <pubDate>Tue, 16 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Smart Cities</category><category>Sustainable Development</category><category>Cybersecurity</category><category>Urban Planning</category><category>Green Infrastructure</category>
+  </item>
+
+    </channel>
+  </rss>

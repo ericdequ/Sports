@@ -1,0 +1,32 @@
+{
+  "name": "Sports Tips",
+  "short_name": "Tips",
+  "description": "Tips for your favorite sports",
+  "start_url": "https://www.sportstips.org/",
+  "display": "standalone",
+  "background_color": "#5A4B9A",
+  "theme_color": "#5A4B9A",
+  "icons": [
+    {
+      "src": "/logoo192.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logoo256.webp",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/logoo384.webp",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+
+    {
+      "src": "/logoo512.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

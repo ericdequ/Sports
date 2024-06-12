@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Thu, 09 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/modern-football/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Tactics/sweeper_keeper_extending_the_goalkeeper</guid>
+    <title>Sweeper Keeper: Extending the Goalkeepers Role Beyond the Box</title>
+    <link>https://www.sportstips.org/blog/Soccer/Tactics/sweeper_keeper_extending_the_goalkeeper</link>
+    <description>Explore the evolution of the sweeper keeper role and its tactical advantages in modern football.</description>
+    <pubDate>Thu, 09 Mar 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>football</category><category>goalkeeper</category><category>tactics</category><category>sweeper keeper</category><category>modern football</category><category>training</category><category>defense</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Positions/sweeper_keepers_redefining_the_goalkeeping_role</guid>
+    <title>Sweeper Keepers: Redefining the Goalkeeping Role</title>
+    <link>https://www.sportstips.org/blog/Soccer/Positions/sweeper_keepers_redefining_the_goalkeeping_role</link>
+    <description>Explore how modern keepers, like Manuel Neuer, combine shot-stopping with sweeping up behind the defense.</description>
+    <pubDate>Thu, 17 Nov 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Soccer</category><category>Goalkeeping</category><category>Manuel Neuer</category><category>Tactics</category><category>Defensive Strategy</category><category>Modern Football</category><category>Sweeper Keeper</category><category>Coaching Tips</category><category>Player Development</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Positions/libero_the_sweeper_who_starts_attacks_examining_the_role_in_modern_football</guid>
+    <title>Libero: The Sweeper Who Starts Attacks - Examining the Role in Modern Football</title>
+    <link>https://www.sportstips.org/blog/Soccer/Positions/libero_the_sweeper_who_starts_attacks_examining_the_role_in_modern_football</link>
+    <description>A deep dive into the role of the libero, with a historical focus on Franz Beckenbauer, and how this position has evolved to influence modern football.</description>
+    <pubDate>Wed, 15 Dec 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Football</category><category>Tactics</category><category>Libero</category><category>Franz Beckenbauer</category><category>Modern Football</category>
+  </item>
+
+    </channel>
+  </rss>

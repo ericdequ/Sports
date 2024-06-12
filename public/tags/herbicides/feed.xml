@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/herbicides/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/fungus/CultivatingCordyceps</guid>
+    <title>Cultivating Cordyceps Militaris for Herbicidal Use</title>
+    <link>https://www.sportstips.org/blog/fungus/CultivatingCordyceps</link>
+    <description>Discover how to cultivate Cordyceps militaris and use its extract as a natural herbicide. Learn the step-by-step process to prepare, extract, and apply this powerful solution in your garden.</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mushroom Cultivation</category><category>Herbicides</category><category>Fungi</category><category>Mycology</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+    </channel>
+  </rss>

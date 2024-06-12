@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Mon, 07 Mar 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/game-intelligence/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Movement/ghosting_invisible_movements_in_the_box</guid>
+    <title>Ghosting: Invisible Movements in the Box</title>
+    <link>https://www.sportstips.org/blog/Soccer/Movement/ghosting_invisible_movements_in_the_box</link>
+    <description>An in-depth analysis of the art of ghosting into the penalty area to lose markers and create scoring opportunities.</description>
+    <pubDate>Mon, 07 Mar 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Soccer</category><category>Tactics</category><category>Coaching Tips</category><category>Forwards</category><category>Scoring</category><category>Positioning</category><category>Strategy</category><category>Player Movement</category><category>Game Intelligence</category><category>Skill Development</category>
+  </item>
+
+    </channel>
+  </rss>

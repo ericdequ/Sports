@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/nad/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/fungus/DtL</guid>
+    <title>Transforming Dried Mushrooms into Liquid Culture: A Modern Approach 🍄🔬</title>
+    <link>https://www.sportstips.org/blog/fungus/DtL</link>
+    <description>Learn how to transform dried mushrooms into a thriving liquid culture using advanced techniques and the potential benefits of NAD+. Discover the step-by-step process and scientific insights behind this innovative approach. 🍄🔬</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mushroom Cultivation</category><category>Liquid Culture</category><category>Fungi</category><category>Mycology</category><category>NAD+</category><category>Bioengineering</category><category>Agriculture</category><category>Science</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Health/NAD</guid>
+    <title>The Miraculous Molecule: Exploring the Potential of NAD+ 🧬</title>
+    <link>https://www.sportstips.org/blog/Health/NAD</link>
+    <description>Discover the incredible potential of NAD+, a vital molecule that holds the key to cellular health and longevity. From boosting energy levels to slowing down the aging process, NAD+ is a game-changer in the world of health and wellness. 💪</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>NAD+</category><category>Health Benefits</category><category>Anti-Aging</category><category>Cellular Health</category><category>Longevity</category><category>Supplements</category>
+  </item>
+
+    </channel>
+  </rss>

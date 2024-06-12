@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 21 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/mongodb/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Web_Dev/Full_Stack_Social</guid>
+    <title>Full Stack Social Media App</title>
+    <link>https://www.sportstips.org/blog/Web_Dev/Full_Stack_Social</link>
+    <description>This blog Post describes the process of creating a full stack social media app using React, Node, Golang google cloud, firebase, Vercel, TypeScript, and a Mongo Databse </description>
+    <pubDate>Fri, 21 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>FullStack</category><category>WebDev</category><category>Database</category><category>Frontend</category><category>Backend</category><category>Golang</category><category>React</category><category>Next.js</category><category>Firebase</category><category>MongoDB</category><category>Vercel</category><category>Google Cloud</category>
+  </item>
+
+    </channel>
+  </rss>

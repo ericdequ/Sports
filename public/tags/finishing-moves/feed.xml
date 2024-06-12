@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/finishing-moves/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/Tricks/the_up_and_under_crafty_finishing_around_the_rim</guid>
+    <title>The Up and Under: Crafty Finishing Around the Rim</title>
+    <link>https://www.sportstips.org/blog/Basketball/Tricks/the_up_and_under_crafty_finishing_around_the_rim</link>
+    <description>Explore the up and under move, its execution, and how it can be used to finish around taller defenders in a basketball game.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>basketball</category><category>skills</category><category>finishing moves</category><category>post play</category><category>coaching</category><category>player tips</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/PowerForward/developing_a_soft_touch_finishing_around_the_rim</guid>
+    <title>Developing a Soft Touch: Finishing Around the Rim</title>
+    <link>https://www.sportstips.org/blog/Basketball/PowerForward/developing_a_soft_touch_finishing_around_the_rim</link>
+    <description>Explore techniques for developing a soft touch around the rim, including floaters and off-balance shots, to enhance your scoring ability and dominate in the paint.</description>
+    <pubDate>Fri, 04 Nov 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Player Development</category><category>Coaching Tips</category><category>Shooting Techniques</category><category>Skills</category><category>Training</category><category>Floaters</category><category>Finishing Moves</category><category>Soft Touch</category><category>Scoring</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 21 May 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/ayahuasca/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Health/Ayahuasca</guid>
+    <title>Ayahuasca: Exploring the Spiritual Realm and the Science of MAOIs 🌿🔬</title>
+    <link>https://www.sportstips.org/blog/Health/Ayahuasca</link>
+    <description>Embark on a journey into the heart of the ayahuasca experience, where ancient shamanic wisdom intertwines with modern scientific understanding. Explore the spiritual significance of this sacred brew and uncover the pharmacological mechanisms that make it a potent tool for inner exploration and healing. 🌈</description>
+    <pubDate>Sun, 21 May 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Ayahuasca</category><category>Shamanism</category><category>Spirituality</category><category>MAOIs</category><category>Pharmacology</category><category>DMT</category><category>Traditional Medicine</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Health/MicrodosingAyahuasca</guid>
+    <title>Microdosing Ayahuasca: Exploring the Benefits Without Hallucinations 🌿✨</title>
+    <link>https://www.sportstips.org/blog/Health/MicrodosingAyahuasca</link>
+    <description>Investigate the emerging trend of microdosing ayahuasca and its potential benefits. Learn about the research on using ayahuasca without MAOI inhibitors to harness the effects of DMT without hallucinations. 🌿💊🧠</description>
+    <pubDate>Tue, 17 May 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Microdosing</category><category>Ayahuasca</category><category>DMT</category><category>Mental Health</category><category>Pharmacology</category><category>Spiritual Healing</category><category>Therapeutic Benefits</category><category>Alternative Medicine</category>
+  </item>
+
+    </channel>
+  </rss>

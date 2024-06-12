@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/basketball-drills/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/Center/using_the_drop_step_creating_space_for_easy_baskets</guid>
+    <title>Using the Drop Step: Creating Space for Easy Baskets</title>
+    <link>https://www.sportstips.org/blog/Basketball/Center/using_the_drop_step_creating_space_for_easy_baskets</link>
+    <description>Dive into the mechanics and strategic application of the drop step move in basketball, a crucial skill for creating separation and scoring effectively.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>basketball</category><category>coaching</category><category>player skills</category><category>offense</category><category>footwork</category><category>drop step</category><category>basketball drills</category><category>scoring</category><category>training</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/Tricks/the_reverse_layup_finishing_with_finesse</guid>
+    <title>The Reverse Layup: Finishing with Finesse</title>
+    <link>https://www.sportstips.org/blog/Basketball/Tricks/the_reverse_layup_finishing_with_finesse</link>
+    <description>Dive into the intricacies of the reverse layup, a skillful move that allows players to finish around defenders with elegance. Enhance your understanding of its technique and learn how to coach this essential basketball skill.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Skills</category><category>Technique</category><category>Offense</category><category>Player Development</category><category>Coaching Tips</category><category>Basketball Drills</category><category>Scoring</category><category>Finesse</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 01 Apr 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/ionq/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Companies/Quantum/IonQ</guid>
+    <title>IonQ: Pioneering Trapped Ion Quantum Computing</title>
+    <link>https://www.sportstips.org/blog/Companies/Quantum/IonQ</link>
+    <description>Learn about IonQ, a company leading the charge in trapped ion quantum computing, offering high-performance quantum processors and cloud-based access to their systems.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>IonQ</category><category>Trapped Ion Qubits</category><category>Quantum Algorithms</category><category>Quantum Cloud Services</category>
+  </item>
+
+    </channel>
+  </rss>

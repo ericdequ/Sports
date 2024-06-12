@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Mon, 02 Oct 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/scrambling/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/QB/mobility_extending_plays_with_your_legs</guid>
+    <title>Mobility: Extending Plays with Your Legs</title>
+    <link>https://www.sportstips.org/blog/Football/QB/mobility_extending_plays_with_your_legs</link>
+    <description>Explore the benefits of quarterback mobility, including escaping pressure, running for yards, and making throws on the run.</description>
+    <pubDate>Mon, 02 Oct 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>football</category><category>quarterback</category><category>mobility</category><category>playmaking</category><category>escaping pressure</category><category>scrambling</category><category>coaching</category>
+  </item>
+
+    </channel>
+  </rss>

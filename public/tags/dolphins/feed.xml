@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/dolphins/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Questions/HowDoDolphinsSleep</guid>
+    <title>Sleeping Underwater: How Do Dolphins Sleep Without Drowning?</title>
+    <link>https://www.sportstips.org/blog/Questions/HowDoDolphinsSleep</link>
+    <description>Dolphins are remarkable creatures that manage to sleep while living in the water. In this blog post, we explore the unique sleeping patterns of dolphins and how they avoid drowning while resting.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Dolphins</category><category>Sleep</category><category>Marine Biology</category><category>Aquatic Life</category><category>Nature</category><category>Questions</category>
+  </item>
+
+    </channel>
+  </rss>

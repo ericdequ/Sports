@@ -1,0 +1,30 @@
+{
+  "name": "ricsblog",
+  "short_name": "ricsblog",
+  "icons": [
+    {
+      "src": "/logoo192.webp",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/logoo256.webp",
+      "sizes": "256x256",
+      "type": "image/png"
+    },
+    {
+      "src": "/logoo384.webp",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+
+    {
+      "src": "/logoo512.webp",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "standalone"
+}

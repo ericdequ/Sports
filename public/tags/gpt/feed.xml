@@ -1,0 +1,64 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Thu, 20 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/gpt/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/AI/Bing_Create</guid>
+    <title>Bing Create</title>
+    <link>https://www.sportstips.org/blog/AI/Bing_Create</link>
+    <description>How to use Bing Create to make AI images</description>
+    <pubDate>Thu, 20 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Art</category><category>AI</category><category>Bing</category><category>GPT</category><category>Dalle</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/AI/bard_Vs_GPT</guid>
+    <title>Chat GPT VS Bard</title>
+    <link>https://www.sportstips.org/blog/AI/bard_Vs_GPT</link>
+    <description>disscussion of the differences between GPT and BARD</description>
+    <pubDate>Tue, 18 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI</category><category>GPT</category><category>BARD</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/AI/GPT-API</guid>
+    <title>GPT API</title>
+    <link>https://www.sportstips.org/blog/AI/GPT-API</link>
+    <description>example and tutorial how to setup vscode</description>
+    <pubDate>Tue, 11 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GPT</category><category>AI</category><category>API</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/AI/GPT-Resume</guid>
+    <title>AI Resume Maker</title>
+    <link>https://www.sportstips.org/blog/AI/GPT-Resume</link>
+    <description>How to use ChatGPT and Bard to make a resume and cover letter without a text editor or single line of code.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>GPT</category><category>Bard</category><category>Resume</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/AI/ai_money</guid>
+    <title>Ai Money Maker</title>
+    <link>https://www.sportstips.org/blog/AI/ai_money</link>
+    <description>Some simple Ideas to make money with AI</description>
+    <pubDate>Fri, 03 Feb 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>AI</category><category>Business</category><category>GPT</category><category>Money</category>
+  </item>
+
+    </channel>
+  </rss>

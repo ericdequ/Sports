@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 01 Apr 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/quantum-circuits-inc-qci/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Companies/Quantum/QCI</guid>
+    <title>Quantum Circuits, Inc. (QCI): Developing Superconducting Quantum Processors</title>
+    <link>https://www.sportstips.org/blog/Companies/Quantum/QCI</link>
+    <description>Learn about Quantum Circuits, Inc. (QCI), a company dedicated to developing high-performance superconducting quantum processors and providing access to quantum computing through cloud services.</description>
+    <pubDate>Mon, 01 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Quantum Computing</category><category>Quantum Circuits Inc. (QCI)</category><category>Superconducting Qubits</category><category>Quantum Processors</category><category>Quantum Cloud Services</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Mon, 08 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/scoring-tips/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/ShootingGaurd/transition_scoring_finishing_on_the_break</guid>
+    <title>Transition Scoring: Finishing on the Break</title>
+    <link>https://www.sportstips.org/blog/Basketball/ShootingGaurd/transition_scoring_finishing_on_the_break</link>
+    <description>Examine techniques for excelling in transition play, including running the floor, catching outlet passes, and finishing at the rim.</description>
+    <pubDate>Mon, 08 Mar 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Transition Play</category><category>Scoring Tips</category><category>Coaching Wisdom</category><category>Player Skills</category>
+  </item>
+
+    </channel>
+  </rss>

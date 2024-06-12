@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Wed, 21 Feb 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/shors-algorithm/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/cyber/RSACryptosystem</guid>
+    <title>RSA Cryptosystem and Shor’s Algorithm: A Quantum Leap in Cryptography 🔐✨</title>
+    <link>https://www.sportstips.org/blog/cyber/RSACryptosystem</link>
+    <description>Explore the revolutionary impact of Shor’s Algorithm on the RSA cryptosystem. Discover how quantum computing poses a threat to classical cryptography and what this means for the future of cybersecurity. 🔒🔬⚛️</description>
+    <pubDate>Wed, 21 Feb 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Cryptography</category><category>RSA</category><category>Shor’s Algorithm</category><category>Quantum Computing</category><category>Cybersecurity</category><category>Factoring</category><category>Quantum Algorithms</category><category>MIT xPRO</category>
+  </item>
+
+    </channel>
+  </rss>

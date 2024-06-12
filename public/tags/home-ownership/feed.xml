@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sat, 19 Aug 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/home-ownership/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/inventions/YardMapp</guid>
+    <title>YardMapp: Streamlining Yard Maintenance and Landscaping Services</title>
+    <link>https://www.sportstips.org/blog/inventions/YardMapp</link>
+    <description>YardMapp is a revolutionary app that connects homeowners with landscaping and yard maintenance professionals. With features like sprinkler system and lighting mapping, service requests, and provider ratings, YardMapp simplifies yard care and fosters long-lasting relationships between homeowners and service providers.</description>
+    <pubDate>Sat, 19 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Yard Maintenance</category><category>Landscaping</category><category>Home Ownership</category><category>Mobile App</category><category>Service Providers</category>
+  </item>
+
+    </channel>
+  </rss>

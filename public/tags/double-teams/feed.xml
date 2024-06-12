@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/double-teams/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/RT/double_teams_working_with_the_right_guard_to_neutralize_defenders</guid>
+    <title>Double Teams: Working with the Right Guard to Neutralize Defenders</title>
+    <link>https://www.sportstips.org/blog/Football/RT/double_teams_working_with_the_right_guard_to_neutralize_defenders</link>
+    <description>Explore the crucial role of double teams in football, focusing on the coordination, communication, and timing between the right guard and other linemen to neutralize defenders effectively.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>American Football</category><category>Offensive Line</category><category>Double Teams</category><category>Coaching Tips</category><category>Guard Tactics</category><category>Blocking Schemes</category><category>Game Strategy</category><category>Communication</category><category>Coordination</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/SmallForward/handling_double_teams_making_smart_decisions</guid>
+    <title>Handling Double Teams: Making Smart Decisions</title>
+    <link>https://www.sportstips.org/blog/Basketball/SmallForward/handling_double_teams_making_smart_decisions</link>
+    <description>Explore strategies for small forwards to handle double teams, including recognizing them early, passing out, and creating space.</description>
+    <pubDate>Sun, 21 Jan 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Skills</category><category>Small Forwards</category><category>Coaching</category><category>Strategies</category><category>Double Teams</category><category>Player Tips</category><category>Basketball IQ</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/PowerForward/passing_from_the_post_creating_opportunities</guid>
+    <title>Passing from the Post: Creating Opportunities</title>
+    <link>https://www.sportstips.org/blog/Basketball/PowerForward/passing_from_the_post_creating_opportunities</link>
+    <description>Explore the art of passing from the post, the nuances of recognizing double teams, and the skills to find open teammates to create scoring opportunities.</description>
+    <pubDate>Sat, 05 Nov 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>basketball</category><category>post play</category><category>passing</category><category>team strategy</category><category>coaching tips</category><category>double teams</category><category>offensive plays</category>
+  </item>
+
+    </channel>
+  </rss>

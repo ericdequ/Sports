@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Mon, 10 Jun 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/medicine/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Health/DDD</guid>
+    <title>Democratizing Drug Discovery: The Case for Open Source Pharma Platforms 💊🌍</title>
+    <link>https://www.sportstips.org/blog/Health/DDD</link>
+    <description>Explore the potential of open source pharma discovery platforms in democratizing drug discovery and empowering people. Learn how decentralizing the pharmaceutical industry, inspired by the success of AI communities like Hugging Face, can lead to more accessible and affordable medicines while still benefiting all stakeholders.</description>
+    <pubDate>Mon, 10 Jun 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Open Source</category><category>Pharma</category><category>Drug Discovery</category><category>Decentralization</category><category>AI</category><category>Medicine</category><category>Hugging Face</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Fri, 20 Aug 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/trench-battle/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/LT/Trenches</guid>
+    <title>Leveraging and Hand Placement: Winning the Battle in the Trenches</title>
+    <link>https://www.sportstips.org/blog/Football/LT/Trenches</link>
+    <description>An in-depth analysis of leverage and proper hand placement techniques for controlling defensive linemen and winning the battle in the trenches.</description>
+    <pubDate>Fri, 20 Aug 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>football</category><category>offensive line</category><category>defensive line</category><category>techniques</category><category>coaching</category><category>player knowledge</category><category>trench battle</category><category>drills</category><category>strategy</category>
+  </item>
+
+    </channel>
+  </rss>

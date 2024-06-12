@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/three-point-shooting/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/PowerForward/stretch_four_expanding_the_range</guid>
+    <title>Stretch Four: Expanding the Range</title>
+    <link>https://www.sportstips.org/blog/Basketball/PowerForward/stretch_four_expanding_the_range</link>
+    <description>Dive into the evolving role of the stretch four in modern basketball, focusing on the importance of three-point shooting and court spacing.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Player Development</category><category>Coaching Tips</category><category>Three-Point Shooting</category><category>Spacing the Floor</category><category>Stretch Four</category><category>Position Strategy</category><category>NBA Trends</category><category>Basketball IQ</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/SmallForward/three_point_shooting_stretching_the_floor</guid>
+    <title>Three-Point Shooting: Stretching the Floor</title>
+    <link>https://www.sportstips.org/blog/Basketball/SmallForward/three_point_shooting_stretching_the_floor</link>
+    <description>This article delves into the crucial role of three-point shooting for small forwards, exploring the mechanics, shot selection, and off-ball movement essential for stretching the floor.</description>
+    <pubDate>Sat, 02 Mar 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>basketball</category><category>three-point shooting</category><category>small forwards</category><category>mechanics</category><category>shot selection</category><category>off-ball movement</category>
+  </item>
+
+    </channel>
+  </rss>

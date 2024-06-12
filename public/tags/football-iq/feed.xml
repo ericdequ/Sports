@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/football-iq/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/C/reading_the_defense_pre_snap_recognition</guid>
+    <title>Reading the Defense: Pre-Snap Recognition</title>
+    <link>https://www.sportstips.org/blog/Football/C/reading_the_defense_pre_snap_recognition</link>
+    <description>A deep dive into how centers can master pre-snap recognition to anticipate blitzes and stunts, making effective line calls to protect the quarterback and execute successful plays.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Football</category><category>Offensive Line</category><category>Strategy</category><category>Coaching Tips</category><category>Blitz Recognition</category><category>Stunts</category><category>Line Calls</category><category>Centers</category><category>Football IQ</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/P/field_awareness_understanding_game_context</guid>
+    <title>Field Awareness: Understanding Game Context</title>
+    <link>https://www.sportstips.org/blog/Football/P/field_awareness_understanding_game_context</link>
+    <description>Explore the importance of field awareness in football, including understanding down and distance, game context, and making smart decisions. This article blends player knowledge with coaching wisdom to help you elevate your game.</description>
+    <pubDate>Wed, 30 Mar 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Field Awareness</category><category>Football IQ</category><category>Game Context</category><category>Decision Making</category><category>Coaching Tips</category><category>Player Knowledge</category><category>Sports Strategy</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Positions/press_resistant_midfielders_breaking_the_lines</guid>
+    <title>Press-Resistant Midfielders: Breaking the Lines</title>
+    <link>https://www.sportstips.org/blog/Soccer/Positions/press_resistant_midfielders_breaking_the_lines</link>
+    <description>Exploring the vital role of press-resistant midfielders in modern soccer, featuring insights from players like Thiago Alcantara.</description>
+    <pubDate>Tue, 02 Mar 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>soccer</category><category>midfielders</category><category>tactics</category><category>Thiago Alcantara</category><category>coaching</category><category>player skills</category><category>football IQ</category>
+  </item>
+
+    </channel>
+  </rss>

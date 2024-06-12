@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Sun, 01 Jan 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/passing-lanes/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Tricks/the_drag_back_creating_space_with_simplicity</guid>
+    <title>The Drag Back: Creating Space with Simplicity</title>
+    <link>https://www.sportstips.org/blog/Soccer/Tricks/the_drag_back_creating_space_with_simplicity</link>
+    <description>Explore the drag back move, its variations, and how it can be used to maintain possession and create passing lanes in soccer.</description>
+    <pubDate>Sun, 01 Jan 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>soccer</category><category>skills</category><category>possession</category><category>coaching-tips</category><category>player-knowledge</category><category>advanced-drills</category><category>footwork</category><category>passing-lanes</category><category>ball-control</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Tactics/compact_defending_maintaining_shape_and_reducing_spaces</guid>
+    <title>Compact Defending: Maintaining Shape and Reducing Spaces</title>
+    <link>https://www.sportstips.org/blog/Soccer/Tactics/compact_defending_maintaining_shape_and_reducing_spaces</link>
+    <description>Unpack the principles of compact defending, with expert insights into team shape, spacing, and strategies to reduce passing lanes for the opposition.</description>
+    <pubDate>Sat, 04 Dec 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>soccer</category><category>coaching</category><category>defense</category><category>team shape</category><category>tactics</category><category>spacing</category><category>passing lanes</category><category>strategy</category><category>football</category><category>analysis</category>
+  </item>
+
+    </channel>
+  </rss>

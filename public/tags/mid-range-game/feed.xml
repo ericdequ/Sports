@@ -1,0 +1,44 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/mid-range-game/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/SmallForward/mid_range_mastery_finding_and_exploiting_space</guid>
+    <title>Mid-Range Mastery: Finding and Exploiting Space</title>
+    <link>https://www.sportstips.org/blog/Basketball/SmallForward/mid_range_mastery_finding_and_exploiting_space</link>
+    <description>Discover the art of mid-range mastery for small forwards, focusing on the importance of pull-up jumpers and turnaround shots.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>basketball</category><category>small forwards</category><category>mid-range game</category><category>techniques</category><category>coaching tips</category><category>player strategy</category><category>NBA</category><category>shooting skills</category><category>turnaround shots</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/PowerForward/dominating_the_mid_range_the_bread_and_butter_of_power_forwards</guid>
+    <title>Dominating the Mid-Range: The Bread and Butter of Power Forwards</title>
+    <link>https://www.sportstips.org/blog/Basketball/PowerForward/dominating_the_mid_range_the_bread_and_butter_of_power_forwards</link>
+    <description>Explore the crucial role of the mid-range game for power forwards, with expert techniques and insider tips for consistent scoring.</description>
+    <pubDate>Sun, 01 Aug 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Power Forward</category><category>Mid-Range Game</category><category>Coaching Tips</category><category>Player Development</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/ShootingGaurd/mid_range_game_scoring_from_all_angles</guid>
+    <title>Mid-Range Game: Scoring from All Angles</title>
+    <link>https://www.sportstips.org/blog/Basketball/ShootingGaurd/mid_range_game_scoring_from_all_angles</link>
+    <description>Explore the critical aspects of mastering the mid-range game in basketball, focusing on pull-up jumpers, floaters, and turnaround shots. Understand the player mindset and coaching strategies to become an efficient mid-range scorer.</description>
+    <pubDate>Thu, 25 Mar 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Mid-Range Game</category><category>Pull-up Jumpers</category><category>Floaters</category><category>Turnaround Shots</category><category>Scoring Techniques</category>
+  </item>
+
+    </channel>
+  </rss>

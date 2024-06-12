@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/inspiration/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Books/LastLecture</guid>
+    <title>The Last Lecture: A Powerful Message of Living Life to the Fullest</title>
+    <link>https://www.sportstips.org/blog/Books/LastLecture</link>
+    <description>Discover the profound wisdom and inspiration shared by Randy Pausch in his iconic book, &#39;The Last Lecture.&#39; Explore the powerful life lessons and insights that have touched the lives of millions, and learn how to embrace your dreams, overcome obstacles, and live life to the fullest.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Lessons</category><category>Inspiration</category><category>Personal</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Books/Alchemist</guid>
+    <title>The Profound Impact of The Alchemist: A Book That Can Change Your Life 📖✨</title>
+    <link>https://www.sportstips.org/blog/Books/Alchemist</link>
+    <description>Discover the profound impact of The Alchemist, a book that teaches the importance of following your dreams, listening to your heart, and trusting the universe. Explore the reasons why this beautifully written story is both inspiring and thought-provoking, making it a must-read for anyone seeking a life-changing experience.</description>
+    <pubDate>Wed, 21 Dec 2022 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Book Review</category><category>Inspiration</category><category>life-lessons</category><category>spiritual-practices</category><category>the-alchemist</category>
+  </item>
+
+    </channel>
+  </rss>

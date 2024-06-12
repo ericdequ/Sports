@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 21 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/game-iq/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Movement/false_runs_deceptive_movements_to_open_up_spaces</guid>
+    <title>False Runs: Deceptive Movements to Open Up Spaces</title>
+    <link>https://www.sportstips.org/blog/Soccer/Movement/false_runs_deceptive_movements_to_open_up_spaces</link>
+    <description>Explore the tactical brilliance of false runs in soccer, how these deceptive movements can outsmart defenders, and create valuable spaces for attacking opportunities.</description>
+    <pubDate>Tue, 21 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Soccer</category><category>Tactics</category><category>Offense</category><category>Training</category><category>Coaching</category><category>Player Development</category><category>Movement Off the Ball</category><category>Strategy</category><category>Game IQ</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/PointGaurd/perimeter_defense_locking_down_opponents</guid>
+    <title>Perimeter Defense: Locking Down Opponents</title>
+    <link>https://www.sportstips.org/blog/Basketball/PointGaurd/perimeter_defense_locking_down_opponents</link>
+    <description>Examine strategies for effective perimeter defense, including staying in front of the ball handler, using hands without fouling, and anticipating moves.</description>
+    <pubDate>Fri, 01 Apr 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Defense</category><category>Strategies</category><category>Coaching</category><category>Player Tips</category><category>Anticipation</category><category>Technique</category><category>Game IQ</category><category>Training</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/blue/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Questions/WhyIsSkyBlue</guid>
+    <title>The Skys Blue Hue: Unraveling the Mystery and Exploring Other Worlds</title>
+    <link>https://www.sportstips.org/blog/Questions/WhyIsSkyBlue</link>
+    <description>Why is the sky blue? Its a question that has puzzled countless generations. In this blog post, we unravel the mystery behind the skys captivating blue hue and explore what the sky looks like on other planets.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Sky</category><category>Blue</category><category>Atmosphere</category><category>Light</category><category>Scattering</category><category>Planets</category><category>Astronomy</category><category>Questions</category>
+  </item>
+
+    </channel>
+  </rss>

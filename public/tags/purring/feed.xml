@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/purring/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Questions/WhyDoCatsPurr</guid>
+    <title>The Mystery of Cat Purring: Why Do Cats Purr?</title>
+    <link>https://www.sportstips.org/blog/Questions/WhyDoCatsPurr</link>
+    <description>Purring is one of the most recognizable sounds cats make, but why do they do it? In this blog post, we explore the various reasons behind why cats purr and the science that explains this comforting behavior.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Cats</category><category>Purring</category><category>Biology</category><category>Animal Behavior</category><category>Pet</category><category>Questions</category>
+  </item>
+
+    </channel>
+  </rss>

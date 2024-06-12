@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/flight/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Questions/HowDoDronesFly</guid>
+    <title>The Mechanics of Flight: How Do Drones Fly?</title>
+    <link>https://www.sportstips.org/blog/Questions/HowDoDronesFly</link>
+    <description>Drones, also known as unmanned aerial vehicles (UAVs), have become increasingly popular for various applications. In this blog post, we explore the principles and technology behind how drones fly and the components that make it possible.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Drones</category><category>Flight</category><category>Aviation</category><category>Technology</category><category>Engineering</category><category>Questions</category>
+  </item>
+
+    </channel>
+  </rss>

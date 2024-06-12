@@ -1,0 +1,74 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sun, 30 Apr 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/personal/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Books/GreenLights</guid>
+    <title>Greenlights by Matthew McConaughey: A Memoir of Life Lessons and Personal Growth</title>
+    <link>https://www.sportstips.org/blog/Books/GreenLights</link>
+    <description>Discover the profound life lessons and personal growth experiences shared by Matthew McConaughey in his captivating memoir, &quot;Greenlights.&quot; This intimate and introspective book offers valuable insights on navigating the joys and challenges of life.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Greenlights</category><category>Memoir</category><category>Lessons</category><category>Personal</category><category>life-lessons</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Books/LastLecture</guid>
+    <title>The Last Lecture: A Powerful Message of Living Life to the Fullest</title>
+    <link>https://www.sportstips.org/blog/Books/LastLecture</link>
+    <description>Discover the profound wisdom and inspiration shared by Randy Pausch in his iconic book, &#39;The Last Lecture.&#39; Explore the powerful life lessons and insights that have touched the lives of millions, and learn how to embrace your dreams, overcome obstacles, and live life to the fullest.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Lessons</category><category>Inspiration</category><category>Personal</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Books/TheCreativeAct</guid>
+    <title>Unlocking Your Creative Potential: Insights from Rick Rubin&#39;s &#39;The Creative Act&#39;</title>
+    <link>https://www.sportstips.org/blog/Books/TheCreativeAct</link>
+    <description>Discover the key insights and lessons from Rick Rubin&#39;s &quot;The Creative Act,&quot; a thought-provoking exploration of the creative process and how to cultivate it in your daily life. From embracing uncertainty to fostering collaboration, learn how to unlock your creative potential and lead a more fulfilling life.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Creativity</category><category>Self-help</category><category>Personal</category><category>life-lessons</category><category>rick-rubin</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Books/ThePilgramige</guid>
+    <title>The Pilgrimage by Paulo Coelho: A Journey of Self-Discovery and Spiritual Awakening</title>
+    <link>https://www.sportstips.org/blog/Books/ThePilgramige</link>
+    <description>Embark on a life-changing journey with Paulo Coelho&#39;s &quot;The Pilgrimage,&quot; a profound novel that explores the transformative power of self-discovery and spiritual awakening along the ancient Camino de Santiago pilgrimage route. Learn about the history of the Camino and the powerful RAM practices that guide Paulo on his path to self-realization.</description>
+    <pubDate>Sun, 30 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Spirituality</category><category>Self-Discovery</category><category>Personal</category><category>spiritual-practices</category><category>ram-practices</category><category>digitaltransformation</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Personal/Software_dev</guid>
+    <title>guide to software development</title>
+    <link>https://www.sportstips.org/blog/Personal/Software_dev</link>
+    <description>My guide to becoming a software developer</description>
+    <pubDate>Mon, 10 Apr 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Personal</category><category>RoadMap</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Personal/Meditations</guid>
+    <title>🧘‍♂️ Meditations of a Developer 🧘‍♂️</title>
+    <link>https://www.sportstips.org/blog/Personal/Meditations</link>
+    <description>Mindfulness and meditation can help software developers improve their focus, concentration, creativity, and stress levels.</description>
+    <pubDate>Tue, 21 Mar 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Mediation</category><category>Personal</category><category>Mindfulness</category><category>life-lessons</category><category>spiritual-practices</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/ocean/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Questions/HowDoTheTidesWork</guid>
+    <title>The Rhythm of the Ocean: How Do Tides Work?</title>
+    <link>https://www.sportstips.org/blog/Questions/HowDoTheTidesWork</link>
+    <description>Tides are the regular rise and fall of sea levels caused by the gravitational interactions between the Earth, Moon, and Sun. In this blog post, we explore the science behind tides, their causes, and their effects on coastal environments.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Tides</category><category>Ocean</category><category>Gravity</category><category>Moon</category><category>Earth</category><category>Questions</category>
+  </item>
+
+    </channel>
+  </rss>

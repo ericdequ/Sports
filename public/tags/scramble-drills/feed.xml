@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Wed, 15 Mar 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/scramble-drills/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/QB/scramble_drills_making_plays_outside_the_pocket</guid>
+    <title>Scramble Drills: Making Plays Outside the Pocket</title>
+    <link>https://www.sportstips.org/blog/Football/QB/scramble_drills_making_plays_outside_the_pocket</link>
+    <description>Explore the critical role of scramble drills in football, highlighting methods for extending plays, making throws on the run, and leveraging athleticism to create game-changing opportunities.</description>
+    <pubDate>Wed, 15 Mar 2023 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>football</category><category>quarterback</category><category>scramble drills</category><category>coaching</category><category>player development</category>
+  </item>
+
+    </channel>
+  </rss>

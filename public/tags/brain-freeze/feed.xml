@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 29 May 2020 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/brain-freeze/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Questions/WhyDoWeGetBrainFreeze</guid>
+    <title>The Chilling Mystery of Brain Freeze: Why Do We Get It?</title>
+    <link>https://www.sportstips.org/blog/Questions/WhyDoWeGetBrainFreeze</link>
+    <description>Ever experienced that sudden, intense headache after eating ice cream too quickly? In this blog post, we explore the phenomenon of brain freeze, why it happens, and how to prevent it.</description>
+    <pubDate>Fri, 29 May 2020 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Brain Freeze</category><category>Cold</category><category>Ice Cream</category><category>Biology</category><category>Neuroscience</category><category>Questions</category>
+  </item>
+
+    </channel>
+  </rss>

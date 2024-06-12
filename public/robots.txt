@@ -1,0 +1,28 @@
+# Allow all search engine robots to crawl and index the site
+User-agent: *
+Allow: /
+
+# Specify the location of the sitemap
+Sitemap: https://www.sportstips.org/sitemap.xml
+
+# Disallow crawling of specific directories or files
+Disallow: /admin/
+Disallow: /private/
+Disallow: /wp-admin/
+Disallow: /wp-includes/
+Disallow: /wp-content/plugins/
+Disallow: /wp-content/cache/
+Disallow: /wp-content/themes/
+Disallow: /feed/
+Disallow: /trackback/
+Disallow: /xmlrpc.php
+Disallow: /lib/
+Disallow: /scripts/
+Disallow: /node_modules/
+
+# Allow crawling of important files or directories
+Allow: /wp-content/uploads/
+Allow: /important-page/
+
+# Specify crawl delay to prevent overloading the server (optional)
+Crawl-delay: 1

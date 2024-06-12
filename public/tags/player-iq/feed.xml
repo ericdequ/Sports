@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Thu, 08 Sep 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/player-iq/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/TE/situational_awareness_knowing_down_distance_and_game_context</guid>
+    <title>Situational Awareness: Knowing Down, Distance, and Game Context</title>
+    <link>https://www.sportstips.org/blog/Football/TE/situational_awareness_knowing_down_distance_and_game_context</link>
+    <description>Explore the crucial role of situational awareness in football, focusing on the importance of down and distance, game context, and making smart decisions on the field.</description>
+    <pubDate>Thu, 08 Sep 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Football</category><category>Coaching</category><category>Strategy</category><category>Game Management</category><category>Situational Awareness</category><category>Down and Distance</category><category>Player IQ</category><category>Decision Making</category><category>NFL</category>
+  </item>
+
+    </channel>
+  </rss>

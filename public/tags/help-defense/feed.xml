@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Tue, 14 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/help-defense/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/ShootingGaurd/defensive_responsibilities_locking_down_opponents</guid>
+    <title>Defensive Responsibilities: Locking Down Opponents</title>
+    <link>https://www.sportstips.org/blog/Basketball/ShootingGaurd/defensive_responsibilities_locking_down_opponents</link>
+    <description>This article delves into the defensive role of shooting guards in basketball, covering the crucial aspects such as on-ball defense, chasing through screens, and providing help defense.</description>
+    <pubDate>Tue, 14 May 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>basketball</category><category>defense</category><category>shooting guards</category><category>coaching</category><category>player development</category><category>on-ball defense</category><category>screens</category><category>help defense</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/SmallForward/defensive_versatility_guarding_multiple_positions</guid>
+    <title>Defensive Versatility: Guarding Multiple Positions</title>
+    <link>https://www.sportstips.org/blog/Basketball/SmallForward/defensive_versatility_guarding_multiple_positions</link>
+    <description>Examine the defensive responsibilities of small forwards, including switching onto guards and bigs, and playing help defense.</description>
+    <pubDate>Sat, 31 Jul 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Defense</category><category>Small Forwards</category><category>Tactics</category><category>Strategy</category><category>Player Development</category><category>Coaching</category><category>Versatility</category><category>Help Defense</category>
+  </item>
+
+    </channel>
+  </rss>

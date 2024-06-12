@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 03 May 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/wireless/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Physics/WirelessEnergy</guid>
+    <title>The Magic of Wireless Power Transmission: Unleashing Teslas Vision</title>
+    <link>https://www.sportstips.org/blog/Physics/WirelessEnergy</link>
+    <description>This post explores the fascinating world of wireless power transmission and its potential to revolutionize the way we power our devices and create captivating lighting shows. We delve into the math and physics behind resonant inductive coupling and provide a guide for building your own Tesla coil-based wireless power devices.</description>
+    <pubDate>Fri, 03 May 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Tesla</category><category>Wireless</category><category>Energy</category><category>Physics</category>
+  </item>
+
+    </channel>
+  </rss>

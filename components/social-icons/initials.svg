@@ -1,0 +1,15 @@
+<svg width="100" height="100" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text { 
+      font-family: 'Brush Script MT', cursive; 
+      font-size: 48px; 
+      font-weight: bold; 
+      fill: #333; 
+    }
+    .background {
+      fill: #f0f0f0;
+    }
+  </style>
+  <rect class="background" width="100" height="100" rx="15"/>
+  <text x="50%" y="50%" class="text" dominant-baseline="middle" text-anchor="middle">ED</text>
+</svg>

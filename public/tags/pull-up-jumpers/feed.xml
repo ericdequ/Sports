@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Thu, 25 Mar 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/pull-up-jumpers/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Basketball/ShootingGaurd/mid_range_game_scoring_from_all_angles</guid>
+    <title>Mid-Range Game: Scoring from All Angles</title>
+    <link>https://www.sportstips.org/blog/Basketball/ShootingGaurd/mid_range_game_scoring_from_all_angles</link>
+    <description>Explore the critical aspects of mastering the mid-range game in basketball, focusing on pull-up jumpers, floaters, and turnaround shots. Understand the player mindset and coaching strategies to become an efficient mid-range scorer.</description>
+    <pubDate>Thu, 25 Mar 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Basketball</category><category>Mid-Range Game</category><category>Pull-up Jumpers</category><category>Floaters</category><category>Turnaround Shots</category><category>Scoring Techniques</category>
+  </item>
+
+    </channel>
+  </rss>

@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Tue, 23 Apr 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/life-journey/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Personal/RobotRic</guid>
+    <title>The Waterproof Wanderer: A Journey of Resilience, Self-Discovery, and the Quest for Humanity</title>
+    <link>https://www.sportstips.org/blog/Personal/RobotRic</link>
+    <description>Embark on a captivating journey with a waterproof robot as it navigates the challenges of a mighty river and yearns to understand the essence of humanity. As the story unfolds, the robots trials, triumphs, and longing invite the reader to reflect on their own journey through life and what it means to be human.</description>
+    <pubDate>Tue, 23 Apr 2024 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Short Story</category><category>Metaphor</category><category>Life Journey</category><category>AI</category><category>Spirituality</category><category>Resilience</category><category>life-lessons</category><category>Humanity</category>
+  </item>
+
+    </channel>
+  </rss>

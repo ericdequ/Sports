@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Sat, 19 Oct 2019 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/subculture/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/sports/jogobonito</guid>
+    <title>⚽ Life Lessons from the Beautiful Game 🌍</title>
+    <link>https://www.sportstips.org/blog/sports/jogobonito</link>
+    <description>Growing up immersed in the diverse, demanding world of youth soccer in America teaches invaluable lessons about hard work, cultural understanding, and personal growth.</description>
+    <pubDate>Sat, 19 Oct 2019 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Soccer</category><category>Subculture</category><category>Diversity</category><category>Life-Lessons</category><category>Personal-Growth</category>
+  </item>
+
+    </channel>
+  </rss>

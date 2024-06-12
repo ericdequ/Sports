@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>ConTechNews</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Learn about the latest in Construction Technology!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (ConTechNews)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (ConTechNews)</webMaster>
+      <lastBuildDate>Thu, 04 Jan 2024 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/trenches/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/C/leverage_and_hand_placement_winning_the_battle_in_the_trenches</guid>
+    <title>Leverage and Hand Placement: Winning the Battle in the Trenches</title>
+    <link>https://www.sportstips.org/blog/Football/C/leverage_and_hand_placement_winning_the_battle_in_the_trenches</link>
+    <description>Explore key techniques for maintaining leverage and proper hand placement to dominate in the trenches of football. This guide blends player insights and coaching wisdom to give you a competitive edge.</description>
+    <pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>football</category><category>offensive line</category><category>technique</category><category>coaching</category><category>player development</category><category>leverage</category><category>hand placement</category><category>trenches</category><category>training</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/LG/leverage_and_hand_placement_winning_the_battle_in_the_trenches</guid>
+    <title>Leverage and Hand Placement: Winning the Battle in the Trenches</title>
+    <link>https://www.sportstips.org/blog/Football/LG/leverage_and_hand_placement_winning_the_battle_in_the_trenches</link>
+    <description>Analyze techniques for maintaining leverage and proper hand placement to control defensive linemen.</description>
+    <pubDate>Sun, 12 Sep 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (ConTechNews)</author>
+    <category>Football</category><category>Trenches</category><category>Leverage</category><category>Hand Placement</category><category>Coaching</category><category>Techniques</category><category>Offensive Line</category><category>Defensive Line</category>
+  </item>
+
+    </channel>
+  </rss>

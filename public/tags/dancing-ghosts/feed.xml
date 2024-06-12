@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Fri, 23 Mar 2018 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/dancing-ghosts/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Kids/ScienceExperiments/DancingGhost</guid>
+    <title>👻 Dancing Ghosts: Exploring Static Electricity with Tissue Paper 👻</title>
+    <link>https://www.sportstips.org/blog/Kids/ScienceExperiments/DancingGhost</link>
+    <description>Learn about static electricity with this fun experiment that makes tissue paper ghosts dance. This blog post explains the science behind static electricity and provides detailed steps for conducting this experiment with kids, either one-on-one or in a classroom setting.</description>
+    <pubDate>Fri, 23 Mar 2018 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Static Electricity</category><category>Dancing Ghosts</category><category>Science Experiments</category><category>Kids Science</category><category>Physics</category><category>Fun with Science</category>
+  </item>
+
+    </channel>
+  </rss>

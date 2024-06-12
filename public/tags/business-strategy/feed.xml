@@ -1,0 +1,34 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Rics NoteBook</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Ric&#39;s Guide to the Galaxy</description>
+      <language>en-us</language>
+      <managingEditor>ericdequevedo@gmailcom (Eric deQuevedo)</managingEditor>
+      <webMaster>ericdequevedo@gmailcom (Eric deQuevedo)</webMaster>
+      <lastBuildDate>Wed, 20 Sep 2023 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/business-strategy/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Government/TheProcess</guid>
+    <title>Trust The Process: A Deep Dive into Securing Lucrative Government Contracts 🌐📜</title>
+    <link>https://www.sportstips.org/blog/Government/TheProcess</link>
+    <description>Delve into the intricate world of government contracts. The TTP approach offers an in-depth methodology to ensure your business is primed for success in the government sector.</description>
+    <pubDate>Wed, 20 Sep 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Government Contracts</category><category>Business Strategy</category><category>TTP</category><category>government-sales</category><category>government-procurement</category>
+  </item>
+
+  <item>
+    <guid>https://www.sportstips.org/blog/Startup/Startup</guid>
+    <title>Starting Strong: Your Blueprint to Forming a Successful Company 🌐🚀</title>
+    <link>https://www.sportstips.org/blog/Startup/Startup</link>
+    <description>Embarking on the entrepreneurial journey? Forming a company is the first significant step. Dive into this guide to understand the nuances of company formation and ensure a robust foundation for your business.</description>
+    <pubDate>Sat, 12 Aug 2023 00:00:00 GMT</pubDate>
+    <author>ericdequevedo@gmailcom (Eric deQuevedo)</author>
+    <category>Entrepreneurship</category><category>Company Formation</category><category>Business Strategy</category>
+  </item>
+
+    </channel>
+  </rss>
