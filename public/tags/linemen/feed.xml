@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Sports Tips</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Get Informed, Get Ahead, Get Winning!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</webMaster>
+      <lastBuildDate>Sun, 09 May 2021 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/linemen/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/C/anchor_strength_holding_the_line_against_bull_rushes</guid>
+    <title>Anchor Strength: Holding the Line Against Bull Rushes</title>
+    <link>https://www.sportstips.org/blog/Football/C/anchor_strength_holding_the_line_against_bull_rushes</link>
+    <description>Analyze techniques for building anchor strength, including core exercises, leg strength, and proper stance.</description>
+    <pubDate>Sun, 09 May 2021 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</author>
+    <category>football</category><category>linemen</category><category>strength training</category><category>defense</category><category>techniques</category><category>core exercises</category><category>leg strength</category>
+  </item>
+
+    </channel>
+  </rss>

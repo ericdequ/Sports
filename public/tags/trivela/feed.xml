@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Sports Tips</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Get Informed, Get Ahead, Get Winning!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</webMaster>
+      <lastBuildDate>Wed, 06 Apr 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/trivela/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Tech/outside_of_the_boot_trivela_shots_and_passes</guid>
+    <title>Outside of the Boot: Trivela Shots and Passes</title>
+    <link>https://www.sportstips.org/blog/Soccer/Tech/outside_of_the_boot_trivela_shots_and_passes</link>
+    <description>Explore the art of the trivela, diving into the technique, use cases, and notable players who excel at utilizing the outside of the boot to create jaw-dropping shots and passes.</description>
+    <pubDate>Wed, 06 Apr 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</author>
+    <category>Football</category><category>Soccer</category><category>Technique</category><category>Coaching</category><category>Skills</category><category>Trivela</category><category>Shooting</category><category>Passing</category><category>Advanced Play</category>
+  </item>
+
+    </channel>
+  </rss>

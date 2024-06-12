@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Sports Tips</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Get Informed, Get Ahead, Get Winning!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</webMaster>
+      <lastBuildDate>Fri, 19 Aug 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/step-over/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Soccer/Tricks/the_step_over_ronaldo</guid>
+    <title>The Step Over: Ronaldo&#39;s Quick Feet</title>
+    <link>https://www.sportstips.org/blog/Soccer/Tricks/the_step_over_ronaldo</link>
+    <description>Explore the execution of the step over, its variations, and how players like Cristiano Ronaldo use it to wrong-foot defenders.</description>
+    <pubDate>Fri, 19 Aug 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</author>
+    <category>soccer</category><category>skills</category><category>Cristiano Ronaldo</category><category>step over</category><category>football</category><category>technique</category><category>tricks</category><category>defenders</category><category>coaching wisdom</category>
+  </item>
+
+    </channel>
+  </rss>

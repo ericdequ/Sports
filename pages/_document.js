@@ -16,8 +16,6 @@ class MyDocument extends Document {
           <link rel="preconnect" href="https://www.plantheath.com/" />
           <link rel="dns-prefetch" href="https://www.plantheath.com/" />
 
-          <link rel="preconnect" href="https://www.sportstips.org/" />
-          <link rel="dns-prefetch" href="https://www.sportstips.org/" />
 
           <link rel="preconnect" href="https://www.govcon.me/" />
           <link rel="dns-prefetch" href="https://www.govcon.me/" />

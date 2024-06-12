@@ -1,0 +1,24 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Sports Tips</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Get Informed, Get Ahead, Get Winning!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</webMaster>
+      <lastBuildDate>Mon, 03 Jan 2022 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/body-language/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Football/TE/play_action_passing_selling_the_run_and_getting_open</guid>
+    <title>Play-Action Passing: Selling the Run and Getting Open</title>
+    <link>https://www.sportstips.org/blog/Football/TE/play_action_passing_selling_the_run_and_getting_open</link>
+    <description>Explore techniques for selling the run on play-action passes, including body language, blocking technique, and releasing into routes.</description>
+    <pubDate>Mon, 03 Jan 2022 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</author>
+    <category>football</category><category>play-action</category><category>offense</category><category>coaching</category><category>tips</category><category>strategies</category><category>quarterback</category><category>wide receiver</category><category>blocking</category><category>body language</category>
+  </item>
+
+    </channel>
+  </rss>
