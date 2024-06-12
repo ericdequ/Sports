@@ -33,8 +33,8 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
 }
 
 export const PageSEO = ({ title, description }) => {
-  const ogImageUrl = 'https://www.sportstips.org/logoo.webp'
-  const twImageUrl = 'https://www.sportstips.org/logoo.webp'
+  const ogImageUrl = 'https://www.sportstips.org/loogo.webp'
+  const twImageUrl = 'https://www.sportstips.org/loogo.webp'
   return (
     <CommonSEO
       title={title}

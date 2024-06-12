@@ -8,23 +8,23 @@
   "theme_color": "#5A4B9A",
   "icons": [
     {
-      "src": "/logoo192.webp",
+      "src": "/loogo192.webp",
       "sizes": "192x192",
       "type": "image/png"
     },
     {
-      "src": "/logoo256.webp",
+      "src": "/loogo256.webp",
       "sizes": "256x256",
       "type": "image/png"
     },
     {
-      "src": "/logoo384.webp",
+      "src": "/loogo384.webp",
       "sizes": "384x384",
       "type": "image/png"
     },
 
     {
-      "src": "/logoo512.webp",
+      "src": "/loogo512.webp",
       "sizes": "512x512",
       "type": "image/png"
     }

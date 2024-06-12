@@ -7,9 +7,9 @@ const siteMetadata = {
   theme: 'dark', // system, dark or light
   siteUrl: 'https://www.sportstips.org',
   siteRepo: 'https://github.com/ericdequ/Sports',
-  siteLogo: 'logoo-removebg.webp',
-  image: 'https://www.sportstips.org/logoo.webp',
-  socialBanner: 'https://www.sportstips.org/logoo.webp',
+  siteLogo: 'loogo-removebg.webp',
+  image: 'https://www.sportstips.org/loogo.webp',
+  socialBanner: 'https://www.sportstips.org/loogo.webp',
   email: 'contact@quantumcybersolutions.com',
   github: 'https://https://github.com/ericdequ',
   twitter: '',
