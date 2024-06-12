@@ -8,8 +8,8 @@ dotenv.config()
 
 const API_KEY = process.env.API_KEY
 const INDEXNOW_ENDPOINT = 'https://api.indexnow.org/indexnow'
-const BASE_URL = 'https://www.rics-notebook.com'
-const keyLocation = 'https://www.rics-notebook.com/2252e998ff1146cfb763c5b1f9b9a7da.txt'
+const BASE_URL = 'https://www.sportstips.org'
+const keyLocation = 'https://www.sportstips.org/72e7dd20022940baa3b02a6a5f6a830e.txt'
 
 ;(async () => {
   const pages = await globby([
