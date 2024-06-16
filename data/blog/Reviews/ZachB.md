@@ -1,7 +1,7 @@
 ---
 
 title: 'Marching Band Mastery with Zachary Bethel'
-date: '2024-06-13'
+date: '2023-05-13'
 tags: ['Music Lessons', 'Marching Band', 'Education', 'Review']
 draft: false
 summary: 'A review of Zachary Bethels marching band instruction, highlighting his exceptional skills and comprehensive teaching methods for brass section coaching and visual instruction.'
