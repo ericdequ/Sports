@@ -58,7 +58,7 @@
     "tailwindcss": "^3.4.4",
     "unist-util-visit": "^4.1.2",
     "vercel": "^32.7.2",
-    "webpack": "^5.92.0",
+    "webpack": "^5.92.1",
     "xml": "^1.0.1"
   },
   "devDependencies": {
