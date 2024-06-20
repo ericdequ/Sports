@@ -69,6 +69,8 @@ module.exports = withBundleAnalyzer({
       'www.games-gold-nu.vercel.app',
       'www.sportstips.org',
       'sportstips.org',
+      'www.robotric.org',
+      'robotric.org',
     ],
   },
   async headers() {

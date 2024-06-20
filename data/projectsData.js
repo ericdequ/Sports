@@ -1,5 +1,10 @@
 const projectsData = [
-
+  {
+    title: 'Robot Ric',
+    description: 'My Book Series about a robot who learns about the world and humanity',
+    url: 'https://robotric.org/',
+    imgSrc: 'https://robotric.org/river/INSTA.png',
+  },
   {
     title: 'Quantum Learning',
     description:
