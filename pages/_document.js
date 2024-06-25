@@ -25,13 +25,13 @@ class MyDocument extends Document {
 
           <link
             rel="icon"
-            type="image/png"
+            type="image/webp"
             sizes="32x32"
             href="/static/favicons/favicon-32x32.webp"
           />
           <link
             rel="icon"
-            type="image/png"
+            type="image/webp"
             sizes="16x16"
             href="/static/favicons/favicon-16x16.webp"
           />

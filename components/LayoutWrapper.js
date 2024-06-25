@@ -8,7 +8,7 @@ import MobileNav from './MobileNav'
 import ThemeSwitch from './ThemeSwitch'
 import Image from 'next/image'
 
-const Logo = '/loogo-removebg.png'
+const Logo = '/loogo-removebg.webp'
 
 const LayoutWrapper = ({ children }) => {
   return (

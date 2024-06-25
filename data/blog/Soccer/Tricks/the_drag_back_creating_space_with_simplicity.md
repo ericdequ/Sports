@@ -27,9 +27,9 @@ The Drag Back is a fundamental skill where the player pulls the ball backwards w
 
 | Step           | Description                                           | Visual Representation                        |
 |----------------|-------------------------------------------------------|----------------------------------------------|
-| 1. Setup       | Position body over the ball                           | ![Setup Position](images/setup.png)          |
-| 2. Execution   | Pull ball back with the sole, pivot to change direction| ![Execution](images/execution.png)           |
-| 3. Follow Through | Control and transition                              | ![Follow Through](images/followthrough.png)  |
+| 1. Setup       | Position body over the ball                           | ![Setup Position](images/setup.webp)          |
+| 2. Execution   | Pull ball back with the sole, pivot to change direction| ![Execution](images/execution.webp)           |
+| 3. Follow Through | Control and transition                              | ![Follow Through](images/followthrough.webp)  |
 
 ## Variations of the Drag Back
 

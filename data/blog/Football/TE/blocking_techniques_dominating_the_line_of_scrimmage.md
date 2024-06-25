@@ -31,7 +31,7 @@ Proper hand placement is crucial for tight ends to gain control and maintain bal
 | **Elbow Tuck**     | Maintain elbows tucked in tight to your body to generate more force and maintain leverage. |
 | **Explosive Punch**| Ensure an explosive "punch" motion upon collision to gain immediate control over the defender. |
 
-![Hand Placement Technique](https://example.com/hand_placement.png)
+![Hand Placement Technique](https://example.com/hand_placement.webp)
 
 ## Leverage: Winning the Battle of Inches
 
@@ -43,7 +43,7 @@ Leverage determines how well a tight end can maintain or regain control over an 
 - **Staggered Stance:** A staggered stance (one foot slightly ahead of the other) can provide better balance and power generation.
 - **Core Engagement:** Use your core muscles to maintain a strong, balanced position and to transfer power efficiently from your lower to upper body.
 
-![Leverage Techniques](https://example.com/leverage_technique.png)
+![Leverage Techniques](https://example.com/leverage_technique.webp)
 
 ### Real-World Tips for Leveraging
 

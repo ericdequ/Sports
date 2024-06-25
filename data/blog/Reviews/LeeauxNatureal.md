@@ -4,6 +4,8 @@ date: '2023-06-10'
 tags: ['Natural Meals', 'Leeaux Natureal', 'Review', 'Healthy Eating']
 draft: false
 summary: 'An in-depth review of Leeaux Natureal, focusing on their commitment to providing wholesome, organic meals and catering services that prioritize health and sustainability.'
+
+images: ['https://www.leeauxnatureal.com/logo.jpg']
 ---
 
 ## 🍽️ Leeaux Natureal: Elevating Healthy Eating

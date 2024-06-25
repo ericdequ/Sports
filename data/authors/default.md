@@ -1,6 +1,6 @@
 ---
 name: Sports Tips
-avatar: https://www.sportstips.org/loogo-removebg.png
+avatar: https://www.sportstips.org/loogo-removebg.webp
 occupation: Providing Expert Sports Tips and Advice
 email: contact@quantumcybersolutions.com 📧
 ---

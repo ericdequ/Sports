@@ -15,7 +15,7 @@ In the fast-paced world of football, the Run-Pass Option (RPO) stands out as a s
 
 At its core, the RPO allows the quarterback to decide, based on defensive alignment and movement, whether to hand the ball off to a running back or throw a pass. This dual-threat aspect keeps defenses guessing, significantly enhancing the offense’s versatility.
 
-![Run-Pass Option Diagram](https://example.com/rpo-diagram.png)
+![Run-Pass Option Diagram](https://example.com/rpo-diagram.webp)
 
 ## Key Elements of RPO
 

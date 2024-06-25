@@ -38,7 +38,7 @@ The primary actors in a successful underlapping run include:
 | Winger       | Holds width or combines centrally        | Either stretches defense or passes inside   |
 | Midfielder   | Exploits the space or provides through ball | Moves into vacated space, receiving pass    |
 
-![Underlapping Run Diagram](https://example.com/underlapping-run-diagram.png)
+![Underlapping Run Diagram](https://example.com/underlapping-run-diagram.webp)
 
 ### Tactical Benefits
 
