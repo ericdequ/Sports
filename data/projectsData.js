@@ -3,7 +3,7 @@ const projectsData = [
     title: 'Robot Ric',
     description: 'My Book Series about a robot who learns about the world and humanity',
     url: 'https://robotric.org/',
-    imgSrc: 'https://robotric.org/river/INSTA.webp',
+    imgSrc: 'https://robotric.org/logo.webp',
   },
   {
     title: 'Quantum Learning',
