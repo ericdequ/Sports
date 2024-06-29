@@ -4,6 +4,8 @@ date: '2023-10-22'
 tags: ['basketball', 'fast break', 'coaching', 'player tips', 'transition play', 'outlet passing', 'finishing', 'teammates', 'skills']
 draft: false
 summary: "Examine techniques for effectively running the fast break, including outlet passing, finishing at the rim, and setting up teammates for optimal scoring opportunities."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/transition_play_leading_the_fast_break.webp']
 ---
 
 # Transition Play: Leading the Fast Break

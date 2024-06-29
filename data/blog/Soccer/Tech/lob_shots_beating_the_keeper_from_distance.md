@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["soccer", "techniques", "lob shot", "striking", "skills"]
 draft: false
 summary: "Master the art of the lob shot, the elegant technique that bypasses goalkeepers and secures spectacular goals. This article delves into spotting the opportunity and the finesse needed to pull off this dazzling move."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/lob_shots_beating_the_keeper_from_distance.webp']
 ---
 
 ## Lob Shots: Beating the Keeper from Distance

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Shooting', 'Skills', 'Dribbling', 'Training', 'Coaching', 'Player Development']
 draft: false
 summary: "Unlock the art of creating your own shot through masterful off-the-dribble shooting. Learn essential dribble moves, maintain balance, and make smarter shot selections."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/off_the_dribble_shooting_creating_your_own_shot.webp']
 ---
 
 ## Off-the-Dribble Shooting: Creating Your Own Shot

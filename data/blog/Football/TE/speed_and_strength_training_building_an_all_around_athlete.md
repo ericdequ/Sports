@@ -4,6 +4,8 @@ date: '2022-01-24'
 tags: ['training', 'athleticism', 'tight ends', 'speed', 'strength', 'football', 'fitness', 'coaching', 'skills']
 draft: false
 summary: 'Explore training methods for improving speed, strength, and overall athleticism for tight ends in football.'
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/speed_and_strength_training_building_an_all_around_athlete.webp']
 ---
 
 # Speed and Strength Training: Building an All-Around Athlete

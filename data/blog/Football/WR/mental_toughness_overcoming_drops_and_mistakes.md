@@ -4,6 +4,8 @@ date: '2022-06-26'
 tags: ['Sports Psychology', 'Mental Toughness', 'Coaching Tips', 'Athlete Mindset', 'Performance Improvement']
 draft: false
 summary: 'Build mental resilience to handle drops and mistakes with confidence. Discover essential strategies for athletes and coaches.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/mental_toughness_overcoming_drops_and_mistakes.webp']
 ---
 
 # Mental Toughness: Overcoming Drops and Mistakes

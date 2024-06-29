@@ -4,6 +4,8 @@ date: '2021-03-08'
 tags: ['Basketball', 'Transition Play', 'Scoring Tips', 'Coaching Wisdom', 'Player Skills']
 draft: false
 summary: "Examine techniques for excelling in transition play, including running the floor, catching outlet passes, and finishing at the rim."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/transition_scoring_finishing_on_the_break.webp']
 ---
 
 # Transition Scoring: Finishing on the Break

@@ -5,6 +5,8 @@ tags:  ['American Football', 'Special Teams', 'Kicking', 'Snap Timing', 'Coachin
 draft: false
 summary: 'Explore the importance of timing and coordination with the holder in American football, focusing on aspects such as snap timing, communication, and rhythm for optimal performance.'
 
+
+images: ['https://www.sportstips.org/articleimage/Football/K/snap_timing_synchronizing_with_the_holder.webp']
 ---
 
 # Snap Timing: Synchronizing with the Holder

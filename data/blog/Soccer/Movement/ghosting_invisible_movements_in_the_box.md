@@ -4,6 +4,8 @@ date: '2022-03-07'
 tags: ['Soccer', 'Tactics', 'Coaching Tips', 'Forwards', 'Scoring', 'Positioning', 'Strategy', 'Player Movement', 'Game Intelligence', 'Skill Development'] 
 draft: false 
 summary: 'An in-depth analysis of the art of ghosting into the penalty area to lose markers and create scoring opportunities.' 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/ghosting_invisible_movements_in_the_box.webp']
 --- 
 
 # Ghosting: Invisible Movements in the Box

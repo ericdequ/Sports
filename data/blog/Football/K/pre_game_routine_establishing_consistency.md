@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Pre-Game Routine", "Warm-Up", "Mental Preparation", "Consistency"]
 draft: false
 summary: "Delve into the pivotal role of pre-game routines in sports, encompassing essential warm-ups, mental fortitude, and consistency. Expert insights from players and coaches merge to highlight best practices."
+
+images: ['https://www.sportstips.org/articleimage/Football/K/pre_game_routine_establishing_consistency.webp']
 ---
 
 # Pre-Game Routine: Establishing Consistency

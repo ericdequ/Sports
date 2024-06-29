@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Quarterback', 'Defense', 'Schemes', 'Coverages', 'Blitz', 'Pre-Snap Adjustments', 'Coaching', 'Strategy']
 draft: false
 summary: "Explore techniques for quarterbacks to read defensive coverages, anticipate blitzes, and make pre-snap adjustments."
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/reading_defenses_understanding_coverages_and_schemes.webp']
 ---
 
 # Reading Defenses: Understanding Coverages and Schemes

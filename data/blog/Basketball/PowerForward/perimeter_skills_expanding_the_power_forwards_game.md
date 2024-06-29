@@ -4,6 +4,8 @@ date: '2024-02-02'
 tags: ['Basketball', 'Power Forward', 'Perimeter Skills', 'Ball Handling', 'Shooting', 'Player Development', 'Coaching', 'Modern Basketball']
 draft: false
 summary: 'Explore the essential perimeter skills that modern power forwards need to stay competitive in today’s dynamic basketball landscape. Learn about ball handling, shooting, and how to integrate these abilities into your game.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/perimeter_skills_expanding_the_power_forwards_game.webp']
 ---
 
 # Perimeter Skills: Expanding the Power Forward’s Game

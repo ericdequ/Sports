@@ -4,6 +4,8 @@ date: '2024-03-23'
 tags: ['football', 'offensive line', 'left guard', 'double team', 'blocking strategy', 'coaching tips', 'player skills', 'communication', 'timing'] 
 draft: false 
 summary: 'Explore the synergy between the left guard and their teammates in executing effective double teams to neutralize defenders.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/double_teams_working_with_the_left_guard_to_neutralize_defenders.webp']
 ---
 
 # Double Teams: Working with the Left Guard to Neutralize Defenders

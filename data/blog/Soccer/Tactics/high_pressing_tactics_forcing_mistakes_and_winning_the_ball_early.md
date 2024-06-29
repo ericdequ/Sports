@@ -4,6 +4,8 @@ date: "2023-10-07"
 tags: ['Soccer', 'Tactics', 'Coaching', 'High Press', 'Defense', 'Possession', 'Tempo', 'Player Tips', 'Strategy']
 draft: false
 summary: "Dive deep into the principles of high pressing in soccer, how teams effectively implement this tactic, and its significant impact on the game's tempo and possession control."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/high_pressing_tactics_forcing_mistakes_and_winning_the_ball_early.webp']
 ---
 
 ## High Pressing Tactics: Forcing Mistakes and Winning the Ball Early

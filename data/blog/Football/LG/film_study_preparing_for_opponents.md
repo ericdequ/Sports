@@ -4,6 +4,8 @@ date: '2021-12-06'
 tags: ['football', 'film study', 'left guard', 'game planning', 'coaching tips', 'player knowledge', 'strategy', 'offensive line', 'tendencies']
 draft: false
 summary: 'Dive into the importance of film study for left guards, including techniques for breaking down defenses, identifying tendencies, and effective game planning.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/film_study_preparing_for_opponents.webp']
 ---
 
 # Film Study: Preparing for Opponents

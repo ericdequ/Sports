@@ -4,6 +4,8 @@ date: '2024-01-02'
 tags: ['soccer', 'football', 'shooting', 'technique', 'coaching', 'player development', 'long-range', 'power', 'accuracy']
 draft: false
 summary: 'Explore the mechanics of shooting from long range in soccer, focusing on generating power and maintaining accuracy.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/long_range_shots_power_and_precision_from_distance.webp']
 ---
 
 ## Long-Range Shots: Power and Precision from Distance

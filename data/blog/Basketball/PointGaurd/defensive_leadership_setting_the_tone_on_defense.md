@@ -4,6 +4,8 @@ date: '2022-06-21'
 tags: ['basketball', 'point guard', 'defense', 'leadership', 'coaching', 'teamwork', 'strategy', 'skills', 'gameplay']
 draft: false
 summary: 'Dive into the critical role of a point guard in setting the defensive tone for their team, focusing on on-ball pressure, stealing the ball, and orchestrating the defensive efforts of teammates.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/defensive_leadership_setting_the_tone_on_defense.webp']
 ---
 
 ## Defensive Leadership: Setting the Tone on Defense

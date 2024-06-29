@@ -4,6 +4,8 @@ date: '2022-07-26'
 tags: ['football', 'red zone', 'strategy', 'offense', 'touchdown', 'coaching', 'wide receiver', 'tight end', 'quarterback']
 draft: false
 summary: "Master the art of scoring inside the 20 by leveraging size, running precise routes, and making contested catches. This article blends player insights with coaching strategies to maximize red zone efficiency."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/red_zone_threat_scoring_inside_the_20.webp']
 ---
 
 ## Red Zone Threat: Scoring Inside the 20

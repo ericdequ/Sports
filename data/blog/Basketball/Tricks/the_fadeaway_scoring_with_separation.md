@@ -5,6 +5,8 @@ tags: ["basketball", "fadeaway", "scoring", "technique", "Michael Jordan", "coac
 draft: false
 summary: "Analyze the fadeaway shot, its execution, and how players like Michael Jordan used it to score over defenders with ease and elegance."
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_fadeaway_scoring_with_separation.webp']
 ---
 
 ## The Fadeaway: Scoring with Separation

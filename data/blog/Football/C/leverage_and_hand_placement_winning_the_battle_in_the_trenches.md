@@ -4,6 +4,8 @@ date: '2024-01-04'
 tags: ['football', 'offensive line', 'technique', 'coaching', 'player development', 'leverage', 'hand placement', 'trenches', 'training']
 draft: false
 summary: 'Explore key techniques for maintaining leverage and proper hand placement to dominate in the trenches of football. This guide blends player insights and coaching wisdom to give you a competitive edge.'
+
+images: ['https://www.sportstips.org/articleimage/Football/C/leverage_and_hand_placement_winning_the_battle_in_the_trenches.webp']
 ---
 
 # Leverage and Hand Placement: Winning the Battle in the Trenches

@@ -4,6 +4,8 @@ date: '2021-10-21'
 tags: ['Football', 'Player Tips', 'Coaching Wisdom', 'YAC', 'Running Backs', 'Training', 'Strength', 'Balance', 'Techniques']
 draft: false
 summary: 'Explore techniques for gaining yards after contact, focusing on balance, lower body strength, and breaking tackles.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/yards_after_contact_staying_on_your_feet.webp']
 ---
 
 # Yards After Contact: Staying on Your Feet

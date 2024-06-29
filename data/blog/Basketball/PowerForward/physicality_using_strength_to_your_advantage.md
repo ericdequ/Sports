@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["basketball", "power forward", "physicality", "rebounds", "screens"]
 draft: false
 summary: "Analyze how power forwards use their physicality to dominate the paint, set hard screens, and secure rebounds."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/physicality_using_strength_to_your_advantage.webp']
 ---
 
 ## Physicality: Using Strength to Your Advantage

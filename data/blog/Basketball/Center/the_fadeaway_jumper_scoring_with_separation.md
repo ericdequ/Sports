@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'fadeaway jumper', 'Hakeem Olajuwon', 'scoring', 'NBA', 'technique', 'skills', 'coaching', 'player knowledge']
 draft: false
 summary: "Examine the fadeaway shot, its execution, and how centers like Hakeem Olajuwon used it to score over defenders."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/the_fadeaway_jumper_scoring_with_separation.webp']
 ---
 
 ### The Fadeaway Jumper: Scoring with Separation

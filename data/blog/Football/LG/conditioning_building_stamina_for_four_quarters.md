@@ -4,6 +4,8 @@ date: '2021-10-26'
 tags: ['Football', 'Conditioning', 'Stamina', 'Training', 'Left Guard', 'Performance', 'Endurance', 'Coaching']
 draft: false
 summary: "Explore conditioning programs tailored for left guards to build stamina and maintain performance throughout the game."
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/conditioning_building_stamina_for_four_quarters.webp']
 ---
 
 # Conditioning: Building Stamina for Four Quarters

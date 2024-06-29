@@ -4,6 +4,8 @@ date: '2023-12-07'
 tags: ['football', 'blitz', 'quarterback', 'pressure', 'pre-snap reads', 'decision-making', 'escaping the pocket', 'coaching tips', 'player tips']
 draft: false
 summary: 'Explore techniques for handling blitz pressure, including pre-snap reads, quick decision-making, and escaping the pocket.'
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/handling_pressure_staying_cool_under_the_blitz.webp']
 ---
 
 ## Handling Pressure: Staying Cool Under the Blitz

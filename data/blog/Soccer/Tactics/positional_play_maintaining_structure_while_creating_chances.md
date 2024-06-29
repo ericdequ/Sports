@@ -4,6 +4,8 @@ date: '2021-05-01'
 tags: ['soccer', 'positional play', 'coaching', 'player development', 'tactics', 'strategy', 'formation', 'balance', 'spacing']
 draft: false
 summary: 'Delve into the principles of positional play in soccer, focusing on how players maintain balance and spacing to dominate possession and control games.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/positional_play_maintaining_structure_while_creating_chances.webp']
 ---
 
 # Positional Play: Maintaining Structure While Creating Chances

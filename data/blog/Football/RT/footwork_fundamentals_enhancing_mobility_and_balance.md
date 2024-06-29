@@ -4,6 +4,8 @@ date: '2023-08-22'
 tags: ['Football', 'Right Tackles', 'Footwork Drills', 'Agility', 'Balance', 'Quickness', 'Coaching', 'Player Development', 'Training']
 draft: false
 summary: "Analyze key footwork drills to improve agility, balance, and quickness for right tackles."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/footwork_fundamentals_enhancing_mobility_and_balance.webp']
 ---
 
 # Footwork Fundamentals: Enhancing Mobility and Balance

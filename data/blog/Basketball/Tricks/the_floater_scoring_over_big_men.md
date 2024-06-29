@@ -4,6 +4,8 @@ date: '2021-11-25'
 tags: ['basketball', 'technique', 'floater', 'scoring', 'guards', 'Tony Parker', 'shot blockers', 'skills', 'tips', 'coaching']
 draft: false
 summary: "Explore the technique of the floater in basketball and learn how guards like Tony Parker mastered this move to score over taller defenders."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_floater_scoring_over_big_men.webp']
 ---
 
 # The Floater: Scoring Over Big Men

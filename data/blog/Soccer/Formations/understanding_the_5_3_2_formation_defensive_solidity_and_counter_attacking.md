@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Formation', 'Tactics', 'Defense', 'Counter-Attack', 'Coaching', 'Strategy', 'Soccer', 'Knowledge']
 draft: false
 summary: "Explore the intricacies of the 5-3-2 formation in football, focusing on its defensive strength and counter-attacking opportunities."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/understanding_the_5_3_2_formation_defensive_solidity_and_counter_attacking.webp']
 ---
 
 # Understanding the 5-3-2 Formation: Defensive Solidity and Counter-Attacking

@@ -5,6 +5,8 @@ tags: ['basketball', 'coaching', 'fast break', 'offense', 'skills', 'strategy', 
 draft: false
 summary: "Examine the importance of quick and accurate outlet passes to initiate fast breaks and create easy scoring opportunities in basketball."
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/outlet_passing_starting_the_fast_break.webp']
 ---
 
 # Outlet Passing: Starting the Fast Break

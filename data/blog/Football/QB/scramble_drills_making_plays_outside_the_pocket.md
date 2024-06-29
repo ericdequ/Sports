@@ -4,6 +4,8 @@ date: '2023-03-15'
 tags: ['football', 'quarterback', 'scramble drills', 'coaching', 'player development']
 draft: false
 summary: 'Explore the critical role of scramble drills in football, highlighting methods for extending plays, making throws on the run, and leveraging athleticism to create game-changing opportunities.'
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/scramble_drills_making_plays_outside_the_pocket.webp']
 ---
 
 # Scramble Drills: Making Plays Outside the Pocket

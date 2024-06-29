@@ -4,6 +4,8 @@ date: '2022-11-28'
 tags: ['Basketball', 'Post Moves', 'Offense', 'Speed', 'Efficiency', 'Player Development', 'Coaching', 'Skills', 'Techniques', 'Defenders']
 draft: false
 summary: "Analyze a variety of quick post moves that rely on speed and efficiency to catch defenders off guard."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/quick_hitting_post_moves_speed_and_efficiency.webp']
 ---
 
 # Quick Hitting Post Moves: Speed and Efficiency

@@ -4,6 +4,8 @@ date: '2022-08-12'
 tags: ['Football', 'Training', 'Running Backs', 'Speed', 'Acceleration', 'Coaching', 'Player Development', 'Drills', 'Workout']
 draft: false
 summary: 'Discover training methods to enhance speed and acceleration, empowering running backs to outpace defenders and achieve breakaway runs.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/speed_and_acceleration_breaking_away_for_big_gains.webp']
 --- 
 
 ## Speed and Acceleration: Breaking Away for Big Gains

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Soccer', 'Tactics', 'Playmakers', 'Andrea Pirlo', 'Coaching', 'Player Roles', 'Midfield', 'Strategy', 'Football']
 draft: false
 summary: "Explore the role of deep-lying playmakers like Andrea Pirlo in controlling the game through their vision, technique, and tactical awareness."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/deep_lying_playmakers_orchestrating_from_deep.webp']
 ---
 
 ## Deep-Lying Playmakers: Orchestrating from Deep

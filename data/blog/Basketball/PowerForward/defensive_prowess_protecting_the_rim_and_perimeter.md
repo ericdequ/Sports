@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: [Basketball, Defense, Power Forwards, Rim Protection, Perimeter Defense, Coaching, Player Skills, Strategy, Tips]
 draft: false
 summary: "Explore the defensive responsibilities of power forwards, focusing on rim protection and switching onto smaller players, combining player insights and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/defensive_prowess_protecting_the_rim_and_perimeter.webp']
 ---
 
 # Defensive Prowess: Protecting the Rim and Perimeter

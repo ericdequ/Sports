@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Shooting', 'Skills', 'Consistency', 'Coaching']
 draft: false
 summary: "Explore the fundamentals of three-point shooting, focusing on mechanics, range, and maintaining consistency under pressure."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/three_point_shooting_consistency_from_beyond_the_arc.webp']
 ---
 
 ## Three-Point Shooting: Consistency from Beyond the Arc

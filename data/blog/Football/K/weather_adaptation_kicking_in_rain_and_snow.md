@@ -4,6 +4,8 @@ date: '2023-06-09'
 tags: ['football', 'soccer', 'kicking', 'weather', 'rain', 'snow', 'tips', 'techniques', 'performance']
 draft: false
 summary: 'Master the art of kicking in challenging weather conditions with these essential techniques for rain and snow.'
+
+images: ['https://www.sportstips.org/articleimage/Football/K/weather_adaptation_kicking_in_rain_and_snow.webp']
 ---
 
 ### Weather Adaptation: Kicking in Rain and Snow

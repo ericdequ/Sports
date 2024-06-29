@@ -5,6 +5,8 @@ tags: ['Soccer', 'Tactics', 'Formations', 'Defense', 'Counter-Attack']
 draft: false
 summary: 'An in-depth look at how the 5-4-1 formation can bolster a teams defensive solidity while offering a platform for quick counter-attacks.'
 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/implementing_the_5_4_1_formation_for_defensive_resilience.webp']
 ---
 
 ## Implementing the 5-4-1 Formation for Defensive Resilience

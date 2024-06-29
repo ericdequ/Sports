@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['American Football', 'Special Teams', 'Kicking Techniques', 'Field Position', 'Strategy', 'Coaching', 'Player Tips', 'Game Management']
 draft: false
 summary: "Explore the nuances of pooch kicks in American football, including tactical execution, aiming for specific field areas, and minimizing return threats."
+
+images: ['https://www.sportstips.org/articleimage/Football/K/pooch_kicks_controlling_field_position.webp']
 ---
 
 ## Pooch Kicks: Controlling Field Position

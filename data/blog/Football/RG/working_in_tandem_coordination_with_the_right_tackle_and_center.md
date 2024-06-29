@@ -4,6 +4,8 @@ date: '2023-11-17'
 tags:  ['football', 'offensive line', 'teamwork', 'coordination', 'communication', 'synchronized movements']
 draft: false
 summary: 'Explore the importance of working seamlessly with the right tackle and center in football, focusing on communication and synchronized movements to enhance team performance.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/working_in_tandem_coordination_with_the_right_tackle_and_center.webp']
 ---
 
 # Working in Tandem: Coordination with the Right Tackle and Center

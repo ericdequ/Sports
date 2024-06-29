@@ -5,6 +5,8 @@ tags:  ['Techniques', 'Defense', 'Coaching', 'Player Tips', 'Basketball', 'Footb
 draft: false
 summary: "Explore techniques for creating separation from defenders, including quick cuts, physical play, and using leverage. This guide blends player knowledge with coaching wisdom to elevate your game."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/creating_separation_techniques_for_beating_defenders.webp']
 ---
 
 ## Introduction

@@ -4,6 +4,8 @@ date: '2024-03-31'
 tags: ['sports', 'mental game', 'high-pressure', 'focus', 'performance', 'coaching', 'athletes', 'composure', 'preparation']
 draft: false
 summary: 'Analyze and discover key techniques for maintaining composure and delivering peak performance during high-pressure situations in sports through the lens of player experiences and coaching wisdom.'
+
+images: ['https://www.sportstips.org/articleimage/Football/K/handling_pressure_performing_in_high_stress_situations.webp']
 ---
 
 # Handling Pressure: Performing in High-Stress Situations

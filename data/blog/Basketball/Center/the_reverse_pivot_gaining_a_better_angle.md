@@ -4,6 +4,8 @@ date: '2022-07-15'
 tags:  ['Basketball', 'Techniques', 'Player Skills', 'Coaching Tips', 'Scoring', 'Passing', 'Basketball Strategy', 'Player Development', 'Coaching Wisdom']
 draft: false
 summary: 'Examine the reverse pivot move, its execution, and how it can create better scoring angles or passing opportunities.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/the_reverse_pivot_gaining_a_better_angle.webp']
 ---
 
 ## The Reverse Pivot: Gaining a Better Angle

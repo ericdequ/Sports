@@ -5,6 +5,8 @@ tags: ['soccer', 'football', 'tactics', 'coaching', 'attacking play', 'strategy'
 draft: false
 summary: Explore the art of dummy runs in soccer, and how this deceptive movement can confuse defenders and create valuable attacking opportunities.
 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/DummyRuns.webp']
 ---
 
 # Dummy Runs: Deceptive Movements to Fool Defenders

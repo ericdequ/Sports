@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'leadership', 'small forwards', 'mentorship', 'team dynamics']
 draft: false
 summary: "Explore the leadership role of small forwards, including setting the tone on both ends of the floor and mentoring younger players."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/leadership_on_the_wing_leading_by_example.webp']
 ---
 
 # Leadership on the Wing: Leading by Example

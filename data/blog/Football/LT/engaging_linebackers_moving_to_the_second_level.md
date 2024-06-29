@@ -4,6 +4,8 @@ date: '2022-02-23'
 tags: ['Football', 'Linebackers', 'Offense', 'Run Plays', 'Pass Plays', 'Blocking', 'Technique', 'Coaching', 'Player Development']
 draft: false
 summary: "Master the techniques for moving to the second level and effectively engaging linebackers in both run and pass plays, bringing together player expertise and coaching intelligentsia."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/engaging_linebackers_moving_to_the_second_level.webp']
 ---
 
 # Engaging Linebackers: Moving to the Second Level

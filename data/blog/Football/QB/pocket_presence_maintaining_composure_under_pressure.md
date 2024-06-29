@@ -4,6 +4,8 @@ date: '2023-02-21'
 tags: ['Football', 'Quarterback', 'Pocket Presence', 'Footwork', 'Awareness', 'Sack Avoidance']
 draft: false
 summary: 'A deep dive into the importance of pocket presence in football, exploring footwork, awareness, and techniques to avoid sacks.'
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/pocket_presence_maintaining_composure_under_pressure.webp']
 ---
 
 # Pocket Presence: Maintaining Composure Under Pressure

@@ -4,6 +4,8 @@ date: '2021-12-18'
 tags: ['Soccer', 'Football', 'Coaching', 'Player Tips', 'Heading', 'Technique', 'Training', 'Skills']
 draft: false
 summary: "Analyze the technique for powerful and accurate headers, focusing on timing, body positioning, and neck muscles."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/heading_techniques_power_and_precision_in_the_air.webp']
 ---
 
 # Heading Techniques: Power and Precision in the Air

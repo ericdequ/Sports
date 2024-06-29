@@ -4,6 +4,8 @@ date: '2021-03-05'
 tags: ['soccer', 'heading techniques', 'flick-on', 'attacking strategies', 'defensive skills']
 draft: false
 summary: "Dive deep into the flick-on header, a pivotal technique in soccer, exploring its role in both offense and defense, and learn how to practice it effectively with player insights and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_flick_on_heading_with_precision.webp']
 ---
 
 ## The Flick-On: Heading with Precision

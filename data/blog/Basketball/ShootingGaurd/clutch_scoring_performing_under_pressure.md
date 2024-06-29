@@ -4,6 +4,8 @@ date: '2023-02-27'
 tags: ['basketball', 'pressure', 'clutch', 'scoring', 'mental game', 'composure', 'confidence']
 draft: false
 summary: 'Dive deep into the mental and technical aspects of clutch scoring. Understand how shot selection, composure, and confidence play pivotal roles in performing under pressure.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/clutch_scoring_performing_under_pressure.webp']
 ---
 
 # Clutch Scoring: Performing Under Pressure

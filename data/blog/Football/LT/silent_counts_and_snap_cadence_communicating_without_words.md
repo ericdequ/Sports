@@ -4,6 +4,8 @@ date: '2022-10-19'
 tags: ['football', 'strategy', 'communication', 'offense', 'game knowledge']
 draft: false
 summary: "Explore the use of silent counts and varied snap cadences, especially in noisy environments, to maintain communication and timing."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/silent_counts_and_snap_cadence_communicating_without_words.webp']
 ---
 
 # Silent Counts and Snap Cadence: Communicating Without Words

@@ -4,6 +4,8 @@ date: '2021-03-15'
 tags: ['Basketball', 'Shooting Technique', 'Quick Release', 'Player Tips', 'Coaching Wisdom', 'Pressure Situations', 'Skill Development']
 draft: false
 summary: 'Explore the mechanics of a quick release in basketball, focusing on minimizing motion and maintaining accuracy under defensive pressure.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/quick_release_shooting_under_pressure_in_basketball.webp']
 ---
 
 # Quick Release: Shooting Under Pressure

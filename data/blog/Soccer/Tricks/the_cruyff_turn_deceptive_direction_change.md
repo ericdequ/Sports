@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'soccer', 'skills', 'technique', 'Cruyff Turn', 'coaching', 'player knowledge', 'strategy', 'tricks']
 draft: false
 summary: "Analyze the mechanics of the Cruyff Turn, its effectiveness in tight spaces, and how it can create opportunities out of seemingly dead ends."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_cruyff_turn_deceptive_direction_change.webp']
 ---
 
 # The Cruyff Turn: Deceptive Direction Change

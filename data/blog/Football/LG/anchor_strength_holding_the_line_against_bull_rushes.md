@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['American Football', 'Strength Training', 'Line Play', 'Coaching Tips', 'Player Development', 'Core Exercises', 'Leg Strength']
 draft: false
 summary: "Explore essential techniques for building anchor strength, helping players hold the line against bull rushes with core exercises, leg strength, and proper stance."
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/anchor_strength_holding_the_line_against_bull_rushes.webp']
 ---
 
 # Anchor Strength: Holding the Line Against Bull Rushes

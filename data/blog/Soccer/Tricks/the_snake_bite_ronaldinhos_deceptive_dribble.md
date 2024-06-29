@@ -5,6 +5,8 @@ tags: ['soccer', 'Ronaldinho', 'skills', 'dribbling', 'technique', 'one-on-one',
 draft: false
 summary: "Explore the technique behind the Snake Bite move, how to execute it, and its effectiveness in one-on-one situations."
 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_snake_bite_ronaldinhos_deceptive_dribble.webp']
 ---
 
 # The Snake Bite: Ronaldinho’s Deceptive Dribble

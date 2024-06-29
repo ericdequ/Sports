@@ -5,6 +5,8 @@ tags:  ['Football', 'Techniques', 'Offensive Line', 'Left Tackle', 'Run Blocking
 draft: false
 summary: "Explore the art of pulling as a left tackle, delving into the critical aspects of footwork, timing, and effectively targeting defensive players in space for successful outside runs."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/pulling_leading_the_way_on_outside_runs.webp']
 ---
 
 # Pulling: Leading the Way on Outside Runs

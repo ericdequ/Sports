@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'offensive line', 'right guard', 'technique', 'coaching', 'player tips', 'blocking', 'run game', 'strategy']
 draft: false
 summary: "Explore the technique of pulling as a right guard, including footwork, timing, and targeting defensive players in space."
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/pulling_leading_the_way_on_outside_runs.webp']
 ---
 ```
 

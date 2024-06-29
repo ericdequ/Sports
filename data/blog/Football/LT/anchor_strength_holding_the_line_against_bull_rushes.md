@@ -4,6 +4,8 @@ date: "2023-10-15"
 tags: ['football', 'training', 'strength', 'technique', 'defense', 'coaching', 'weightlifting', 'core strength', 'stance']
 draft: false
 summary: "Analyze techniques for building anchor strength in football, focusing on core exercises, leg strength, and proper stance."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/anchor_strength_holding_the_line_against_bull_rushes.webp']
 ---
 
 # Anchor Strength: Holding the Line Against Bull Rushes

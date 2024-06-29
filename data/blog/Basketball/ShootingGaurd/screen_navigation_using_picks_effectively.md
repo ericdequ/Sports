@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'shooting guards', 'screens', 'offense', 'coaching']
 draft: false
 summary: "Explore how shooting guards can maximize screen usage by mastering techniques such as curls, flares, and pindowns to elevate their game."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/screen_navigation_using_picks_effectively.webp']
 ---
 
 # Screen Navigation: Using Picks Effectively

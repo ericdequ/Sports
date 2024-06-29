@@ -4,6 +4,8 @@ date: '2021-03-02'
 tags: ['football', 'film study', 'kickers', 'game planning', 'coaching', 'player development', 'strategy', 'breakdown', 'analysis']
 draft: false 
 summary: 'Learn the value of film study for kickers in football, focusing on return formations, identifying tendencies, and effective game planning.'
+
+images: ['https://www.sportstips.org/articleimage/Football/K/film_study_preparing_for_opponents_in_football.webp']
 ---
 
 # Film Study: Preparing for Opponents in Football

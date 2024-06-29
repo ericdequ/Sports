@@ -4,6 +4,8 @@ date: '2023-08-03'
 tags: ['Basketball', 'Off-Ball Movement', 'Coaching Tips', 'Player Skills', 'Scoring', 'Cutting', 'Screens', 'Tactics', 'Strategy', 'Team Play']
 draft: false
 summary: 'Explore the nuances of off-ball movement in basketball, emphasizing the importance of cutting, setting screens, and finding open spaces to create scoring opportunities.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/off_ball_movement_creating_scoring_opportunities.webp']
 ---
 
 # Off-Ball Movement: Creating Scoring Opportunities

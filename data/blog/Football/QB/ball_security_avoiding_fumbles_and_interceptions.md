@@ -4,6 +4,8 @@ date: '2023-12-12'
 tags: ['football', 'coaching tips', 'ball security', 'fumbles', 'interceptions', 'grip', 'decision-making', 'quarterbacks', 'training']
 draft: false
 summary: 'Explore techniques for improving ball security, including proper grip, decision-making, and protecting the ball in the pocket.'
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/ball_security_avoiding_fumbles_and_interceptions.webp']
 ---
 
 # Ball Security: Avoiding Fumbles and Interceptions

@@ -4,6 +4,8 @@ date: '2023-03-09'
 tags: ['football', 'goalkeeper', 'tactics', 'sweeper keeper', 'modern football', 'training', 'defense']
 draft: false
 summary: 'Explore the evolution of the sweeper keeper role and its tactical advantages in modern football.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/sweeper_keeper_extending_the_goalkeeper.webp']
 ---
 
 # Sweeper Keeper: Extending the Goalkeeper's Role Beyond the Box

@@ -4,6 +4,8 @@ date: '2021-03-07'
 tags: ['Football', 'Wide Receivers', 'Route Tree', 'Techniques', 'Execution', 'Coaching', 'Player Development', 'Advanced Football', 'Strategy']
 draft: false
 summary: "Explore the full route tree for wide receivers, focusing on the intricate techniques and precise execution needed to dominate on the field. Learn about slants, outs, posts, and more to elevate your receiver game."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/mastering_the_route_tree_techniques_and_execution_for_wide_receivers.webp']
 ---
 
 # Mastering the Route Tree: Techniques and Execution for Wide Receivers

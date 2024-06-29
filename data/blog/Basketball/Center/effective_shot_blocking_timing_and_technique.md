@@ -4,6 +4,8 @@ date: '2022-03-13'
 tags: ['basketball', 'defense', 'shot blocking', 'skills', 'technique', 'timing', 'coaching', 'player development', 'mental game']
 draft: false
 summary: "Mastering the art of shot blocking in basketball is more than just jumping high; it's about perfect timing, strategic positioning, and the mental edge to intimidate opponents. Learn essential tips and tricks to elevate your defensive game."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/effective_shot_blocking_timing_and_technique.webp']
 ---
 
 # Effective Shot Blocking: Timing and Technique

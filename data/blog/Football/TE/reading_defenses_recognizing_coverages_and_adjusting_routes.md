@@ -4,6 +4,8 @@ date: '2022-04-04'
 tags: ['football', 'tight ends', 'coverages', 'route running', 'coaching', 'playmaking', 'offense strategies', 'defense recognition', 'football fundamentals']
 draft: false
 summary: 'Master the art of route running as a tight end by understanding how to read defensive coverages and adjust your routes for maximum effectiveness.'
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/reading_defenses_recognizing_coverages_and_adjusting_routes.webp']
 ---
 
 ## Reading Defenses: Recognizing Coverages and Adjusting Routes

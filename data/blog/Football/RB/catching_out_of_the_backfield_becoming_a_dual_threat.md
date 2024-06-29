@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Catching', 'Running Backs', 'Skills Training', 'Coaching Tips']
 draft: false
 summary: "Explore essential techniques for running backs to enhance their catching skills, including route running, hand positioning, and maintaining focus, to become a dual threat on the field."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/catching_out_of_the_backfield_becoming_a_dual_threat.webp']
 ---
 
 # Catching Out of the Backfield: Becoming a Dual Threat

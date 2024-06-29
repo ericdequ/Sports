@@ -6,6 +6,8 @@ tags: ['Football', 'Special Teams', 'Punt Formation', 'Alignments', 'Protections
 draft: false
 summary: "Dive deep into the complexities of punt formations, examining various alignments, protection schemes, and the importance of snap timing."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/P/punt_formation_alignments_and_protections.webp']
 ---
 
 # Punt Formation: Alignments and Protections

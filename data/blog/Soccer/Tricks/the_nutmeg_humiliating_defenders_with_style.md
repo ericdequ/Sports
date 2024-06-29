@@ -4,6 +4,8 @@ date: '2021-02-25'
 tags: ['Football', 'Skills', 'Nutmeg', 'Techniques', 'Tips', 'Soccer', 'Tricks', 'Coaching', 'Player Knowledge']
 draft: false
 summary: "Dive into the art of the nutmeg in football - learn the techniques to execute it successfully, understand the best situations to use it, and discover how this skill can turn the tides in any game."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_nutmeg_humiliating_defenders_with_style.webp']
 ---
 
 # The Nutmeg: Humiliating Defenders with Style

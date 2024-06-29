@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["football", "two-minute drill", "clock management", "play calling", "composure"]
 draft: false
 summary: "Dive deep into the strategies and techniques for executing the two-minute drill in football, focusing on sharp play calling, impeccable clock management, and poise under pressure."
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/two_minute_drill_managing_the_clock.webp']
 ---
 
 # Two-Minute Drill: Managing the Clock

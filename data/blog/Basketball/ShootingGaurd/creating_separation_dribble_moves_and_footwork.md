@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Dribbling', 'Footwork', 'Player Skills', 'Coaching Tips']
 draft: false
 summary: "Explore expert techniques for creating separation from defenders in basketball using advanced dribble moves and footwork skills. Learn from player insights and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/creating_separation_dribble_moves_and_footwork.webp']
 ---
 
 ## Creating Separation: Dribble Moves and Footwork

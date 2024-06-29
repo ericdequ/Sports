@@ -4,6 +4,8 @@ date: "2023-10-04"
 tags: ["football", "coaching", "run blocking", "drills", "power", "precision", "offensive line", "training", "technique"]
 draft: false
 summary: "Explore specific run blocking drills designed to improve power, precision, and effectiveness in the running game. A blend of player knowledge and coaching wisdom tailored to elevate your game."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/run_blocking_drills_improving_power_and_precision.webp']
 ---
 
 # Run Blocking Drills: Improving Power and Precision

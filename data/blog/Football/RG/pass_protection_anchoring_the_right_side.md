@@ -4,6 +4,8 @@ date: '2022-04-06'
 tags: ['football', 'offensive line', 'techniques', 'right guard', 'coaching', 'player development', 'footwork', 'hand placement', 'leverage']
 draft: false
 summary: 'Explore techniques for effective pass protection as a right guard, focusing on footwork, hand placement, and maintaining leverage.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/pass_protection_anchoring_the_right_side.webp']
 ---
 
 # Pass Protection: Anchoring the Right Side

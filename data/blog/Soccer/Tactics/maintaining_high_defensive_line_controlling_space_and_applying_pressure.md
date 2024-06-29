@@ -4,6 +4,8 @@ date: '2023-05-27'
 tags: ['soccer', 'defensive strategy', 'coaching', 'player tactics', 'high line defense', 'pressure play', 'space control', 'advanced tactics', 'team defense']
 draft: false
 summary: "Explore the benefits and challenges of maintaining a high defensive line in soccer to control space and apply pressure on the opposition."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/maintaining_high_defensive_line_controlling_space_and_applying_pressure.webp']
 ---
 
 # Maintaining High Defensive Line: Controlling Space and Applying Pressure

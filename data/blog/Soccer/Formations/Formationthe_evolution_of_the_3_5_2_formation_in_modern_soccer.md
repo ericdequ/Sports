@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'tactics', 'formations', 'coaching', '3-5-2', 'wingbacks', 'modern soccer', 'strategy', 'player development']
 draft: false
 summary: "Explore the tactical nuances of the 3-5-2 formation, including its adaptability and how teams use wingbacks effectively."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/Formationthe_evolution_of_the_3_5_2_formation_in_modern_soccer.webp']
 ---
 
 # The Evolution of the 3-5-2 Formation in Modern Soccer

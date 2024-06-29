@@ -4,6 +4,8 @@ date: '2023-03-23'
 tags: ['Soccer', 'Formation', 'Tactics', '2-3-5', 'History', 'Attacking', 'Coaching', 'Strategy', 'Analysis']
 draft: false
 summary: "Delve into the historical 2-3-5 formation in soccer and its significant impact on modern attacking strategies, blending historical insights with contemporary coaching perspectives."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/the_offensive_power_of_the_2_3_5_formation.webp']
 ---
 
 # The Offensive Power of the 2-3-5 Formation

@@ -4,6 +4,8 @@ date: '2022-02-02'
 tags: ['basketball', 'defense', 'small forward', 'coaching', 'lateral quickness', 'anticipation', 'hand positioning', 'perimeter defense', 'training']
 draft: false
 summary: "Explore strategies for small forwards to excel in perimeter defense, including lateral quickness, hand positioning, and anticipation."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/defensive_intensity_locking_down_perimeter_players.webp']
 ---
 
 ## Defensive Intensity: Locking Down Perimeter Players

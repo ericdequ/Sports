@@ -4,6 +4,8 @@ date: '2021-06-19'
 tags:  ['Basketball', 'Euro Step', 'Footwork', 'Manu Ginobili', 'Offensive Strategy']
 draft: false
 summary: "Dive into the technique behind the Euro Step, a move popularized by Manu Ginobili, examining how it can be used to outmaneuver defenders in the paint."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_euro_step_deceptive_footwork_in_the_paint.webp']
 ---
 
 ## The Euro Step: Deceptive Footwork in the Paint

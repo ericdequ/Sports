@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["soccer", "tactics", "formation", "defense", "attack", "football", "coaching", "strategy", "sports"]
 draft: false
 summary: "Analyze how the 4-4-1-1 formation balances defensive structure with attacking creativity."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/4_4_1_1_formation_combining_solidity_with_creative_freedom.webp']
 ---
 
 ## 4-4-1-1 Formation: Combining Solidity with Creative Freedom

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['injury prevention', 'sports', 'health', 'stretching', 'conditioning', 'coaching', 'athlete tips', 'season longevity', 'overuse']
 draft: false
 summary: "Explore techniques for injury prevention, including proper stretching, conditioning, and avoiding overuse to keep athletes healthy throughout the season."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/injury_prevention_staying_healthy_throughout_the_season.webp']
 ---
 
 # Injury Prevention: Staying Healthy Throughout the Season

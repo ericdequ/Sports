@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'tactics', 'forwards', 'coaching', 'player development', 'attacking moves', 'space creation']
 draft: false
 summary: "Explore the tactical nuance of forwards dropping deep in soccer to create space and orchestrate attacks, blending player insights with coaching expertise."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/dropping_deep_creating_space_and_building_play.webp']
 ---
 
 # Dropping Deep: Creating Space and Building Play

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'point guard', 'offense', 'strategy', 'pick-and-pop', 'coaching', 'player tips', 'versatility', 'fundamentals']
 draft: false
 summary: "Dive into the pick-and-pop play, an essential strategy for point guards to create offensive versatility by setting up big men for open jump shots."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/pick_and_pop_play_versatility_for_point_guards.webp']
 ---
 
 # Introduction

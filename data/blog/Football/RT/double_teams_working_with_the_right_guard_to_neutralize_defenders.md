@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["American Football", "Offensive Line", "Double Teams", "Coaching Tips", "Guard Tactics", "Blocking Schemes", "Game Strategy", "Communication", "Coordination"]
 draft: false
 summary: "Explore the crucial role of double teams in football, focusing on the coordination, communication, and timing between the right guard and other linemen to neutralize defenders effectively."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/double_teams_working_with_the_right_guard_to_neutralize_defenders.webp']
 ---
 
 # Double Teams: Working with the Right Guard to Neutralize Defenders

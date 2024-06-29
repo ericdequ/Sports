@@ -4,6 +4,8 @@ date: '2022-11-18'
 tags: ['football', 'offensive line', 'pass protection', 'right tackle', 'techniques', 'footwork', 'hand placement', 'leverage']
 draft: false
 summary: 'Explore techniques for effective pass protection as a right tackle, focusing on footwork, hand placement, and maintaining leverage.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/pass_protection_holding_the_edge_on_the_right_side.webp']
 ---
 
 ## Pass Protection: Holding the Edge on the Right Side

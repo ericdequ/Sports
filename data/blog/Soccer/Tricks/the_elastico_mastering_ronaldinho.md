@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'skills', 'dribbling', 'Ronaldinho', 'technique', 'coaching', 'advanced']
 draft: false
 summary: "Explore the technique behind the Elastico, its execution, and scenarios where it can be effectively used to beat defenders."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_elastico_mastering_ronaldinho.webp']
 ---
 
 # The Elastico: Mastering Ronaldinho's Signature Move

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Offense', 'Footwork', 'Training', 'Coaching', 'Player Development', 'Scoring', 'Techniques', 'Tips and Tricks']
 draft: false
 summary: "Analyze the importance of footwork in offensive play, including pivoting, jab steps, and creating angles for shots. Learn how mastering these techniques can elevate your scoring game."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/offensive_footwork_enhancing_your_scoring_ability.webp']
 ---
 
 ## Offensive Footwork: Enhancing Your Scoring Ability

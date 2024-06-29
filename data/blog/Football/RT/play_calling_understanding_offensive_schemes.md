@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Offensive Schemes', 'Play Calling', 'Coaching Tips', 'Right Tackle', 'Defensive Strategy', 'Adjustments', 'Game Strategy', 'Player Knowledge', 'Coaching Wisdom']
 draft: false
 summary: "Explore the intricate process of play calling for right tackles, delving into offensive schemes, defensive weaknesses, and in-game adjustments."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/play_calling_understanding_offensive_schemes.webp']
 ---
 
 ## Play Calling: Understanding Offensive Schemes

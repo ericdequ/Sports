@@ -4,6 +4,8 @@ date: '2023-06-27'
 tags: ['soccer', 'midfielders', 'defensive tactics', 'Casemiro', 'coaching tips', 'player analysis', 'football', 'strategy', 'defense', 'playmaking']
 draft: false
 summary: 'Analyzing the pivotal role of ball-winning midfielders like Casemiro in modern football, their techniques, and how they serve as the backbone of a strong defense.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/ball_winning_midfielders_the_first_line_of_defense.webp']
 ---
 
 # Ball-Winning Midfielders: The First Line of Defense

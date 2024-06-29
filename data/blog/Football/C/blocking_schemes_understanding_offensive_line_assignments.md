@@ -4,6 +4,8 @@ date: '2023-12-20'
 tags: ['Football', 'Coaching', 'Offensive Line', 'Blocking Schemes', 'Zone Blocking', 'Man Blocking', 'Combo Blocks', 'Center Role', 'Player Knowledge', 'Coaching Wisdom']
 draft: false
 summary: "Dive deep into the intricacies of blocking schemes in football. From zone blocking to man blocking and combo blocks, we explore the roles and responsibilities of the offensive line, with a focus on the pivotal role of the center."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/blocking_schemes_understanding_offensive_line_assignments.webp']
 ---
 
 ## Blocking Schemes: Understanding Offensive Line Assignments

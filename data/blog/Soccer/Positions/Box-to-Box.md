@@ -4,6 +4,8 @@ date: '2024-02-07'
 tags: ['soccer', 'midfielders', 'player analysis', 'coaching tips', 'NGolo Kante']
 draft: false
 summary: Dive deep into the multifaceted role of box-to-box midfielders, focusing on their contributions to both defense and offense, with player examples like NGolo Kante.
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/Box-to-Box.webp']
 ---
 
 # Box-to-Box Midfielders: The Teams Engine

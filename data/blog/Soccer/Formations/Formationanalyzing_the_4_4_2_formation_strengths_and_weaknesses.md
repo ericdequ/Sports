@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'tactics', 'formations', 'coaching', '4-4-2', 'defensive strategy', 'offensive strategy', 'soccer history', 'youth coaching']
 draft: false
 summary: "Dive into the classic 4-4-2 soccer formation, exploring its historical significance, tactical benefits, and the potential pitfalls both defensively and offensively."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/Formationanalyzing_the_4_4_2_formation_strengths_and_weaknesses.webp']
 ---
 
 # Analyzing the 4-4-2 Formation: Strengths and Weaknesses

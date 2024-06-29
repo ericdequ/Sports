@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Offensive Line', 'Strategy', 'Coaching Tips', 'Blitz Recognition', 'Stunts', 'Line Calls', 'Centers', 'Football IQ']
 draft: false
 summary: "A deep dive into how centers can master pre-snap recognition to anticipate blitzes and stunts, making effective line calls to protect the quarterback and execute successful plays."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/reading_the_defense_pre_snap_recognition.webp']
 ---
 
 # Reading the Defense: Pre-Snap Recognition

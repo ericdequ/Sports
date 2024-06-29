@@ -4,6 +4,8 @@ date: '2022-01-03'
 tags: ['football', 'play-action', 'offense', 'coaching', 'tips', 'strategies', 'quarterback', 'wide receiver', 'blocking', 'body language']
 draft: false
 summary: "Explore techniques for selling the run on play-action passes, including body language, blocking technique, and releasing into routes."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/play_action_passing_selling_the_run_and_getting_open.webp']
 ---
 
 # Play-Action Passing: Selling the Run and Getting Open

@@ -4,6 +4,8 @@ date: '2022-06-04'
 tags: ['Basketball', 'Coaching', 'Player Tips', 'Offense', 'Scoring', 'Free Throws', 'Aggressive Play', 'Contact Initiation', 'Game Strategy']
 draft: false
 summary: "Explore techniques for drawing fouls in basketball, including pump fakes, aggressive drives, and initiating contact to maximize trips to the free throw line."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/drawing_fouls_getting_to_the_free_throw_line.webp']
 ---
 
 # Drawing Fouls: Getting to the Free Throw Line

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Transition Scoring', 'Small Forward', 'Coaching Tips', 'Player Development']
 draft: false
 summary: "Learn techniques for small forwards to dominate in transition by running the floor, catching outlet passes, and finishing at the rim with finesse."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/transition_scoring_finishing_on_the_break.webp']
 ---
 
 ## Transition Scoring: Finishing on the Break

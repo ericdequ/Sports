@@ -4,6 +4,8 @@ date: '2022-04-06'
 tags: ['football', 'wide receiver', 'deep pass', 'coaching', 'skills', 'technique', 'training', 'athlete', 'performance']
 draft: false
 summary: 'Explore techniques for catching deep passes in football, including tracking the ball in the air, maintaining speed, and securing the catch.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/catching_deep_passes_tracking_and_finishing.webp']
 ---
 
 # Introduction

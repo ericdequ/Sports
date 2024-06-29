@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'offensive line', 'film study', 'coaching', 'game planning', 'player development', 'right tackle', 'defensive analysis', 'strategy']
 draft: false
 summary: "Explore the critical role of film study for right tackles in football, emphasizing the importance of breaking down defenses, identifying tendencies, and creating strategic game plans."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/film_study_preparing_for_opponents.webp']
 ---
 
 # Film Study: Preparing for Opponents

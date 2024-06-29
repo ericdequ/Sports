@@ -4,6 +4,8 @@ date: '2021-07-16'
 tags: ['Football', 'Situational Awareness', 'Coaching', 'Player Intelligence', 'Game Strategy', 'Tips', 'Performance Enhancement']
 draft: false
 summary: 'Master the critical aspects of situational awareness to enhance your game strategy and decision-making on the football field.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/situational_awareness_knowing_down_distance_and_game_context.webp']
 ---
 
 ## Situational Awareness: Knowing Down, Distance, and Game Context

@@ -4,6 +4,8 @@ date: "2023-10-09"
 tags: ['football', 'coaching', 'strategy', 'offense', 'communication', 'snap count', 'silent count', 'cadence']
 draft: false
 summary: "Explore the sophisticated strategies of using silent counts and varied snap cadences in football, essential for maintaining communication and timing in noisy environments."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/silent_counts_and_snap_cadence_communicating_without_words.webp']
 ---
 
 # Silent Counts and Snap Cadence: Communicating Without Words

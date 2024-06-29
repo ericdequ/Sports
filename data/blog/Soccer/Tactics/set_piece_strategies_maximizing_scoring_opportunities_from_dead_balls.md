@@ -4,6 +4,8 @@ date: '2021-06-27'
 tags: ['soccer', 'football', 'set pieces', 'scoring', 'coaching', 'strategies', 'training', 'dead balls', 'free kicks', 'corners']
 draft: false
 summary: "Explore different set-piece strategies, the importance of delivery, and training methods to enhance effectiveness in soccer."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/set_piece_strategies_maximizing_scoring_opportunities_from_dead_balls.webp']
 ---
 
 # Set-Piece Strategies: Maximizing Scoring Opportunities from Dead Balls

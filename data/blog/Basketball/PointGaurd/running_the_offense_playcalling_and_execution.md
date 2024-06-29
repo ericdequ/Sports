@@ -4,6 +4,8 @@ date: '2022-02-22'
 tags: ['basketball', 'point guard', 'offense strategy', 'playcalling', 'coaching tips', 'teambuilding', 'skill development', 'shot clock management']
 draft: false
 summary: "Dive into the essential duties of a point guard in orchestrating the offense, including playcalling, setting up scoring opportunities, and managing the shot clock."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/running_the_offense_playcalling_and_execution.webp']
 ---
 
 # Running the Offense: Playcalling and Execution

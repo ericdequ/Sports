@@ -4,6 +4,8 @@ date: '2024-01-23'
 tags: ['basketball', 'footwork', 'point guards', 'agility', 'balance', 'pivoting', 'jump stops', 'coaching tips', 'player knowledge', 'skills enhancement']
 draft: false
 summary: 'Discover the key footwork fundamentals to enhance agility and balance for point guards, including tips on pivoting, jump stops, and changing direction quickly.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/footwork_fundamentals_enhancing_agility_and_balance.webp']
 ---
 
 # Footwork Fundamentals: Enhancing Agility and Balance

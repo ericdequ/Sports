@@ -4,6 +4,8 @@ date: '2021-10-05'
 tags: ['Soccer', 'Tactics', 'Wingbacks', 'Coaching', 'Formations', 'Defense', 'Attack', 'Strategy', 'Player Roles']
 draft: false
 summary: 'An in-depth look at the tactical role of wingbacks in modern soccer, discussing their contributions to both defensive solidity and attacking width in various formations.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/utilizing_wingbacks_providing_width_and_defensive_cover.webp']
 ---
 
 # Utilizing Wingbacks: Providing Width and Defensive Cover

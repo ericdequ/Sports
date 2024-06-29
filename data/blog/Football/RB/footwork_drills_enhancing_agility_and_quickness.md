@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'training', 'footwork', 'agility', 'quickness', 'running backs', 'coaching', 'player development', 'drills']
 draft: false
 summary: "Analyze key footwork drills to improve agility, balance, and quickness, helping running backs to evade tacklers."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/footwork_drills_enhancing_agility_and_quickness.webp']
 ---
 
 # Footwork Drills: Enhancing Agility and Quickness

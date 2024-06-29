@@ -4,6 +4,8 @@ date: '2021-09-12'
 tags: ['Football', 'Trenches', 'Leverage', 'Hand Placement', 'Coaching', 'Techniques', 'Offensive Line', 'Defensive Line']
 draft: false
 summary: "Analyze techniques for maintaining leverage and proper hand placement to control defensive linemen."
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/leverage_and_hand_placement_winning_the_battle_in_the_trenches.webp']
 ---
 
 # Leverage and Hand Placement: Winning the Battle in the Trenches

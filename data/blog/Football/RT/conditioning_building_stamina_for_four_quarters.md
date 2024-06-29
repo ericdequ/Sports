@@ -4,6 +4,8 @@ date: '2023-11-27'
 tags: ['Football', 'Conditioning', 'Player Development', 'Stamina', 'Right Tackle', 'Fitness', 'Coaching']
 draft: false
 summary: "Dive deep into specialized conditioning programs designed for right tackles, focusing on increasing stamina and ensuring peak performance throughout the entirety of a game."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/conditioning_building_stamina_for_four_quarters.webp']
 ---
 
 # Conditioning: Building Stamina for Four Quarters

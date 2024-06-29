@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Ball Security', 'Coaching Tips', 'Player Wisdom', 'Fumbles', 'Techniques', 'Offense', 'Defense', 'Training']
 draft: false
 summary: "Master the art of ball security in football by learning the essential carrying techniques, strategies for avoiding fumbles, and how to protect the ball in traffic."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/ball_security_protecting_the_football.webp']
 ---
 
 # Ball Security: Protecting the Football

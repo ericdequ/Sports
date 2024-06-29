@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Football", "Training", "Drills", "Agility", "Balance", "Footwork", "Right Guards", "Coaching", "Mobility"]
 draft: false
 summary: "This article delves into essential footwork drills that right guards can implement to improve agility, balance, and quickness, supported by both player insights and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/footwork_fundamentals_enhancing_mobility_and_balance_for_right_guards.webp']
 ---
 
 # Footwork Fundamentals: Enhancing Mobility and Balance for Right Guards

@@ -4,6 +4,8 @@ date: '2023-03-05'
 tags: ['football', 'footwork', 'agility', 'balance', 'drills', 'left tackle', 'mobility', 'quickness', 'coaching']
 draft: false
 summary: 'Analyze key footwork drills to improve agility, balance, and quickness for left tackles in football.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/footwork_fundamentals_enhancing_mobility_and_balance.webp']
 ---
 
 # Footwork Fundamentals: Enhancing Mobility and Balance

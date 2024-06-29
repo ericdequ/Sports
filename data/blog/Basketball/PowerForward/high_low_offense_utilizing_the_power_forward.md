@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'offense', 'high-low', 'power forward', 'coaching', 'strategy', 'scoring', 'NBA', 'teamwork']
 draft: false
 summary: "Examine the high-low offensive strategy, focusing on the role of the power forward in creating scoring opportunities."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/high_low_offense_utilizing_the_power_forward.webp']
 ---
 
 ## High-Low Offense: Utilizing the Power Forward

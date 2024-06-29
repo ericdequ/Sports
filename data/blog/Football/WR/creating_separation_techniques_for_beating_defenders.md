@@ -4,6 +4,8 @@ date: '2022-02-09'
 tags: ['sports', 'football', 'basketball', 'soccer', 'techniques', 'coaching', 'player-tips']
 draft: false
 summary: 'Master the art of creating separation from defenders with these advanced techniques, incorporating quick cuts, speed variation, and body leverage.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/creating_separation_techniques_for_beating_defenders.webp']
 ---
 
 # Creating Separation: Techniques for Beating Defenders

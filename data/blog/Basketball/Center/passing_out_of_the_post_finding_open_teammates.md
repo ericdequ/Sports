@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags:  ['basketball', 'coaching', 'skills', 'passing', 'strategy', 'teamwork']
 draft: false
 summary: "Explore techniques for effective passing from the post, including recognizing double teams and hitting open shooters."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/passing_out_of_the_post_finding_open_teammates.webp']
 ---
 
 ## Passing Out of the Post: Finding Open Teammates

@@ -4,6 +4,8 @@ date: '2023-03-30'
 tags: ['Basketball', 'Shooting', 'Dribble', 'Footwork', 'Shot Mechanics', 'Balance', 'Player Development', 'Coaching Wisdom', 'Basketball Tips']
 draft: false
 summary: "Explore the intricate techniques for mastering shooting off the dribble, focusing on essential elements such as footwork, balance, and shot mechanics."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/shooting_off_the_dribble_creating_your_own_shot.webp']
 ---
 
 ## Shooting Off the Dribble: Creating Your Own Shot

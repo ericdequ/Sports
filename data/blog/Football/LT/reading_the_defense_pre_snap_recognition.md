@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'left tackle', 'offensive line', 'blitz', 'stunts', 'defensive alignments', 'coaching tips', 'player skills', 'strategy']
 draft: false
 summary: "Master the art of pre-snap recognition to improve your game as a left tackle. Learn how to read defensive alignments and anticipate blitzes and stunts for effective adjustments."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/reading_the_defense_pre_snap_recognition.webp']
 ---
 
 # Reading the Defense: Pre-Snap Recognition

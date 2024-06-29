@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'offensive line', 'technique', 'coaching', 'strategy', 'left guard', 'footwork', 'timing', 'blocking']
 draft: false
 summary: "An in-depth analysis of the pulling technique for left guards in football, breaking down critical aspects such as footwork, timing, and targeting defensive players in space to execute successful outside runs."
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/pulling_leading_the_charge_on_outside_runs.webp']
 ---
 
 # Pulling: Leading the Charge on Outside Runs

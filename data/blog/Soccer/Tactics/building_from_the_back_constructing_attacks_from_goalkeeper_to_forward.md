@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'strategy', 'goalkeeping', 'defending', 'midfield', 'coaching', 'attacking', 'team dynamics', 'player development']
 draft: false
 summary: "Explore the strategies soccer teams use to build attacks from the goalkeeper, through the defenders, and into the forward positions to create goal-scoring opportunities."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/building_from_the_back_constructing_attacks_from_goalkeeper_to_forward.webp']
 ---
 
 # Building from the Back: Constructing Attacks from Goalkeeper to Forward

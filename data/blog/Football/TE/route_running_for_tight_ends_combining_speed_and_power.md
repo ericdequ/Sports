@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['route running', 'tight ends', 'football', 'coaching', 'player tips', 'speed', 'power', 'techniques']
 draft: false
 summary: "Explore techniques for running effective routes as a tight end, focusing on using size and speed to create separation."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/route_running_for_tight_ends_combining_speed_and_power.webp']
 ---
 
 # Route Running for Tight Ends: Combining Speed and Power

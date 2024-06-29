@@ -4,6 +4,8 @@ date: '2021-02-13'
 tags: ['Basketball', 'Shooting', 'Technique', 'Coaching Tips', 'Footwork', 'Shot Mechanics', 'Training', 'Skills Development', 'Player Enhancement']
 draft: false
 summary: 'Explore techniques for becoming a proficient catch-and-shoot player, focusing on footwork, quick release, and shot mechanics.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/catch_and_shoot_perfecting_quick_release.webp']
 ---
 
 # Catch-and-Shoot: Perfecting Quick Release

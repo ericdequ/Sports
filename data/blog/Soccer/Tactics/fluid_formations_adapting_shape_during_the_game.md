@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["football", "tactics", "formations", "strategy", "coaching", "analysis", "gameplay"]
 draft: false
 summary: "A deep dive into how football teams use fluid formations to adapt their shape during different phases of the game."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/fluid_formations_adapting_shape_during_the_game.webp']
 ---
 
 # Fluid Formations: Adapting Shape During the Game

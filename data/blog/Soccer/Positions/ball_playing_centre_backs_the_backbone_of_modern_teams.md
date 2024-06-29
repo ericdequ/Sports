@@ -4,6 +4,8 @@ date: '2022-12-14'
 tags: ['soccer', 'football', 'defense', 'tactics', 'playmaking', 'Virgil van Dijk', 'strategy']
 draft: false
 summary: "Explore the critical role of ball-playing centre-backs like Virgil van Dijk who initiate attacks with their incredible passing and vision, becoming the cornerstone of modern football strategies."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/ball_playing_centre_backs_the_backbone_of_modern_teams.webp']
 ---
 
 # Ball-Playing Centre-Backs: The Backbone of Modern Teams

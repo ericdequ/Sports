@@ -4,6 +4,8 @@ date: '2022-09-29'
 tags: ['soccer', 'tactics', 'central overloads', 'possession play', 'midfield', 'coaching', 'playmaking', 'strategy', 'attacking', 'skill development']
 draft: false
 summary: "Explore advanced tactics for creating overloads in central areas to dominate possession and create scoring opportunities in soccer."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/central_overloads_dominating_the_middle_of_the_park.webp']
 ---
 
 # Central Overloads: Dominating the Middle of the Park

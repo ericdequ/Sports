@@ -4,6 +4,8 @@ date: '2021-11-03'
 tags: ['Basketball', 'Skills Development', 'Coaching', 'Player Tips', 'Scoring', 'Technique', 'Layups', 'Floaters', 'Contact Finishes']
 draft: false
 summary: "Analyze techniques for finishing in the paint, including layups, floaters, and finishing through contact."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/scoring_in_the_paint_finishing_through_contact.webp']
 ---
 
 # Scoring in the Paint: Finishing Through Contact

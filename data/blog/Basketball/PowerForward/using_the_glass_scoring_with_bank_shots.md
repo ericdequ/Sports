@@ -4,6 +4,8 @@ date: "2023-10-18"
 tags: ['basketball', 'skills', 'techniques', 'coaching', 'player-tips']
 draft: false
 summary: "Master the art of bank shots in basketball by understanding the crucial angles and touch needed for consistent finishes using the backboard."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/using_the_glass_scoring_with_bank_shots.webp']
 ---
 
 ```

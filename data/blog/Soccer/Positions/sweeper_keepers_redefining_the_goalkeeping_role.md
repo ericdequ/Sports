@@ -4,6 +4,8 @@ date: '2022-11-17'
 tags: ['Soccer', 'Goalkeeping', 'Manuel Neuer', 'Tactics', 'Defensive Strategy', 'Modern Football', 'Sweeper Keeper', 'Coaching Tips', 'Player Development']
 draft: false
 summary: "Explore how modern keepers, like Manuel Neuer, combine shot-stopping with sweeping up behind the defense."
+
+images: ['https://example.com/manuel_neuer_sweeper_keeper_image.jpg', 'https://www.sportstips.org/articleimage/Soccer/Positions/sweeper_keepers_redefining_the_goalkeeping_role.webp']
 ---
 
 # Sweeper Keepers: Redefining the Goalkeeping Role

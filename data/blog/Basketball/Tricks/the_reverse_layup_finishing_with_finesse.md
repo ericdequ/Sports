@@ -5,6 +5,8 @@ tags: ['Basketball', 'Skills', 'Technique', 'Offense', 'Player Development', 'Co
 draft: false
 summary: "Dive into the intricacies of the reverse layup, a skillful move that allows players to finish around defenders with elegance. Enhance your understanding of its technique and learn how to coach this essential basketball skill."
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_reverse_layup_finishing_with_finesse.webp']
 ---
 
 # The Reverse Layup: Finishing with Finesse

@@ -4,6 +4,8 @@ date: '2024-01-14'
 tags: ['football', 'wide receivers', 'film study', 'coaching', 'route running', 'defense', 'tactics', 'player development', 'game preparation']
 draft: false
 summary: 'Dive into the significance of film study for wide receivers, focusing on how examining defensive strategies enhances route running and overall performance.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/film_study_preparing_for_opponents.webp']
 ---
 
 # Film Study: Preparing for Opponents

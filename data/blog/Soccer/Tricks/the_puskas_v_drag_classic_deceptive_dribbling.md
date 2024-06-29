@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Dribbling Techniques', 'Deceptive Moves', 'Puskas', 'Skills', 'Soccer History', 'Player Tips', 'Coaching Wisdom', 'Tricks']
 draft: false
 summary: "Explore the historical significance and modern application of the Puskas V-Drag to leave defenders in the dust with this timeless dribbling maneuver."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_puskas_v_drag_classic_deceptive_dribbling.webp']
 ---
 
 # The Puskas V-Drag: Classic Deceptive Dribbling

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["football", "punting", "special teams", "technique", "coaching", "player knowledge", "mechanics", "leg swing", "follow-through", "body positioning"]
 draft: false
 summary: "Explore the fundamentals of punting mechanics, including leg swing, follow-through, and body positioning to up your game."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/punting_mechanics_perfecting_your_technique.webp']
 ---
 
 # Punting Mechanics: Perfecting Your Technique

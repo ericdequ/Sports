@@ -4,6 +4,8 @@ date: '2023-06-14'
 tags: ['Football', 'Special Teams', 'Kickoff', 'Tips', 'Strategies', 'Coaching', 'Player Knowledge', 'Hang Time', 'Distance']
 draft: false
 summary: 'Unlock the secrets to effective kickoffs in football with our guide focusing on maximizing distance, hang time, and strategic placement.'
+
+images: ['https://www.sportstips.org/articleimage/Football/K/kickoff_strategies_maximizing_distance_and_hang_time.webp']
 ---
 
 # Kickoff Strategies: Maximizing Distance and Hang Time

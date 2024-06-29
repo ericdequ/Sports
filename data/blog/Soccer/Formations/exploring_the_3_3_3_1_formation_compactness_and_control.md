@@ -4,6 +4,8 @@ date: '2021-05-29'
 tags: ['soccer', 'tactics', 'formations', 'coaching', 'midfield control', 'defense', 'strategy', 'compactness', 'possession']
 draft: false
 summary: "Dive deep into the tactical advantages and complexities of the 3-3-3-1 formation in soccer. Understand the nuances of this compact structure and how it enhances midfield control and overall gameplay."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/exploring_the_3_3_3_1_formation_compactness_and_control.webp']
 ---
 
 ## Introduction

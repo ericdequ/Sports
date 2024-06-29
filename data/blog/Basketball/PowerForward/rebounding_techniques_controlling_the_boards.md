@@ -5,6 +5,8 @@ tags: ['basketball', 'rebounding', 'power forwards', 'coaching', 'techniques']
 draft: false
 summary: 'Delve into the critical rebounding techniques including positioning, boxing out, and timing to dominate as a power forward.'
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/rebounding_techniques_controlling_the_boards.webp']
 ---
 
 # Rebounding Techniques: Controlling the Boards

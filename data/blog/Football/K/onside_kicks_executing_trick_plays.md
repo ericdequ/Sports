@@ -5,6 +5,8 @@ tags: ['football', 'special teams', 'kickoff', 'trick plays', 'strategies', 'ons
 draft: false
 summary: "Explore strategies for executing successful onside kicks in football, including ball placement, kick angle, and timing, from the viewpoint of both players and coaches."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/K/onside_kicks_executing_trick_plays.webp']
 ---
 
 ## Onside Kicks: Executing Trick Plays

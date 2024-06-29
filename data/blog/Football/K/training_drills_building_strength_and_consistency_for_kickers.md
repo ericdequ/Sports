@@ -5,6 +5,8 @@ tags: ['sports', 'football', 'kicking', 'training drills', 'strength', 'accuracy
 draft: false
 summary: 'A comprehensive guide to key training drills for kickers focusing on leg strength, accuracy, and consistency routines to enhance performance on the field.'
 
+
+images: ['https://www.sportstips.org/articleimage/Football/K/training_drills_building_strength_and_consistency_for_kickers.webp']
 ---
 
 # Training Drills: Building Strength and Consistency for Kickers

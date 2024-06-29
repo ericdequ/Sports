@@ -4,6 +4,8 @@ date: '2022-10-01'
 tags: ['football', 'coaching', 'run blocking', 'offensive line', 'techniques', 'footwork', 'hand placement', 'drills', 'training']
 draft: false
 summary: "Explore techniques for effective run blocking, focusing on footwork, hand placement, and driving through defenders to create optimal running lanes."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/run_blocking_creating_running_lanes.webp']
 ---
 
 ### Introduction

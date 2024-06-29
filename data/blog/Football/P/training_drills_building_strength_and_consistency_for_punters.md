@@ -4,6 +4,8 @@ date: '2023-08-14'
 tags: ['Football', 'Training', 'Drills', 'Strength', 'Consistency', 'Punters', 'Special Teams', 'Coaching', 'Player Development']
 draft: false
 summary: 'Analyze key training drills for punters, including leg strength exercises, accuracy drills, and consistency routines.'
+
+images: ['https://www.sportstips.org/articleimage/Football/P/training_drills_building_strength_and_consistency_for_punters.webp']
 ---
 
 # Training Drills: Building Strength and Consistency for Punters

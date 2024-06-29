@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'passing', 'technique', 'NFL', 'coaching', 'quarterback', 'wide receiver', 'training', 'tips']
 draft: false
 summary: "Master the art of the back shoulder throw in football with insights on perfecting timing and accuracy, key techniques, and using this weapon to beat tight coverage."
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/back_shoulder_throws_timing_and_accuracy.webp']
 ---
 
 # Back Shoulder Throws: Timing and Accuracy

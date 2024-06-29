@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'strategy', 'power forward', 'pick-and-pop', 'coaching', 'player development', 'shooting', 'plays', 'team dynamics']
 draft: false
 summary: "Explore the pick-and-pop play, where the power forward sets a screen and then pops out for an open jump shot, increasing versatility and opening offense for modern teams."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/pick_and_pop_versatility_for_modern_power_forwards.webp']
 ---
 
 # Pick-and-Pop: Versatility for Modern Power Forwards

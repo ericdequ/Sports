@@ -5,6 +5,8 @@ tags: ['field goals', 'football', 'kicking techniques', 'training methods', 'leg
 draft: false
 summary: "Explore training methods and techniques for increasing the range of your field goals, including leg strength and mechanics."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/K/long_field_goals_extending_your_range.webp']
 ---
 
 ## Long Field Goals: Extending Your Range

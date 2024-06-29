@@ -4,6 +4,8 @@ date: '2022-02-26'
 tags: ['sports', 'performance', 'mental toughness', 'coaching', 'athlete', 'clutch moments', 'shot selection', 'confidence', 'composure']
 draft: false
 summary: 'Dive deep into the mental and technical aspects of clutch performance in sports, and learn the secrets to excel when the stakes are highest.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/clutch_performance_making_plays_in_critical_moments.webp']
 ---
 
 # Clutch Performance: Making Plays in Critical Moments

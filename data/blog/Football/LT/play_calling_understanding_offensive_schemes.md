@@ -4,6 +4,8 @@ date: '2021-06-02'
 tags: ['Football', 'Play Calling', 'Offensive Schemes', 'Coaching', 'Player Knowledge', 'Left Tackle', 'Strategy', 'Offense', 'Defensive Recognition']
 draft: false
 summary: 'A deep dive into the nuances of play calling for left tackles, focusing on offensive schemes, defensive recognition, and in-game adjustments.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/play_calling_understanding_offensive_schemes.webp']
 ---
 
 # Play Calling: Understanding Offensive Schemes

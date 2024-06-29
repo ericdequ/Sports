@@ -4,6 +4,8 @@ date: '2023-08-01'
 tags: ['Basketball', 'Skills', 'Dribbling', 'Allen Iverson', 'Coaching', 'Techniques', 'Player Tips', 'Crossover Dribble']
 draft: false
 summary: "Explore the mechanics of the crossover dribble, its execution, and how players like Allen Iverson used it to create space."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_crossover_breaking_ankles_with_style.webp']
 ---
 
 # The Crossover: Breaking Ankles with Style

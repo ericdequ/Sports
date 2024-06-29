@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['career longevity', 'training', 'techniques', 'physical health', 'sports', 'athlete health', 'performance', 'sports coaching', 'wellness']
 draft: false
 summary: "Explore strategies for extending an athlete's career by focusing on consistent training, adapting techniques, and maintaining physical health. Gain insights from both player experiences and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/career_longevity_maintaining_performance_over_time.webp']
 ---
 
 # Career Longevity: Maintaining Performance Over Time

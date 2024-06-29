@@ -4,6 +4,8 @@ date: '2022-03-02'
 tags: ['soccer', 'Lionel Messi', 'dribbling skills', 'soccer techniques', 'player analysis', 'skill development', 'coaching tips', 'training', 'sports']
 draft: false
 summary: "Examine the Chop move, popularized by Lionel Messi, focusing on its execution and how it can create space in crowded areas."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_chop_messi.webp']
 ---
 
 ## The Chop: Messi's Sudden Change of Direction

@@ -4,6 +4,8 @@ date: '2023-08-21'
 tags: ['football', 'offensive line', 'communication', 'coaching', 'defensive alignments', 'line calls', 'teamwork', 'adjustments']
 draft: false
 summary: "Discover the critical role of line calls in football, focusing on defensive alignments, communicating adjustments, and effectively directing teammates through a blend of player knowledge and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/line_calls_communicating_with_the_offensive_line.webp']
 ---
 
 # Line Calls: Communicating with the Offensive Line

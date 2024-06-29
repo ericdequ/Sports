@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Basketball", "Sports IQ", "Point Guards", "Coaching", "Playmaking", "Anticipation", "Game Understanding", "Decision Making", "Player Development"]
 draft: false
 summary: "Explore the critical importance of basketball IQ for point guards, emphasizing game understanding, quick decision-making, and play anticipation."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/high_basketball_iq_reading_the_game_and_making_smart_decisions.webp']
 ---
 
 ## High Basketball IQ: Reading the Game and Making Smart Decisions

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'coaching', 'player skills', 'offense', 'footwork', 'drop step', 'basketball drills', 'scoring', 'training']
 draft: false
 summary: "Dive into the mechanics and strategic application of the drop step move in basketball, a crucial skill for creating separation and scoring effectively."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/using_the_drop_step_creating_space_for_easy_baskets.webp']
 ---
 
 # Using the Drop Step: Creating Space for Easy Baskets

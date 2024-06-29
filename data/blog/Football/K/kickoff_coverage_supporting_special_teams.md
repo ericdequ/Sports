@@ -4,6 +4,8 @@ date: '2021-09-29'
 tags: ['special teams', 'football', 'kickoff', 'coaching', 'player development', 'strategy', 'tackling', 'positioning', 'kicker', 'coverage team']
 draft: false
 summary: "A deep dive into the intricacies of kickoff coverage, examining the crucial role of the kicker in placement, positioning, and tackling to ensure successful special teams performance."
+
+images: ['https://www.sportstips.org/articleimage/Football/K/kickoff_coverage_supporting_special_teams.webp']
 ---
 
 # Kickoff Coverage: Supporting Special Teams

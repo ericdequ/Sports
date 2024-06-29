@@ -5,6 +5,8 @@ tags: ['basketball', 'player skills', 'coaching', 'passing', 'basketball trainin
 draft: false
 summary: 'Explore different types of basketball passes—bounce passes, chest passes, and no-look passes—and master them with precision and creativity.'
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/passing_skills_precision_and_creativity.webp']
 ---
 
 # Passing Skills: Precision and Creativity

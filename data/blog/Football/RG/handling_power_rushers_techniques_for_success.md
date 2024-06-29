@@ -5,6 +5,8 @@ tags: ['football', 'techniques', 'blocking', 'NFL', 'coaching', 'player developm
 draft: false
 summary: 'A comprehensive guide to surviving and thriving against power rushers, laden with tips and tricks from both player knowledge and coaching wisdom.'
 
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/handling_power_rushers_techniques_for_success.webp']
 ---
 
 # Handling Power Rushers: Techniques for Success

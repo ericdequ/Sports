@@ -4,6 +4,8 @@ date: '2022-10-15'
 tags: ['Football', 'Running Back', 'Open Field', 'Strategies', 'Coaching Tips', 'Player Skills', 'Angle Running', 'Downfield Blocks', 'Gains']
 draft: false
 summary: 'Dive into advanced strategies for effective open field running, focusing on reading downfield blocks and utilizing angles to maximize yardage gains.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/open_field_running_maximizing_space.webp']
 ---
 
 # Open Field Running: Maximizing Space

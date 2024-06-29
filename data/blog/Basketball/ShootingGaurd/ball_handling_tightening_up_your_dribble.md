@@ -4,6 +4,8 @@ date: '2022-03-08'
 tags: ['Basketball', 'Skills Development', 'Coaching Tips', 'Dribbling Drills', 'Shooting Guards']
 draft: false
 summary: "Discuss the importance of strong ball-handling skills for shooting guards, including drills and techniques to improve control."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/ball_handling_tightening_up_your_dribble.webp']
 ---
 
 ## Introduction

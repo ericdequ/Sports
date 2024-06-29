@@ -4,6 +4,8 @@ date: '2021-10-04'
 tags: ['Football', 'Offensive Line', 'Strategy', 'Teamwork', 'Coordination', 'Communication', 'Blocking Techniques', 'Coaching Tips', 'Defensive Strategies']
 draft: false
 summary: "Explore the intricacies of double teams in football, focusing on the coordination, communication, and timing between the right tackle and other offensive linemen to neutralize defenders effectively."
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/double_teams_working_with_the_right_tackle_to_neutralize_defenders.webp']
 ---
 
 # Double Teams: Working with the Right Tackle to Neutralize Defenders

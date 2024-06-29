@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["soccer", "technique", "driven shot", "coaching tactics", "striker tips"]
 draft: false
 summary: "Analyze the technique for driven shots in soccer, emphasizing striking through the ball to keep it low and hard. This comprehensive guide blends player knowledge and coaching wisdom for mastering this essential skill."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard.webp', '#image']
 ---
 
 # The Driven Shot: Low and Hard

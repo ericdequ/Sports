@@ -4,6 +4,8 @@ date: '2024-05-14'
 tags: ['basketball', 'defense', 'shooting guards', 'coaching', 'player development', 'on-ball defense', 'screens', 'help defense']
 draft: false
 summary: "This article delves into the defensive role of shooting guards in basketball, covering the crucial aspects such as on-ball defense, chasing through screens, and providing help defense."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/defensive_responsibilities_locking_down_opponents.webp']
 ---
 
 ## Defensive Responsibilities: Locking Down Opponents

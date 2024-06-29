@@ -4,6 +4,8 @@ date: '2022-03-26'
 tags: ['soccer', 'wingers', 'tactics', 'coaching', 'defense', 'offense', 'strategy', 'football', 'player development']
 draft: false
 summary: 'A deep dive into the tactical advantage of switching flanks for wingers to create scoring opportunities and disrupt defensive setups.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/switching_flanks_dynamic_movement_to_unsettle_defenses.webp']
 ---
 
 # Switching Flanks: Dynamic Movement to Unsettle Defenses

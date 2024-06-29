@@ -4,6 +4,8 @@ date: '2023-07-01'
 tags: ['Basketball', 'Small Forwards', 'Offensive Skills', 'Driving', 'Techniques', 'Finishing', 'Drawing Fouls', 'Coaching Tips']
 draft: false
 summary: 'Explore techniques for small forwards to effectively drive to the basket, including finishing through contact and drawing fouls.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/slashing_to_the_rim_attacking_with_aggression.webp']
 ---
 
 ## Slashing to the Rim: Attacking with Aggression

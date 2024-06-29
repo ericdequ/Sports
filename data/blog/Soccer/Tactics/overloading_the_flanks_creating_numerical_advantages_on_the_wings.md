@@ -4,6 +4,8 @@ date: '2024-03-08'
 tags: ['soccer', 'tactics', 'flank play', 'crosses', 'cutbacks', 'coaching', 'wingers', 'strategy', 'soccer tactics']
 draft: false
 summary: 'An in-depth look at how soccer teams exploit the flanks to gain numerical superiority and achieve strategic advantages through crosses and cutbacks.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/overloading_the_flanks_creating_numerical_advantages_on_the_wings.webp']
 ---
 
 ## Overloading the Flanks: Creating Numerical Advantages on the Wings

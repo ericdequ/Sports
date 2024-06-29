@@ -4,6 +4,8 @@ date: '2023-12-18'
 tags: ['soccer', 'skills', 'technique', 'coaching', 'tricks', 'dribbling', 'attacking', 'training', 'analysis']
 draft: false
 summary: "Analyze the sombrero flick, its technique, and scenarios where lifting the ball over an opponent is the best option."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_sombrero_flick_going_over_the_top.webp']
 ---
 
 # The Sombrero Flick: Going Over the Top

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Soccer', 'Technique', 'Goals', 'Scissor Kick', 'Coaching', 'Player Skills', 'Top Plays', 'Training', 'Spectacular Goals']
 draft: false
 summary: "Examine the technique of the scissor kick, focusing on its execution and the scenarios in which it can be used to score spectacular goals."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_scissor_kick_spectacular_and_effective.webp']
 ---
 
 ## The Scissor Kick: Spectacular and Effective

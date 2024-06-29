@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Football", "Film Study", "Left Tackle", "Tactics", "Game Planning", "Coaching", "Preparation", "Strategy"]
 draft: false
 summary: "Dive deep into the critical role film study plays for left tackles in football. Learn how breaking down defenses, identifying tendencies, and comprehensive game planning elevate performance and secure victories on the field."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/film_study_preparing_for_opponents.webp']
 ---
 
 ### Film Study: Preparing for Opponents

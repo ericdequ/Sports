@@ -4,6 +4,8 @@ date: '2022-07-09'
 tags: ['penalty kicks', 'soccer', 'mental strength', 'technique', 'goalkeeper', 'coaching', 'training', 'sports psychology', 'composure']
 draft: false
 summary: 'Examine the mental and technical aspects of taking a penalty kick, including run-up, striking technique, and goalkeeper analysis.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/penalty_kicks_composure_and_technique.webp']
 ---
 
 # Penalty Kicks: Composure and Technique

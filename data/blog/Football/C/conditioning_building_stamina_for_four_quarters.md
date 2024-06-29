@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Conditioning', 'Stamina', 'Centers', 'Training', 'Endurance', 'Fitness', 'Performance', 'Coaching']
 draft: false
 summary: "Explore conditioning programs tailored for basketball centers to build stamina and maintain performance throughout the game."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/conditioning_building_stamina_for_four_quarters.webp']
 ---
 
 ## Introduction

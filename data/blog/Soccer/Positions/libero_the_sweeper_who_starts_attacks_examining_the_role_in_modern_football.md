@@ -4,6 +4,8 @@ date: '2021-12-15'
 tags: ['Football', 'Tactics', 'Libero', 'Franz Beckenbauer', 'Modern Football']
 draft: false
 summary: "A deep dive into the role of the libero, with a historical focus on Franz Beckenbauer, and how this position has evolved to influence modern football."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/libero_the_sweeper_who_starts_attacks_examining_the_role_in_modern_football.webp']
 ---
 
 # Libero: The Sweeper Who Starts Attacks

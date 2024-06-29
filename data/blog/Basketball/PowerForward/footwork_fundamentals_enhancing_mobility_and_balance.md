@@ -4,6 +4,8 @@ date: '2021-10-09'
 tags: ['basketball', 'footwork', 'training', 'agility', 'balance', 'power forward', 'drills', 'techniques', 'coaching']
 draft: false
 summary: 'Analyze key footwork drills and techniques that improve a power forward’s agility, balance, and effectiveness on the court.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/footwork_fundamentals_enhancing_mobility_and_balance.webp']
 ---
 
 # Footwork Fundamentals: Enhancing Mobility and Balance

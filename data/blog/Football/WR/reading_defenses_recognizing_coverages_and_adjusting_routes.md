@@ -4,6 +4,8 @@ date: "2024-11-02"
 tags: ["football", "wide receivers", "defensive coverages", "strategy", "coaching", "routes", "playmaking", "NFL", "college football"]
 draft: false
 summary: "Unlock the secrets to reading defensive coverages and adjusting routes in football to enhance your playmaking abilities as a wide receiver."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/reading_defenses_recognizing_coverages_and_adjusting_routes.webp']
 ---
 
 # Reading Defenses: Recognizing Coverages and Adjusting Routes

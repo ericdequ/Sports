@@ -4,6 +4,8 @@ date: '2021-07-02'
 tags: ['Football', 'Special Teams', 'Punting', 'Pressure Management', 'Coaching', 'Player Advice', 'Game Strategy', 'Mental Toughness', 'Technique']
 draft: false
 summary: "Explore expert techniques for punters in football to handle pressure during punts. From quick setups to maintaining composure and evading rushers, this guide blends player knowledge with coaching wisdom to enhance performance on the field."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/handling_pressure_staying_calm_under_rush.webp']
 ---
 
 # Handling Pressure: Staying Calm Under Rush

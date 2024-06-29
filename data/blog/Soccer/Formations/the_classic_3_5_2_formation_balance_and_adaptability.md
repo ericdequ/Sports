@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'football tactics', '3-5-2 formation', 'coaching', 'players', 'defense', 'midfield', 'attack', 'strategy', 'history']
 draft: false
 summary: "Explore the historical roots and modern implementation of the 3-5-2 formation in soccer, emphasizing its tactical flexibility and strategic balance between defense and attack."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/the_classic_3_5_2_formation_balance_and_adaptability.webp']
 ---
 
 ## The Classic 3-5-2 Formation: Balance and Adaptability

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Sports', 'Defensive Techniques', 'Shadowing', 'Soccer', 'Basketball', 'Coaching Tips']
 draft: false
 summary: "Explore the defensive technique of shadowing opponents to limit their influence on the game."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/shadowing_following_opponents_to_neutralize_threats.webp']
 ---
 
 # Shadowing: Following Opponents to Neutralize Threats

@@ -4,6 +4,8 @@ date: '2024-01-21'
 tags: ['Football', 'Coaching', 'Running Back', 'Techniques', 'Pad Level', 'Leverage', 'Short Yardage', 'Power Running', 'Contact']
 draft: false
 summary: 'Explore strategies for effective power running in short-yardage situations, including pad level, leverage, and driving through contact.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/short_yardage_situations_power_running_techniques.webp']
 ---
 
 ## Short Yardage Situations: Power Running Techniques

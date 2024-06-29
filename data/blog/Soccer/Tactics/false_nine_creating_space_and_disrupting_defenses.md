@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Soccer', 'Tactics', 'False Nine', 'Coaching', 'Player Development']
 draft: false
 summary: "Dive into the intricacies of the false nine role, exploring how it creates space and disrupts traditional defensive structures to benefit the entire team."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/false_nine_creating_space_and_disrupting_defenses.webp']
 ---
 
 # False Nine: Creating Space and Disrupting Defenses

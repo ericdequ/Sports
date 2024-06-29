@@ -4,6 +4,8 @@ date: '2024-04-17'
 tags: ['football', 'quarterback', 'mechanics', 'throwing', 'coaching', 'footwork', 'arm angle', 'follow-through']
 draft: false
 summary: "Explore the fundamentals of quarterback mechanics, including footwork, arm angle, and follow-through, blending player insights and coaching strategies."
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/mechanics_perfecting_your_throwing_motion.webp']
 ---
 
 # Mechanics: Perfecting Your Throwing Motion

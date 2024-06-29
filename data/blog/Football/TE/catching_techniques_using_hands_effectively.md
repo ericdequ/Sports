@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'tight ends', 'catching', 'techniques', 'high-pointing', 'coaching', 'hand positioning', 'secure catch']
 draft: false
 summary: "Analyze various catching techniques for tight ends, including hand positioning, high-pointing the ball, and securing the catch."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/catching_techniques_using_hands_effectively.webp']
 ---
 
 ## Catching Techniques: Using Hands Effectively

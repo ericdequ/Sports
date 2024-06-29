@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["basketball", "technique", "James Harden", "offense", "NBA", "shooting", "skills", "training", "coaching"]
 draft: false
 summary: "Examine the step-back jumper, focusing on its technique and how players like James Harden use it effectively."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_step_back_jumper_creating_space_for_a_clean_shot.webp']
 ---
 ```
 

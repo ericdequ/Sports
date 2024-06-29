@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Soccer', 'Skills', 'Techniques', 'Coaching', 'Player Development', 'Footwork', 'Offensive Strategies']
 draft: false
 summary: "Master the art of the scoop turn in soccer, with in-depth insights into the technique and ideal scenarios for lifting the ball over defenders."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_scoop_turn_lifting_over_defenders.webp']
 ---
 
 # The Scoop Turn: Lifting Over Defenders

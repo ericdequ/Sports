@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'film study', 'punters', 'coaching', 'game strategy', 'return formations', 'tendencies', 'game planning']
 draft: false
 summary: "Delve into the significance of film study for punters in football, highlighting the breakdown of return formations, identification of tendencies, and effective game planning."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/film_study_preparing_for_opponents.webp']
 ---
 
 ## Film Study: Preparing for Opponents

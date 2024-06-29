@@ -4,6 +4,8 @@ date: '2022-09-08'
 tags:  ['Football', 'Coaching', 'Strategy', 'Game Management', 'Situational Awareness', 'Down and Distance', 'Player IQ', 'Decision Making', 'NFL']
 draft: false
 summary: "Explore the crucial role of situational awareness in football, focusing on the importance of down and distance, game context, and making smart decisions on the field."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/situational_awareness_knowing_down_distance_and_game_context.webp']
 ---
 
 # Situational Awareness: Knowing Down, Distance, and Game Context

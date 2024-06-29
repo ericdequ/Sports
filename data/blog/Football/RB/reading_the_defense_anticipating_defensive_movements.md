@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Running Back', 'Defense', 'Strategy', 'Coaching', 'Player Tips', 'Offense', 'NFL', 'High School Football']
 draft: false
 summary: "Analyze how running backs can read defensive alignments and anticipate movements to find the best running lanes."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/reading_the_defense_anticipating_defensive_movements.webp']
 ---
 
 ### Reading the Defense: Anticipating Defensive Movements

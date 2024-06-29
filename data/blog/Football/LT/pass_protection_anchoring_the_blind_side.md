@@ -4,6 +4,8 @@ date: '2023-01-16'
 tags: ['football', 'offensive line', 'technique', 'coaching', 'left tackle', 'footwork', 'hand placement', 'leverage']
 draft: false
 summary: "Explore techniques for effective pass protection as a left tackle, focusing on footwork, hand placement, and maintaining leverage."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/pass_protection_anchoring_the_blind_side.webp']
 ---
 
 ## Pass Protection: Anchoring the Blind Side

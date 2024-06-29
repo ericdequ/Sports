@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags:  ['Football', 'Tactics', 'Formation', 'Midfield Control', 'Defensive Support', 'Coaching Wisdom', 'Player Knowledge', 'Soccer Strategy', 'Football Analysis', 'Professional Football']
 draft: false
 summary: "Explore the strategic implementation of the 4-1-4-1 formation in football, with a focus on midfield control and defensive support."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/the_dynamics_of_the_4_1_4_1_formation.webp']
 ---
 
 # The Dynamics of the 4-1-4-1 Formation

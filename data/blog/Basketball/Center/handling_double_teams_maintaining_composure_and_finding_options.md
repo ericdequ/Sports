@@ -4,6 +4,8 @@ date: '2024-03-31'
 tags: ['Basketball', 'Coaching', 'Strategy', 'Defense', 'Offense', 'Player Development', 'Teamwork', 'Skill Enhancement']
 draft: false
 summary: "Analyze strategies for handling double teams in the post, including recognizing them early and making smart decisions. This post combines player knowledge with coaching wisdom, offering practical insights for maintaining composure and finding the best options when double-teamed."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/handling_double_teams_maintaining_composure_and_finding_options.webp']
 ---
 
 # Handling Double Teams: Maintaining Composure and Finding Options

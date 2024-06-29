@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Offense', 'Scoring', 'Fundamentals', 'Player Development', 'Coaching', 'Strategy', 'Team Play', 'Techniques']
 draft: false
 summary: "Examine the art of cutting to the basket, including timing, reading the defense, and finishing strong."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/cutting_to_the_basket_timing_and_execution.webp']
 ---
 
 # Cutting to the Basket: Timing and Execution

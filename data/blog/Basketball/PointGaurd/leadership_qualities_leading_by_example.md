@@ -4,6 +4,8 @@ date: '2024-02-19'
 tags: ['Basketball', 'Leadership', 'Point Guard', 'Coaching', 'Communication', 'Team Dynamics', 'Player Development', 'Sports Psychology', 'Professional Insights']
 draft: false
 summary: "Explore the pivotal leadership role of point guards, including their prowess in communication, setting the tone, and being vocal leaders both on and off the court."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/leadership_qualities_leading_by_example.webp']
 ---
 
 # Leadership Qualities: Leading by Example

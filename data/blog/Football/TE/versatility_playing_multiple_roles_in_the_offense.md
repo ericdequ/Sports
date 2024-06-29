@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["football", "tight ends", "offensive strategies", "versatility", "coaching tips"]
 draft: false
 summary: "Discover the critical importance of versatility for tight ends, as they navigate various roles on the offense, including lining up in different positions, running precise routes, and mastering the art of blocking."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/versatility_playing_multiple_roles_in_the_offense.webp']
 ---
 
 # Versatility: Playing Multiple Roles in the Offense

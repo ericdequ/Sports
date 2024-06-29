@@ -4,6 +4,8 @@ date: '2021-09-26'
 tags: ['Football', 'Red Zone', 'Coaching', 'Offense', 'Strategies', 'NFL', 'NCAA', 'Touchdown', 'Training']
 draft: false
 summary: 'A comprehensive guide to maximizing scoring opportunities inside the 20-yard line with tips on route running, creating mismatches, and making contested catches.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/red_zone_efficiency_scoring_inside_the_20.webp']
 ---
 
 ## Red Zone Efficiency: Scoring Inside the 20

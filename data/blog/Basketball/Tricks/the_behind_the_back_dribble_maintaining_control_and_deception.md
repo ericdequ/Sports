@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Dribbling', 'Stephen Curry', 'Ball Handling', 'Skills', 'Training', 'NBA', 'Coaching', 'Player Technique']
 draft: false
 summary: "Explore the behind-the-back dribble, its execution, and how players like Stephen Curry use it to keep defenders guessing and maintain control on the court."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_behind_the_back_dribble_maintaining_control_and_deception.webp']
 ---
 
 ## The Behind-the-Back Dribble: Maintaining Control and Deception

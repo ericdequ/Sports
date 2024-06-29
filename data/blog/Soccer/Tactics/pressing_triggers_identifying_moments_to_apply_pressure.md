@@ -4,6 +4,8 @@ date: '2022-11-26'
 tags: ['Soccer', 'Tactics', 'Pressing', 'Coaching', 'Player Development']
 draft: false
 summary: "Dive into the intricacies of pressing techniques, understanding the critical junctures to apply pressure, and the balance between risks and rewards."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/pressing_triggers_identifying_moments_to_apply_pressure.webp']
 ---
 
 # Pressing Triggers: Identifying Moments to Apply Pressure

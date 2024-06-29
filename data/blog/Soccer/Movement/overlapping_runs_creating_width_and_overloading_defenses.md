@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'football', 'tactics', 'coaching', 'fullbacks', 'wingers']
 draft: false
 summary: "Explore the tactical importance of overlapping runs from fullbacks and wingers, their impact on stretching defenses, and insights from top football teams."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/overlapping_runs_creating_width_and_overloading_defenses.webp']
 ---
 
 # Overlapping Runs: Creating Width and Overloading Defenses

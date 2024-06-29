@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Basketball", "Small Forwards", "Playmaking", "Team Strategy", "Offense", "Fast Breaks", "Coaching Tips", "Player Skills"]
 draft: false
 summary: "Explore the playmaking role of small forwards, including passing out of drives, running the offense, and initiating fast breaks."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/playmaking_creating_opportunities_for_teammates.webp']
 ---
 
 ## Playmaking: Creating Opportunities for Teammates

@@ -5,6 +5,8 @@ tags: ['Basketball', 'Coaching', 'Player Development', 'Techniques', 'Low Post',
 draft: false
 summary: "Analyze essential post moves for power forwards, including drop steps, hook shots, and up-and-under techniques, combining player knowledge and coaching wisdom to enhance low post scoring."
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/post_moves_mastering_the_art_of_low_post_scoring.webp']
 ---
 
 # Post Moves: Mastering the Art of Low Post Scoring

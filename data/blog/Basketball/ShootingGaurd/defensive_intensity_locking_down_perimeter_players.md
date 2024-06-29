@@ -5,6 +5,8 @@ tags:  ['basketball', 'defense', 'strategy', 'perimeter', 'coaching', 'skills', 
 draft: false
 summary: 'Explore key strategies shooting guards can use to enhance their perimeter defense, focusing on lateral quickness, hand positioning, and anticipation.'
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/defensive_intensity_locking_down_perimeter_players.webp']
 ---
 
 # Defensive Intensity: Locking Down Perimeter Players

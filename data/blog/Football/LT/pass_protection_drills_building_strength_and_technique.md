@@ -4,6 +4,8 @@ date: '2021-12-21'
 tags: ['Football', 'Coaching', 'Training Drills', 'Pass Protection', 'Strength Training', 'Technique Improvement', 'Hand-Eye Coordination', 'Offensive Line', 'Player Development']
 draft: false
 summary: "Analyze various pass protection drills to build strength, improve technique, and enhance hand-eye coordination. A blend of player knowledge and coaching wisdom to elevate your game."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/pass_protection_drills_building_strength_and_technique.webp']
 ---
 
 # Pass Protection Drills: Building Strength and Technique

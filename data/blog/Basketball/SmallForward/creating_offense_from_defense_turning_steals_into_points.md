@@ -4,6 +4,8 @@ date: "2023-10-16"
 tags: ["basketball", "small forward", "defense", "fast break", "transition offense", "coaching", "player tips", "scoring", "strategy"]
 draft: false
 summary: "A deep dive into how small forwards can maximize defensive plays, particularly steals, to generate scoring opportunities in fast-break scenarios."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/creating_offense_from_defense_turning_steals_into_points.webp']
 ---
 
 # Creating Offense from Defense: Turning Steals into Points

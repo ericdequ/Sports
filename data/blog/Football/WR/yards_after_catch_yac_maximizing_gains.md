@@ -4,6 +4,8 @@ date: '2021-11-19'
 tags: ['Football', 'YAC', 'Wide Receivers', 'Running Backs', 'Coaching', 'Skills Development', 'Agility', 'Tackling', 'Offense']
 draft: false
 summary: "Explore techniques for gaining yards after the catch, including breaking tackles, using agility, and reading downfield blocks."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/yards_after_catch_yac_maximizing_gains.webp']
 ---
 
 ## Yards After Catch (YAC): Maximizing Gains

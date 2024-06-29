@@ -4,6 +4,8 @@ date: "2023-10-06"
 tags: ['Running Back', 'Football', 'Coaching', 'Receiving Routes', 'Wheel Route', 'Flat Route', 'Option Route', 'Sports Strategy']
 draft: false
 summary: "Dive deep into the intricacies of running back receiving routes, exploring wheel, flat, and option routes with a blend of player insights and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/mastering_receiving_routes_running_back_specific_routes.webp']
 ---
 
 ## Mastering Receiving Routes: Running Back Specific Routes

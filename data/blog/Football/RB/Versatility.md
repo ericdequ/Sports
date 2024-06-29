@@ -4,6 +4,8 @@ date: '2023-12-11'
 tags: ['Football', 'Running Back', 'Offense', 'Versatility', 'Skills', 'Player Growth', 'Coaching', 'Tips', 'Strategy']
 draft: false 
 summary: Analyzing the importance of versatility for running backs, including running, receiving, and blocking responsibilities.
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/Versatility.webp']
 --- 
 
 # Versatility: Playing Multiple Roles in the Offense

@@ -4,6 +4,8 @@ date: '2023-10-17'
 tags: ['basketball', 'skills', 'court vision', 'player development', 'coaching tips', 'reading defenses', 'passing', 'anticipation', 'offense']
 draft: false
 summary: "Explore advanced techniques for improving court vision in basketball, including reading defenses, anticipating plays, and making accurate passes. This article is packed with tips for both players and coaches to enhance their game awareness and decision-making skills."
+
+images: ['https://example.com/basketball-passes.jpg', 'https://www.sportstips.org/articleimage/Basketball/PointGaurd/court_vision_seeing_the_entire_floor.webp']
 ---
 
 # Court Vision: Seeing the Entire Floor

@@ -4,6 +4,8 @@ date: '2022-04-10'
 tags: ['soccer', 'coaching', 'tactics', 'strategy', 'defense']
 draft: false
 summary: "Dive deep into the nuances of zonal and man-to-man marking systems, exploring their advantages, disadvantages, and when to utilize each for optimal defensive performance."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/zonal_vs_man_to_man_marking_a_tactical_comparison.webp']
 ---
 
 # Zonal vs. Man-to-Man Marking: A Tactical Comparison

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'skills', 'coaching', 'baseline drives', 'wing play', 'footwork', 'scoring', 'technique', 'strategy']
 draft: false
 summary: "Master the art of baseline drives from the wings with expert insights into footwork, using the backboard, and finishing through contact."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/baseline_drives_attacking_from_the_wings.webp']
 ---
 
 ## Baseline Drives: Attacking from the Wings

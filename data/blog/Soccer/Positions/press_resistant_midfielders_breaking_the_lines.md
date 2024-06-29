@@ -4,6 +4,8 @@ date: '2021-03-02'
 tags:  ['soccer', 'midfielders', 'tactics', 'Thiago Alcantara', 'coaching', 'player skills', 'football IQ']
 draft: false
 summary: 'Exploring the vital role of press-resistant midfielders in modern soccer, featuring insights from players like Thiago Alcantara.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/press_resistant_midfielders_breaking_the_lines.webp']
 ---
 
 # Press-Resistant Midfielders: Breaking the Lines

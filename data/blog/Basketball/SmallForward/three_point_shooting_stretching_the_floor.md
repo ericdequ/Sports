@@ -4,6 +4,8 @@ date: '2024-03-02'
 tags: ['basketball', 'three-point shooting', 'small forwards', 'mechanics', 'shot selection', 'off-ball movement']
 draft: false
 summary: "This article delves into the crucial role of three-point shooting for small forwards, exploring the mechanics, shot selection, and off-ball movement essential for stretching the floor."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/three_point_shooting_stretching_the_floor.webp']
 ---
 
 # Three-Point Shooting: Stretching the Floor

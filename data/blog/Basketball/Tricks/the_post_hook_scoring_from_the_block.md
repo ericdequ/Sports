@@ -4,6 +4,8 @@ date: '2021-06-04'
 tags: ['basketball', 'offensive techniques', 'post moves', 'Kareem Abdul-Jabbar', 'big men', 'scoring', 'NBA', 'skills development', 'coach tips']
 draft: false 
 summary: "Explore the post hook shot, its technique, and how big men like Kareem Abdul-Jabbar used it to dominate inside."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_post_hook_scoring_from_the_block.webp']
 ---
 
 # The Post Hook: Scoring from the Block

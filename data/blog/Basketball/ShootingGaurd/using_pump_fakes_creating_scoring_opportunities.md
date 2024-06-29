@@ -4,6 +4,8 @@ date: '2021-03-10'
 tags: ['Basketball', 'Scoring', 'Techniques', 'Defense', 'Offense', 'Skills', 'Coaching', 'Player Tips', 'Game Strategy']
 draft: false
 summary: "A comprehensive guide to mastering pump fakes in basketball, focusing on how to effectively use them to draw defenders and create open shots."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/using_pump_fakes_creating_scoring_opportunities.webp']
 ---
 
 # Using Pump Fakes: Creating Scoring Opportunities

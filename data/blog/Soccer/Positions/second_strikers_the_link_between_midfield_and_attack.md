@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags:  ['soccer', 'tactics', 'Paulo Dybala', 'strikers', 'midfield', 'attack', 'coaching', 'player roles', 'football']
 draft: false
 summary: "Explore how second strikers like Paulo Dybala create and finish chances, connecting the dots between midfield creativity and final third execution."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/second_strikers_the_link_between_midfield_and_attack.webp']
 ---
 
 # Second Strikers: The Link Between Midfield and Attack

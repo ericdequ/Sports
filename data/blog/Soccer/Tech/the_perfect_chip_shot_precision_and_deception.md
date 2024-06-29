@@ -4,6 +4,8 @@ date: '2021-07-19'
 tags: ['Golf', 'Technique', 'Chip Shot', 'Foot Placement', 'Angle of Strike', 'Golf Tips', 'Deception']
 draft: false
 summary: 'Discover the secrets behind a successful chip shot in golf. From foot placement to the angle of strike, learn when and how to use this technique effectively.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_perfect_chip_shot_precision_and_deception.webp']
 ---
 
 # The Perfect Chip Shot: Precision and Deception

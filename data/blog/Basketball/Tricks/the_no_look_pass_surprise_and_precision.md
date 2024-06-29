@@ -4,6 +4,8 @@ date: '2022-08-20'
 tags:  ['basketball', 'skills', 'Magic Johnson', 'passing', 'playmaking', 'coaching', 'techniques', 'NBA', 'basketball IQ']
 draft: false
 summary: 'Explore the art of the no-look pass in basketball, focusing on its execution and the legendary Magic Johnson’s use of this technique to create surprise scoring opportunities.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_no_look_pass_surprise_and_precision.webp']
 ---
 
 ## The No-Look Pass: Surprise and Precision

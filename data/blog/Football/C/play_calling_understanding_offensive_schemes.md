@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["football", "play calling", "offensive schemes", "coaching", "center", "strategy", "NFL", "college football", "defensive recognition"]
 draft: false
 summary: "Dive deep into the intricacies of play calling for centers, exploring offensive schemes, recognizing defensive weaknesses, and making real-time adjustments on the gridiron."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/play_calling_understanding_offensive_schemes.webp']
 ---
 
 ## Play Calling: Understanding Offensive Schemes

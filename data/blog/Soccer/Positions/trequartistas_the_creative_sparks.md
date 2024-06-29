@@ -6,6 +6,8 @@ tags: ['soccer', 'trequartista', 'playmaker', 'football tactics', 'Mesut Özil']
 draft: false
 summary: 'Dive into the world of the trequartista, the creative mastermind of soccer, and learn how legends like Mesut Özil master the art of finding space and creating chances.'
 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/trequartistas_the_creative_sparks.webp']
 ---
 
 ### Introduction

@@ -4,6 +4,8 @@ date: '2024-05-30'
 tags:  ['Football', 'Offensive Line', 'Coordination', 'Communication', 'Coaching Tips', 'Left Tackle', 'Center']
 draft: false
 summary: 'Explore the importance of working seamlessly with the left tackle and center, including communication and synchronized movements in football.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/working_in_tandem_coordination_with_the_left_tackle_and_center.webp']
 ---
 
 # Working in Tandem: Coordination with the Left Tackle and Center

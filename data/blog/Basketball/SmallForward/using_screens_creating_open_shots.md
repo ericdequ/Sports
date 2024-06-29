@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'small forwards', 'screens', 'offensive strategies', 'coaching tips', 'player development', 'shot creation', 'curls', 'flares', 'pindowns']
 draft: false
 summary: "Explore how small forwards can utilize screens effectively to create open shots, focusing on different types of screen actions including curls, flares, and pindowns."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/using_screens_creating_open_shots.webp']
 ---
 
 # Using Screens: Creating Open Shots

@@ -4,6 +4,8 @@ date: "2023-10-07"
 tags: ['Football', 'Wide Receivers', 'Technique', 'Sideline Awareness', 'Drills', 'Coaching', 'Player Tips']
 draft: false
 summary: "Master the art of sideline catches by learning essential techniques such as toe-tap drills, body control, and catching near the boundary. This article covers everything from player insights to coaching wisdom to keep those feet in-bounds."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/sideline_awareness_keeping_feet_in_bounds.webp']
 ---
 
 # Sideline Awareness: Keeping Feet In-Bounds

@@ -4,6 +4,8 @@ date: '2021-12-12'
 tags: ['Special Teams', 'Football', 'Punting', 'Return Coverage', 'Coaching Tips', 'Player Skills', 'Strategy', 'Team Coordination', 'Tackling']
 draft: false
 summary: "An in-depth analysis of the punter's role in return coverage, including positioning, tackling, and coordinating with teammates to ensure effective special teams performance."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/return_coverage_supporting_special_teams.webp']
 ---
 
 # Return Coverage: Supporting Special Teams

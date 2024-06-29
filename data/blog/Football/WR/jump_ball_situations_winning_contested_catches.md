@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'player tech', 'coaching', 'advanced tactics', 'body positioning', 'timing', 'height advantage']
 draft: false
 summary: "Explore the essential techniques for mastering jump ball situations in basketball, focusing on timing, body positioning, and utilizing height advantage."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/jump_ball_situations_winning_contested_catches.webp']
 ---
 
 # Jump Ball Situations: Winning Contested Catches

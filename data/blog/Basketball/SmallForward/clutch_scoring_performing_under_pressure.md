@@ -4,6 +4,8 @@ date: '2024-04-24'
 tags: ['sports', 'mentality', 'coaching', 'clutch', 'pressure', 'scoring', 'basketball', 'soccer', 'performance']
 draft: false
 summary: 'A deep dive into the mental and technical aspects that distinguish clutch scorers in sports, with insights into shot selection, composure, and confidence.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/clutch_scoring_performing_under_pressure.webp']
 ---
 
 ## Clutch Scoring: Performing Under Pressure

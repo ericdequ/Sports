@@ -4,6 +4,8 @@ date: '2021-06-29'
 tags: ['Basketball', 'Shot Blocking', 'Power Forwards', 'Defense', 'Basketball Tips', 'Coaching', 'Player Development']
 draft: false
 summary: 'Explore the key elements of shot blocking for power forwards, including essential timing and positioning techniques to become an intimidating force on the court.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/effective_shot_blocking_timing_and_technique.webp']
 ---
 
 # Effective Shot Blocking: Timing and Technique

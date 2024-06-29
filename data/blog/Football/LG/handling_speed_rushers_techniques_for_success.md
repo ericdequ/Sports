@@ -4,6 +4,8 @@ date: '2021-05-01'
 tags: ['Football', 'Offensive Line', 'Techniques', 'Speed Rushers', 'Quick Footwork', 'Balance', 'Hand Placement', 'Coaching Tips', 'Player Development']
 draft: false
 summary: 'Explore strategies for handling speed rushers, including quick footwork, maintaining balance, and proper hand placement.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/handling_speed_rushers_techniques_for_success.webp']
 ---
 
 ## Handling Speed Rushers: Techniques for Success

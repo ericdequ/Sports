@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'free kicks', 'curled shots', 'foot placement', 'technique', 'coaching', 'skills', 'players', 'tips']
 draft: false
 summary: "Learn how to master the art of curling the ball around a wall or into the corner with expert tips on foot placement and follow-through."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/bending_the_ball_curled_shots_and_free_kicks.webp']
 ---
 
 ## Bending the Ball: Curled Shots and Free Kicks

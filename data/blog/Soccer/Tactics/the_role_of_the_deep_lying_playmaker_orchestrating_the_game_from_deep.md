@@ -4,6 +4,8 @@ date: '2022-10-17'
 tags:  ['Soccer', 'Tactics', 'Playmaker', 'Midfield', 'Coaching', 'Strategy', 'Player Development', 'Football', 'Deep-Lying Playmaker']
 draft: false
 summary: "Explore how deep-lying playmakers control the tempo of the game and distribute passes from a withdrawn position."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/the_role_of_the_deep_lying_playmaker_orchestrating_the_game_from_deep.webp']
 ---
 
 # The Role of the Deep-Lying Playmaker: Orchestrating the Game from Deep

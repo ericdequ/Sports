@@ -5,6 +5,8 @@ tags: ['football', 'throwing mechanics', 'quarterback tips', 'quick release', 'c
 draft: false
 summary: "Analyze techniques for a quicker release in football, focusing on mechanics, minimizing wasted motion, and improving timing."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/quick_release_speeding_up_your_throwing_motion.webp']
 ---
 
 # Quick Release: Speeding Up Your Throwing Motion

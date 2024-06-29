@@ -4,6 +4,8 @@ date: '2023-12-30'
 tags: ['football', 'special teams', 'coaching', 'strategy', 'NFL', 'punting', 'coffin corner', 'field position', 'precision']
 draft: false
 summary: "Explore strategies for executing coffin corner punts, including aiming, angle control, and precision to give your team a tactical edge by pinning opponents deep in their territory."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/coffin_corner_kicks_pinning_opponents_deep.webp']
 ---
 
 # Coffin Corner Kicks: Pinning Opponents Deep

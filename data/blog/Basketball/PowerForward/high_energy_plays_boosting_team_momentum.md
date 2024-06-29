@@ -4,6 +4,8 @@ date: '2024-02-13'
 tags: ['Basketball', 'Team Dynamics', 'Coaching Tips', 'Player Performance', 'Game Strategy', 'Power Forwards', 'Momentum Shifts', 'High-Energy Plays', 'Dunks', 'Blocks']
 draft: false
 summary: "Explore the pivotal role of high-energy plays by power forwards in basketball, examining how put-back dunks and chase-down blocks can significantly alter game momentum."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/high_energy_plays_boosting_team_momentum.webp']
 ---
 
 ## High Energy Plays: Boosting Team Momentum

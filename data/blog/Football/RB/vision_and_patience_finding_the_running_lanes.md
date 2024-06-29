@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Football", "Running Back", "Techniques", "Vision", "Patience", "Coaching", "Player Development"]
 draft: false
 summary: "Explore techniques for improving vision and patience as a running back, including reading blocks and anticipating openings."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/vision_and_patience_finding_the_running_lanes.webp']
 ---
 
 ### Vision and Patience: Finding the Running Lanes

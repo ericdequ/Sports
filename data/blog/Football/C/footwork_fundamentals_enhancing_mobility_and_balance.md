@@ -5,6 +5,8 @@ tags: ['Basketball', 'Footwork', 'Training', 'Coaching', 'Centers', 'Agility', '
 draft: false
 summary: "A comprehensive guide analyzing key footwork drills to improve agility, balance, and quickness for centers. Combining player insights and coaching tips for optimal performance."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/C/footwork_fundamentals_enhancing_mobility_and_balance.webp']
 ---
 
 # Footwork Fundamentals: Enhancing Mobility and Balance

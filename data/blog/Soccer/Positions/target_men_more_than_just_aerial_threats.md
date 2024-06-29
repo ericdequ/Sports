@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'football', 'target men', 'strikers', 'Olivier Giroud', 'tactics', 'coaching', 'player analysis', 'link-up play']
 draft: false
 summary: "Explore how strikers like Olivier Giroud leverage their physicality and link-up play to benefit their teams beyond just aerial prowess."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/target_men_more_than_just_aerial_threats.webp']
 ---
 
 ## Target Men: More Than Just Aerial Threats

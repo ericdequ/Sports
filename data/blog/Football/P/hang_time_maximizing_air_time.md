@@ -4,6 +4,8 @@ date: '2024-03-12'
 tags: ['basketball', 'jumping', 'player performance', 'coach tips', 'leg strength', 'ball contact', 'follow-through']
 draft: false
 summary: 'Discover the secrets to maximizing your hang time on the court. This article dives into techniques involving leg strength, ball contact, and follow-through to elevate your game.'
+
+images: ['https://www.sportstips.org/articleimage/Football/P/hang_time_maximizing_air_time.webp', 'https://example.com/hang-time.jpg']
 ---
 
 # Hang Time: Maximizing Air Time

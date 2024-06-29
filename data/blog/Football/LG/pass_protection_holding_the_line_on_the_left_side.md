@@ -4,6 +4,8 @@ date: '2021-12-22'
 tags: ['football', 'offensive line', 'left guard', 'pass protection', 'techniques', 'footwork', 'hand placement', 'leverage']
 draft: false
 summary: 'Explore techniques for effective pass protection as a left guard, including footwork, hand placement, and maintaining leverage.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/pass_protection_holding_the_line_on_the_left_side.webp']
 ---
 
 # Pass Protection: Holding the Line on the Left Side

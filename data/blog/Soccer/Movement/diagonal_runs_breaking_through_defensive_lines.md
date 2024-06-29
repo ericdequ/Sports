@@ -4,6 +4,8 @@ date: '2022-10-26'
 tags: ['Soccer', 'Tactics', 'Coaching', 'Player Development', 'Scoring', 'Strategy', 'Offense', 'Midfield', 'Forwards']
 draft: false
 summary: "Explore the tactical advantages of diagonal runs in breaking through defensive lines and creating goal-scoring chances, blending player insights and coaching expertise."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/diagonal_runs_breaking_through_defensive_lines.webp']
 ---
 
 # Diagonal Runs: Breaking Through Defensive Lines

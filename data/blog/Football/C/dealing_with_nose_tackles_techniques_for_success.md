@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Football", "Defensive Line", "Nose Tackle", "Coaching Tips", "Player Development"]
 draft: false
 summary: "Analyzing techniques for handling nose tackles, including maintaining leverage, using hand techniques, and staying low."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/dealing_with_nose_tackles_techniques_for_success.webp']
 ---
 
 ## Dealing with Nose Tackles: Techniques for Success

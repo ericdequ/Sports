@@ -5,6 +5,8 @@ tags:  ['Basketball', 'Mid-Range Game', 'Pull-up Jumpers', 'Floaters', 'Turnarou
 draft: false
 summary: 'Explore the critical aspects of mastering the mid-range game in basketball, focusing on pull-up jumpers, floaters, and turnaround shots. Understand the player mindset and coaching strategies to become an efficient mid-range scorer.'
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/mid_range_game_scoring_from_all_angles.webp']
 ---
 
 ## Mid-Range Game: Scoring from All Angles

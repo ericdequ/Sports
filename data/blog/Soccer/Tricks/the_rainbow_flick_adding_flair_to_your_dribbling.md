@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'skills', 'dribbling', 'technique', 'footwork', 'soccer-tips', 'ball-control', 'coaching', 'soccer-tricks']
 draft: false
 summary: "Elevate your soccer game with the Rainbow Flick, a daring and flashy move that can leave defenders in the dust. Learn the technique, ideal usage, and how it enhances your dribbling."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_rainbow_flick_adding_flair_to_your_dribbling.webp']
 ---
 
 # The Rainbow Flick: Adding Flair to Your Dribbling

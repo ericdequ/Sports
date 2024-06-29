@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'soccer', 'playmakers', 'Kevin De Bruyne', 'tactics', 'creativity', 'midfielders', 'coaching', 'player analysis']
 draft: false
 summary: "An in-depth look at how players like Kevin De Bruyne thrive with creative freedom, dissecting their role, tactics, and impact on the game."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/roaming_playmakers_freedom_and_creativity.webp']
 ---
 
 # Roaming Playmakers: Freedom and Creativity

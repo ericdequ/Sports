@@ -4,6 +4,8 @@ date: '2022-11-11'
 tags:  ['Tactics', 'Football', 'Joao Cancelo', 'Inverted Fullbacks', 'Coaching Strategies']
 draft: false
 summary: 'A deep dive into the tactical innovation of inverted fullbacks, focusing on how players like Joao Cancelo are revolutionizing the game by integrating into central midfield roles.'
+
+images: ['https://example.com/inverted-fullback-diagram', 'https://www.sportstips.org/articleimage/Soccer/Positions/inverted_fullbacks_tactical_innovation.webp']
 ---
 
 # Inverted Fullbacks: Tactical Innovation

@@ -4,6 +4,8 @@ date: '2021-03-21'
 tags: ['Soccer', 'Skill Moves', 'Footwork', 'Player Techniques', 'Coaching Tips', 'Neymar', 'Dribbling', 'Faking', 'Defense']
 draft: false
 summary: "Analyze the flip flap move, its execution, and how players like Neymar use it to beat defenders with quick footwork."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_flip_flap_quick_footwork_to_fool_defenders.webp']
 ---
 
 ### The Flip Flap: Quick Footwork to Fool Defenders

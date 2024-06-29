@@ -4,6 +4,8 @@ date: "2023-10-14"
 tags: ['Soccer', 'Formations', 'Tactics', 'Wingbacks', 'Defense', 'Attack', 'Coaching', 'Player Development', 'Strategy']
 draft: false
 summary: "Examine how the 3-4-3 formation allows teams to balance defense and attack, focusing on the pivotal role of wingbacks."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/the_tactical_flexibility_of_the_3_4_3_formation.webp']
 ---
 
 ## The Tactical Flexibility of the 3-4-3 Formation

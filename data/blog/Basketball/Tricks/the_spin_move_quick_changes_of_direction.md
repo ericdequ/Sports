@@ -4,6 +4,8 @@ date: '2021-11-05'
 tags: ['Basketball', 'Skills', 'Coaching', 'Player Development', 'Offense', 'Footwork', 'Techniques']
 draft: false
 summary: "Mastering the spin move can make you a formidable force in one-on-one situations. This article delves into the execution and strategic use of the spin move to outmaneuver defenders."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_spin_move_quick_changes_of_direction.webp']
 ---
 
 ## The Spin Move: Quick Changes of Direction

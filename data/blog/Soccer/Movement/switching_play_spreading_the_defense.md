@@ -4,6 +4,8 @@ date: '2023-09-12'
 tags:  ['soccer', 'tactics', 'coaching', 'defense', 'strategy', 'football', 'soccer tips', 'playmaking', 'gameplay']
 draft: false
 summary: 'Explore the technique and importance of switching play to exploit weaknesses in the oppositions defensive setup. Learn from player knowledge and coaching wisdom to master this essential soccer strategy.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/switching_play_spreading_the_defense.webp']
 ---
 
 # Switching Play: Spreading the Defense

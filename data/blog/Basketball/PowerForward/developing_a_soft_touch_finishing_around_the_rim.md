@@ -4,6 +4,8 @@ date: '2022-11-04'
 tags: ['Basketball', 'Player Development', 'Coaching Tips', 'Shooting Techniques', 'Skills', 'Training', 'Floaters', 'Finishing Moves', 'Soft Touch', 'Scoring']
 draft: false
 summary: 'Explore techniques for developing a soft touch around the rim, including floaters and off-balance shots, to enhance your scoring ability and dominate in the paint.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/developing_a_soft_touch_finishing_around_the_rim.webp']
 ---
 
 # Developing a Soft Touch: Finishing Around the Rim

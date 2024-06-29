@@ -5,6 +5,8 @@ tags: ['basketball', 'pick and roll', 'coaching tips', 'center training', 'offen
 draft: false
 summary: "Master the pick and roll from the center's perspective with this comprehensive guide. Learn to set effective screens, roll efficiently, and finish strong at the rim to create high-percentage scoring opportunities."
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/executing_the_pick_and_roll_creating_high_percentage_shots_from_the_center.webp']
 ---
 
 # Executing the Pick and Roll: Creating High-Percentage Shots from the Center's Perspective

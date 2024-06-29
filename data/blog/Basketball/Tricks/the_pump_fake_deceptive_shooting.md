@@ -4,6 +4,8 @@ date: '2021-09-22'
 tags: ['Basketball', 'Skills', 'Technique', 'Shooting', 'Offense', 'Basketball IQ', 'Coaching', 'Player Development', 'Defense']
 draft: false
 summary: 'Examine the pump fake, focusing on its technique and how it can create scoring opportunities by getting defenders in the air.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_pump_fake_deceptive_shooting.webp']
 ---
 
 # The Pump Fake: Deceptive Shooting

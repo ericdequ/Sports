@@ -4,6 +4,8 @@ date: '2023-08-27'
 tags: ['Football', 'Run Blocking', 'Offensive Line', 'Coaching', 'Player Development', 'Blocking Techniques', 'Drive Blocks', 'Combo Blocks', 'Leverage']
 draft: false
 summary: "Explore advanced strategies for effective run blocking, focusing on creating lanes on the left side with techniques like drive blocks, combo blocks, and leverage manipulation."
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/run_blocking_creating_lanes_on_the_left_side.webp']
 ---
 
 # Run Blocking: Creating Lanes on the Left Side

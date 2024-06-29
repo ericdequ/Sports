@@ -4,6 +4,8 @@ date: '2021-12-19'
 tags: ['AmericanFootball', 'PassProtection', 'OffensiveLine', 'Centers', 'BlitzPickUp', 'Leverage', 'Coaching', 'PlayerDevelopment', 'Techniques']
 draft: false
 summary: "Analyzing the fundamentals of pass protection for centers, touching on identifying blitzes, maintaining leverage, and effectively engaging defensive linemen."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/pass_protection_anchoring_the_line.webp']
 ---
 
 # Pass Protection: Anchoring the Line

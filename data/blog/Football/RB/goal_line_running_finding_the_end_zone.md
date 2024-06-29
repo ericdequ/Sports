@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Coaching', 'Running Back', 'Tips', 'Techniques', 'Strategy', 'Goal Line']
 draft: false
 summary: "Explore essential techniques for effective goal line running, including low pad level, quick decision making, and power running, to consistently find the end zone."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/goal_line_running_finding_the_end_zone.webp']
 ---
 
 ## Goal Line Running: Finding the End Zone

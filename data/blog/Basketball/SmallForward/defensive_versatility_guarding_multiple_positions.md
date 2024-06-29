@@ -4,6 +4,8 @@ date: '2021-07-31'
 tags:  ['Basketball', 'Defense', 'Small Forwards', 'Tactics', 'Strategy', 'Player Development', 'Coaching', 'Versatility', 'Help Defense']
 draft: false
 summary: 'Examine the defensive responsibilities of small forwards, including switching onto guards and bigs, and playing help defense.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/defensive_versatility_guarding_multiple_positions.webp']
 ---
 
 # Defensive Versatility: Guarding Multiple Positions

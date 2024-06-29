@@ -4,6 +4,8 @@ date: '2023-05-20'
 tags: ['football', 'techniques', 'offensive line', 'power rushers', 'strategy', 'sports', 'coaching', 'player tips', 'leverage']
 draft: false
 summary: 'Analyze strategies for handling power rushers, including maintaining leverage, using strength, and proper hand placement.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LT/handling_power_rushers_techniques_for_success.webp']
 ---
 
 # Handling Power Rushers: Techniques for Success

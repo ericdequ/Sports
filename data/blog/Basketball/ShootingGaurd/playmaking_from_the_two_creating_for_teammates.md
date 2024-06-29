@@ -5,6 +5,8 @@ tags: ['basketball', 'guard', 'playmaking', 'passing', 'offense', 'fast break', 
 draft: false
 summary: 'Examine the playmaking responsibilities of shooting guards, including passing out of drives, running the offense, and initiating fast breaks with a blend of player knowledge and coaching wisdom.'
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/playmaking_from_the_two_creating_for_teammates.webp']
 ---
 
 ## Introduction

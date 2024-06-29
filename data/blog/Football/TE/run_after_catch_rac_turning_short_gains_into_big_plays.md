@@ -4,6 +4,8 @@ date: '2022-10-06'
 tags: ['Football', 'Techniques', 'Coaching', 'Player Development', 'RAC', 'Yardage', 'Break Tackles','Stiff Arm','Open Space']
 draft: false
 summary: 'Explore techniques for maximizing yards after the catch, including breaking tackles, using stiff arms, and finding open space, blending player knowledge and coaching wisdom for a comprehensive guide.'
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/run_after_catch_rac_turning_short_gains_into_big_plays.webp']
 ---
 
 # Run After Catch (RAC): Turning Short Gains into Big Plays

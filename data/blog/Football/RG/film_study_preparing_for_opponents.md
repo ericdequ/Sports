@@ -4,6 +4,8 @@ date: '2023-05-21'
 tags: ['Football', 'Training', 'Right Guard', 'Film Study', 'Defense', 'Game Planning', 'Tactics', 'Player Development', 'Coaching']
 draft: false
 summary: "Discover the critical role of film study for right guards, focusing on breaking down defenses, identifying tendencies, and effective game planning."
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/film_study_preparing_for_opponents.webp']
 ---
 
 # Film Study: Preparing for Opponents

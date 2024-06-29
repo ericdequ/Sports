@@ -4,6 +4,8 @@ date: '2023-09-27'
 tags:  ['football', 'defensive strategies', 'player skills', 'coaching tips', 'assignment discipline', 'communication', 'stunts and twists']
 draft: false
 summary: 'Mastering the art of handling defensive stunts and twists with strategic communication and steadfast assignment discipline.'
+
+images: ['https://www.sportstips.org/articleimage/Football/C/handling_stunts_and_twists_staying_on_assignment.webp']
 ---
 
 # Handling Stunts and Twists: Staying on Assignment

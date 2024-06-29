@@ -4,6 +4,8 @@ date: '2021-03-20'
 tags: ['Basketball', 'LeBron James', 'Alley-Oop', 'NBA', 'Coaching', 'Player Techniques', 'High-Flying Moves', 'Passing', 'Finishing']
 draft: false
 summary: "Explore the mechanics of the alley-oop, from the pass to the finish, and how players like LeBron James execute it with precision and flair."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_alley_oop_high_flying_finishes.webp']
 ---
 
 ## The Alley-Oop: High-Flying Finishes

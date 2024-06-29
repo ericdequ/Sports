@@ -5,6 +5,8 @@ tags: ["Football", "Techniques", "Pad Level", "Pass Protection", "Run Blocking",
 draft: false
 summary: "Explore techniques to maintain a low pad level to generate power and control in both pass protection and run blocking to elevate your game."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/maintaining_pad_level_staying_low_and_powerful.webp']
 ---
 
 # Maintaining Pad Level: Staying Low and Powerful

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Soccer', 'Tactics', 'Formation', 'Defense', 'Attack', 'Coaching', 'Midfield', 'Strikers', 'SoccerFormation']
 draft: false
 summary: "Explore the tactical advantages of the 4-2-2-2 formation, focusing on its balanced approach to both phases of play."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Formations/4_2_2_2_formation_balancing_attack_and_defense.webp']
 ---
 
 # 4-2-2-2 Formation: Balancing Attack and Defense

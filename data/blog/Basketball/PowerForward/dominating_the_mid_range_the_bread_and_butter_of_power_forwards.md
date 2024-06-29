@@ -4,6 +4,8 @@ date: '2021-08-01'
 tags: ['Basketball', 'Power Forward', 'Mid-Range Game', 'Coaching Tips', 'Player Development']
 draft: false
 summary: "Explore the crucial role of the mid-range game for power forwards, with expert techniques and insider tips for consistent scoring."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/dominating_the_mid_range_the_bread_and_butter_of_power_forwards.webp']
 ---
 
 ## Dominating the Mid-Range: The Bread and Butter of Power Forwards

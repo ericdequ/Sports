@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Football", "Wide Receivers", "Coaching Tips", "Player Development", "Skills Training", "Offensive Strategy", "Gameplay Analysis", "Advanced Techniques", "Separation Drill"]
 draft: false
 summary: "Master the art of double moves to leave defenders in the dust. This article delves into the setup, execution, and timing necessary to perfect this skill, enriched with player knowledge and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/double_moves_faking_out_defenders.webp']
 ---
 
 ## Double Moves: Faking Out Defenders

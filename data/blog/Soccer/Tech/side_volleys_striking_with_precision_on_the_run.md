@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Soccer', 'Technique', 'Skills', 'Training', 'Performance', 'Footwork', 'Body Alignment', 'Timing', 'Coaching']
 draft: false
 summary: "Master the art of the side-volley shot in soccer with comprehensive insights into body alignment, timing, and footwork for executing this dynamic skill on the run."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/side_volleys_striking_with_precision_on_the_run.webp']
 ---
 
 # Side-Volleys: Striking with Precision on the Run

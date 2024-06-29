@@ -4,6 +4,8 @@ date: '2021-12-04'
 tags: ['soccer', 'coaching', 'defense', 'team shape', 'tactics', 'spacing', 'passing lanes', 'strategy', 'football', 'analysis']
 draft: false
 summary: "Unpack the principles of compact defending, with expert insights into team shape, spacing, and strategies to reduce passing lanes for the opposition."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/compact_defending_maintaining_shape_and_reducing_spaces.webp']
 ---
 
 ## Compact Defending: Maintaining Shape and Reducing Spaces

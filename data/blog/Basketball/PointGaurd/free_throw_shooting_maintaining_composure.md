@@ -4,6 +4,8 @@ date: "2023-10-26"
 tags: ['Basketball', 'Free Throws', 'Technique', 'Focus', 'Composure']
 draft: false
 summary: "Master the art of free throw shooting by understanding key techniques to improve routine, focus, and composure under pressure. A guide blending player knowledge and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/free_throw_shooting_maintaining_composure.webp']
 ---
 
 ## Free Throw Shooting: Maintaining Composure

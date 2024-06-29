@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'shooting guards', 'IQ', 'strategy', 'coaching', 'player development']
 draft: false
 summary: "Explore the significance of basketball IQ for shooting guards, diving into the essentials of reading the game, making prompt decisions, and anticipating plays to elevate their performance."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/high_basketball_iq_making_smart_decisions_for_shooting_guards.webp']
 ---
 
 # High Basketball IQ: Making Smart Decisions for Shooting Guards

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Quarterbacks', 'Coaching', 'Technique', 'Skills', 'Snap Accuracy', 'Hand Positioning', 'Timing', 'Consistent Delivery']
 draft: false
 summary: "Explore techniques for improving snap accuracy, focusing on hand positioning, timing, and consistent delivery to the quarterback."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/snap_accuracy_ensuring_clean_exchanges.webp']
 ---
 
 # Snap Accuracy: Ensuring Clean Exchanges

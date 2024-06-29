@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'wingbacks', 'coaching', 'attacking', 'defensive', 'strategies', 'Trent Alexander-Arnold', 'tactics', 'positional play']
 draft: false
 summary: "Explore how modern wingbacks like Trent Alexander-Arnold expertly balance their defensive and attacking responsibilities, with an in-depth analysis of positional play, tactical nuances, and game-day strategies."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/wingbacks_providing_width_and_depth.webp']
 ---
 
 # Wingbacks: Providing Width and Depth

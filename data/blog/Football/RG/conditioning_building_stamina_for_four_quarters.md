@@ -4,6 +4,8 @@ date: '2021-11-03'
 tags: ['Football', 'Conditioning', 'Right Guards', 'Stamina', 'Performance', 'Coaching', 'Training', 'Sports', 'Athletics']
 draft: false
 summary: 'A comprehensive guide on conditioning programs that help right guards build the stamina needed to perform consistently throughout all four quarters of a football game.'
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/conditioning_building_stamina_for_four_quarters.webp']
 ---
 
 ## Conditioning: Building Stamina for Four Quarters

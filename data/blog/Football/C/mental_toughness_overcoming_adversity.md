@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['mental toughness', 'adversity', 'sports psychology', 'player development', 'coaching', 'confidence', 'focus', 'mistake management', 'resilience']
 draft: false
 summary: "Explore strategies for building mental toughness, including handling mistakes, staying focused, and maintaining confidence."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/mental_toughness_overcoming_adversity.webp']
 ---
 
 ### Mental Toughness: Overcoming Adversity

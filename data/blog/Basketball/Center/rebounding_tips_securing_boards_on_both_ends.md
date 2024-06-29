@@ -4,6 +4,8 @@ date: '2021-03-07'
 tags: ['basketball', 'rebounding', 'coaching', 'tips', 'fundamentals', 'player knowledge', 'strategy', 'defense', 'offense']
 draft: false
 summary: 'Dive deep into the fundamentals of effective rebounding in basketball, focusing on positioning, timing, and boxing out to dominate both ends of the court.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/rebounding_tips_securing_boards_on_both_ends.webp']
 ---
 
 # Rebounding Tips: Securing Boards on Both Ends

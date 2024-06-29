@@ -4,6 +4,8 @@ date: '2024-02-25'
 tags: ['American Football', 'Wide Receivers', 'Coaching Tips', 'Hand Techniques', 'Player Skills', 'Jamming', 'Hand Fighting']
 draft: false
 summary: "A comprehensive guide on hand techniques for wide receivers, focusing on hand fighting to release from defenders and securing the football."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/using_hands_hand_fighting_and_jamming_for_wide_receivers.webp']
 ---
 
 # Using Hands: Hand Fighting and Jamming for Wide Receivers

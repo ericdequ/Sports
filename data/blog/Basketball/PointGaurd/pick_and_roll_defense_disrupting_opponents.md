@@ -4,6 +4,8 @@ date: '2023-05-19'
 tags: ['Basketball', 'Defense', 'Coaching', 'Strategies', 'Tips', 'Pick-and-Roll', 'Team Play', 'NBA', 'Skills']
 draft: false
 summary: "Unlock expert strategies for effectively disrupting the opponents' pick-and-roll offense. Learn the intricacies of hedging, switching, and fighting through screens with insights from professional players and coaches."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/pick_and_roll_defense_disrupting_opponents.webp']
 ---
 
 # Pick-and-Roll Defense: Disrupting Opponents

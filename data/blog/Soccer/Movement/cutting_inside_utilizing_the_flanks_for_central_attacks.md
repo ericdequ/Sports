@@ -5,6 +5,8 @@ tags: ['soccer', 'tactics', 'wing play', 'attacking strategies', 'coaching tips'
 draft: false
 summary: 'Explore the tactical move of cutting inside from the flanks to create goal-scoring opportunities in soccer, blending player knowledge and coaching wisdom.'
 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/cutting_inside_utilizing_the_flanks_for_central_attacks.webp']
 ---
 
 ## Cutting Inside: Utilizing the Flanks for Central Attacks

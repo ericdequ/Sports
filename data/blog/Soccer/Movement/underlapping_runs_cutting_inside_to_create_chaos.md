@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['soccer', 'tactics', 'coaching', 'player development', 'attacking', 'formations', 'breaking down defenses', 'underlapping runs', 'game strategy'] 
 draft: false 
 summary: "Examine the use of underlapping runs to disrupt defensive organization and create scoring opportunities." 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/underlapping_runs_cutting_inside_to_create_chaos.webp', 'https://example.com/underlapping-run-diagram.webp']
 --- 
 
 # Underlapping Runs: Cutting Inside to Create Chaos

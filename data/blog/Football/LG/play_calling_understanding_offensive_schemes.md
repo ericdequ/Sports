@@ -4,6 +4,8 @@ date: '2024-03-10'
 tags: ['football', 'play calling', 'offensive schemes', 'left guard', 'coaching', 'strategy', 'defensive weaknesses', 'adjustments', 'player knowledge', 'coaching wisdom']
 draft: false
 summary: 'Explore the intricate world of play calling for left guards, delving into offensive schemes, recognizing defensive weaknesses, and mastering adjustments to outmaneuver opponents.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/play_calling_understanding_offensive_schemes.webp']
 ---
 
 # Play Calling: Understanding Offensive Schemes

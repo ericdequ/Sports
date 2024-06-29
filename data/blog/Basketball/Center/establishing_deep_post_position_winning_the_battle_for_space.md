@@ -4,6 +4,8 @@ date: '2023-12-31'
 tags: ['Basketball', 'Post Play', 'Coaching Tips', 'Player Techniques', 'Offensive Strategy', 'Defense', 'Footwork', 'Rebounding']
 draft: false
 summary: 'Explore the essential strategies and techniques for gaining and maintaining deep post position in basketball. This article offers insights for both players and coaches to dominate the paint.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/establishing_deep_post_position_winning_the_battle_for_space.webp']
 ---
 
 # Establishing Deep Post Position: Winning the Battle for Space

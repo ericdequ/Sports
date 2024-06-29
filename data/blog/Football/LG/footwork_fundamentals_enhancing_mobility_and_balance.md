@@ -4,6 +4,8 @@ date: '2021-11-06'
 tags:  ['Footwork','Mobility','Balance','Agility','Quickness','Football','Left Guards','Coaching','Player Tips','Drills']
 draft: false
 summary: 'A well-researched article blending player knowledge and coaching wisdom that focuses on footwork drills to improve agility, balance, and quickness for left guards in football.'
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/footwork_fundamentals_enhancing_mobility_and_balance.webp']
 ---
 
 # Footwork Fundamentals: Enhancing Mobility and Balance

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'bank shot', 'skills', 'techniques', 'coaching', 'player development', 'angles', 'touch', 'scoring']
 draft: false
 summary: "Explore the technique of using the backboard for scoring, focusing on angles and touch for consistent finishes."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/using_the_glass_scoring_with_bank_shots.webp']
 ---
 
 # Using the Glass: Scoring with Bank Shots

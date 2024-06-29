@@ -4,6 +4,8 @@ date: '2024-01-31'
 tags: ['rebounding', 'small forwards', 'basketball', 'techniques', 'coaching wisdom', 'offensive rebounds', 'positioning', 'timing', 'player knowledge']
 draft: false
 summary: "Dive into the art of rebounding from the wing position with detailed techniques and strategies for small forwards to dominate the boards."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/rebounding_crashing_the_boards_from_the_wing.webp']
 ---
 
 # Rebounding: Crashing the Boards from the Wing

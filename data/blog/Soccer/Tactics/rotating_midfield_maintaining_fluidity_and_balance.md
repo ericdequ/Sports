@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Soccer", "Tactics", "Midfield", "Coaching", "Balance", "Fluidity", "Rotation", "Attack", "Defense"]
 draft: false
 summary: "Examine how midfield rotation helps teams maintain balance, fluidity, and unpredictability in attack and defense."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/rotating_midfield_maintaining_fluidity_and_balance.webp']
 ---
 
 # Rotating Midfield: Maintaining Fluidity and Balance

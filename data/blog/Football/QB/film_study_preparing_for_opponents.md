@@ -4,6 +4,8 @@
  tags: ['football', 'quarterbacks', 'film study', 'game planning', 'coaching', 'defense analysis', 'tendencies', 'preparation', 'sports', 'strategy']
  draft: false
  summary: "Discover the critical role of film study in a quarterback's preparation. Learn how to break down defenses, identify tendencies, and strategically plan for the game."
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/film_study_preparing_for_opponents.webp']
 ---
 
 # Film Study: Preparing for Opponents

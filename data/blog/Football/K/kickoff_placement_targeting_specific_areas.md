@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["American Football", "Kickoff Strategies", "Special Teams", "Coaching", "Player Tips", "Game Tactics"]
 draft: false
 summary: "Analyze strategies for targeting specific areas on kickoffs, including aiming for touchbacks, corner kicks, and strategic placement."
+
+images: ['https://www.sportstips.org/articleimage/Football/K/kickoff_placement_targeting_specific_areas.webp']
 ---
 
 # Kickoff Placement: Targeting Specific Areas

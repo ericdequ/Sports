@@ -4,6 +4,8 @@ date: '2022-01-06'
 tags: ['basketball', 'skills', 'technique', 'offense', 'footwork', 'scoring', 'NBA', 'drills']
 draft: false
 summary: "Explore the up-and-under move, its technique, and how it can be used to outmaneuver taller defenders."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/RIM.webp']
 ---
 
 # The Up-and-Under Move: Deceptive Finishing Around the Rim

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['mental-toughness', 'focus', 'mistake-recovery', 'confidence', 'sports-psychology', 'player-knowledge', 'coaching-wisdom', 'performance', 'resilience']
 draft: false
 summary: "Explore the strategies for building mental toughness in sports, emphasizing staying focused, recovering from mistakes, and maintaining confidence, guided by a blend of player knowledge and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/mental_toughness_overcoming_mistakes_and_staying_focused.webp']
 --- 
 
 # Mental Toughness: Overcoming Mistakes and Staying Focused

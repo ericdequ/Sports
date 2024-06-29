@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Shooting Technique', 'Tim Duncan', 'Coaching Tips', 'Player Skills']
 draft: false
 summary: "Explore the art and science of the bank shot in basketball, focusing on its mechanics and the mastery demonstrated by Tim Duncan. Learn how to employ this technique to enhance your game."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_bank_shot_using_the_glass.webp']
 ---
 
 # The Bank Shot: Using the Glass

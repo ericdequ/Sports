@@ -4,6 +4,8 @@ date: '2023-09-21'
 tags: ['Zinedine Zidane', 'Roulette', 'Soccer Skills', 'Football', 'Dribbling', 'Possession Play', 'Coaching Tips', 'Player Knowledge', 'Technique']
 draft: false
 summary: "Examine the technique of the Roulette, made famous by Zinedine Zidane, and how it can be used to evade tackles and maintain possession."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_roulette_zidane.webp']
 ---
 
 # The Roulette: Zidane's Signature Spin

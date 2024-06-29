@@ -4,6 +4,8 @@ date: '2021-08-10'
 tags: ['football', 'training', 'speed', 'agility', 'wide receivers', 'coaching', 'workouts', 'sports science', 'performance']
 draft: false
 summary: 'Explore training methods for improving speed and agility, helping wide receivers to gain an edge over defenders.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/speed_and_agility_training_for_quickness_and_explosiveness.webp']
 ---
 
 # Speed and Agility: Training for Quickness and Explosiveness

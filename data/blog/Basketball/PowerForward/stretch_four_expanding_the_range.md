@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Player Development', 'Coaching Tips', 'Three-Point Shooting', 'Spacing the Floor', 'Stretch Four', 'Position Strategy', 'NBA Trends', 'Basketball IQ']
 draft: false
 summary: "Dive into the evolving role of the stretch four in modern basketball, focusing on the importance of three-point shooting and court spacing."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/stretch_four_expanding_the_range.webp']
 ---
 
 # Stretch Four: Expanding the Range

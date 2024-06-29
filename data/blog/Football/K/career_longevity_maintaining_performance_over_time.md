@@ -4,6 +4,8 @@ date: '2022-09-05'
 tags: ['sports', 'career', 'training', 'techniques', 'health']
 draft: false
 summary: "Explore strategies for maintaining peak performance and extending your sports career by focusing on consistent training, adaptable techniques, and physical wellbeing."
+
+images: ['https://www.sportstips.org/articleimage/Football/K/career_longevity_maintaining_performance_over_time.webp']
 ---
 
 # Career Longevity: Maintaining Performance Over Time

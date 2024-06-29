@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Skills', 'Kyrie Irving', 'Dribbling', 'Offense', 'Training', 'Coaching', 'Tips', 'Moves']
 draft: false
 summary: "Dive into the intricacies of the hesitation dribble, its purpose, and how elite players like Kyrie Irving leverage it to create separation and scoring opportunities."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_hesi_freezing_defenders_with_the_hesitation_move.webp']
 ---
 
 ## The Hesi: Freezing Defenders with the Hesitation Move

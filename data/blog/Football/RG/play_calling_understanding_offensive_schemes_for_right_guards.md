@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'offensive schemes', 'play calling', 'right guards', 'coaching', 'strategy', 'NFL', 'college football', 'game planning']
 draft: false
 summary: "A deep dive into the art of play calling for right guards. This article explores offensive schemes, identifies defensive weaknesses, and provides tips on making in-game adjustments to optimize performance."
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/play_calling_understanding_offensive_schemes_for_right_guards.webp']
 ---
 
 # Play Calling: Understanding Offensive Schemes for Right Guards

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'defense', 'pick-and-roll', 'power forwards', 'coaching', 'techniques', 'strategy', 'hedging', 'switching', 'trapping']
 draft: false
 summary: "Unlock the secrets to effective pick-and-roll defense with proven techniques for power forwards, including hedging, switching, and trapping, to shut down your opponents on the court."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/pick_and_roll_defense_techniques_for_power_forwards.webp']
 ---
 
 ## Pick-and-Roll Defense: Techniques for Power Forwards

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'offensive line', 'technique', 'footwork', 'coaching', 'pulling', 'right tackle', 'run game', 'targeting', 'strategy']
 draft: false
 summary: "Explore the technique of pulling as a right tackle, including footwork, timing, and targeting defensive players in space."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/pulling_leading_the_way_on_outside_runs.webp']
 ---
 
 # Pulling: Leading the Way on Outside Runs

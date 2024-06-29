@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'small forward', 'post-up techniques', 'player development', 'coaching tips']
 draft: false
 summary: "Explore effective post-up techniques for small forwards, focusing on establishing position, utilizing fakes, and finishing with hook shots or fadeaways to maximize size and strength on the court."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/post_up_play_utilizing_size_and_strength.webp']
 ---
 
 # Post-Up Play: Utilizing Size and Strength

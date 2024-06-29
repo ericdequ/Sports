@@ -4,6 +4,8 @@ date: '2021-07-10'
 tags: ['sports', 'techniques', 'coaching', 'player tips', 'body control', 'tracking', 'positioning']
 draft: false
 summary: "A deep dive into the essentials of reacting to the ball in mid-air with a focus on body control, tracking, and positioning. Perfect for athletes and coaches aiming to master these crucial skills."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/adjusting_to_the_ball_making_plays_on_the_fly.webp']
 ---
 
 ## Adjusting to the Ball: Making Plays on the Fly

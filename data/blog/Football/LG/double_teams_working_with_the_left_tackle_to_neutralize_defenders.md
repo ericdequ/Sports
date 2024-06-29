@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'offense', 'double team', 'left tackle', 'blocking', 'line play', 'strategy', 'coaching']
 draft: false
 summary: "Explore the importance of double teams in football, including the coordination, communication, and timing necessary to effectively neutralize defenders alongside the left tackle."
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/double_teams_working_with_the_left_tackle_to_neutralize_defenders.webp']
 ---
 
 # Double Teams: Working with the Left Tackle to Neutralize Defenders

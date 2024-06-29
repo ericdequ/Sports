@@ -4,6 +4,8 @@ date: '2023-08-09'
 tags: ['soccer', 'technique', 'coaching', 'player skills', 'scissor kicks', 'body positioning', 'timing', 'effective plays']
 draft: false
 summary: "Examine the technique behind scissor kicks, including timing, body positioning, and scenarios where they are most effective. Understand both player perspectives and coaching wisdom for mastering this spectacular move."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/scissor_kicks_spectacular_and_effective.webp']
 ---
 
 ## Scissor Kicks: Spectacular and Effective

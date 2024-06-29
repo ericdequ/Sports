@@ -4,6 +4,8 @@ date: '2021-08-31'
 tags: ['basketball', 'finishing', 'floaters', 'layups', 'contact', 'player skills', 'coaching tips', 'scoring', 'paint']
 draft: false
 summary: 'Explore advanced techniques for scoring in the paint, including floaters, layups, and how to finish through contact. This article combines player knowledge with coaching wisdom to elevate your in-game performance.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/scoring_in_the_paint_finishing_through_traffic.webp']
 ---
 
 ## Scoring in the Paint: Finishing Through Traffic

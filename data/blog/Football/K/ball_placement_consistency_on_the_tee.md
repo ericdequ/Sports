@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['golf', 'ball placement', 'consistency', 'tee', 'technique', 'coaching', 'player tips', 'skills', 'performance']
 draft: false
 summary: "Unlock the secrets to consistent ball placement on the tee in golf. Understand the importance of height, angle, and positioning for an improved game."
+
+images: ['https://www.sportstips.org/articleimage/Football/K/ball_placement_consistency_on_the_tee.webp']
 ---
 
 ## Ball Placement: Consistency on the Tee

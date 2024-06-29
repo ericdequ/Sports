@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'defensive strategy', 'rim protection', 'shot-blocking', 'coaching']
 draft: false
 summary: "Mastering the art of rim protection through proper positioning, shot-blocking timing, and shot alteration to stifle the opposition's scoring attempts."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/defensive_positioning_protecting_the_rim.webp']
 ---
 
 ### Defensive Positioning: Protecting the Rim

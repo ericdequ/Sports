@@ -4,6 +4,8 @@ date: '2021-03-23'
 tags: ['soccer', 'finishing', 'techniques', 'coaching', 'players', 'goalkeeper', 'one-on-one', 'strategy', 'training']
 draft: false
 summary: "Explore strategies for successfully finishing one-on-one situations in soccer, including rounding the keeper and shooting early, blending player knowledge with coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/one_on_one_finishing_beating_the_goalkeeper.webp']
 ---
 
 # One-on-One Finishing: Beating the Goalkeeper

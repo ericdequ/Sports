@@ -4,6 +4,8 @@ date: '2021-08-06'
 tags: ['soccer', 'midfield', 'strategy', 'skills', 'player development', 'coaching', 'Sergio Busquets', 'possession', 'tempo control']
 draft: false
 summary: "Examine the role of a pivot midfielder, with a focus on how players like Sergio Busquets master the art of maintaining possession and dictating the tempo of play."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/pivot_midfielders_controlling_the_tempo.webp']
 ---
 ```
 

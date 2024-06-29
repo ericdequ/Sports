@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["soccer", "tactics", "David Beckham", "playmakers", "wingers", "crossing", "vision", "coaching"]
 draft: false
 summary: "Explore the art of playmaking from wide areas, examining legends like David Beckham and modern examples who excel in creating chances from the flanks with their exceptional crossing and vision."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/wide_playmakers_creativity_from_the_flanks.webp']
 ---
 
 # Wide Playmakers: Creativity from the Flanks

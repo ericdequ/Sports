@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Catching Techniques', 'Receiver Tips', 'Coaching Wisdom', 'Player Knowledge']
 draft: false
 summary: "Mastering catching techniques can make or break a receiver's career. Learn how to high-point the ball, use your hands effectively, and maintain focus in traffic to ensure victory on the field."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/catching_techniques_securing_the_football_in_traffic.webp']
 ---
 
 ## Catching Techniques: Securing the Football in Traffic

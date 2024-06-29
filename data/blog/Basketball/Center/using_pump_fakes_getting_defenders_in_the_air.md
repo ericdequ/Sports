@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'skills', 'coaching', 'offense', 'pump fake', 'scoring', 'techniques', 'strategy', 'player development']
 draft: false
 summary: "Explore the use of pump fakes in basketball to draw fouls and create scoring opportunities in the paint with insights from both player and coaching perspectives."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/using_pump_fakes_getting_defenders_in_the_air.webp']
 ---
 
 # Using Pump Fakes: Getting Defenders in the Air

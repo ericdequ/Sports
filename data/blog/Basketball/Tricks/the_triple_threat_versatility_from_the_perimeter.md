@@ -4,6 +4,8 @@ date: '2023-02-19'
 tags: ['basketball', 'triple threat', 'coaching strategies', 'player skills', 'perimeter play', 'offensive tactics', 'skills development', 'drive mechanics', 'passing', 'shooting']
 draft: false
 summary: "A deep dive into the triple threat position and its significance in basketball. Learn how to effectively utilize the triple threat stance to enhance drives, passes, and shots."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_triple_threat_versatility_from_the_perimeter.webp']
 ---
 
 ## The Triple Threat: Versatility from the Perimeter

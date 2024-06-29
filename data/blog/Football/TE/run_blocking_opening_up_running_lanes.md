@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["football", "coaching", "run blocking", "offensive line", "blocking schemes", "leverage", "driving defenders"]
 draft: false
 summary: "Dive into the essentials of effective run blocking with strategies and tips for understanding blocking schemes, maintaining leverage, and driving through defenders to open up crucial running lanes for your team."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/run_blocking_opening_up_running_lanes.webp']
 ---
 
 # Run Blocking: Opening Up Running Lanes

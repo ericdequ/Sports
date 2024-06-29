@@ -4,6 +4,8 @@ date: '2023-11-03'
 tags: ['basketball', 'off-ball movement', 'scoring', 'coaching', 'small forward', 'cutting', 'screening', 'spacing']
 draft: false
 summary: "Dive deep into the pivotal role of off-ball movement for small forwards. Learn how cutting, screening, and strategically finding open spaces can transform scoring opportunities."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/off_ball_movement_creating_scoring_opportunities.webp']
 ---
 
 # Off-Ball Movement: Creating Scoring Opportunities

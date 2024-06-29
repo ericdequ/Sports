@@ -5,6 +5,8 @@ tags: ['soccer', 'football', 'tactics', 'coaching', 'player development', 'Liver
 draft: false
 summary: 'Explore the shift from traditional wingers to inside forwards, exemplified by Mohamed Salah.'
 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/wingers_to_inverted_forwards_evolution_of_the_wide_role.webp']
 ---
 
 ## Wingers to Inverted Forwards: Evolution of the Wide Role

@@ -4,6 +4,8 @@ date: "2023-10-05"
 tags: ['Soccer', 'Free Kicks', 'Skill Development', 'Coaching Tips', 'Technique', 'Soccer Training', 'Player Knowledge', 'Soccer Drills', 'Advanced Tactics']
 draft: false
 summary: "Discover the secrets behind executing a powerful and accurate free kick in soccer, exploring detailed steps from run-up to striking technique and body mechanics."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/powerful_free_kicks_generating_pace_and_accuracy.webp']
 ---
 
 # Powerful Free Kicks: Generating Pace and Accuracy

@@ -4,6 +4,8 @@ date: "2023-10-04"
 tags: ['Soccer', 'Skills', 'Dribbling', 'Coaching', 'Player Development', 'Techniques', 'Footwork', 'Soccer Tips', 'Beat Defenders']
 draft: false
 summary: "Learn the art of the Heel-to-Heel Flick, a skillful soccer move that allows players to change direction rapidly and outwit opponents."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_heel_to_heel_flick_quick_direction_change.webp']
 ---
 
 # The Heel-to-Heel Flick: Quick Direction Change

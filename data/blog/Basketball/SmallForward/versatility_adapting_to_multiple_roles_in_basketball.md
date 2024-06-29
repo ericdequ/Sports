@@ -4,6 +4,8 @@ date: '2024-04-08'
 tags: ['basketball', 'small forwards', 'versatility', 'position play', 'coaching tips', 'player knowledge', 'multi-skill development']
 draft: false
 summary: 'Discover the importance of versatility for small forwards in basketball, focusing on playing multiple positions, adapting to different lineups, and contributing in various ways to enhance team performance.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/versatility_adapting_to_multiple_roles_in_basketball.webp']
 ---
 
 # Versatility: Adapting to Multiple Roles in Basketball

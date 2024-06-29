@@ -5,6 +5,8 @@ tags: ['Football', 'Offensive Line', 'Right Guard', 'NFL', 'Coaching', 'Techniqu
 draft: false
 summary: "Discover how right guards can master the art of reading defensive alignments and anticipating blitzes and stunts to make effective in-game adjustments."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/RG/reading_the_defense_pre_snap_recognition.webp']
 ---
 
 # Reading the Defense: Pre-Snap Recognition

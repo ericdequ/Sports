@@ -5,6 +5,8 @@ tags:  ['Conditioning', 'Football', 'Running Backs', 'Stamina', 'Performance', '
 draft: false
 summary: 'Explore conditioning programs tailored to running backs to build stamina and maintain peak performance throughout all four quarters of the game.'
 
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/conditioning_building_stamina_for_four_quarters.webp']
 ---
 
 # Conditioning: Building Stamina for Four Quarters

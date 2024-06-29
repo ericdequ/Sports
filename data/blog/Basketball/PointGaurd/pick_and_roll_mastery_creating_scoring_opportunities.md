@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Pick-and-Roll', 'Offensive Strategies', 'Player Development', 'Coaching Tips']
 draft: false
 summary: "Unlock the secrets to mastering the pick-and-roll by honing decision-making, perfecting timing, and enhancing passing accuracy. Elevate your offense with these expert tips."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/pick_and_roll_mastery_creating_scoring_opportunities.webp']
 ---
 
 ## Pick-and-Roll Mastery: Creating Scoring Opportunities

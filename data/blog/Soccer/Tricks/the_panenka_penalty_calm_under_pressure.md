@@ -5,6 +5,8 @@ tags: ['Football', 'Soccer', 'Penalty', 'Technique', 'Game Psychology', 'Coachin
 draft: false
 summary: "Analyze the technique and psychological aspects of executing a Panenka penalty, focusing on the element of surprise and composure."
 
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_panenka_penalty_calm_under_pressure.webp']
 ---
 
 ## The Panenka Penalty: Calm Under Pressure

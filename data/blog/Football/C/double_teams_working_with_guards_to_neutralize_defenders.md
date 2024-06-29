@@ -4,6 +4,8 @@ date: '2021-04-03'
 tags:  ['Football','Offensive Line','Double Team','Guard Play','Coaching Tips']
 draft: false
 summary: 'Explore the technique of double teaming defensive linemen, including coordination with guards, timing, and maintaining leverage.'
+
+images: ['https://www.sportstips.org/articleimage/Football/C/double_teams_working_with_guards_to_neutralize_defenders.webp']
 ---
 
 ## Double Teams: Working with Guards to Neutralize Defenders

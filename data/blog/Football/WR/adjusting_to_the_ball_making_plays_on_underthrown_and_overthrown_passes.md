@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Wide Receiver', 'Coaching Tips', 'Player Development', 'Body Control', 'Positioning', 'Catch Techniques', 'Game Strategy', 'Training']
 draft: false
 summary: "Master the techniques for adjusting to underthrown and overthrown passes by focusing on body control, positioning, and making critical mid-air adjustments to secure the catch and make plays."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/adjusting_to_the_ball_making_plays_on_underthrown_and_overthrown_passes.webp']
 ---
 
 # Adjusting to the Ball: Making Plays on Underthrown and Overthrown Passes

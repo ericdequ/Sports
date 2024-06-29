@@ -4,6 +4,8 @@ date: '2023-09-27'
 tags: ['football', 'shotgun', 'under center', 'snaps', 'quarterback', 'coach tips', 'player knowledge', 'techniques', 'consistency']
 draft: false
 summary: 'Explore the differences between shotgun and under center snaps, including hand positioning and consistency. Learn to master these essential football skills with expert tips and coaching wisdom.'
+
+images: ['https://www.sportstips.org/articleimage/Football/C/shotgun_vs_under_center_snaps_adjusting_techniques.webp']
 ---
 
 # Shotgun vs. Under Center Snaps: Adjusting Techniques

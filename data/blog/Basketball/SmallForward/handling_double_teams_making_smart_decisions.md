@@ -4,6 +4,8 @@ date: '2024-01-21'
 tags: ['Basketball', 'Skills', 'Small Forwards', 'Coaching', 'Strategies', 'Double Teams', 'Player Tips', 'Basketball IQ']
 draft: false
 summary: "Explore strategies for small forwards to handle double teams, including recognizing them early, passing out, and creating space."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/handling_double_teams_making_smart_decisions.webp']
 ---
 
 # Handling Double Teams: Making Smart Decisions

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['football', 'coaching', 'running backs', 'blocking', 'strategy', 'offensive line', 'technique', 'tips', 'tricks']
 draft: false
 summary: "An in-depth look into the art of setting up and following blocks in football, highlighting the crucial timing, positioning, and strategies to create successful running lanes."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/using_blocks_effectively_setting_up_and_following_blocks.webp']
 ---
 
 # Using Blocks Effectively: Setting Up and Following Blocks

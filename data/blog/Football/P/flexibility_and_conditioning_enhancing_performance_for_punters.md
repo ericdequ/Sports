@@ -4,6 +4,8 @@ date: '2023-07-24'
 tags:  ['Punters', 'Conditioning', 'Flexibility', 'Leg Strength', 'Performance', 'NFL', 'Football', 'Training Programs']
 draft: false
 summary: "A comprehensive look at conditioning programs that improve flexibility, leg strength, and overall performance for punters, blending player knowledge and coaching wisdom."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/flexibility_and_conditioning_enhancing_performance_for_punters.webp']
 ---
 
 # Flexibility and Conditioning: Enhancing Performance for Punters

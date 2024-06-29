@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["Football", "Tight End", "Film Study", "Game Planning", "Coaching", "Player Development", "Defensive Analysis", "Skill Improvement", "Strategy"]
 draft: false
 summary: "Explore the critical role of film study for tight ends, including strategies for breaking down defenses, identifying tendencies, and effective game planning."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/film_study_preparing_for_opponents.webp']
 ---
 
 # Film Study: Preparing for Opponents

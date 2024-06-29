@@ -4,6 +4,8 @@ date: '2021-07-25'
 tags: ['Football', 'Wide Receivers', 'Blocking', 'Running Game', 'Techniques', 'Coaching', 'Player Knowledge', 'Training', 'Teamwork']
 draft: false
 summary: "Explore the critical role of wide receivers in the running game, focusing on effective blocking techniques and the impact on team success."
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/blocking_contributing_to_the_running_game.webp']
 ---
 
 # Blocking: Contributing to the Running Game

@@ -4,6 +4,8 @@ date: '2022-08-19'
 tags: ['soccer', 'skills', 'Cristiano Ronaldo', 'step over', 'football', 'technique', 'tricks', 'defenders', 'coaching wisdom']
 draft: false
 summary: "Explore the execution of the step over, its variations, and how players like Cristiano Ronaldo use it to wrong-foot defenders."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_step_over_ronaldo.webp']
 ---
 
 ## The Step Over: Ronaldo's Quick Feet

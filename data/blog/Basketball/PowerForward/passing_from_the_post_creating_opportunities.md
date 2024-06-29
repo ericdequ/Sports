@@ -4,6 +4,8 @@ date: '2022-11-05'
 tags: ['basketball', 'post play', 'passing', 'team strategy', 'coaching tips', 'double teams', 'offensive plays']
 draft: false
 summary: 'Explore the art of passing from the post, the nuances of recognizing double teams, and the skills to find open teammates to create scoring opportunities.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/passing_from_the_post_creating_opportunities.webp']
 ---
 
 # Passing from the Post: Creating Opportunities

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'skills', 'finishing moves', 'post play', 'coaching', 'player tips']
 draft: false
 summary: "Explore the up and under move, its execution, and how it can be used to finish around taller defenders in a basketball game."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_up_and_under_crafty_finishing_around_the_rim.webp']
 ---
 
 # The Up and Under: Crafty Finishing Around the Rim

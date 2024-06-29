@@ -4,6 +4,8 @@ date: '2021-06-10'
 tags: ['soccer', 'football', 'tactics', 'Thomas Müller', 'shadow striker', 'space exploitation', 'off-the-ball movement', 'coaching', 'player analysis']
 draft: false
 summary: 'An in-depth analysis of how shadow strikers like Thomas Müller excel at exploiting space behind the main striker and their tactical significance in modern football.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/shadow_strikers_operating_between_the_lines.webp']
 ---
 
 # Shadow Strikers: Operating Between the Lines

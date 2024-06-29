@@ -4,6 +4,8 @@ date: '2022-07-25'
 tags: ['soccer', 'finishing', 'scoring', 'striker techniques', 'coaching tips', 'soccer drills', 'goal scoring', 'inside the box', 'quick release']
 draft: false
 summary: 'Explore the essential finishing techniques for strikers inside the box, featuring strategic insights into side-foot finishes, toe-pokes, and quick releases from a blend of player and coaching perspectives.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_art_of_the_finishing_touch_inside_the_box.webp']
 ---
 
 ## The Art of the Finishing Touch: Inside the Box

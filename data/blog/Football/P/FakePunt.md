@@ -4,6 +4,8 @@ date: '2021-10-05'
 tags: ['American Football','Special Teams','Trick Plays','Play Design','Coaching','Player Skills','Game Strategy','Defensive Analysis','Punt Fake']
 draft: false 
 summary: Explore the use of punt fakes in American Football, including play design, execution, and recognizing defensive tendencies for maximum success.
+
+images: ['https://www.sportstips.org/articleimage/Football/P/FakePunt.webp']
 ---
 
 # Punt Fake: Executing Trick Plays

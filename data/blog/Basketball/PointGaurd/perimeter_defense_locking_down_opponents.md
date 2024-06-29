@@ -4,6 +4,8 @@ date: '2022-04-01'
 tags: ['Basketball', 'Defense', 'Strategies', 'Coaching', 'Player Tips', 'Anticipation', 'Technique', 'Game IQ', 'Training']
 draft: false
 summary: 'Examine strategies for effective perimeter defense, including staying in front of the ball handler, using hands without fouling, and anticipating moves.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/perimeter_defense_locking_down_opponents.webp']
 ---
 
 # Perimeter Defense: Locking Down Opponents

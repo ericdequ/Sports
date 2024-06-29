@@ -5,6 +5,8 @@ tags: ['football', 'offensive line', 'stunts', 'twists', 'communication', 'strat
 draft: false
 summary: 'Analyze strategies for handling defensive stunts and twists with a focus on communication, quick recognition, and maintaining assignment discipline.'
 
+
+images: ['https://www.sportstips.org/articleimage/Football/LG/handling_stunts_and_twists_staying_on_assignment.webp']
 ---
 
 # Handling Stunts and Twists: Staying on Assignment

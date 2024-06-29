@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'power forwards', 'skills development', 'coaching', 'player tips', 'speed', 'agility', 'face-up game', 'offensive strategy']
 draft: false
 summary: "Explore the face-up game, where power forwards use their speed and agility to drive past defenders or hit jump shots. Learn the vital skills, drills, and insider tips to dominate this aspect of basketball."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/face_up_game_utilizing_speed_and_agility.webp']
 ---
 
 # Face-Up Game: Utilizing Speed and Agility

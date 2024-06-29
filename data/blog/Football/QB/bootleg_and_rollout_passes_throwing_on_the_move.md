@@ -4,6 +4,8 @@ date: '2023-07-25'
 tags: ['Football', 'Quarterback Techniques', 'Bootleg', 'Rollout', 'Coaching Tips', 'Footwork', 'Accuracy', 'Defense Reading']
 draft: false
 summary: 'Analyze the execution of bootleg and rollout passes, including footwork, maintaining accuracy, and reading the defense. A blend of player knowledge and coaching wisdom to master throwing on the move.'
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/bootleg_and_rollout_passes_throwing_on_the_move.webp']
 ---
 
 # Bootleg and Rollout Passes: Throwing on the Move

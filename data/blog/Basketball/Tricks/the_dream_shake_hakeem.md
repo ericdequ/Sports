@@ -4,6 +4,8 @@ date: '2021-09-03'
 tags: ['Hakeem Olajuwon', 'NBA', 'Basketball', 'Post Moves', 'Signature Moves', 'Coaching Tips', 'Player Techniques', 'Houston Rockets']
 draft: false
 summary: "Delve into the intricate mechanics of Hakeem Olajuwon's legendary Dream Shake and discover how he used this iconic move to dominate the court and outmaneuver defenders."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_dream_shake_hakeem.webp']
 ---
 
 # The Dream Shake: Hakeem's Signature Move

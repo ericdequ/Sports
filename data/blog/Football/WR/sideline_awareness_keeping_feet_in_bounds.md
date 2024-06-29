@@ -4,6 +4,8 @@ date: '2022-05-28'
 tags: ['Football', 'Training', 'Techniques', 'Sideline Awareness', 'Toe-Tap Drills', 'Body Control', 'Catching', 'Player Development', 'Coaching Wisdom']
 draft: false
 summary: 'Explore advanced techniques and drills for maintaining sideline awareness in football. Learn about toe-tap drills, body control, and strategies for catching near the boundary.'
+
+images: ['https://www.sportstips.org/articleimage/Football/WR/sideline_awareness_keeping_feet_in_bounds.webp']
 ---
 
 # Sideline Awareness: Keeping Feet In-Bounds

@@ -4,6 +4,8 @@ date: '2021-12-14'
 tags: ['Football', 'Quarterback', 'Coach Wisdom', 'Player Knowledge', 'Mechanics', 'Timing', 'Receiver Chemistry', 'Deep Ball', 'Passing Techniques']
 draft: false
 summary: 'Explore proven techniques for improving deep ball accuracy, diving into mechanics, timing, and the critical interplay with receivers to elevate your game.'
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/deep_ball_accuracy_improving_long_range_passing.webp']
 ---
 
 # Deep Ball Accuracy: Improving Long-Range Passing

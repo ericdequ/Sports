@@ -4,6 +4,8 @@ date: '2024-05-10'
 tags: ['Basketball', 'Coaching Techniques', 'Center', 'Offensive Strategies', 'Pick and Pop', 'Player Development', 'Shooting Skills', 'Game Tactics', 'Versatility']
 draft: false
 summary: 'Examine the pick and pop play, where the center sets a screen and then pops out for an open jump shot, and how it adds a versatile scoring option for modern basketball centers.'
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/engaging_in_the_pick_and_pop_versatility_for_modern_centers.webp']
 ---
 
 # Engaging in the Pick and Pop: Versatility for Modern Centers

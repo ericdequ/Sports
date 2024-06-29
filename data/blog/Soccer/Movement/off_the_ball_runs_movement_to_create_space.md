@@ -4,6 +4,8 @@ date: '2022-04-02'
 tags: ['Soccer', 'Tactics', 'Coaching Tips', 'Player Development', 'Movement', 'Strategy', 'Team Play', 'Attacking']
 draft: false
 summary: 'Explore the critical role of off-the-ball runs in soccer, their impact on creating space, and the strategic nuances in executing them effectively.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/off_the_ball_runs_movement_to_create_space.webp']
 ---
 
 # Off-the-Ball Runs: Movement to Create Space

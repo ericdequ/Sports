@@ -5,6 +5,8 @@ tags: ['football', 'coaching', 'strategy', 'timing', 'long snapper', 'communicat
 draft: false
 summary: "Explore the nuances of snap timing in football, focusing on the critical role of teamwork, communication, and rhythm between the long snapper and the other players."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/P/snap_timing_synchronizing_with_the_long_snapper.webp']
 ---
 ```
 

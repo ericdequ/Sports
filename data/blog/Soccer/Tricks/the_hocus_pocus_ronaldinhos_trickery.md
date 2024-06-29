@@ -4,6 +4,8 @@ date: '2022-03-12'
 tags:  ['Ronaldinho', 'Soccer', 'Skills', 'Trickery', 'Hocus Pocus', 'Ball Control', 'Dribbling', 'Footwork', 'Player Development', 'Coaching Tips']
 draft: false
 summary: 'Explore the nuances of Ronaldinho’s iconic Hocus Pocus move, unravel its complexity, and understand how mastering it can elevate your soccer game with an unexpected element of surprise.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_hocus_pocus_ronaldinhos_trickery.webp']
 ---
 
 # The Hocus Pocus: Ronaldinho’s Trickery

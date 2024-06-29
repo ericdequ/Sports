@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ["football", "pass protection", "tight ends", "blitz recognition", "blocking techniques", "quarterback safety", "coaching tips", "player tips", "offensive strategy"]
 draft: false
 summary: "Explore the fundamentals of pass protection for tight ends, including recognizing blitzes, positioning, and blocking techniques to ensure the quarterback remains safe and the play develops smoothly."
+
+images: ['https://www.sportstips.org/articleimage/Football/TE/pass_protection_protecting_the_quarterback.webp']
 ---
 
 ## Pass Protection: Protecting the Quarterback

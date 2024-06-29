@@ -4,6 +4,8 @@ date: '2022-02-08'
 tags: ['Basketball', 'Film Study', 'Centers', 'Defense', 'Tendencies', 'Game Planning', 'Player Tips', 'Coaching Wisdom']
 draft: false
 summary: "Dive into the essential role of film study for centers, highlighting how breaking down defenses, identifying tendencies, and meticulous game planning contribute to peak performance."
+
+images: ['https://www.sportstips.org/articleimage/Football/C/film_study_preparing_for_opponents.webp']
 ---
 
 # Film Study: Preparing for Opponents

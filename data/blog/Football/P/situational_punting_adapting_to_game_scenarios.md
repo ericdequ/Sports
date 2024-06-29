@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Special Teams', 'Punting', 'Game Strategy', 'Field Position', 'Coaching Tips', 'Player Knowledge', 'Time Management', 'Game Scenarios']
 draft: false
 summary: "Explore strategies for situational punting, including pinning opponents, changing field position, and time management."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/situational_punting_adapting_to_game_scenarios.webp']
 ---
 
 # Situational Punting: Adapting to Game Scenarios

@@ -4,6 +4,8 @@ date: '2023-11-19'
 tags: ['soccer', 'goal-scoring', 'technique', 'timing', 'coaching', 'player-tips', 'surprise', 'attack', 'strategy']
 draft: false
 summary: "Dive into the critical aspects of late runs into the box. Explore the blend of timing, element of surprise, and execution that make it an effective goal-scoring strategy in soccer."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/late_runs_into_the_box_timing_and_execution.webp']
 ---
 
 # Late Runs into the Box: Timing and Execution

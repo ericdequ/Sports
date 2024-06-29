@@ -4,6 +4,8 @@ date: '2023-07-14'
 tags: ['basketball', 'skills', 'Carmelo Anthony', 'offense', 'guard moves', 'player development', 'footwork', 'coaching tips', 'game strategy']
 draft: false
 summary: "Explore the strategic nuances of the jab step in basketball, illustrated through the techniques of prolific players like Carmelo Anthony."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_jab_step_setting_up_drives_and_shots.webp']
 ---
 
 # The Jab Step: Setting Up Drives and Shots

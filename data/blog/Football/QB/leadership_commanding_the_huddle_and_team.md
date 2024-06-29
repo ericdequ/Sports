@@ -4,6 +4,8 @@ date: '2024-04-03'
 tags: ['football', 'leadership', 'quarterback', 'team dynamics', 'communication', 'motivation', 'strategy']
 draft: false
 summary: "Explore the leadership role of quarterbacks, focusing on communication, motivating teammates, and making quick decisions."
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/leadership_commanding_the_huddle_and_team.webp']
 ---
 
 # Leadership: Commanding the Huddle and Team

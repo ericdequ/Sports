@@ -5,6 +5,8 @@ tags: ["American Football", "Strategy", "Play Calling", "Coaching Wisdom", "Play
 draft: false
 summary: "Analyze the use of audibles in American football, including recognizing defensive alignments, communicating changes, and making the right call."
 
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/audibles_changing_plays_at_the_line_of_scrimmage.webp']
 ---
 
 # Audibles: Changing Plays at the Line of Scrimmage

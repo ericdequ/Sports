@@ -4,6 +4,8 @@ date: "2023-10-08"
 tags: ['soccer', 'tactics', 'vertical passing', 'player development', 'coaching', 'strategy', 'football', 'midfield', 'defense']
 draft: false
 summary: "Explore the critical role of vertical passing in soccer, its impact on breaking defensive lines, and how it propels teams towards the opponent's goal."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/vertical_passing_breaking_lines_and_advancing_play.webp']
 ---
 
 ## Vertical Passing: Breaking Lines and Advancing Play

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['basketball', 'transition play', 'power forwards', 'basketball strategy', 'fast breaks', 'coaching tips', 'player insights', 'sports analysis', 'floor spacing', 'basketball IQ']
 draft: false
 summary: "Explore the crucial role of power forwards in transition play, emphasizing their importance in running the floor and finishing fast breaks with both player perspectives and coaching insights."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/transition_play_running_the_floor_the_importance_of_power_forwards_in_transition_play.webp']
 ---
 
 # Transition Play: Running the Floor - The Importance of Power Forwards in Transition Play

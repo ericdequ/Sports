@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Football', 'Techniques', 'Coaching Tips', 'Player Skills', 'Defender', 'Hand Placement', 'Balance', 'Timing', 'Offense']
 draft: false
 summary: "Explore the proper technique for using a stiff arm, including timing, hand placement, and maintaining balance to keep defenders at bay and maximize your yardage on the field."
+
+images: ['https://www.sportstips.org/articleimage/Football/RB/stiff_arm_techniques_keeping_defenders_at_bay.webp']
 ---
 
 # Stiff Arm Techniques: Keeping Defenders at Bay

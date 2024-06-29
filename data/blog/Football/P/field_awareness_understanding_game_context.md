@@ -4,6 +4,8 @@ date: '2022-03-30'
 tags: ['Field Awareness', 'Football IQ', 'Game Context', 'Decision Making', 'Coaching Tips', 'Player Knowledge', 'Sports Strategy']
 draft: false
 summary: "Explore the importance of field awareness in football, including understanding down and distance, game context, and making smart decisions. This article blends player knowledge with coaching wisdom to help you elevate your game."
+
+images: ['https://www.sportstips.org/articleimage/Football/P/field_awareness_understanding_game_context.webp']
 ---
 
 # Field Awareness: Understanding Game Context

@@ -4,6 +4,8 @@ date: "2023-10-05"
 tags: ['Football', 'Linebacker', 'Blitz', 'Coverage', 'Tips', 'Quarterback', 'Strategy', 'Defense', 'Offense']
 draft: false
 summary: "This guide delves into the art of reading linebackers to identify blitzes and coverage schemes, arming quarterbacks with the knowledge needed to make smart adjustments on the fly."
+
+images: ['https://www.sportstips.org/articleimage/Football/QB/reading_linebackers_identifying_blitzes_and_coverage.webp']
 ---
 
 # Reading Linebackers: Identifying Blitzes and Coverage

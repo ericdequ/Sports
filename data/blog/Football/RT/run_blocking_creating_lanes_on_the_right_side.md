@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags:  ['football', 'offensive line', 'coaching tips', 'run blocking', 'techniques', 'drive blocks', 'combo blocks', 'leverage', 'strategy']
 draft: false
 summary: "Discover the essential strategies for mastering run blocking on the right side, with insights on drive blocks, combo blocks, and leveraging your position to move defenders efficiently."
+
+images: ['https://www.sportstips.org/articleimage/Football/RT/run_blocking_creating_lanes_on_the_right_side.webp']
 ---
 
 # Run Blocking: Creating Lanes on the Right Side

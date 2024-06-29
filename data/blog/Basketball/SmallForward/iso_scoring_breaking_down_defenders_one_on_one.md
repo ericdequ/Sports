@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Basketball', 'Skill Development', 'Offense', 'Footwork', 'Dribbling']
 draft: false
 summary: "Examine isolation scoring techniques, including dribble moves, footwork, and creating separation from defenders."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/iso_scoring_breaking_down_defenders_one_on_one.webp']
 ---
 
 # Iso Scoring: Breaking Down Defenders One-on-One

@@ -4,6 +4,8 @@ date: '2024-02-13'
 tags: ['Soccer', 'Strategies', 'Team Dynamics', 'Attacking Play', 'Decoy Runs', 'Coaching Tips', 'Player Techniques', 'Defensive Tactics', 'Tactical Analysis']
 draft: false
 summary: 'An in-depth analysis of how decoy runs help draw defenders away, creating opportunities and space for other attackers to exploit.'
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/decoy_runs_creating_space_for_teammates.webp']
 ---
 
 ## Decoy Runs: Creating Space for Teammates

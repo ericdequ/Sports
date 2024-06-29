@@ -5,6 +5,8 @@ tags: ['Basketball', 'Coaching', 'Post-Up', 'Footwork', 'Positioning', 'Tips', '
 draft: false
 summary: 'Explore techniques for effective post-up play in basketball, focusing on footwork, positioning, and reading the defender. This guide blends player insights with coaching wisdom.'
 
+
+images: ['https://www.sportstips.org/articleimage/Basketball/Center/mastering_the_post_up_dominating_the_paint.webp']
 ---
 
 ## Introduction

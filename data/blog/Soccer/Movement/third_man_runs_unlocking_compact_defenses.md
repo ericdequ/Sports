@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags: ['Soccer', 'Tactics', 'Analysis', 'Third Man Runs', 'Coaching', 'Strategy', 'Teams', 'Defenses', 'Goal Scoring']
 draft: false
 summary: "Explore the concept of third man runs, how they create goal-scoring opportunities, and examples of teams that utilize this tactic effectively in soccer."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/third_man_runs_unlocking_compact_defenses.webp']
 ---
 
 ### Third Man Runs: Unlocking Compact Defenses

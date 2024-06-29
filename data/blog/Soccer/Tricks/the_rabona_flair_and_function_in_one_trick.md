@@ -4,6 +4,8 @@ date: '2023-07-11'
 tags: ['Soccer', 'Skills', 'Tricks', 'Coaching', 'Mechanics', 'Performance', 'Improvement', 'Control', 'Flair']
 draft: false
 summary: "Explore the mechanics of the Rabona, when to use it, and how it adds both flair and control to your soccer game."
+
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_rabona_flair_and_function_in_one_trick.webp']
 ---
 
 # The Rabona: Flair and Function in One Trick

@@ -4,6 +4,8 @@ date: "2024-05-21"
 tags:  ['Basketball', 'Coaching', 'Player Tips', 'Game Strategy', 'Offense', 'Defense', 'Skill Building', 'Mindset', 'Team Dynamics']
 draft: false
 summary: "Explore strategies for effective decision-making in basketball, including recognizing defensive schemes, reading the defense, and knowing when to shoot or pass."
+
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/decision_making_making_smart_plays_under_pressure.webp']
 ---
 
 # Decision Making: Making Smart Plays Under Pressure
