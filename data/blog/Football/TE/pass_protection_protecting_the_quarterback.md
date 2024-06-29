@@ -1,4 +1,5 @@
 ---
+
 title: "Pass Protection: Protecting the Quarterback"
 date: "2024-05-21"
 tags: ["football", "pass protection", "tight ends", "blitz recognition", "blocking techniques", "quarterback safety", "coaching tips", "player tips", "offensive strategy"]

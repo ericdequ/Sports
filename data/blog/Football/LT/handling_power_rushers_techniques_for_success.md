@@ -1,4 +1,5 @@
 ---
+
 title: 'Handling Power Rushers: Techniques for Success'
 date: '2023-05-20'
 tags: ['football', 'techniques', 'offensive line', 'power rushers', 'strategy', 'sports', 'coaching', 'player tips', 'leverage']

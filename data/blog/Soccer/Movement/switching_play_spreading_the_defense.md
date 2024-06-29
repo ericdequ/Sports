@@ -1,4 +1,5 @@
 ---
+
 title: 'Switching Play: Spreading the Defense'
 date: '2023-09-12'
 tags:  ['soccer', 'tactics', 'coaching', 'defense', 'strategy', 'football', 'soccer tips', 'playmaking', 'gameplay']
@@ -25,6 +26,7 @@ Switching play is all about maintaining possession and stretching the defense. H
 Understanding the *why* behind switching play is just as important as knowing how to execute it.
 
 ### Benefits:
+
 - **Creates Space**: By moving the ball across the field, you can bypass clusters of defenders and open up the play.
 - **Stretches Defense**: Forces the opposition to reorganize and shift, often leading to gaps and miscommunication.
 - **Improves Ball Circulation**: Keeps the ball moving, maintaining possession and controlling the tempo of the game.

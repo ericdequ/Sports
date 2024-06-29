@@ -1,4 +1,5 @@
 ---
+
 title: 'Open Field Running: Maximizing Space'
 date: '2022-10-15'
 tags: ['Football', 'Running Back', 'Open Field', 'Strategies', 'Coaching Tips', 'Player Skills', 'Angle Running', 'Downfield Blocks', 'Gains']

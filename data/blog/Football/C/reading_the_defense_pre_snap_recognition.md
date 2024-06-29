@@ -1,4 +1,5 @@
 ---
+
 title: "Reading the Defense: Pre-Snap Recognition"
 date: "2024-05-21"
 tags: ['Football', 'Offensive Line', 'Strategy', 'Coaching Tips', 'Blitz Recognition', 'Stunts', 'Line Calls', 'Centers', 'Football IQ']
@@ -26,11 +27,13 @@ The first step in pre-snap recognition is identifying the defensive alignment. D
 ## Recognizing Blitzes and Stunts
 
 ### Common Blitz Types
+
 1. **A-Gap Blitz**: Linebackers aiming for the gaps between the center and the guards.
 2. **Edge Blitz**: Linebackers or safeties rushing from the outside, targeting the edges of the offensive line.
 3. **Zone Blitz**: Defensive linemen dropping into coverage while linebackers or defensive backs blitz.
 
 ### Stunts
+
 - **Twist**: Defensive linemen cross paths to confuse blockers.
 - **Loop**: A defensive lineman loops around behind another lineman to exploit gaps in the protection.
 

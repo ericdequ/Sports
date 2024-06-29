@@ -1,10 +1,10 @@
 ---
+
 title: "Onside Kicks: Executing Trick Plays"
 date: '2021-05-30'
 tags: ['football', 'special teams', 'kickoff', 'trick plays', 'strategies', 'onside kicks', 'coaching', 'player techniques', 'game plan']
 draft: false
 summary: "Explore strategies for executing successful onside kicks in football, including ball placement, kick angle, and timing, from the viewpoint of both players and coaches."
-
 
 images: ['https://www.sportstips.org/articleimage/Football/K/onside_kicks_executing_trick_plays.webp']
 ---
@@ -16,6 +16,7 @@ When it comes to football, the onside kick is one of the most thrilling and risk
 In this article, we'll delve into the strategies behind successful onside kicks, covering ball placement, kick angle, and timing. We'll break down the techniques and wisdom that can give your team an edge.
 
 ### Ball Placement
+
 Ball placement is the foundation of a successful onside kick. Here’s why it matters:
 
 1. **Sweet Spot**: Position the ball on the tee with its sweet spot facing the optimal direction. Typically, the ball should lean slightly forward to ensure a controlled bounce.
@@ -23,6 +24,7 @@ Ball placement is the foundation of a successful onside kick. Here’s why it ma
 3. **Mark the Target**: Aim to kick the top or bottom third depending on whether you desire a high bounce or a ground-skipping effect.
 
 ### Kick Angle
+
 The angle at which the ball is kicked determines its trajectory and bounce pattern. Here’s a breakdown:
 
 | Kick Angle | Outcome |
@@ -36,6 +38,7 @@ The angle at which the ball is kicked determines its trajectory and bounce patte
 - **Mixed Spins**: Modifying the kick angle to create spins can make the ball behave irregularly, posing a greater challenge for the receiving team.
 
 ### Timing
+
 Timing the onside kick is as crucial as its execution. Think of timing in terms of game clock, team readiness, and opponent positioning.
 
 1. **Game Clock**: Onside kicks are most effective when least expected. Utilizing them in the second half or when trailing could surprise the opposition.

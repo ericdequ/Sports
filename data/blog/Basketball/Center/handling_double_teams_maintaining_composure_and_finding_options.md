@@ -1,4 +1,5 @@
 ---
+
 title: "Handling Double Teams: Maintaining Composure and Finding Options"
 date: '2024-03-31'
 tags: ['Basketball', 'Coaching', 'Strategy', 'Defense', 'Offense', 'Player Development', 'Teamwork', 'Skill Enhancement']
@@ -15,6 +16,7 @@ When you’re controlling the post like a boss, double teams are inevitable. Def
 ## Recognizing Double Teams Early
 
 ### Stay Awake, Stay Alert
+
 The key to outsmarting a double team starts with your awareness. Keep your head on a swivel, and don't get caught napping.
 
 - **Scanning:** Constantly scan the court. Look out for tell-tale signs of a double team. Is the weak-side defender creeping closer? Are two or more defenders making eye contact or signaling?
@@ -31,6 +33,7 @@ The key to outsmarting a double team starts with your awareness. Keep your head 
 ## Maintaining Composure
 
 ### Control the Tempo
+
 Panic is your enemy. Double teams thrive on your mistakes.
 
 - **High Basketball IQ:** Trust your skills and your instincts. Remain calculated with every move.
@@ -46,6 +49,7 @@ Panic is your enemy. Double teams thrive on your mistakes.
 ## Finding Options
 
 ### Smart Passing
+
 Effective post play isn’t just scoring – it’s playmaking.
 
 - **Quick Decision Making:** Execute swift, precise passes out of the post to open teammates.
@@ -79,5 +83,6 @@ Handling double teams proficiently is a blend of mental sharpness, physical prep
 Remember: Stay alert, stay poised, and always play smart. Got any other tips or drills that have worked for you? Share them below, and let’s keep elevating our game!
 
 ---
+
 *For more deeper dives into basketball strategies, check out our other articles and subscribe for weekly insights and tips!*
 ```

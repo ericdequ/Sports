@@ -1,4 +1,5 @@
 ---
+
 title: "Silent Counts and Snap Cadence: Communicating Without Words"
 date: "2024-05-21"
 tags: ['Football', 'Strategy', 'Coaching', 'Communication', 'Snap Count', 'Silent Count', 'Cadence', 'Game Management', 'Play Calling', 'Teamwork']
@@ -64,11 +65,13 @@ Silent counts involve the quarterback and the offensive line executing the snap 
 ## Coaching Drills for Mastery
 
 ### Drill 1: **The Noise Drill**
+
 - **Setup:** Use loudspeakers to simulate crowd noise during practice.
 - **Execution:** Practice silent counts with varying defensive pressures.
 - **Objective:** Enhance concentration and reduce cues from defensive reads.
 
 ### Drill 2: **The Discipline Check**
+
 - **Setup:** Offensive line practice with randomized silent and snap counts.
 - **Execution:** Incorporate intermittent changes in cadence.
 - **Objective:** Cultivate discipline and adaptability among offensive players.

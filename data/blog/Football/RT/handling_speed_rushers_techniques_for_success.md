@@ -1,4 +1,5 @@
 ---
+
 title: 'Handling Speed Rushers: Techniques for Success'
 date: '2023-01-11'
 tags: ['football', 'offense', 'offensive line', 'technique', 'training', 'sports', 'strategy', 'coaching', 'player development']
@@ -72,6 +73,7 @@ Remember, the devil is in the details. Perfect your footwork, balance, and hand 
 What are your go-to techniques for handling speed rushers? Share your tips and experiences in the comments below!
 
 ---
+
 ```
 
 This article should provide a comprehensive and engaging overview of how to handle speed rushers in football, blending player insights and coaching wisdom to create a valuable resource for athletes and coaches alike.

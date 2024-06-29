@@ -1,10 +1,10 @@
 ---
+
 title: 'Perfecting the Hook Shot: A Classic Scoring Technique'
 date: '2023-10-11'
 tags: ['basketball', 'hook shot', 'post moves', 'scoring techniques', 'basketball tips', 'player development', 'coaching', 'offense strategies', 'skill enhancement']
 draft: false
 summary: 'Analyze the mechanics of the hook shot, focusing on its use in the post and advantages over defenders.'
-
 
 images: ['https://www.sportstips.org/articleimage/Basketball/Center/perfecting_the_hook_shot_a_classic_scoring_technique.webp']
 ---

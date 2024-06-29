@@ -1,4 +1,5 @@
 ---
+
 title: "Pulling: Leading the Way on Outside Runs"
 date: "2024-05-21"
 tags: ['football', 'offensive line', 'right guard', 'technique', 'coaching', 'player tips', 'blocking', 'run game', 'strategy']
@@ -7,6 +8,7 @@ summary: "Explore the technique of pulling as a right guard, including footwork,
 
 images: ['https://www.sportstips.org/articleimage/Football/RG/pulling_leading_the_way_on_outside_runs.webp']
 ---
+
 ```
 
 # Pulling: Leading the Way on Outside Runs
@@ -31,6 +33,7 @@ Before diving into the technique, it’s crucial to understand the importance of
 Footwork is the cornerstone of effective pulling. Without proper footwork, you risk losing balance, missing blocks, and allowing defenders to disrupt the play.
 
 ### Footwork Tips:
+
 1. **First Step:** Your first step should be toward your play-side foot, opening your hips to the direction of the run. Think of it like stepping over an imaginary line to start your lateral movement.
 2. **Crossover Step:** Quickly follow with a crossover step. This helps in generating momentum and putting you in a strong lateral position.
 3. **Downfield Acceleration:** Once you clear the center, accelerate downfield while keeping your eyes up to identify the defender you're targeting.
@@ -51,6 +54,7 @@ Motion:                        |
 Timing your pull is critical. Pull too early, and you expose the intention of the play; pull too late, and you risk not reaching your target position in time.
 
 ### Timing Tips:
+
 - **Snap Reaction:** your motion should begin the instant the ball is snapped.
 - **Patience in Motion:** Avoid the temptation to rush. The key is to stay controlled and composed while accelerating.
 - **Alignment Check:** Make sure you’re lined up properly with the center and assured in your aiming point down field.
@@ -60,6 +64,7 @@ Timing your pull is critical. Pull too early, and you expose the intention of th
 When you're in space, it’s not just about who to block, but how to block them effectively:
 
 ### Targeting Tips:
+
 - **Awareness:** Keep your head on a swivel, especially in open space, to identify your target.
 - **First Contact:** Aim for the defender's inside shoulder. This disrupts their path and helps pave a lane for the runner.
 - **Finish Through:** Drive your feet on contact to sustain the block, giving extra time for the running back to hit the hole.

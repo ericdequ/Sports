@@ -1,4 +1,5 @@
 ---
+
 title: "Passing Out of the Post: Finding Open Teammates"
 date: "2024-05-21"
 tags:  ['basketball', 'coaching', 'skills', 'passing', 'strategy', 'teamwork']
@@ -73,7 +74,7 @@ By mastering these techniques and incorporating these drills into your training,
 ---
 
 *For further reading*:
-- [Basketball IQ: Understanding the Game](#)
-- [Effective Team Communication on the Court](#)
-- [Mastering the Art of the Bounce Pass](#)
+- [Basketball IQ: Understanding the Game](#) 
+- [Effective Team Communication on the Court](#) 
+- [Mastering the Art of the Bounce Pass](#) 
 ```

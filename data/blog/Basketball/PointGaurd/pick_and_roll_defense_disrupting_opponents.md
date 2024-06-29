@@ -1,4 +1,5 @@
 ---
+
 title: "Pick-and-Roll Defense: Disrupting Opponents"
 date: '2023-05-19'
 tags: ['Basketball', 'Defense', 'Coaching', 'Strategies', 'Tips', 'Pick-and-Roll', 'Team Play', 'NBA', 'Skills']
@@ -17,11 +18,13 @@ The pick-and-roll is a staple in basketball offenses at all levels, from high sc
 Hedging is an aggressive strategy used to temporarily disrupt the ball handler’s path and force a decision.
 
 ### **Steps to Hedge Effectively:**
+
 1. **Communication:** The defending big should call out the screen early to prepare the on-ball defender.
 2. **Positioning:** The big steps out to meet the ball handler, impeding their progress while staying ready to retreat quickly.
 3. **Containment:** The on-ball defender must fight to recover around the screen, re-establishing pressure on the ball handler.
 
 ### **Key Tips:**
+
 - **Angle:** Don't hedge too high; an effective hedge is quick and low to prevent the ball handler from splitting the defense.
 - **Timing:** Proper timing is crucial. Arriving too early or too late can neutralize the hedge’s effectiveness.
 - **Hands Up:** Use active hands to obstruct passing lanes and deter lob passes.
@@ -37,11 +40,13 @@ Hedging is an aggressive strategy used to temporarily disrupt the ball handler�
 Switching involves defenders trading assignments to neutralize the screen entirely. This strategy is particularly effective for teams with versatile defenders who can guard multiple positions.
 
 ### **Steps to Switch Effectively:**
+
 1. **Verbal Cues:** Utilize clear and loud communication to signal the switch.
 2. **Quickness:** Execute the switch seamlessly to ensure there is no open window for the offensive player.
 3. **Positioning:** Both defenders should stay connected to their new assignments immediately. 
 
 ### **Key Tips:**
+
 - **Versatility:** Players must be comfortable guarding different positions, especially in case of a mismatch.
 - **Pre-Switch Preparation:** Prepare mentally and physically for potential switches before they happen.
 - **Stay Low:** Maintain a low defensive stance to react quickly to offensive movements.
@@ -57,11 +62,13 @@ Switching involves defenders trading assignments to neutralize the screen entire
 Fighting through screens is a fundamental approach where the on-ball defender maneuvers around the screen to stay attached to the ball handler.
 
 ### **Steps to Fight Through Effectively:**
+
 1. **Navigate Cleanly:** Use your body to "skinny" through, avoiding getting fully picked off.
 2. **Anticipate:** Predict the screen’s direction and beat the screener to the spot.
 3. **Recover:** Once through the screen, work to get back in front of the ball handler promptly.
 
 ### **Key Tips:**
+
 - **Physicality:** Use your chest to absorb the contact without getting stuck.
 - **Footwork:** Utilize quick and precise footwork to navigate around the screener.
 - **Conditioning:** Stay in top physical condition; this method is physically demanding.

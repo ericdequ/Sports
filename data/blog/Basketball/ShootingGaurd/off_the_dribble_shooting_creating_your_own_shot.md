@@ -1,4 +1,5 @@
 ---
+
 title: "Off-the-Dribble Shooting: Creating Your Own Shot"
 date: "2024-05-21"
 tags: ['Basketball', 'Shooting', 'Skills', 'Dribbling', 'Training', 'Coaching', 'Player Development']
@@ -15,6 +16,7 @@ In the game of basketball, having the ability to shoot off the dribble is like h
 ### Key Components of Off-the-Dribble Shooting
 
 #### 1. Dribble Moves
+
 To create your own shot, master a variety of dribble moves. Here's a quick breakdown of essential moves:
 
 | Dribble Move | Description | Pro Tip |

@@ -1,4 +1,5 @@
 ---
+
 title: "Run Blocking: Creating Lanes on the Left Side"
 date: '2023-08-27'
 tags: ['Football', 'Run Blocking', 'Offensive Line', 'Coaching', 'Player Development', 'Blocking Techniques', 'Drive Blocks', 'Combo Blocks', 'Leverage']
@@ -15,6 +16,7 @@ Run blocking is an essential component of a dominant football Teams playbook. Wh
 ## Drive Blocks
 
 ### What Are Drive Blocks?
+
 Drive blocks are fundamental in run blocking, involving an offensive lineman pushing the defender directly backwards, typically at the point of attack. This technique relies on strength, leverage, and proper footwork.
 
 ### How to Execute a Drive Block
@@ -27,6 +29,7 @@ Drive blocks are fundamental in run blocking, involving an offensive lineman pus
 ## Combo Blocks
 
 ### What Are Combo Blocks?
+
 Combo blocks involve two offensive linemen initially double-teaming a defensive lineman before one of them peels off to block a linebacker at the second level.
 
 ### How to Execute a Combo Block
@@ -39,6 +42,7 @@ Combo blocks involve two offensive linemen initially double-teaming a defensive 
 ## Leveraging for Success
 
 ### The Importance of Leverage
+
 Leverage in blocking refers to the technique of using body positioning and angles to magnify physical strength and control over the defender.
 
 ### Leveraging Techniques

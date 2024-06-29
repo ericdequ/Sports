@@ -1,4 +1,5 @@
 ---
+
 title: "Using Hands: Hand Fighting and Jamming for Wide Receivers"
 date: '2024-02-25'
 tags: ['American Football', 'Wide Receivers', 'Coaching Tips', 'Hand Techniques', 'Player Skills', 'Jamming', 'Hand Fighting']

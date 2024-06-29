@@ -1,4 +1,5 @@
 ---
+
 title: "Pivot Midfielders: Controlling the Tempo"
 date: '2021-08-06'
 tags: ['soccer', 'midfield', 'strategy', 'skills', 'player development', 'coaching', 'Sergio Busquets', 'possession', 'tempo control']
@@ -7,6 +8,7 @@ summary: "Examine the role of a pivot midfielder, with a focus on how players li
 
 images: ['https://www.sportstips.org/articleimage/Soccer/Positions/pivot_midfielders_controlling_the_tempo.webp']
 ---
+
 ```
 
 # Pivot Midfielders: Controlling the Tempo

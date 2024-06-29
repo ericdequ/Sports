@@ -1,4 +1,5 @@
 ---
+
 title: 'Catching in Traffic: Securing the Ball Amidst Defenders'
 date: '2023-02-28'
 tags: ['football', 'wide receiver', 'catching techniques', 'body positioning', 'strong hands', 'focus', 'tips', 'coaching', 'player skills']

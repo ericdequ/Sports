@@ -1,4 +1,5 @@
 ---
+
 title: "Red Zone Efficiency: Scoring Inside the 20"
 date: '2022-11-07'
 tags: ['football', 'strategy', 'coaching', 'red zone', 'offense', 'scoring', 'precision passing', 'play selection', 'turnovers']

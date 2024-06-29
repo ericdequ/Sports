@@ -1,4 +1,5 @@
 ---
+
 title: "Silent Counts and Snap Cadence: Communicating Without Words"
 date: "2023-10-09"
 tags: ['football', 'coaching', 'strategy', 'offense', 'communication', 'snap count', 'silent count', 'cadence']
@@ -84,5 +85,6 @@ In the high-stakes arena of football, where every second and every yard counts, 
 Happy coaching, and may your snap count ever be in sync!
 
 ---
+
 Got any tips or stories about using silent counts? Drop them in the comments below!
 ```

@@ -1,4 +1,5 @@
 ---
+
 title: 'Shotgun vs. Under Center Snaps: Adjusting Techniques'
 date: '2023-09-27'
 tags: ['football', 'shotgun', 'under center', 'snaps', 'quarterback', 'coach tips', 'player knowledge', 'techniques', 'consistency']

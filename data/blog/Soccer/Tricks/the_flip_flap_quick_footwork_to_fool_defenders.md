@@ -1,4 +1,5 @@
 ---
+
 title: "The Flip Flap: Quick Footwork to Fool Defenders"
 date: '2021-03-21'
 tags: ['Soccer', 'Skill Moves', 'Footwork', 'Player Techniques', 'Coaching Tips', 'Neymar', 'Dribbling', 'Faking', 'Defense']
@@ -77,9 +78,9 @@ Take this knowledge to the field, and may your Flip Flap leave defenders in the 
 
 #### Further Reading and Resources:
 
-- **[Flip Flap Tutorial by Neymar Jr.](#)**
-- **[Advanced Dribbling Techniques](#)**
-- **[Physical Conditioning for Quick Footwork](#)**
+- **[Flip Flap Tutorial by Neymar Jr.](#) **
+- **[Advanced Dribbling Techniques](#) **
+- **[Physical Conditioning for Quick Footwork](#) **
 
 ---
 

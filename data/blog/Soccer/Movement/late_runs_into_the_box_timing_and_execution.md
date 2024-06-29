@@ -1,4 +1,5 @@
 ---
+
 title: "Late Runs into the Box: Timing and Execution"
 date: '2023-11-19'
 tags: ['soccer', 'goal-scoring', 'technique', 'timing', 'coaching', 'player-tips', 'surprise', 'attack', 'strategy']
@@ -59,5 +60,6 @@ Mastering late runs into the box involves a blend of anticipation, timing, and s
 So next time you're on the field, remember: it's not just about running—it's about running smart, arriving at the right moment, and being ready to seize the opportunity.
 
 ---
+
 Practice diligently and incorporate these tips, and watch as your goal-scoring tally begins to rise!
 ```

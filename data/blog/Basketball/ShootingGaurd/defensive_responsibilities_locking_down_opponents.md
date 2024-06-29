@@ -1,4 +1,5 @@
 ---
+
 title: "Defensive Responsibilities: Locking Down Opponents"
 date: '2024-05-14'
 tags: ['basketball', 'defense', 'shooting guards', 'coaching', 'player development', 'on-ball defense', 'screens', 'help defense']

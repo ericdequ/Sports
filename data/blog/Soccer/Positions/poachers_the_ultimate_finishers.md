@@ -1,4 +1,5 @@
 ---
+
 title: "Poachers: The Ultimate Finishers"
 date: '2023-01-05'
 tags: ['football', 'soccer', 'goal scoring', 'poachers', 'finishing', 'positioning', 'Filippo Inzaghi', 'strikers', 'coaching']

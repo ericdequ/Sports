@@ -1,4 +1,5 @@
 ---
+
 title: "Film Study: Preparing for Opponents"
 date: "2024-05-21"
 tags: ["Football", "Film Study", "Left Tackle", "Tactics", "Game Planning", "Coaching", "Preparation", "Strategy"]

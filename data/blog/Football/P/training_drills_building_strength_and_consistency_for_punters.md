@@ -1,4 +1,5 @@
 ---
+
 title: "Training Drills: Building Strength and Consistency for Punters"
 date: '2023-08-14'
 tags: ['Football', 'Training', 'Drills', 'Strength', 'Consistency', 'Punters', 'Special Teams', 'Coaching', 'Player Development']

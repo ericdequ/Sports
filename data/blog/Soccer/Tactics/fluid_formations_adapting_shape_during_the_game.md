@@ -1,4 +1,5 @@
 ---
+
 title: "Fluid Formations: Adapting Shape During the Game"
 date: "2024-05-21"
 tags: ["football", "tactics", "formations", "strategy", "coaching", "analysis", "gameplay"]

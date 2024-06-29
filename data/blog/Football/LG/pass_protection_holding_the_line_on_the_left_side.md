@@ -1,4 +1,5 @@
 ---
+
 title: 'Pass Protection: Holding the Line on the Left Side'
 date: '2021-12-22'
 tags: ['football', 'offensive line', 'left guard', 'pass protection', 'techniques', 'footwork', 'hand placement', 'leverage']

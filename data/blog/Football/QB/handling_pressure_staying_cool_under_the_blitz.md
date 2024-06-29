@@ -1,4 +1,5 @@
 ---
+
 title: 'Handling Pressure: Staying Cool Under the Blitz'
 date: '2023-12-07'
 tags: ['football', 'blitz', 'quarterback', 'pressure', 'pre-snap reads', 'decision-making', 'escaping the pocket', 'coaching tips', 'player tips']

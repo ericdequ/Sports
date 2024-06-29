@@ -1,4 +1,5 @@
 ---
+
 title: "Ball Handling: Tightening Up Your Dribble"
 date: "2023-10-13"
 tags:  ['Basketball', 'Skills', 'Dribbling', 'Point Guards', 'Crossover', 'Behind-the-Back', 'Hesitation', 'Ball Handling']
@@ -25,6 +26,7 @@ The crossover dribble is a foundation of a point guard's repertoire. Here’s th
 | **Finishing** | Accelerate past your defender by exploding off your planted foot after the crossover. |
 
 #### Tips:
+
 - **Eyes Up**: Always keep your head up to watch defenders and potential passing lanes.
 - **Mix Speeds**: A change in speed during the crossover can throw off even the best defenders.
 
@@ -41,6 +43,7 @@ A behind-the-back dribble can be a stylish and effective way to switch direction
 | **Finishing** | Gain immediate control with your non-dominant hand and be ready to make your next move. |
 
 #### Tips:
+
 - **Control**: Practice dribbling behind the back in a controlled manner before trying it at full speed.
 - **Balance**: Maintain your balance and be agile to quickly change directions if needed.
 
@@ -57,6 +60,7 @@ The hesitation dribble, or "hesi," is a deceptive move designed to slow down and
 | **Finishing** | Explode past the defender as they momentarily freeze, confused by your hesitation. |
 
 #### Tips:
+
 - **Sell It**: The success of a hesitation dribble depends greatly on how well you sell the fake. Make it look like you're about to pull up for a shot.
 - **Timing**: Practice varying the length of your hesitation to see what works best against different defenders.
 

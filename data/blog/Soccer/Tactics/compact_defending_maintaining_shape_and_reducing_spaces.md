@@ -1,4 +1,5 @@
 ---
+
 title: "Compact Defending: Maintaining Shape and Reducing Spaces"
 date: '2021-12-04'
 tags: ['soccer', 'coaching', 'defense', 'team shape', 'tactics', 'spacing', 'passing lanes', 'strategy', 'football', 'analysis']

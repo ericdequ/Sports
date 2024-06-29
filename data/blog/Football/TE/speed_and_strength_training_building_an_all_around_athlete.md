@@ -1,4 +1,5 @@
 ---
+
 title: 'Speed and Strength Training: Building an All-Around Athlete'
 date: '2022-01-24'
 tags: ['training', 'athleticism', 'tight ends', 'speed', 'strength', 'football', 'fitness', 'coaching', 'skills']
@@ -15,6 +16,7 @@ Tight ends in football are unique in that they must balance the agility and spee
 ## Speed Training Techniques
 
 ### Sprint Drills
+
 Tight ends need explosive speed to break away from defenders and gain separation. Here are some essential sprint drills to incorporate:
 
 1. **40-Yard Dash Variations**
@@ -26,6 +28,7 @@ Tight ends need explosive speed to break away from defenders and gain separation
    - *L-Drill*: Enhances agility and quick pivoting.
 
 ### Plyometrics
+
 Plyometric exercises are crucial for developing explosive power and speed:
 
 1. **Box Jumps**
@@ -35,6 +38,7 @@ Plyometric exercises are crucial for developing explosive power and speed:
    - 3 sets of 5-7 explosive throws, focusing on upper body power.
 
 ### Agility Work
+
 Agility drills help tight ends navigate tight spaces and avoid tackles:
 
 1. **Ladder Drills**
@@ -46,6 +50,7 @@ Agility drills help tight ends navigate tight spaces and avoid tackles:
 ## Strength Training Techniques
 
 ### Weightlifting
+
 To dominate the line of scrimmage and make tough catches, a tight end needs considerable upper and lower body strength:
 
 1. **Compound Lifts**
@@ -58,6 +63,7 @@ To dominate the line of scrimmage and make tough catches, a tight end needs cons
    - **Snatches**: 3 sets of 3-5 reps to enhance overall power and speed.
 
 ### Functional Strength
+
 These exercises target movements specific to tight end play:
 
 1. **Farmer's Walks**
@@ -69,6 +75,7 @@ These exercises target movements specific to tight end play:
 ## Combining Speed and Strength
 
 ### Metabolic Conditioning
+
 Metabolic conditioning (metcon) workouts blend strength and speed for overall athletic improvement:
 
 ```markdown
@@ -82,6 +89,7 @@ Metabolic conditioning (metcon) workouts blend strength and speed for overall at
 ```
 
 ### Recovery and Nutrition
+
 Proper recovery and nutrition are essential to maximize the benefits of your training:
 
 1. **Recovery**

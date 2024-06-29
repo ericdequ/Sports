@@ -1,4 +1,5 @@
 ---
+
 title: 'Kickoff Strategies: Maximizing Distance and Hang Time'
 date: '2023-06-14'
 tags: ['Football', 'Special Teams', 'Kickoff', 'Tips', 'Strategies', 'Coaching', 'Player Knowledge', 'Hang Time', 'Distance']

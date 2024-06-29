@@ -1,4 +1,5 @@
 ---
+
 title: "One-on-One Finishing: Beating the Goalkeeper"
 date: '2021-03-23'
 tags: ['soccer', 'finishing', 'techniques', 'coaching', 'players', 'goalkeeper', 'one-on-one', 'strategy', 'training']
@@ -49,19 +50,23 @@ Shooting early capitalizes on the element of surprise. It leaves the keeper with
 ## Tips from the Pros
 
 ### **Player Wisdom:**
+
 - **Cristiano Ronaldo:** "When you're in a one-on-one, stay calm and use your instincts. Sometimes the best choice is to shoot early; other times, it's about making the keeper commit and exploiting the space."
 - **Lionel Messi:** "The key is in the first touch. How you control the ball and set yourself up can make all the difference."
 
 ### **Coaching Insight:**
+
 - **Tip from Coaches:** "Train scenarios repeatedly in practice to improve familiarity and decision-making. Create high-pressure drills where players must choose between rounding the keeper or shooting early."
 
 ## Drills to Enhance One-on-One Finishing
 
 ### Drill 1: **Keeper Challenge**
+
 - **Setup:** Half-field with a single goal, a goalkeeper, and a feeder to pass the ball to the attacker.
 - **Objective:** The attacker receives the ball and must decide quickly to either round the keeper or shoot early under varying pressures.
 
 ### Drill 2: **Quick Decision Making**
+
 - **Setup:** Full-field with multiple stations. Each station involves a different scenario for the attacker.
 - **Objective:** Simulate real-game one-on-one situations, forcing the attacker to make quick decisions and refine their finishing skills.
 

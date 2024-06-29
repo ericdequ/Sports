@@ -1,4 +1,5 @@
 ---
+
 title: "Handling Power Rushers: Techniques for Success"
 date: "2024-05-21"
 tags: ['football', 'offensive line', 'blocking', 'power rushers', 'techniques', 'coaching', 'skills', 'player development', 'sports']
@@ -65,14 +66,17 @@ Hand placement can make or break your block. Proper use of hands ensures you can
 ## Real-World Application: Drills and Practice Routines
 
 ### 1. **Pass Blocking Drill**
+
    - Set up a line with cones to simulate defensive linemen.
    - Practice engaging with each “defender” maintaining pad level and hand placement.
 
 ### 2. **Mirror Drill**
+
    - Partner up with a teammate.
    - One player acts as the rusher; the blocker mirrors their movements focusing on footwork and leverage.
 
 ### 3. **Resist Band Drill**
+
    - Attach resistance bands to your waist.
    - Have a teammate apply force mimicking a rush.
    - Focus on maintaining leverage and hand placement against the pressure.

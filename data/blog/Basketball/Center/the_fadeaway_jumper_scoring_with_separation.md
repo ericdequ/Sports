@@ -1,4 +1,5 @@
 ---
+
 title: "The Fadeaway Jumper: Scoring with Separation"
 date: "2024-05-21"
 tags: ['basketball', 'fadeaway jumper', 'Hakeem Olajuwon', 'scoring', 'NBA', 'technique', 'skills', 'coaching', 'player knowledge']

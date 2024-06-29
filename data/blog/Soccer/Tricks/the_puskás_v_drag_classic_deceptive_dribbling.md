@@ -1,10 +1,10 @@
 ---
+
 title: 'The Puskás V-Drag: Classic Deceptive Dribbling'
 date: '2023-03-31'
 tags: ['soccer', 'dribbling', 'skills', 'Puskás', 'technique', 'training', 'coaching', 'deception', 'history']
 draft: false
 summary: 'Explore the elegance and effectiveness of the Puskás V-Drag, a dribbling move that continues to bamboozle defenders. This article delves into the historical significance, technical breakdown, and practical applications of this iconic soccer skill.'
-
 
 images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_puskás_v_drag_classic_deceptive_dribbling.webp']
 ---

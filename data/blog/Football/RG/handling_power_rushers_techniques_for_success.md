@@ -1,10 +1,10 @@
 ---
+
 title: 'Handling Power Rushers: Techniques for Success'
 date: '2022-12-12'
 tags: ['football', 'techniques', 'blocking', 'NFL', 'coaching', 'player development', 'offensive line', 'power rushers', 'training']
 draft: false
 summary: 'A comprehensive guide to surviving and thriving against power rushers, laden with tips and tricks from both player knowledge and coaching wisdom.'
-
 
 images: ['https://www.sportstips.org/articleimage/Football/RG/handling_power_rushers_techniques_for_success.webp']
 ---

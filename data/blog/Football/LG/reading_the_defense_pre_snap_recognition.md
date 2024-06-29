@@ -1,4 +1,5 @@
 ---
+
 title: "Reading the Defense: Pre-Snap Recognition"
 date: "2024-05-21"
 tags: ['Football', 'Offensive Line', 'Left Guard', 'Defense', 'Blitz', 'Stunts', 'Coaching', 'Player Tips', 'Game Strategy']

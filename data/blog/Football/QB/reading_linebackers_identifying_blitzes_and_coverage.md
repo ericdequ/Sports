@@ -1,4 +1,5 @@
 ---
+
 title: "Reading Linebackers: Identifying Blitzes and Coverage"
 date: "2023-10-05"
 tags: ['Football', 'Linebacker', 'Blitz', 'Coverage', 'Tips', 'Quarterback', 'Strategy', 'Defense', 'Offense']

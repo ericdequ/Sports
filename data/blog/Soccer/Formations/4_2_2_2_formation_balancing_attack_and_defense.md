@@ -1,4 +1,5 @@
 ---
+
 title: "4-2-2-2 Formation: Balancing Attack and Defense"
 date: "2024-05-21"
 tags: ['Soccer', 'Tactics', 'Formation', 'Defense', 'Attack', 'Coaching', 'Midfield', 'Strikers', 'SoccerFormation']
@@ -80,6 +81,7 @@ A key aspect is the midfield pairing's role in transitioning play. They often re
 - **Movement:** Ability to find and exploit gaps in the opposition.
 
 ### Strikers (ST)
+
 - **Finishing:** High conversion rate of chances into goals.
 - **Off-the-Ball Movement:** Make intelligent runs to stretch defenses.
 

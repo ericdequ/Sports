@@ -1,10 +1,10 @@
 ---
+
 title: 'Directional Punting: Controlling Field Position'
 date: '2024-05-10'
 tags: ['Football', 'Punting', 'Special Teams', 'Field Position', 'Coaching Tips', 'Player Skills', 'Strategy', 'Techniques']
 draft: false
 summary: 'Exploring the critical role of directional punting in controlling field position, with insights into techniques for aiming punts and strategies for pinning opponents deep.'
-
 
 images: ['https://www.sportstips.org/articleimage/Football/P/directional_punting_controlling_field_position.webp']
 ---

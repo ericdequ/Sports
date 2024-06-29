@@ -1,4 +1,5 @@
 ---
+
 title: "The Post Hook: Scoring from the Block"
 date: '2021-06-04'
 tags: ['basketball', 'offensive techniques', 'post moves', 'Kareem Abdul-Jabbar', 'big men', 'scoring', 'NBA', 'skills development', 'coach tips']

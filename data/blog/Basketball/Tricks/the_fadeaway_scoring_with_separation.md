@@ -1,10 +1,10 @@
 ---
+
 title: "The Fadeaway: Scoring with Separation"
 date: "2024-05-21"
 tags: ["basketball", "fadeaway", "scoring", "technique", "Michael Jordan", "coaching tips", "player knowledge", "NBA", "skills"]
 draft: false
 summary: "Analyze the fadeaway shot, its execution, and how players like Michael Jordan used it to score over defenders with ease and elegance."
-
 
 images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_fadeaway_scoring_with_separation.webp']
 ---

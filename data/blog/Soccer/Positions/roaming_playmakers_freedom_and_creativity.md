@@ -1,4 +1,5 @@
 ---
+
 title: "Roaming Playmakers: Freedom and Creativity"
 date: "2024-05-21"
 tags: ['football', 'soccer', 'playmakers', 'Kevin De Bruyne', 'tactics', 'creativity', 'midfielders', 'coaching', 'player analysis']
@@ -66,4 +67,5 @@ If you’re looking to nurture the next Kevin De Bruyne, here are some coaching 
 In conclusion, the roaming playmaker is a crucial asset in modern football, blending creativity with tactical intelligence. Kevin De Bruyne serves as a paradigm for this role, showing how freedom and creativity can spell success on the pitch. As a coach or a player aiming to harness this style, the focus should be on developing a keen sense of vision, versatile positioning, and impeccable technical skills.
 
 ---
+
 ```

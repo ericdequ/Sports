@@ -1,4 +1,5 @@
 ---
+
 title: "Leadership on the Wing: Leading by Example"
 date: "2024-05-21"
 tags: ['basketball', 'leadership', 'small forwards', 'mentorship', 'team dynamics']

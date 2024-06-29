@@ -1,4 +1,5 @@
 ---
+
 title: "Free Throw Shooting: Maintaining Composure"
 date: "2023-10-26"
 tags: ['Basketball', 'Free Throws', 'Technique', 'Focus', 'Composure']
@@ -57,4 +58,5 @@ Becoming a proficient free throw shooter is a blend of routine, focus, and maint
 Always remember, free throws are an art – a beautiful rhythm of mind and body working in unison. Practice diligently, stay composed, and you’ll see those "free" points adding to your tally game after game.
 
 ---
+
 🏀 **Remember: Practice makes permanent. Focus on the form, calm your mind, and soon you’ll nail those clutch free throws like a pro!** 🏀

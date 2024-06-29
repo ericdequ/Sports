@@ -1,4 +1,5 @@
 ---
+
 title: "Understanding the 4-5-1 Formation: Defensive Organization and Counter-Attacking"
 date: "2024-05-21"
 tags: ['Soccer', 'Tactics', 'Formation', 'Defense', 'Counter-Attack', 'Coaching', 'Strategy', '4-5-1', 'Football',]
@@ -76,5 +77,5 @@ By integrating these elements, teams can harness the power of the 4-5-1 for both
 
 ---
 
-**Tags:** #Soccer #Tactics #Formation #Defense #CounterAttack #Coaching #Strategy #4-5-1 #Football
+**Tags:** #S occer #T actics #F ormation #D efense #C ounterAttack #C oaching #S trategy #4 -5-1 #F ootball
 ```

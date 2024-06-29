@@ -1,4 +1,5 @@
 ---
+
 title: 'Deep Ball Accuracy: Improving Long-Range Passing'
 date: '2021-12-14'
 tags: ['Football', 'Quarterback', 'Coach Wisdom', 'Player Knowledge', 'Mechanics', 'Timing', 'Receiver Chemistry', 'Deep Ball', 'Passing Techniques']

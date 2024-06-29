@@ -1,4 +1,5 @@
 ---
+
 title: "Double Teams: Working with the Left Tackle to Neutralize Defenders"
 date: "2024-05-21"
 tags: ['football', 'offense', 'double team', 'left tackle', 'blocking', 'line play', 'strategy', 'coaching']

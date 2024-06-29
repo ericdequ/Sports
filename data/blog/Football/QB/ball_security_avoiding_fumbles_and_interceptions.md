@@ -1,4 +1,5 @@
 ---
+
 title: 'Ball Security: Avoiding Fumbles and Interceptions'
 date: '2023-12-12'
 tags: ['football', 'coaching tips', 'ball security', 'fumbles', 'interceptions', 'grip', 'decision-making', 'quarterbacks', 'training']

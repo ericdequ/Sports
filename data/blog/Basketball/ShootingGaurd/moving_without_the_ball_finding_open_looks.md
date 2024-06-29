@@ -1,4 +1,5 @@
 ---
+
 title: "Moving Without the Ball: Finding Open Looks"
 date: '2023-04-11'
 tags: ['Basketball', 'Offense', 'Player Movement', 'Coaching Strategies', 'Screens', 'Cuts', 'Reading Defense', 'Open Shots', 'Team Play', 'Scoring']
@@ -24,6 +25,7 @@ Cutting is a crucial movement that can create easy scoring opportunities. Whethe
 | **Flash Cut**   | Quickly cutting to an open space in the paint or the high post.                              | When there's a gap in the zone defense            |
 
 ### Tips for Effective Cutting
+
 - **Read the Defense**: Always keep an eye on your defender’s position and anticipate their next move.
 - **Move with Purpose**: Cuts should be sharp and sudden, not half-hearted.
 - **Timing**: Synchronize your cut with the ball handler’s movement or pass.
@@ -42,6 +44,7 @@ Screens (or picks) are powerful tools in a player’s arsenal. They help create 
 | **Flare Screen** | A screen set to free a teammate popping out to the perimeter.                | For shooters to find space beyond the arc   |
 
 ### Techniques for Setting and Using Screens
+
 - **Angle and Footwork**: Set screens at effective angles to maximize your teammate’s separation from defenders.
 - **Communication**: Verbally or non-verbally signal the screen to ensure your teammate is prepared.
 - **React Immediately**: After setting the screen, either roll to the basket or pop out for a shot depending on your team’s strategy and your defender’s reaction.
@@ -60,6 +63,7 @@ Understanding how to read the defense is perhaps the most pivotal skill in movin
 | **Double-Teaming Ball Handler**  | Find gaps created by the double-team and position yourself for quick receive or shot. |
 
 ### Tips for Reading Defenses
+
 - **Stay Alert**: Continuous awareness of both your defender and the ball.
 - **React Quickly**: Make rapid decisions based on the defense’s positioning.
 - **Communicate**: Constant communication with teammates to coordinate moves effectively.

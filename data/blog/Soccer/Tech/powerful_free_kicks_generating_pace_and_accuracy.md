@@ -1,4 +1,5 @@
 ---
+
 title: "Powerful Free Kicks: Generating Pace and Accuracy"
 date: "2023-10-05"
 tags: ['Soccer', 'Free Kicks', 'Skill Development', 'Coaching Tips', 'Technique', 'Soccer Training', 'Player Knowledge', 'Soccer Drills', 'Advanced Tactics']

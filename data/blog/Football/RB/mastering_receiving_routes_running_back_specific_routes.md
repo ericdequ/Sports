@@ -1,4 +1,5 @@
 ---
+
 title: "Mastering Receiving Routes: Running Back Specific Routes"
 date: "2023-10-06"
 tags: ['Running Back', 'Football', 'Coaching', 'Receiving Routes', 'Wheel Route', 'Flat Route', 'Option Route', 'Sports Strategy']
@@ -15,42 +16,51 @@ In the modern game of football, running backs are not just ground-and-pound warr
 ### Wheel Route
 
 #### What is a Wheel Route?
+
 The wheel route is a deep passing route where the running back (RB) initially runs parallel to the line of scrimmage before turning upfield along the sideline.
 
 #### Coaching Tips:
+
 - **Timing**: The key to a successful wheel route is timing. The RB must sync the route with the quarterback's (QB) drop-back and release.
 - **Sell the Route**: RBs should initially sell the flat route to lure defenders out of position before making the turn upfield.
 - **Leverage and Angles**: Teach your RB to use leverage to keep defenders trailing and how to create a separation angle for a clean catch.
 
 #### Player Insights:
+
 - **Avoiding Contact**: Stay nimble and avoid unnecessary contact with linebackers. Use quick footwork to get into the open field.
 - **Ball Tracking**: Practice tracking the ball over the shoulder, mimicking game scenarios.
 
 ### Flat Route
 
 #### What is a Flat Route?
+
 The flat route is a quick, short passing route where the RB moves laterally towards the sideline, usually in the backfield or just beyond the line of scrimmage.
 
 #### Coaching Tips:
+
 - **Quick Release**: Emphasize the importance of explosive movement off the snap to get to the flat quickly.
 - **QB Connection**: Establish eye contact with the QB immediately to be ready for a quick pass.
 - **Blocking Awareness**: After the catch, RBs should be aware of the block setup to maximize yardage.
 
 #### Player Insights:
+
 - **Secure the Catch**: Make sure to secure the ball first before turning upfield. A dropped pass in the flat can lead to turnovers.
 - **Yards After Catch (YAC)**: Be prepared to cut back inside or accelerate along the sideline to gain additional yards.
 
 ### Option Route
 
 #### What is an Option Route?
+
 The option route provides the RB with the flexibility to adjust their route based on the defensive coverage. They can cut inside or break outside depending on the defender's positioning.
 
 #### Coaching Tips:
+
 - **Reading the Defense**: Train RBs to read defensive cues to determine whether to break inside or outside.
 - **Route Precision**: Precision in the initial route stems and decisive cuts are crucial. Hesitation can lead to interceptions.
 - **Communication**: QB and RB should be on the same page regarding the pre-snap read and the option choice.
 
 #### Player Insights:
+
 - **Decisiveness**: Make quick and confident decisions to create separation.
 - **Route Adjustments**: Be fluid in adapting routes based on live defensive looks.
 

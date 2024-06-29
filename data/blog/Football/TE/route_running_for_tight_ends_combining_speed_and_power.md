@@ -1,4 +1,5 @@
 ---
+
 title: "Route Running for Tight Ends: Combining Speed and Power"
 date: "2024-05-21"
 tags: ['route running', 'tight ends', 'football', 'coaching', 'player tips', 'speed', 'power', 'techniques']

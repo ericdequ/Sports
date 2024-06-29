@@ -1,4 +1,5 @@
 ---
+
 title: "Lob Shots: Beating the Keeper from Distance"
 date: "2024-05-21"
 tags: ["soccer", "techniques", "lob shot", "striking", "skills"]
@@ -52,6 +53,7 @@ Here's a real-world application to help contextualize the technique:
 | Defender | Closes in from behind. |
 
 #### **Decision Making**:
+
 - The striker notices the keeper is 12 yards off the line.
 - With defenders closing in, the direct route is risky.
 - Opting for a lob, the striker leans back, uses the instep to scoop the ball, and watches as it gracefully arcs over the leaping keeper, landing in the back of the net.

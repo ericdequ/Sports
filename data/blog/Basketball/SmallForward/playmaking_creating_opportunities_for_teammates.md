@@ -1,4 +1,5 @@
 ---
+
 title: "Playmaking: Creating Opportunities for Teammates"
 date: "2024-05-21"
 tags: ["Basketball", "Small Forwards", "Playmaking", "Team Strategy", "Offense", "Fast Breaks", "Coaching Tips", "Player Skills"]
@@ -58,4 +59,5 @@ The small forward's role in playmaking transcends typical scoring tasks. By mast
 Engage in these strategies, study the greats, and push your small forward game to the next level. Stay basketball savvy and keep hustling!
 
 ---
+
 ```

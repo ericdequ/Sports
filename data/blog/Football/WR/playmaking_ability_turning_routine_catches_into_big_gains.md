@@ -1,4 +1,5 @@
 ---
+
 title: "Playmaking Ability: Turning Routine Catches into Big Gains"
 date: "2023-10-03"
 tags: ['football', 'wide receivers', 'playmaking', 'coaching tips', 'player development', 'NFL', 'college football', 'skills training', 'athleticism']

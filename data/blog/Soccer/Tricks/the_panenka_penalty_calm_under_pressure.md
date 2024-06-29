@@ -1,10 +1,10 @@
 ---
+
 title: "The Panenka Penalty: Calm Under Pressure"
 date: '2021-02-09'
 tags: ['Football', 'Soccer', 'Penalty', 'Technique', 'Game Psychology', 'Coaching', 'Player Skills', 'Composure', 'Strategy']
 draft: false
 summary: "Analyze the technique and psychological aspects of executing a Panenka penalty, focusing on the element of surprise and composure."
-
 
 images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_panenka_penalty_calm_under_pressure.webp']
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: "Mechanics: Perfecting Your Throwing Motion"
 date: '2024-04-17'
 tags: ['football', 'quarterback', 'mechanics', 'throwing', 'coaching', 'footwork', 'arm angle', 'follow-through']
@@ -17,10 +18,12 @@ In the high-impact world of football, a quarterback's precision and power in thr
 Your footwork sets the stage for an accurate throw. Just like a dancer relies on choreography, a quarterback must move with purpose. Here’s the breakdown:
 
 ### Stance
+
 - **Balanced**: Keep your feet shoulder-width apart.
 - **Weight Distribution**: Slightly lean onto your toes, ready to spring into action.
 
 ### Drops
+
 - **Three-Step Drop**: Used for quick passes, typically in short-yardage situations.
   1. Push off your back foot.
   2. Take three quick steps.
@@ -31,6 +34,7 @@ Your footwork sets the stage for an accurate throw. Just like a dancer relies on
   3. Plant firmly to generate power.
 
 ### Pivot and Plant
+
 - **Pivot**: Rotate hips towards your target.
 - **Plant**: Solidify your back foot into the turf.
 
@@ -50,6 +54,7 @@ Your arm angle can determine the trajectory and speed of your throw. Precision i
 - **Release Point**: The higher the release, the better to avoid defenders and linemen.
 
 ### Common Mistakes:
+
 - **Sidearm Slinging**: Leads to less control and more tip-off by defensive backs.
 - **Wind-Up**: Avoid exaggerated wind-ups; they slow down release time.
 
@@ -58,11 +63,13 @@ Your arm angle can determine the trajectory and speed of your throw. Precision i
 A proper follow-through ensures accuracy and power. Think of it as the exclamation point to your throw.
 
 ### Technique:
+
 1. **Arm Extension**: Fully extend your arm towards the target.
 2. **Wrist Snap**: Flick your wrist at the release point for additional spin.
 3. **Body Momentum**: Let your throwing-side hip and shoulder follow the arm, completing the motion smoothly.
 
 ### Tips from the Pros:
+
 - **Aaron Rodgers**: "Let the motion be fluid, like you're shooting a free-throw in basketball."
 - **Tom Brady**: "Finish with your thumb pointing downwards and across your body."
 
@@ -73,6 +80,7 @@ Perfecting your throwing mechanics is a blend of consistency, technique, and a b
 Remember: Practice makes permanent. Keep working on these basics and transform your throwing motion from good to legendary.
 
 ### Additional Resources:
+
 - [Footwork Drills for Quarterbacks](https://www.example.com)
 - [Guide to Arm Training for QB's](https://www.example.com)
 - [Video: Perfecting Your Follow-Through with Peyton Manning](https://www.example.com)

@@ -1,4 +1,5 @@
 ---
+
 title: 'Conditioning: Building Stamina for Four Quarters'
 date: '2021-11-03'
 tags: ['Football', 'Conditioning', 'Right Guards', 'Stamina', 'Performance', 'Coaching', 'Training', 'Sports', 'Athletics']

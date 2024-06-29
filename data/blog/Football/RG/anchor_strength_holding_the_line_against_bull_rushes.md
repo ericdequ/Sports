@@ -1,4 +1,5 @@
 ---
+
 title: 'Anchor Strength: Holding the Line Against Bull Rushes'
 date: '2024-01-08'
 tags: ['football', 'strength', 'training', 'bull rush', 'offensive line', 'core exercises', 'leg strength', 'techniques', 'coaching wisdom']

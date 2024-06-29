@@ -1,4 +1,5 @@
 ---
+
 title: "Anchor Strength: Holding the Line Against Bull Rushes"
 date: "2023-10-15"
 tags: ['football', 'training', 'strength', 'technique', 'defense', 'coaching', 'weightlifting', 'core strength', 'stance']

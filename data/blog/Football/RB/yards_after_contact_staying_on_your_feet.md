@@ -1,4 +1,5 @@
 ---
+
 title: 'Yards After Contact: Staying on Your Feet'
 date: '2021-10-21'
 tags: ['Football', 'Player Tips', 'Coaching Wisdom', 'YAC', 'Running Backs', 'Training', 'Strength', 'Balance', 'Techniques']

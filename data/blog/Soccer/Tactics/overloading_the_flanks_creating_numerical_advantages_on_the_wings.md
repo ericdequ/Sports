@@ -1,4 +1,5 @@
 ---
+
 title: 'Overloading the Flanks: Creating Numerical Advantages on the Wings'
 date: '2024-03-08'
 tags: ['soccer', 'tactics', 'flank play', 'crosses', 'cutbacks', 'coaching', 'wingers', 'strategy', 'soccer tactics']
@@ -23,6 +24,7 @@ The primary goal of overloading the flanks is to stretch the defensive lines of 
 ### Tactical Approaches to Overloading
 
 #### **1. Full-Back Support**
+
 One of the simplest ways to achieve numerical superiority is by involving full-backs in the attack.
 
 ```markdown
@@ -39,6 +41,7 @@ One of the simplest ways to achieve numerical superiority is by involving full-b
 - The winger stays wide, stretching the defensive line.
 
 #### **2. Midfield Overloads**
+
 Using central or attacking midfielders to drift wide can also create numerical superiority.
 
 ```markdown
@@ -58,14 +61,17 @@ Using central or attacking midfielders to drift wide can also create numerical s
 ### Real-World Examples
 
 #### **1. Liverpool's Dynamic Wing Play**
+
 Liverpool under Jürgen Klopp is the gold standard for flank overloads. Full-backs Trent Alexander-Arnold and Andrew Robertson constantly push high, providing width and crosses. Additionally, Sadio Mane and Mohamed Salah cut inside, drawing defenders and creating numerical superiority.
 
 #### **2. Manchester City's Positional Play**
+
 Pep Guardiola's Manchester City excels in utilizing wingers like Raheem Sterling and Riyad Mahrez who hug the touchline. Meanwhile, midfield maestros like Kevin De Bruyne and Ilkay Gündogan offer support from central positions, enabling frequent 2v1 or even 3v2 scenarios.
 
 ### Tips and Tricks for Coaches and Players
 
 #### For Coaches:
+
 1. **Drills for Overlaps and Underlaps**:
     - Conduct training sessions focusing on full-back and winger coordination.
     - Simulate game situations where midfielders drift wide.
@@ -74,6 +80,7 @@ Pep Guardiola's Manchester City excels in utilizing wingers like Raheem Sterling
     - Teach players to recognize when and how to switch play from a congested side to an overloaded side.
 
 #### For Players:
+
 1. **Communication is Key**:
     - Use verbal cues and hand signals to call for overlaps.
     

@@ -1,4 +1,5 @@
 ---
+
 title: 'Footwork Fundamentals: Enhancing Agility and Balance'
 date: '2024-01-23'
 tags: ['basketball', 'footwork', 'point guards', 'agility', 'balance', 'pivoting', 'jump stops', 'coaching tips', 'player knowledge', 'skills enhancement']

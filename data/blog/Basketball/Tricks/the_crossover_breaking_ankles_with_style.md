@@ -1,4 +1,5 @@
 ---
+
 title: "The Crossover: Breaking Ankles with Style"
 date: '2023-08-01'
 tags: ['Basketball', 'Skills', 'Dribbling', 'Allen Iverson', 'Coaching', 'Techniques', 'Player Tips', 'Crossover Dribble']
@@ -13,24 +14,30 @@ images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_crossove
 Basketball is a sport driven by finesse, agility, and creative flair. One skill that epitomizes all three is the **crossover dribble**. This iconic move has left many defenders on the ground, quite literally "breaking ankles." Today, we'll delve into the mechanics of the crossover, its execution, and how legends like **Allen Iverson** mastered it to become nearly unstoppable.
 
 ## What is a Crossover Dribble?
+
 The crossover dribble is a quick, deceptive move that can leave defenders guessing. By rapidly switching the ball from one hand to the other, the ball handler can change direction with speed and precision, creating space and leaving defenders out of position.
 
 ## The Anatomy of a Perfect Crossover
+
 To master the crossover, it's essential to break it down into its core components:
 
 ### 1. Body Position and Footwork
+
 - **Stance:** Start with a balanced athletic stance, knees slightly bent, and weight on the balls of your feet.
 - **Steps:** Make a hard step in one direction, which sells the fake. Then, quickly plant your foot and change direction.
 
 ### 2. Hand Placement and Ball Control
+
 - **Low Dribble:** Keep the dribble low to the ground to maintain control and make it harder for defenders to steal.
 - **Cupping the Ball:** Use a cupped hand to control the ball during the crossover. This ensures a quick and smooth transition from one hand to the other.
 
 ### 3. Head and Eye Movement
+
 - **Eyes Up:** Always keep your eyes up to survey the floor and read the defender's movements.
 - **Sell the Fake:** Use your head and eyes to sell the fake. Look and lean in the direction of your initial step to make the defender commit.
 
 ### 4. Timing and Execution
+
 - **Quickness:** The crossover needs to be executed swiftly to catch the defender off guard.
 - **Decision-Making:** Be ready to exploit the space created. This might mean driving to the basket, pulling up for a jumper, or making a pass.
 
@@ -56,6 +63,7 @@ Few players have utilized the crossover dribble as effectively as Allen Iverson.
 3. **Confidence and Swagger:** Perhaps just as important as his technique was Iverson's confidence. He believed in his ability to make the move work, which added an element of psychological warfare.
 
 ### Pro Tip from AI
+
 "Always make your defender think you're going one way. Get them on their heels, and then BAM! Cross them up and blow past 'em." – Allen Iverson
 
 ## Coaching Wisdom: Teaching the Crossover

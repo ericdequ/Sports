@@ -1,10 +1,10 @@
 ---
+
 title: "Reading the Defense: Pre-Snap Recognition"
 date: '2023-02-09'
 tags: ['Football', 'Offensive Line', 'Right Guard', 'NFL', 'Coaching', 'Techniques', 'Blitz', 'Stunt', 'Pre-Snap', 'Alignment']
 draft: false
 summary: "Discover how right guards can master the art of reading defensive alignments and anticipating blitzes and stunts to make effective in-game adjustments."
-
 
 images: ['https://www.sportstips.org/articleimage/Football/RG/reading_the_defense_pre_snap_recognition.webp']
 ---

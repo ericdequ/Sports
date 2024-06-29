@@ -1,4 +1,5 @@
 ---
+
 title: "Footwork Fundamentals: Enhancing Mobility and Balance for Right Guards"
 date: "2024-05-21"
 tags: ["Football", "Training", "Drills", "Agility", "Balance", "Footwork", "Right Guards", "Coaching", "Mobility"]
@@ -20,6 +21,7 @@ Footwork is the backbone of a right guard's skill set. Proper footwork affects e
 - **Improved Agility**: Allows quick adjustments and faster response to defensive movements.
 - **Increased Power**: Optimizes leverage during blocks.
   
+
 ## Essential Footwork Drills
 
 Here are some top-notch drills every right guard should incorporate into their training regimen:
@@ -33,6 +35,7 @@ Here are some top-notch drills every right guard should incorporate into their t
 - Perform a lateral shuffle, ensuring your heels are off the ground and your back remains straight.
 - Move left for 5 yards, then right for 5 yards, maintaining a low, strong position.
   
+
 ### 2. **"Mirror" Drill**
 
 **Purpose**: Improves agility and reactive ability by simulating real-game scenarios.
@@ -80,9 +83,11 @@ To maximize benefits, drills should be integrated into daily and weekly training
 ## Pro Tips from the Trenches
 
 ### **Player Insight**
+
 _"It's all about muscle memory. Repeating these drills consistently ensures that during a game, your feet just react without you having to think too much."_ - Veteran Right Guard, NFL Player John Doe
 
 ### **Coaching Wisdom**
+
 _"Attention to detail is everything. Emphasize correct form during drills. It's better to perform fewer reps correctly than many with poor mechanics."_ - Coach Joe Smith, Offensive Line Specialist
 
 ## Conclusion

@@ -1,4 +1,5 @@
 ---
+
 title: "Pass Protection: Anchoring the Line"
 date: '2021-12-19'
 tags: ['AmericanFootball', 'PassProtection', 'OffensiveLine', 'Centers', 'BlitzPickUp', 'Leverage', 'Coaching', 'PlayerDevelopment', 'Techniques']
@@ -17,6 +18,7 @@ When it comes to anchoring the line in American football, the center plays a piv
 One of the most critical responsibilities of a center is identifying blitzes. This involves:
 
 ### Pre-Snap Reads
+
 Centers must read the defense before the snap. Here are the key steps:
 
 - **Assess Defensive Alignment**: Look for any unusual alignments or gaps in the defensive front.
@@ -24,6 +26,7 @@ Centers must read the defense before the snap. Here are the key steps:
 - **Communicate with Teammates**: Ensure guards and tackles are aware of potential threats.
 
 ### Post-Snap Reactions
+
 Even with perfect pre-snap reads, post-snap adjustments are crucial:
 
 - **Eyes Up**: Maintain head up and eyes scanning for delayed blitzes.
@@ -39,18 +42,21 @@ Leverage in pass protection is all about positioning and power. Here are essenti
 - **Low Pad Level**: Stay low to generate power and maintain balance.
 
 ### Hand Placement
+
 Proper hand technique is vital:
 
 - **Punch with Purpose**: Use a quick, powerful punch to stun defenders.
 - **Inside Hands**: Keep hands inside the defender’s shoulders to control engagement.
 
 ### Footwork
+
 Good footwork can make all the difference:
 
 - **Quick, Choppy Steps**: Maintain a solid base with short, quick steps.
 - **Mirroring**: Stay in front of the rusher, mirror their movements with your footwork.
 
 ### Sample Pass Protection Set Drill
+
 | Step  | Action                       | Key Focus Points                           |
 |-------|------------------------------|--------------------------------------------|
 | 1     | Pre-Snap Read                | Identify the Mike, communicate threats     |
@@ -63,6 +69,7 @@ Good footwork can make all the difference:
 Centers often face varying types of defensive linemen, from nose tackles to defensive twisters. Here's how to handle them effectively:
 
 ### Types of Engagements
+
 1. **Head-Up Nose Tackles**:
     - Use leverage and quick hands to neutralize bull rushes.
     - Keep feet active to adjust against power moves.
@@ -76,6 +83,7 @@ Centers often face varying types of defensive linemen, from nose tackles to defe
     - Redirect rushers to prevent penetration.
 
 ### Advanced Techniques
+
 - **Slide Protection**: Slide as a unit to reinforce weaker points.
 - **Double Teams**: Combine forces with a guard to overpower strong tackles.
 

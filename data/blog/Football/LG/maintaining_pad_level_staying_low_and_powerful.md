@@ -1,4 +1,5 @@
 ---
+
 title: 'Maintaining Pad Level: Staying Low and Powerful'
 date: '2022-05-03'
 tags: ['football', 'skills', 'techniques', 'offensive line', 'coaching tips', 'player development', 'pad level', 'pass protection', 'run blocking']
@@ -23,22 +24,27 @@ When it comes to winning battles in the trenches, maintaining a low pad level is
 ## Techniques for Maintaining Low Pad Level
 
 ### 1. **Knee Bend and Hip Flexion**
+
 One of the primary techniques for maintaining low pad level is proper knee bend and hip flexion. This involves bending at the hips and knees rather than at the waist, which keeps your weight balanced and leverage intact.
 
 - **Tip:** Always keep your butt down and shoulders aligned over your knees.
 
 ### 2. **Footwork**
+
 Dynamic footwork is essential for maintaining pad level while moving, whether you are pulling on a run play or backpedaling in pass protection.
 
 #### Run Blocking:
+
 - **Explosive First Step:** The initial step should be quick and powerful, driving into the defender.
 - **Choppy Steps:** Use short, choppy steps to maintain balance and leverage.
 
 #### Pass Protection:
+
 - **Kick Slide:** A backward motion used to maintain distance between the defender while keeping a low pad level.
 - **Mirror Drill:** Practice matching the defender's movements to keep them in front and maintain control.
 
 ### 3. **Hand Placement and Punch**
+
 Proper hand placement is as critical as pad level. Your hands should strike low and inside to control the defender's chest plate.
 
 - **Tip:** Use a punch to jolt the defender backward but keep it low to maintain leverage.
@@ -46,22 +52,27 @@ Proper hand placement is as critical as pad level. Your hands should strike low 
 ## Drills to Practice Low Pad Level
 
 #### **Leverage Sled Drill**
+
 Use a sled to practice staying low and driving through. Focus on maintaining a low pad level from the snap and driving the sled ten yards.
 
 #### **Chute Drill**
+
 The chute forces players to stay low as they move forward. It is perfect for teaching both run and pass blocking techniques while emphasizing low pad level.
 
 #### **Mirror Drill**
+
 Partners face off and mirror each other's movements while staying low. This drill is primarily used to improve lateral movement and control in pass protection.
 
 ## Advanced Tips from the Trenches
 
 ### From a Player's Perspective:
+
 1. **Consistency:** Always start low. It's easier to rise slightly than to drop pads after the snap.
 2. **Core Strength:** A strong core helps maintain low pad level and balance when engaging defenders.
 3. **Pre-Snap Readiness:** Visualize the play and anticipate movement to stay prepared.
 
 ### From a Coach's Perspective:
+
 1. **Film Study:** Analyze film to spot pad level issues and correct form.
 2. **Feedback Loop:** Provide immediate feedback during practice to reinforce good habits.
 3. **Repetitions:** Create practice sessions focused solely on pad level maintenance to ingrain the technique.

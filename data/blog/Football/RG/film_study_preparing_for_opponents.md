@@ -1,4 +1,5 @@
 ---
+
 title: "Film Study: Preparing for Opponents"
 date: '2023-05-21'
 tags: ['Football', 'Training', 'Right Guard', 'Film Study', 'Defense', 'Game Planning', 'Tactics', 'Player Development', 'Coaching']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Beating Press Coverage: Techniques for Releasing Off the Line'
 date: '2021-04-07'
 tags: ['football', 'wide receivers', 'press coverage', 'techniques', 'coaching tips']
@@ -15,6 +16,7 @@ In the world of football, wide receivers often face aggressive press coverage, d
 ## Hand Fighting Techniques
 
 ### The Importance of Hand Placement
+
 Hand fighting is all about controlling the defender’s hands and ensuring you maintain the upper hand.
 
 - **Strike First:** The initial punch sets the tone. A strong, quick punch to the cornerback's chest can throw them off balance.
@@ -30,6 +32,7 @@ Hand fighting is all about controlling the defender’s hands and ensuring you m
 ## Footwork Fundamentals
 
 ### Creating Separation with Quick Feet
+
 Footwork can make or break your ability to separate from press coverage.
 
 - **Quick Release:** The first step should be explosive, aimed at getting the defender on their heels.
@@ -45,6 +48,7 @@ Footwork can make or break your ability to separate from press coverage.
 ## Using Quickness
 
 ### Outmaneuver the Defender
+
 Quickness, combined with strategic movement, is essential for beating press coverage.
 
 - **Speed Variation:** Change your pace to keep the defender guessing.

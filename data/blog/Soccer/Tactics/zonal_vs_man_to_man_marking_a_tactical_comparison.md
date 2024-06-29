@@ -1,4 +1,5 @@
 ---
+
 title: "Zonal vs. Man-to-Man Marking: A Tactical Comparison"
 date: '2022-04-10'
 tags: ['soccer', 'coaching', 'tactics', 'strategy', 'defense']

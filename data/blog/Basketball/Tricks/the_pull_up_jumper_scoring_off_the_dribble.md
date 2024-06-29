@@ -1,10 +1,10 @@
 ---
+
 title: "The Pull-Up Jumper: Scoring Off the Dribble"
 date: '2024-02-07'
 tags: ['basketball', 'shooting', 'technique', 'scoring', 'Kevin Durant', 'dribble', 'NBA', 'player tips', 'coaching wisdom']
 draft: false
 summary: "Examine the technique behind the pull-up jumper and how players like Kevin Durant utilize it to score efficiently off the dribble."
-
 
 images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_pull_up_jumper_scoring_off_the_dribble.webp']
 ---

@@ -5,7 +5,6 @@ tags: ['basketball', 'player skills', 'coaching', 'passing', 'basketball trainin
 draft: false
 summary: 'Explore different types of basketball passes—bounce passes, chest passes, and no-look passes—and master them with precision and creativity.'
 
-
 images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/passing_skills_precision_and_creativity.webp']
 ---
 
@@ -16,6 +15,7 @@ When it comes to basketball, having an arsenal of effective passes is essential 
 ## Types of Passes
 
 ### 1. Bounce Pass
+
 Used to get the ball past defenders who have their hands up or are close.
 
 **How to Execute:**
@@ -28,6 +28,7 @@ Used to get the ball past defenders who have their hands up or are close.
 - Use both hands to ensure control and add a slight backspin for more accuracy.
 
 ### 2. Chest Pass
+
 The most basic and commonly used pass, ideal for quick, direct ball movement.
 
 **How to Execute:**
@@ -40,6 +41,7 @@ The most basic and commonly used pass, ideal for quick, direct ball movement.
 - Follow through with your hands to ensure a straight, accurate pass.
 
 ### 3. No-look Pass
+
 A flashy yet effective pass to surprise defenders and create opportunities.
 
 **How to Execute:**

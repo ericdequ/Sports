@@ -1,10 +1,10 @@
 ---
+
 title: "Pulling Techniques: Leading the Way on Outside Runs"
 date: "2024-05-21"
 tags: ['football', 'coaching', 'pulling techniques', 'center', 'outside runs', 'footwork', 'timing', 'blocking']
 draft: false
 summary: "An in-depth analysis of pulling techniques for centers during outside runs, focusing on footwork, timing, and targeting defensive players in space."
-
 
 images: ['https://www.sportstips.org/articleimage/Football/C/pulling_techniques_leading_the_way_on_outside_runs.webp']
 ---

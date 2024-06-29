@@ -1,4 +1,5 @@
 ---
+
 title: 'Scoring in the Paint: Finishing Through Traffic'
 date: '2021-08-31'
 tags: ['basketball', 'finishing', 'floaters', 'layups', 'contact', 'player skills', 'coaching tips', 'scoring', 'paint']

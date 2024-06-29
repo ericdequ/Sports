@@ -1,10 +1,10 @@
 ---
+
 title: "Punt Coverage: Coordinating with Special Teams"
 date: '2021-03-10'
 tags: ['Football', 'Special Teams', 'Punting', 'Coaching', 'Strategy', 'Tackling', 'Communication', 'Positioning', 'Teamwork']
 draft: false
 summary: "Dive into the intricacies of punt coverage and explore the essential roles of the punter in communication, positioning, and tackling within special teams. Gain insights from both a player's and coach's perspective."
-
 
 images: ['https://www.sportstips.org/articleimage/Football/P/punt_coverage_coordinating_with_special_teams.webp']
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: 'Maintaining Pad Level: Staying Low and Powerful'
 date: '2024-01-16'
 tags: ['football', 'coaching', 'techniques', 'pad level', 'blocking', 'offensive line', 'power']
@@ -57,11 +58,13 @@ Pad level is all about leverage. When you stay low, you use the natural force an
 ## Drills to Enhance Pad Level
 
 ### The Chute Drill
+
 - Purpose: Forces players to come off the line low.
 - Setup: Use a low chute or two hurdles spaced close together.
 - Execution: Fire out under the chute, maintaining a flat back and bent knees.
 
 ### Mirror Drill
+
 - Purpose: Enhances lateral movement while maintaining pad level during pass protection.
 - Setup: Partner up with another player and face off.
 - Execution: Mimic your partner's movements while keeping pad level low.

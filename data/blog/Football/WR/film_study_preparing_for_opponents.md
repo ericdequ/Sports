@@ -1,4 +1,5 @@
 ---
+
 title: 'Film Study: Preparing for Opponents'
 date: '2024-01-14'
 tags: ['football', 'wide receivers', 'film study', 'coaching', 'route running', 'defense', 'tactics', 'player development', 'game preparation']
@@ -23,7 +24,9 @@ Defensive units are like chess players, constantly adjusting their strategies to
 - **Predict Blitzing Patterns**: Understanding when and how defenses blitz can shape the timing and depth of routes, preventing potential sacks and opening quick-release options for the quarterback.
 
 ```markdown
+
 ### Defensive Schemes Table
+
 | Coverage Type | Description | Key Indicators |
 |---------------|-------------|----------------|
 | Man-to-Man    | Each defender covers a specific receiver | Cornerbacks follow receivers pre-snap |

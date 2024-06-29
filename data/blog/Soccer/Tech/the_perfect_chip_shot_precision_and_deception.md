@@ -1,4 +1,5 @@
 ---
+
 title: 'The Perfect Chip Shot: Precision and Deception'
 date: '2021-07-19'
 tags: ['Golf', 'Technique', 'Chip Shot', 'Foot Placement', 'Angle of Strike', 'Golf Tips', 'Deception']

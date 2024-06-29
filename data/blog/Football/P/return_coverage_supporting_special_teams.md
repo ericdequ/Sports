@@ -1,4 +1,5 @@
 ---
+
 title: "Return Coverage: Supporting Special Teams"
 date: '2021-12-12'
 tags: ['Special Teams', 'Football', 'Punting', 'Return Coverage', 'Coaching Tips', 'Player Skills', 'Strategy', 'Team Coordination', 'Tackling']
@@ -15,6 +16,7 @@ In football, special teams play a crucial role in the game's dynamics, often mak
 ## The Punter's Role in Return Coverage
 
 ### Positioning
+
 Positioning is the first line of defense for a punter in return coverage. As the punter performs the punt, there are several key positioning factors to consider:
 
 1. **Kick Direction and Angle**: Aim to kick towards the sidelines to limit return lanes.
@@ -30,6 +32,7 @@ Positioning is the first line of defense for a punter in return coverage. As the
 | Directional Kick| Align with directional blocking schemes    | Confuses and limits returners' options |
 
 ### Tackling
+
 While punters aren't primarily known for their tackling skills, they must be ready to get physical:
 
 - **Technique**: Utilize open-field tackling techniques; break down, stay low, and wrap up securely.

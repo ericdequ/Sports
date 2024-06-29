@@ -1,4 +1,5 @@
 ---
+
 title: 'Penalty Kicks: Composure and Technique'
 date: '2022-07-09'
 tags: ['penalty kicks', 'soccer', 'mental strength', 'technique', 'goalkeeper', 'coaching', 'training', 'sports psychology', 'composure']

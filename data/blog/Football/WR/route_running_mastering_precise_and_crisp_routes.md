@@ -1,4 +1,5 @@
 ---
+
 title: "Route Running: Mastering Precise and Crisp Routes"
 date: "2023-10-10"
 tags: ['Football', 'Route Running', 'Techniques', 'Footwork', 'Timing', 'Separation']
@@ -75,12 +76,15 @@ Creating separation is crucial for a receiver. It can mean the difference betwee
 ## Practice Drills for Mastery
 
 ### Cone Drills
+
 Set up cones to simulate different routes. Practice sharp cuts and maintaining speed through transitions.
 
 ### Mirror Drills
+
 Pair up with a teammate and mirror their movements. Focus on quick footwork and reaction speed.
 
 ### Hand Fighting Drills
+
 Work with a coach or teammate to practice hand combat techniques. Wear gloves and focus on breaking free from jams.
 
 ## Conclusion

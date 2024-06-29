@@ -1,4 +1,5 @@
 ---
+
 title: "The Tactical Flexibility of the 3-4-3 Formation"
 date: "2023-10-14"
 tags: ['Soccer', 'Formations', 'Tactics', 'Wingbacks', 'Defense', 'Attack', 'Coaching', 'Player Development', 'Strategy']

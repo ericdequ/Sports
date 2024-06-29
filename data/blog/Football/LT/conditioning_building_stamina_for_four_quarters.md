@@ -1,10 +1,10 @@
 ---
+
 title: 'Conditioning: Building Stamina for Four Quarters'
 date: '2023-09-11'
 tags: ['Football', 'Conditioning', 'Stamina', 'Performance', 'Offensive Line', 'Training', 'Health', 'Fitness', 'Left Tackle']
 draft: false
 summary: 'Analyze conditioning programs tailored for left tackles to build stamina and maintain performance throughout the game.'
-
 
 images: ['https://www.sportstips.org/articleimage/Football/LT/conditioning_building_stamina_for_four_quarters.webp']
 ---

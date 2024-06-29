@@ -1,4 +1,5 @@
 ---
+
 title: "Silent Counts and Snap Cadence: Communicating Without Words"
 date: "2024-05-21"
 tags: ['Football', 'Strategy', 'Silent Count', 'Snap Cadence', 'Communication', 'Game Tips', 'Coaching', 'Player Knowledge', 'Gameplay']

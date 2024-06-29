@@ -1,4 +1,5 @@
 ---
+
 title: "Snap Accuracy: Ensuring Clean Exchanges"
 date: "2024-05-21"
 tags: ['Football', 'Quarterbacks', 'Coaching', 'Technique', 'Skills', 'Snap Accuracy', 'Hand Positioning', 'Timing', 'Consistent Delivery']
@@ -75,5 +76,6 @@ Consistent delivery is about muscle memory and practice. Here are tips to ensure
 By honing hand positioning, perfecting timing, and ensuring consistent delivery through dedicated practice, you can achieve snap accuracy and ensure clean exchanges in every game. Remember, like any other skill, it takes time and effort, but with persistence, the snap will become second nature.
 
 ---
+
 For more detailed drills and personalized coaching tips, stay tuned to our weekly updates or subscribe to our newsletter.
 ```

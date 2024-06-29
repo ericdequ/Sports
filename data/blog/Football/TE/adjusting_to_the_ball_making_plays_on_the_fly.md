@@ -1,4 +1,5 @@
 ---
+
 title: "Adjusting to the Ball: Making Plays on the Fly"
 date: '2021-07-10'
 tags: ['sports', 'techniques', 'coaching', 'player tips', 'body control', 'tracking', 'positioning']
@@ -56,9 +57,11 @@ Here's a table summarizing some specialized drills for each sport:
 ### Expert Tips from Coaches and Players
 
 #### Coach's Corner
+
 "Teach your players to visualize the play before it happens," suggests Coach Taylor from the Panthers. "Visualization boosts confidence and reaction time."
 
 #### Player's Perspective
+
 Pro wide receiver Darren Clarke shares, "I always trust my instincts. You can't overthink in the moment; you've got to let your training and muscle memory take over."
 
 ### Conclusion

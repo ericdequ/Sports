@@ -1,4 +1,5 @@
 ---
+
 title: "High Basketball IQ: Making Smart Decisions for Shooting Guards"
 date: "2024-05-21"
 tags: ['basketball', 'shooting guards', 'IQ', 'strategy', 'coaching', 'player development']

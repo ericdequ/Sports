@@ -1,4 +1,5 @@
 ---
+
 title: "The Evolution of the 3-5-2 Formation in Modern Soccer"
 date: "2024-05-21"
 tags: ['soccer', 'tactics', 'formations', 'coaching', '3-5-2', 'wingbacks', 'modern soccer', 'strategy', 'player development']

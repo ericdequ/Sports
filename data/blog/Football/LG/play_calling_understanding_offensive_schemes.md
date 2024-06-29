@@ -1,4 +1,5 @@
 ---
+
 title: 'Play Calling: Understanding Offensive Schemes'
 date: '2024-03-10'
 tags: ['football', 'play calling', 'offensive schemes', 'left guard', 'coaching', 'strategy', 'defensive weaknesses', 'adjustments', 'player knowledge', 'coaching wisdom']

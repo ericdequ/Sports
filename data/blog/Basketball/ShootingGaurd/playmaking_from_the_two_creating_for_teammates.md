@@ -1,10 +1,10 @@
 ---
+
 title: 'Playmaking from the Two: Creating for Teammates'
 date: '2023-04-18'
 tags: ['basketball', 'guard', 'playmaking', 'passing', 'offense', 'fast break', 'SG', 'coaching', 'teamwork']
 draft: false
 summary: 'Examine the playmaking responsibilities of shooting guards, including passing out of drives, running the offense, and initiating fast breaks with a blend of player knowledge and coaching wisdom.'
-
 
 images: ['https://www.sportstips.org/articleimage/Basketball/ShootingGaurd/playmaking_from_the_two_creating_for_teammates.webp']
 ---
@@ -89,6 +89,5 @@ With dedication, practice, and a deep understanding of the game, the shooting gu
 ---
 
 > “A great passer is not made in a day. It comes from years of practice, understanding your teammates, and a sixth sense of the game.” – Pete Maravich
-
 
 Feel free to share your thoughts and experiences in the comments below. Let's continue the conversation about the evolving role of the shooting guard in basketball! 🏀🔥

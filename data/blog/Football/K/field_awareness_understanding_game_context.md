@@ -1,4 +1,5 @@
 ---
+
 title: "Field Awareness: Understanding Game Context"
 date: '2024-04-27'
 tags: ['Field Awareness', 'Game Context', 'Decision Making', 'Football', 'Coaching Tips', 'Player Skills']

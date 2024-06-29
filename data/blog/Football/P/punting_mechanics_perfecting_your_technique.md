@@ -1,4 +1,5 @@
 ---
+
 title: "Punting Mechanics: Perfecting Your Technique"
 date: "2024-05-21"
 tags: ["football", "punting", "special teams", "technique", "coaching", "player knowledge", "mechanics", "leg swing", "follow-through", "body positioning"]

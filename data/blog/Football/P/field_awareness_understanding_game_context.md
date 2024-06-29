@@ -1,4 +1,5 @@
 ---
+
 title: "Field Awareness: Understanding Game Context"
 date: '2022-03-30'
 tags: ['Field Awareness', 'Football IQ', 'Game Context', 'Decision Making', 'Coaching Tips', 'Player Knowledge', 'Sports Strategy']

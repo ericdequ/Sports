@@ -1,4 +1,5 @@
 ---
+
 title: "Pulling: Leading the Charge on Outside Runs"
 date: "2024-05-21"
 tags: ['football', 'offensive line', 'technique', 'coaching', 'strategy', 'left guard', 'footwork', 'timing', 'blocking']
@@ -15,6 +16,7 @@ Pulling is an essential skill set for guards in football, particularly when sett
 ## The Mechanics of Pulling
 
 ### Footwork
+
 Footwork is the foundation of an effective pull. The initial steps are crucial:
 
 1. **Stance**: Begin in a balanced three-point stance, with your weight evenly distributed and feet shoulder-width apart.
@@ -22,6 +24,7 @@ Footwork is the foundation of an effective pull. The initial steps are crucial:
 3. **Pivot and Drive**: Pivot on your inside foot, swinging your outside foot around. This motion should be fluid, like opening a door, keeping a low center of gravity.
 
 ### Timing
+
 Proper timing is what turns a good pull into a great one. Here’s how to perfect it:
 
 1. **Snap Recognition**: React to the center snapping the ball, but avoid false starts. Develop a keen awareness of snap counts and cadence.
@@ -29,6 +32,7 @@ Proper timing is what turns a good pull into a great one. Here’s how to perfec
 3. **Burst Speed**: Once the initial steps are complete, burst into the open space quickly. Speed is crucial to getting in front of the play and engaging your target defender.
 
 ### Targeting Defensive Players
+
 Identifying and hitting your target is the climax of a successful pull:
 
 1. **Reading Defenders**: Identify the most immediate threat to the play. This is usually an outside linebacker, defensive end, or a cornerback coming down in run support.
@@ -36,6 +40,7 @@ Identifying and hitting your target is the climax of a successful pull:
 3. **Engage and Drive**: Upon impact, maintain a strong base and drive the defender away from the play. Keep your hands inside the framework of their body to avoid penalties.
 
 ## Practice Drills
+
 Here are a couple of drills to hone the pulling technique:
 
 | Drill Name           | Objective                                               | Description                                                                                         |

@@ -1,4 +1,5 @@
 ---
+
 title: "Red Zone Threat: Scoring Inside the 20"
 date: '2022-07-26'
 tags: ['football', 'red zone', 'strategy', 'offense', 'touchdown', 'coaching', 'wide receiver', 'tight end', 'quarterback']
@@ -19,6 +20,7 @@ Scoring in the red zone (the area from the 20-yard line to the end zone) is an a
 In the red zone, player's size can be a game-changer. Coaches often leverage larger players like tight ends or big-bodied receivers to create mismatches against smaller defensive backs.
 
 #### Strategies for Using Size:
+
 1. **Post-Up Plays:**
    - Utilize your body to shield defenders.
    - Position yourself where the quarterback can throw high, out of defender's reach.
@@ -42,6 +44,7 @@ In the red zone, player's size can be a game-changer. Coaches often leverage lar
 Precise route running is another cornerstone of effective red zone play. Here, every step counts. The less space available means tighter windows and quicker decisions.
 
 #### Key Route Running Tips:
+
 1. **Slant Routes:**
    - Quick, sharp cuts inside can exploit inside leverage.
    - Perfect timing with the QB is essential.
@@ -55,7 +58,9 @@ Precise route running is another cornerstone of effective red zone play. Here, e
    - Break in the opposite direction of the defender's alignment.
 
 ```markdown
+
 ### Example Routes:
+
 - **Slant**: A quick inside cut that beats man coverage.
 - **Out**: Swift turn towards the sideline, great against zone defenses.
 - **Quick Pivot**: Start like a slant, planting hard to quickly pivot back outside.
@@ -66,6 +71,7 @@ Precise route running is another cornerstone of effective red zone play. Here, e
 The ability to make contested catches is what often defines a red zone threat. Great players excel in high-pressure, tightly-contested situations.
 
 #### Tips for Winning Contested Catches:
+
 1. **Strong Hands:**
    - Secure the ball immediately upon contact.
    - Practice grip strength drills and high-pointing the football.

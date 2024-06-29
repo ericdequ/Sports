@@ -1,4 +1,5 @@
 ---
+
 title: "Leveraging and Hand Placement: Winning the Battle in the Trenches"
 date: '2021-08-20'
 tags: ['football', 'offensive line', 'defensive line', 'techniques', 'coaching', 'player knowledge', 'trench battle', 'drills', 'strategy']

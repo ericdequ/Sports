@@ -1,4 +1,5 @@
 ---
+
 title: "Box-to-Box Midfielders: The Teams Engine"
 date: '2024-02-07'
 tags: ['soccer', 'midfielders', 'player analysis', 'coaching tips', 'NGolo Kante']
@@ -43,12 +44,14 @@ Key Attributes:
 N'Golo Kante is a quintessential example of a box-to-box midfielder. His remarkable ability to cover ground, combined with his tenacious tackling and surprisingly potent offensive contributions, make him a standout.
 
 ### Defensive Impact
+
 Kante’s stats in a typical season:
 - **Tackles**: 3.5 per match
 - **Interceptions**: 2.2 per match
 - **Recoveries**: Over 10 per match
 
 ### Offensive Impact
+
 - **Pass Completion**: 87%
 - **Key Passes**: 1.0 per match
 - **Goals and Assists**: 5 goals, 4 assists in a season
@@ -63,6 +66,7 @@ These statistics illustrate Kante’s multifaceted influence on the pitch, embod
 4. **Versatility Drills**: Engage in exercises that simulate transition from defense to attack.
 
 ### Drills to Consider
+
 - **5v5 Box Drills**: Small-sided games to enhance quick passing and positional awareness.
 - **Endurance Circuits**: High-intensity interval training to build stamina.
 - **Tactical Board Sessions**: Analyzing game scenarios and positioning.

@@ -1,4 +1,5 @@
 ---
+
 title: "Play Calling: Understanding Offensive Schemes for Right Guards"
 date: "2024-05-21"
 tags: ['football', 'offensive schemes', 'play calling', 'right guards', 'coaching', 'strategy', 'NFL', 'college football', 'game planning']

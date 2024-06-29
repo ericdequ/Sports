@@ -1,4 +1,5 @@
 ---
+
 title: "Third Man Runs: Unlocking Compact Defenses"
 date: "2024-05-21"
 tags: ['Soccer', 'Tactics', 'Analysis', 'Third Man Runs', 'Coaching', 'Strategy', 'Teams', 'Defenses', 'Goal Scoring']
@@ -67,4 +68,5 @@ By integrating the concept of third man runs, teams can unlock even the most com
 Remember, it's not just about who has the ball, but where the third man is!
 
 ---
+
 ```

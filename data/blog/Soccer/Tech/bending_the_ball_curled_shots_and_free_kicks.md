@@ -1,4 +1,5 @@
 ---
+
 title: "Bending the Ball: Curled Shots and Free Kicks"
 date: "2024-05-21"
 tags: ['soccer', 'free kicks', 'curled shots', 'foot placement', 'technique', 'coaching', 'skills', 'players', 'tips']

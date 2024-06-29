@@ -1,4 +1,5 @@
 ---
+
 title: "Maximizing the 3-6-1 Formation for Defensive Stability"
 date: "2024-05-21"
 tags: ['soccer', 'formation', 'defense', 'midfield control', 'coaching tips', 'player strategy', 'soccer tactics', 'formation analysis', 'defensive strategy']
@@ -45,7 +46,9 @@ The core concept behind the 3-6-1 is to crowd the midfield and create defensive 
 3. **Flexibility**: The formation allows for quick transitions between defensive and attacking plays, thanks to the versatile roles of midfielders.
 
 ### Tactics and Tips
+
  
+
 #### 1. Center Backs: Rock Steady
 
 - **Stay Disciplined**: Center backs in a 3-6-1 must stay organized and communicate effectively. The key is to be patient and read the game.

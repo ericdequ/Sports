@@ -1,4 +1,5 @@
 ---
+
 title: "Run Blocking Drills: Improving Power and Precision"
 date: "2024-05-21"
 tags: ["Football", "Coaching", "Run Blocking", "Drills", "Training", "Skill Development", "Offensive Line", "Power", "Precision"]
@@ -25,13 +26,16 @@ Before diving into the drills, it's important to understand the core components 
 ### 1. Sled Push Drill
 
 #### Objective:
+
 Build explosive power and driving force.
 
 #### Setup:
+
 - Use a blocking sled.
 - Divide players into groups of three.
 
 #### Execution:
+
 1. Line up the first player in a proper 3-point stance.
 2. On the coach's whistle, the player drives the sled for five yards.
 3. Emphasize low pad level and a strong leg drive.
@@ -39,13 +43,16 @@ Build explosive power and driving force.
 ### 2. One-on-One Drive Block
 
 #### Objective:
+
 Improve technique in driving a single defender off the line.
 
 #### Setup:
+
 - Mark a five-yard by five-yard square with cones.
 - Players pair up (one blocker, one defender).
 
 #### Execution:
+
 1. Blocker assumes a stance opposite the defender.
 2. On the snap, the blocker drives the defender out of the square using correct techniques (leverage, hand placement, balance).
 3. Rotate partners and repeat.
@@ -53,13 +60,16 @@ Improve technique in driving a single defender off the line.
 ### 3. Chute and Shield Combo Drill
 
 #### Objective:
+
 Refine pad level and block engagement.
 
 #### Setup:
+
 - Blocking chutes (height-adjustable) and hand shields.
 - Players line up in single file.
 
 #### Execution:
+
 1. Players fire out from under the chutes, maintaining a low pad level.
 2. Engage the shield held by another player or coach.
 3. Drive the shield back using proper form and footwork.
@@ -67,12 +77,15 @@ Refine pad level and block engagement.
 ### 4. Double-Team Block
 
 #### Objective:
+
 Enhance coordination and power in double-team blocks.
 
 #### Setup:
+
 - Pair up players and mark a five-yard zone.
 
 #### Execution:
+
 1. Two blockers engage one defender.
 2. Blockers must use coordinated footwork and hand placement.
 3. Drive the defender five yards back, maintaining balance and power.

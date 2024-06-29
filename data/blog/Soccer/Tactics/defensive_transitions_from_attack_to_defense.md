@@ -1,4 +1,5 @@
 ---
+
 title: "Defensive Transitions: From Attack to Defense"
 date: '2021-04-09'
 tags: ['soccer', 'football', 'tactics', 'defense', 'coaching', 'counter-attacks', 'transitions', 'strategy']

@@ -1,4 +1,5 @@
 ---
+
 title: "Stretch Four: Expanding the Range"
 date: "2024-05-21"
 tags: ['Basketball', 'Player Development', 'Coaching Tips', 'Three-Point Shooting', 'Spacing the Floor', 'Stretch Four', 'Position Strategy', 'NBA Trends', 'Basketball IQ']

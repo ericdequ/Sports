@@ -1,4 +1,5 @@
 ---
+
 title: "The Classic 3-5-2 Formation: Balance and Adaptability"
 date: "2024-05-21"
 tags: ['soccer', 'football tactics', '3-5-2 formation', 'coaching', 'players', 'defense', 'midfield', 'attack', 'strategy', 'history']

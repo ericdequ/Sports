@@ -1,4 +1,5 @@
 ---
+
 title: "Kickoff Coverage: Supporting Special Teams"
 date: '2021-09-29'
 tags: ['special teams', 'football', 'kickoff', 'coaching', 'player development', 'strategy', 'tackling', 'positioning', 'kicker', 'coverage team']

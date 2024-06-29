@@ -1,4 +1,5 @@
 ---
+
 title: "Off-Ball Movement: Creating Scoring Opportunities"
 date: '2023-11-03'
 tags: ['basketball', 'off-ball movement', 'scoring', 'coaching', 'small forward', 'cutting', 'screening', 'spacing']
@@ -40,6 +41,7 @@ Cutting to the basket isn’t just about being fast; it’s about timing, angles
 - **Head Fake:** Use subtle head fakes to mislead defenders about your intended direction.
 - **Change of Pace:** Begin cuts slowly, then explode to full speed to catch defenders off guard.
   
+
 ## Screening: Setting Up Teammates and Yourself
 
 ### The Art of Setting and Using Screens

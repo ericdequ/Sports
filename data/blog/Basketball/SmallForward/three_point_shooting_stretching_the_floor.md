@@ -1,4 +1,5 @@
 ---
+
 title: "Three-Point Shooting: Stretching the Floor"
 date: '2024-03-02'
 tags: ['basketball', 'three-point shooting', 'small forwards', 'mechanics', 'shot selection', 'off-ball movement']
@@ -25,6 +26,7 @@ Proper shooting mechanics are the bedrock of a successful three-point shot. Here
 | **Footwork**       | Quick and efficient transition into shot   | Practice catch-and-shoot drills        |
 
 ### Coaching Wisdom:
+
 1. **Repetition**: Repetition in practice breeds muscle memory. Drills like "Around the World" and "Spot Shooting" are invaluable.
 2. **Feedback Loop**: Utilize video analysis to provide immediate feedback on form.
 
@@ -46,6 +48,7 @@ Knowing when and where to take a three-point shot separates good shooters from g
 | Last Seconds Shot Clock | Take a quick and controlled shot           | Stay calm, stick to your form           |
 
 ### Player Insights:
+
 - **Ray Allen**: "Know your spots and your shot. It's not just about making the shot, but taking the right one."
 
 ## Off-Ball Movement: Creating Opportunities
@@ -65,6 +68,7 @@ Off-ball movement is essential for stretching the floor and creating high-percen
 | **Drift**        | Moving laterally along the three-point line| Keeps angle for drive-and-kick plays|
 
 ### Coaching Tips:
+
 - **Communication**: Effective off-ball movement requires constant communication with teammates.
 - **Drills**: "Dummy Offense" drills simulate game scenarios to refine off-ball actions.
 

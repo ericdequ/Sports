@@ -1,4 +1,5 @@
 ---
+
 title: 'Passing from the Post: Creating Opportunities'
 date: '2022-11-05'
 tags: ['basketball', 'post play', 'passing', 'team strategy', 'coaching tips', 'double teams', 'offensive plays']
@@ -69,9 +70,11 @@ Many professional players emphasize the mental aspect:
 Passing from the post is more than just a skill; it's an art that requires awareness, decision-making, and teamwork. By recognizing defensive schemes like double teams and developing a variety of passes, players can create countless scoring opportunities for their team. Whether you're a player looking to improve your post game or a coach aiming to enhance your Teams offense, mastering the art of passing from the post is a crucial step toward success on the court.
 
 ---
+
 **Related Articles:**
-- [The Role of the Big Man in Modern Basketball](#)
-- [How to Break a Full-Court Press](#)
-- [Essential Drills for Improving Court Vision](#)
+- [The Role of the Big Man in Modern Basketball](#) 
+- [How to Break a Full-Court Press](#) 
+- [Essential Drills for Improving Court Vision](#) 
 ---
+
 ```

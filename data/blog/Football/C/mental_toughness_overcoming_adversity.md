@@ -1,4 +1,5 @@
 ---
+
 title: "Mental Toughness: Overcoming Adversity"
 date: "2024-05-21"
 tags: ['mental toughness', 'adversity', 'sports psychology', 'player development', 'coaching', 'confidence', 'focus', 'mistake management', 'resilience']

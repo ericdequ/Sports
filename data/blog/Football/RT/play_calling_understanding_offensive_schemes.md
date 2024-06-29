@@ -1,4 +1,5 @@
 ---
+
 title: "Play Calling: Understanding Offensive Schemes"
 date: "2024-05-21"
 tags: ['Football', 'Offensive Schemes', 'Play Calling', 'Coaching Tips', 'Right Tackle', 'Defensive Strategy', 'Adjustments', 'Game Strategy', 'Player Knowledge', 'Coaching Wisdom']

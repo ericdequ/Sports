@@ -1,4 +1,5 @@
 ---
+
 title: 'Short Yardage Situations: Power Running Techniques'
 date: '2024-01-21'
 tags: ['Football', 'Coaching', 'Running Back', 'Techniques', 'Pad Level', 'Leverage', 'Short Yardage', 'Power Running', 'Contact']
@@ -19,6 +20,7 @@ When the game is on the line and you need that crucial yard or two, effective po
 3. **Driving Through Contact**
 
 #### Pad Level
+
 Maintaining a low pad level is crucial for power running. Lowering your pads helps reduce the target size for defenders and enables a runner to gain better balance and power.
 
 **Key Tips:**
@@ -30,6 +32,7 @@ Maintaining a low pad level is crucial for power running. Lowering your pads hel
 - Use sled pushes where players maintain low pads to move the sled forward.
 
 #### Leverage
+
 Leverage is about using your body's alignment and positioning to gain an advantage over defenders. This involves not just the runner but also the offensive linemen.
 
 **Key Tips:**
@@ -41,6 +44,7 @@ Leverage is about using your body's alignment and positioning to gain an advanta
 - Emphasize joint alignments during repetitions to make movements instinctual.
 
 #### Driving Through Contact
+
 Effective power running isn't just about the first hit; it's about continuing to drive forward through contact.
 
 **Key Tips:**
@@ -54,6 +58,7 @@ Effective power running isn't just about the first hit; it's about continuing to
 ### Advanced Techniques and Strategies
 
 #### The Importance of Double Teams
+
 Double-teaming a key defensive lineman can create easier running lanes. Here's a simple way to visualize double teams:
 
 | Offensive Line | Assignment                          |
@@ -65,6 +70,7 @@ Double-teaming a key defensive lineman can create easier running lanes. Here's a
 | RT             | Block DE                            |
 
 #### Utilization of the Fullback
+
 Fullbacks are often key to power running schemes. Their role is to lead block and clear pathways for the running back.
 
 **Tips for Fullbacks:**
@@ -72,6 +78,7 @@ Fullbacks are often key to power running schemes. Their role is to lead block an
 - **Speed and Timing:** Hit the hole swiftly but under control to effectively block.
 
 ### Conclusion
+
 By mastering pad level, leveraging your body, and effectively driving through contact, you set yourself up for success in critical short-yardage situations. Coaches, reinforcing these techniques through targeted drills and drills, can see improvements in their power running game.
 
 For athletes, dedicated effort in maintaining these fundamentals can turn those crucial "one or two yard" gains into game-changing moments. Now, go hit the practice field and turn these strategies into muscle memory!

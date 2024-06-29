@@ -1,4 +1,5 @@
 ---
+
 title: "Mobility: Extending Plays with Your Legs"
 date: "2023-10-02"
 tags: ['football', 'quarterback', 'mobility', 'playmaking', 'escaping pressure', 'scrambling', 'coaching']

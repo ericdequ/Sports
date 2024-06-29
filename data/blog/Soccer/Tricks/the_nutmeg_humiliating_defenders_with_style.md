@@ -1,4 +1,5 @@
 ---
+
 title: "The Nutmeg: Humiliating Defenders with Style"
 date: '2021-02-25'
 tags: ['Football', 'Skills', 'Nutmeg', 'Techniques', 'Tips', 'Soccer', 'Tricks', 'Coaching', 'Player Knowledge']
@@ -46,12 +47,15 @@ Often used in tight spaces, the backheel nutmeg catches defenders off guard.
 ## Best Situations to Use a Nutmeg
 
 ### 1. One-on-One Situations
+
 When going head-to-head with a defender in a one-on-one battle, a nutmeg can be the ultimate breakthrough. It’s most effective when the defender is flat-footed or overcommits to a tackle.
 
 ### 2. Tight Spaces
+
 In tight spaces where there’s little room to maneuver, a nutmeg can create just enough room to escape a pressure situation. This often catches defenders off guard as they’re not expecting such an immediate and direct attack.
 
 ### 3. Momentum Shifts
+
 Use a nutmeg to shift the momentum of the game. When your team is on the back foot, a successful nutmeg can act as a catalyst to turn defense into a quick counter-attack.
 
 ## How the Nutmeg Can Be a Game-Changer

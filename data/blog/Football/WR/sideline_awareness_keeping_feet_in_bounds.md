@@ -1,4 +1,5 @@
 ---
+
 title: 'Sideline Awareness: Keeping Feet In-Bounds'
 date: '2022-05-28'
 tags: ['Football', 'Training', 'Techniques', 'Sideline Awareness', 'Toe-Tap Drills', 'Body Control', 'Catching', 'Player Development', 'Coaching Wisdom']

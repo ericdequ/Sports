@@ -1,4 +1,5 @@
 ---
+
 title: "Wide Playmakers: Creativity from the Flanks"
 date: "2024-05-21"
 tags: ["soccer", "tactics", "David Beckham", "playmakers", "wingers", "crossing", "vision", "coaching"]
@@ -63,5 +64,6 @@ Wide playmakers bring a unique blend of creativity and tenacity to the game. The
 In the end, it’s about making the flanks not just a corridor for attacks but a canvas for artistry.
 
 ---
+
 **Contributor's Note:** This article is inspired by the enduring brilliance of wide playmakers and is aimed at players and coaches seeking to harness the creative potential of the flanks in soccer.
 ```

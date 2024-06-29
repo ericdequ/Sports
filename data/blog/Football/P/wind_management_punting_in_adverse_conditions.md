@@ -1,4 +1,5 @@
 ---
+
 title: "Wind Management: Punting in Adverse Conditions"
 date: "2024-05-21"
 tags: ["Punting", "Football", "Wind Management", "Special Teams", "Game Strategy", "Coaching Tips", "Player Skills", "Weather Conditions", "Techniques"]
@@ -27,16 +28,19 @@ Before diving into the technical aspects of punting in the wind, it's crucial to
 Each type of wind requires different adjustments in your technique. Let's break it down:
 
 #### Aim Adjustment
+
 - **Headwind:** Aim higher than normal to counterbalance the pushback.
 - **Tailwind:** Aim slightly lower to avoid excessive distance and potential touchbacks.
 - **Crosswind:** Adjust your aim to the upwind side to account for lateral movement.
 
 #### Power Adjustment
+
 - **Headwind:** Increase the intensity of your kick. Think "line drive" but still focus on maintaining control.
 - **Tailwind:** Dial back on power, focusing on getting better hang time to allow coverage teams to position.
 - **Crosswind:** Maintain moderate power. Focus on control and precision rather than pure distance.
 
 #### Ball Contact
+
 - **Headwind:** Strike the ball lower to ensure a flatter trajectory, minimizing the wind's impact.
 - **Tailwind:** Contact the ball slightly higher to maximize hang time.
 - **Crosswind:** Standard contact point, emphasis on control and spin to keep the ball on track.
@@ -51,9 +55,11 @@ Regular practice in diverse wind conditions can build your adaptability. Use dri
 ### Player Wisdom and Coaching Insights
 
 #### Player's Perspective:
+
 “When punting in a headwind, focus on visualizing a lower, more penetrating kick. Your leg speed and contact point become critical. Finesse your foot's contact with the ball to ensure it cuts through the wind efficiently.” – Veteran Punter
 
 #### Coach's Perspective:
+
 “Coaching punts in windy conditions is all about building the player's confidence. Encourage them to embrace the wind rather than fear it. Use filmed practice sessions to review and make strategy adjustments together.” – Special Teams Coach
 
 ### Final Thoughts

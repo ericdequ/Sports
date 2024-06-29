@@ -1,10 +1,10 @@
 ---
+
 title: "Setting Effective Screens: Creating Opportunities for Teammates"
 date: "2024-05-21"
 tags: ["basketball", "coaching", "player development", "strategy", "screens", "teamwork", "offense", "skills", "tips"]
 draft: false
 summary: "Discover the pivotal role of setting effective screens in basketball, learn the nuances of technique, and understand how to maximize offensive opportunities by rolling to the basket."
-
 
 images: ['https://www.sportstips.org/articleimage/Basketball/Center/setting_effective_screens_creating_opportunities_for_teammates.webp']
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: "Play-Action Passing: Selling the Run and Getting Open"
 date: '2022-01-03'
 tags: ['football', 'play-action', 'offense', 'coaching', 'tips', 'strategies', 'quarterback', 'wide receiver', 'blocking', 'body language']
@@ -49,6 +50,7 @@ Drill the mechanics routinely:
 1. **Reps with Intensity**: Each play-action rep should be executed with game-like intensity to engrain realistic motion.
 2. **Film Study**: Reviewing tape ensures everyone on offense knows their role in selling the run.
   
+
 ### Communication and Adjustment
 
 Effective communication pre-snap and during the play-action can adjust the deception based on defensive reads.

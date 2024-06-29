@@ -1,4 +1,5 @@
 ---
+
 title: "Handling Pressure: Staying Calm Under Rush"
 date: '2021-07-02'
 tags: ['Football', 'Special Teams', 'Punting', 'Pressure Management', 'Coaching', 'Player Advice', 'Game Strategy', 'Mental Toughness', 'Technique']
@@ -39,14 +40,17 @@ Mental toughness is as critical as physical prowess for a punter. Here's how you
 ### Techniques for Mental Toughness
 
 #### Breathing Exercises
+
 - **4-7-8 Breathing**: Inhale for 4 seconds, hold for 7, exhale for 8 to calm nerves.
 - **Box Breathing**: Inhale, hold, exhale, and hold each for 4 seconds to maintain focus.
 
 #### Visualization
+
 - **Game Scenario Rehearsal**: Visualize successful punts during rush scenarios to build confidence.
 - **Positive Affirmations**: Repeat mantras such as "I am prepared" and "I am calm."
 
 #### Focus Drills
+
 - **Spot Focus**: Pick a small spot to focus on during the setup to block out distractions.
 - **Countdown Focus**: Mentally count down from 5 to 1 to center your thoughts.
 

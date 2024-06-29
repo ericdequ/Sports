@@ -1,4 +1,5 @@
 ---
+
 title: "Run Blocking: Creating Running Lanes"
 date: '2022-10-01'
 tags: ['football', 'coaching', 'run blocking', 'offensive line', 'techniques', 'footwork', 'hand placement', 'drills', 'training']
@@ -9,12 +10,15 @@ images: ['https://www.sportstips.org/articleimage/Football/C/run_blocking_creati
 ---
 
 ### Introduction
+
 In football, run blocking is a crucial skill for offensive linemen, tight ends, and even wide receivers. Effective run blocking isn't just about brute strength; it involves a combination of perfect footwork, precise hand placement, and relentless drive. In this article, we'll delve into these techniques to help you create the best running lanes for your ball carriers.
 
 ### Footwork: The Foundation of a Good Block
+
 Footwork is the cornerstone of successful run blocking. Good footwork establishes balance and stability, enabling you to sustain your block. Let's break it down.
 
 #### Key Points of Footwork:
+
 1. **Stance**
    - Start in a three-point stance: feet shoulder-width apart, weight balanced.
    - Keep your back straight and your head up.
@@ -29,9 +33,11 @@ Footwork is the cornerstone of successful run blocking. Good footwork establishe
    - Keep a low center of gravity by bending your knees.
 
 ### Hand Placement: Precision and Power
+
 Hand placement can make or break a block. Proper positioning and strength in your hands ensure you can control and steer the defender.
 
 #### Steps for Effective Hand Placement:
+
 1. **Initial Contact**
    - Aim to strike your hands inside the defender’s chest plate.
    - Thumbs should be up, like you’re holding a steering wheel.
@@ -44,9 +50,11 @@ Hand placement can make or break a block. Proper positioning and strength in you
    - Engage your core muscles to add power to your hands.
 
 ### Driving Through Defenders: The Kill Move
+
 Driving through your defender requires a blend of aggression, leverage, and technique. 
 
 #### Drills to Improve Driving:
+
 1. **Sled Drills**
    - Use blocking sleds to practice driving through.
    - Focus on maintaining low pad level and exploding into the sled.
@@ -60,11 +68,13 @@ Driving through your defender requires a blend of aggression, leverage, and tech
    - Practice angle blocks where leverage is even more crucial.
 
 ### Conclusion
+
 Mastering run blocking requires dedication to technique and continuous practice. Perfecting footwork, hand placement, and drive will create running lanes that can significantly improve your team’s ground game. Remember, it's not just about being stronger; it's about being smarter and more technical with your blocks. So, lace up those cleats, hit the field, and start creating running lanes like a pro!
 
 **Practice Makes Perfect**—keep working on these fundamentals, and you'll notice a substantial improvement in your blocking performance.
 
 ### Additional Resources
+
 - **Videos:** [YouTube – Run Blocking Basics](https://www.youtube.com/results?search_query=run+blocking+techniques)
 - **Books:** *"Complete Offensive Line"* by Rick Trickett
 - **Articles:** [Football Coaching – Offensive Line](https://www.footballcoachingonline.org/offensive-line)

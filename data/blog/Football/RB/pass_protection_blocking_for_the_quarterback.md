@@ -1,4 +1,5 @@
 ---
+
 title: "Pass Protection: Blocking for the Quarterback"
 date: "2024-05-21"
 tags: ['football', 'running backs', 'blitz recognition', 'blocking techniques', 'quarterback protection']

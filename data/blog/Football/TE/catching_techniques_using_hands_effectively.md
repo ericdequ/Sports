@@ -1,4 +1,5 @@
 ---
+
 title: "Catching Techniques: Using Hands Effectively"
 date: "2024-05-21"
 tags: ['football', 'tight ends', 'catching', 'techniques', 'high-pointing', 'coaching', 'hand positioning', 'secure catch']
@@ -11,6 +12,7 @@ images: ['https://www.sportstips.org/articleimage/Football/TE/catching_technique
 ## Catching Techniques: Using Hands Effectively
 
 ### Introduction
+
 Catching a football is more than just a primary function of a receiver or a tight end; it's an art. A finely tuned skill set differentiates an elite tight end from the rest. This article delves into the nuances of catching techniques, specifically focusing on hand positioning, high-pointing the ball, and securing the catch. These skills are often the cornerstones of a tight end's success on the gridiron.
 
 ### Key Techniques

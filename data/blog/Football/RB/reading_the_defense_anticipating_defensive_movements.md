@@ -1,4 +1,5 @@
 ---
+
 title: "Reading the Defense: Anticipating Defensive Movements"
 date: "2024-05-21"
 tags: ['Football', 'Running Back', 'Defense', 'Strategy', 'Coaching', 'Player Tips', 'Offense', 'NFL', 'High School Football']
@@ -26,14 +27,17 @@ Before the ball is snapped, defensive players line up in specific formations. Th
 ## Pre-Snap Reads: Key Factors to Observe
 
 ### 1. **Safety Positioning:**
+
    - **Single High Safety (Cover 1/Cover 3):** Expect more defenders in the box. Often used to stuff the run.
    - **Two High Safeties (Cover 2/Cover 4):** Indicates potential passing situations. Look for gaps in the run defense.
 
 ### 2. **Linebacker Stance and Position:**
+
    - **Stacked Linebackers:** Usually in position to fill the gaps and stop the run.
    - **Wide Alignment:** Watch for potential blitzes or edge containment to prevent outside runs.
 
 ### 3. **Defensive Line Adjustments:**
+
    - **Over Shift:** Defensive line focuses on strong side, indicating potential weak-side running opportunity.
    - **Under Shift:** Concentration on the weak side, consider a strong-side run or counter play.
 
@@ -42,14 +46,17 @@ Before the ball is snapped, defensive players line up in specific formations. Th
 Once the ball is snapped, quick and accurate decisions are necessary. Here’s what to look for:
 
 ### 1. **Linebacker Flow:**
+
    - **Aggressive Flow:** Linebackers moving swiftly to one side signal an opportunity for cutbacks.
    - **Hesitation:** Indicates a possibility to hit the hole quickly before the defense reacts.
 
 ### 2. **Defensive Line Penetration:**
+
    - If the defensive line gets deep into the backfield, there might be open lanes at the second level.
    - Look for overcommitting defensive ends which can create potential cutback lanes.
 
 ### 3. **Secondary Reaction:**
+
    - **Corners and Safeties Closing In:** Be prepared for contact and focus on breaking tackles.
    - **Slow Reaction:** Lean into your speed and decisiveness to exploit the open field.
 

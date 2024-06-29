@@ -1,4 +1,5 @@
 ---
+
 title: "Adjusting to the Ball: Making Plays on Underthrown and Overthrown Passes"
 date: "2024-05-21"
 tags: ['Football', 'Wide Receiver', 'Coaching Tips', 'Player Development', 'Body Control', 'Positioning', 'Catch Techniques', 'Game Strategy', 'Training']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Developing a Soft Touch: Finishing Around the Rim'
 date: '2022-11-04'
 tags: ['Basketball', 'Player Development', 'Coaching Tips', 'Shooting Techniques', 'Skills', 'Training', 'Floaters', 'Finishing Moves', 'Soft Touch', 'Scoring']
@@ -15,9 +16,11 @@ Basketball is a game of finesse and power, but when it comes to scoring around t
 ## Floaters: The Ultimate Weapon
 
 ### What is a Floater?
+
 A floater, also known as a teardrop, is a high-arching shot taken off the dribble, designed to evade taller defenders and finish softly off the backboard or swish through the net. This move is particularly effective in the paint, where big men often lurk waiting to block shots.
 
 ### Technique Breakdown
+
 1. **Grip and Release**:
    - Use a soft touch with your fingertips to control the ball.
    - Aim to release the ball high and with a gentle flick of the wrist.
@@ -31,6 +34,7 @@ A floater, also known as a teardrop, is a high-arching shot taken off the dribbl
    - Use a tight, controlled spin to ensure the ball drops gently.
 
 ### Drills to Improve Floaters
+
 | Drill Name          | Description                                                                 | Duration/Frequency  |
 |---------------------|-----------------------------------------------------------------------------|---------------------|
 | **One-Foot Floater**| Practice taking off from one foot and shooting high-arching floaters.       | 3 sets of 10 shots  |
@@ -40,9 +44,11 @@ A floater, also known as a teardrop, is a high-arching shot taken off the dribbl
 ## Off-Balance Shots: Maintaining Control
 
 ### Why Off-Balance Shots?
+
 In a fast-paced game, you'll often find yourself in situations where you can't get the perfect stance. Developing the ability to finish with off-balance shots ensures you can still score even when pushed or fouled.
 
 ### Technique Breakdown
+
 1. **Core Strength**:
    - A strong core helps maintain control even in off-balance positions.
    - Incorporate planks, Russian twists, and leg raises into your workout routine.
@@ -56,6 +62,7 @@ In a fast-paced game, you'll often find yourself in situations where you can't g
    - Practice shooting with different angles and foot placements.
 
 ### Drills to Improve Off-Balance Shots
+
 | Drill Name                  | Description                                                                 | Duration/Frequency  |
 |-----------------------------|-----------------------------------------------------------------------------|---------------------|
 | **Staggered Stance Shots**  | Shoot from various staggered stances to simulate off-balance situations.    | 3 sets of 15 shots  |
@@ -65,10 +72,12 @@ In a fast-paced game, you'll often find yourself in situations where you can't g
 ## Practical Tips from the Pros
 
 ### From the Player's Perspective
+
 - **Derrick Rose**: *“Stay unpredictable. Mix in floaters and off-balance shots to keep defenders guessing.”*
 - **Tony Parker**: *“The key to a good floater is practice. Repetition builds the muscle memory needed to perfect the touch.”*
 
 ### Coaching Wisdom
+
 - **Gregg Popovich**: *“Instill confidence in your players to take these shots. The more comfortable they are, the better their chances of converting.”*
 - **Brad Stevens**: *“Focus on core strength and balance drills. These not only improve finishing but also overall stability and control.”*
 
@@ -79,5 +88,5 @@ Developing a soft touch around the rim is a blend of skill, strength, and smart 
 Happy hooping, and may your touch be soft and your finishes flawless!
 
 --- 
-Feel free to reach out with any questions or share your progress on social media. Use the hashtag #SoftTouchHoopers.
+Feel free to reach out with any questions or share your progress on social media. Use the hashtag #S oftTouchHoopers.
 ```

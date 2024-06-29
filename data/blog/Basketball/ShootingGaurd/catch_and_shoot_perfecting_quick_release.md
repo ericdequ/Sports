@@ -1,4 +1,5 @@
 ---
+
 title: 'Catch-and-Shoot: Perfecting Quick Release'
 date: '2021-02-13'
 tags: ['Basketball', 'Shooting', 'Technique', 'Coaching Tips', 'Footwork', 'Shot Mechanics', 'Training', 'Skills Development', 'Player Enhancement']

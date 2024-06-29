@@ -1,4 +1,5 @@
 ---
+
 title: 'Hang Time: Maximizing Air Time'
 date: '2024-03-12'
 tags: ['basketball', 'jumping', 'player performance', 'coach tips', 'leg strength', 'ball contact', 'follow-through']

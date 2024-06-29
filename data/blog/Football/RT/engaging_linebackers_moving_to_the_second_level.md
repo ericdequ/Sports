@@ -1,4 +1,5 @@
 ---
+
 title: "Engaging Linebackers: Moving to the Second Level"
 date: '2022-09-05'
 tags: ['Football', 'Linebackers', 'Offensive Line', 'Coaching Tips', 'Player Skills', 'Run Plays', 'Pass Plays', 'Techniques', 'Second Level']
@@ -19,6 +20,7 @@ In football parlance, the second level refers to the area where the linebackers 
 ### Techniques for Run Plays
 
 #### 1. **Reading the Defense**
+
    The first key to reaching the second level is correctly reading the defense. Understanding linebacker tendencies and movements helps linemen anticipate where to go.
 
 #### 2. **Combination Blocking**

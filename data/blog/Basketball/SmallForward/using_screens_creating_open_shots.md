@@ -1,4 +1,5 @@
 ---
+
 title: "Using Screens: Creating Open Shots"
 date: "2024-05-21"
 tags: ['basketball', 'small forwards', 'screens', 'offensive strategies', 'coaching tips', 'player development', 'shot creation', 'curls', 'flares', 'pindowns']

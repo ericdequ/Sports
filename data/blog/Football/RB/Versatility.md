@@ -45,20 +45,24 @@ Running backs who excel in these three aspects can make a massive impact. But ho
 ### Development Tips for Coaches
 
 #### Personalized Drills
+
 - **Multi-Purpose Drills:** Combine rushing, receiving, and blocking in single sessions to simulate game scenarios.
 - **Film Study:** Break down game footage to highlight strengths and areas for improvement.
 
 #### Embrace Technology
+
 - **Wearable Tech:** Track speed, distance covered, and intensity levels during practice.
 - **Simulated Game Situations:** Use VR to put players in various on-field situations.
 
 ### Player Perspective: Mindset and Motivation
 
 #### Stay Hungry
+
 - **Self-Evaluation:** Constantly assess and push your boundaries.
 - **Ask for Feedback:** Seek input from coaches and peers.
 
 #### Off-Season Workouts
+
 - **Diverse Training Regimen:** Include agility drills, catching exercises, and blocking practice.
 - **Mental Reps:** Visualizing the playbook and your role in each play helps retain muscle memory.
 

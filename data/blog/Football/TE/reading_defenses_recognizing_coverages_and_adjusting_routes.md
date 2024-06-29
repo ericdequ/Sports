@@ -1,4 +1,5 @@
 ---
+
 title: 'Reading Defenses: Recognizing Coverages and Adjusting Routes'
 date: '2022-04-04'
 tags: ['football', 'tight ends', 'coverages', 'route running', 'coaching', 'playmaking', 'offense strategies', 'defense recognition', 'football fundamentals']

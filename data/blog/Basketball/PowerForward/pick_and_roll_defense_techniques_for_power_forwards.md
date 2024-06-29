@@ -1,4 +1,5 @@
 ---
+
 title: "Pick-and-Roll Defense: Techniques for Power Forwards"
 date: "2024-05-21"
 tags: ['basketball', 'defense', 'pick-and-roll', 'power forwards', 'coaching', 'techniques', 'strategy', 'hedging', 'switching', 'trapping']
@@ -17,14 +18,17 @@ Defending the pick-and-roll is one of the most critical skills for any power for
 **Hedging** is a temporary and aggressive tactic used to disrupt the ball handler's rhythm. Here's a breakdown of how to execute and maximize its effectiveness:
 
 #### What is Hedging?
+
 Hedging involves the defending power forward stepping out briefly to impede the ball handler's path after a screen is set, allowing the primary defender to recover.
 
 #### Key Techniques:
+
 - **Positioning:** Stand slightly above the screen and square up to the ball handler.
 - **Timing:** Step out as soon as the screen is set, but don't overcommit.
 - **Recovery:** Quickly retreat to regain position on your original assignment.
 
 #### Pro Tips:
+
 - **Communicate:** Make sure to call out the screen to your teammates.
 - **Footwork:** Use quick, lateral movements to avoid getting beat off the dribble.
 
@@ -33,14 +37,17 @@ Hedging involves the defending power forward stepping out briefly to impede the 
 **Switching** involves exchanging defensive responsibilities with the primary defender. This technique is useful against teams with multiple scoring threats.
 
 #### What is Switching?
+
 Switching in the pick-and-roll means that you, as the power forward, will take over guarding the ball handler, while your teammate switches to the screener.
 
 #### Key Techniques:
+
 - **Communication:** Ensure both defenders are on the same page to avoid mismatched coverage.
 - **Adaptability:** Be prepared to guard both inside and outside positions.
 - **Anticipation:** Read the offensive play to switch quickly and effectively.
 
 #### Pro Tips:
+
 - **Versatility:** Work on your perimeter defense skills to handle guards.
 - **Conditioning:** Stay in top shape to effectively manage the physical demands of switching.
 
@@ -49,14 +56,17 @@ Switching in the pick-and-roll means that you, as the power forward, will take o
 **Trapping** is an aggressive strategy where two defenders double-team the ball handler after the screen.
 
 #### What is Trapping?
+
 Trapping involves the power forward and the primary defender collaborating to apply immediate pressure on the ball handler, forcing turnovers or rushed decisions.
 
 #### Key Techniques:
+
 - **Aggression:** Step out assertively to corner the ball handler.
 - **Coordination:** Work with your teammate to cut off passing lanes.
 - **Closing Speed:** Use quick footwork to close the trap immediately after the screen is set.
 
 #### Pro Tips:
+
 - **Discipline:** Avoid fouling while applying pressure.
 - **Spacing:** Be aware of spacing to prevent the ball handler from splitting the trap.
 

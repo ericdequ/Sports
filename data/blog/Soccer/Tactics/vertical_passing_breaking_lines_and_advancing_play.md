@@ -1,4 +1,5 @@
 ---
+
 title: "Vertical Passing: Breaking Lines and Advancing Play"
 date: "2023-10-08"
 tags: ['soccer', 'tactics', 'vertical passing', 'player development', 'coaching', 'strategy', 'football', 'midfield', 'defense']
@@ -11,6 +12,7 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/vertical_passin
 ## Vertical Passing: Breaking Lines and Advancing Play
 
 ### Introduction
+
 In the beautiful game of soccer, the art and strategy of passing cannot be understated. Among the myriad types of passes, vertical passing stands out as a potent weapon in a Teams arsenal. But what exactly is vertical passing, and why is it crucial in breaking defensive lines and advancing play towards the opponent's goal? Let's dive deep into this key element of modern soccer.
 
 ### What is Vertical Passing?

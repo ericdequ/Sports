@@ -1,4 +1,5 @@
 ---
+
 title: 'Pass Protection: Holding the Edge on the Right Side'
 date: '2022-11-18'
 tags: ['football', 'offensive line', 'pass protection', 'right tackle', 'techniques', 'footwork', 'hand placement', 'leverage']

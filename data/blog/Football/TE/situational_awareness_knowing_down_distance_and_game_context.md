@@ -1,4 +1,5 @@
 ---
+
 title: "Situational Awareness: Knowing Down, Distance, and Game Context"
 date: '2022-09-08'
 tags:  ['Football', 'Coaching', 'Strategy', 'Game Management', 'Situational Awareness', 'Down and Distance', 'Player IQ', 'Decision Making', 'NFL']
@@ -72,6 +73,7 @@ In the high-stakes world of football, situational awareness can make an extraord
 Stay tuned for more strategic insights and remember — the game isn’t just played on the field, it’s played in the mind!
 
 ---
+
 #### Additional Resources
 
 - **Books**: "The Art of Smart Football" by Chris B. Brown

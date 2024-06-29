@@ -1,4 +1,5 @@
 ---
+
 title: "Versatility: Playing Multiple Roles in the Offense"
 date: "2024-05-21"
 tags: ["football", "tight ends", "offensive strategies", "versatility", "coaching tips"]
@@ -25,6 +26,7 @@ One of a tight end's primary strengths is their ability to line up in various po
 | Out Wide  | Aligned as an outside receiver. Forces a defensive back match-up, often exploited in red zone situations.        |
 
 ### Coach's Tip:
+
 > Encourage tight ends to familiarize themselves with each position. Use drills that simulate different alignments and require quick adjustments to build confidence and fluidity in assuming various roles.
 
 ## 2. Running Precise Routes
@@ -42,6 +44,7 @@ Route running is a critical skill for tight ends, blending the finesse of a wide
 | Cross       | Horizontal route across the field. Uses speed and leverage to break away from man defenders.              |
 
 ### Player Insight:
+
 > **Travis Kelce** of the Kansas City Chiefs is renowned for his route-running prowess. Kelce's ability to read defenses and adjust his routes on the fly makes him a nightmare matchup for defenses. His success serves as a blueprint for budding tight ends.
 
 ## 3. Mastering the Art of Blocking
@@ -58,6 +61,7 @@ To be truly versatile, a tight end must excel in both pass and run blocking. Eff
 | Double Team    | Collaborative block with another lineman to neutralize a strong defensive player.         |
 
 ### Coaching Wisdom:
+
 > Teach tight ends to keep a low pad level and use their hands effectively. Use film study to identify and correct technique flaws, ensuring they can handle both defensive linemen and blitzing linebackers.
 
 ## Concluding Thoughts

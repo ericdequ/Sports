@@ -1,4 +1,5 @@
 ---
+
 title: "The Cruyff Turn: Deceptive Direction Change"
 date: "2024-05-21"
 tags: ['football', 'soccer', 'skills', 'technique', 'Cruyff Turn', 'coaching', 'player knowledge', 'strategy', 'tricks']

@@ -1,4 +1,5 @@
 ---
+
 title: 'Speed and Agility: Training for Quickness and Explosiveness'
 date: '2021-08-10'
 tags: ['football', 'training', 'speed', 'agility', 'wide receivers', 'coaching', 'workouts', 'sports science', 'performance']
@@ -17,6 +18,7 @@ When it comes to football, speed and agility are game-changers, especially for w
 **Quickness and explosiveness** are crucial elements for wide receivers. Not only do they need to accelerate rapidly from a standing start, but they must also change direction swiftly without losing speed.
 
 ### Benefits for Wide Receivers:
+
 - **Creating Separation:** Beat the defender off the line.
 - **Route Running:** Execute crisp cuts and turns.
 - **Big Plays:** Turn short gains into long touchdowns through breakaway speed.
@@ -55,6 +57,7 @@ To train effectively, you need a series of well-rounded drills tailored for dyna
 Your speed and agility training must be supported by strength and conditioning. Focus on lower body power and core stability.
 
 ### Recommended Exercises:
+
 - **Squats:** Build leg strength.
 - **Lunges:** Improve balance and coordination.
 - **Plyometrics:** Box jumps and depth jumps for explosive power.

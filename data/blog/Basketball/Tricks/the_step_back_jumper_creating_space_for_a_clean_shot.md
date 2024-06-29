@@ -1,4 +1,5 @@
 ---
+
 title: "The Step-Back Jumper: Creating Space for a Clean Shot"
 date: "2024-05-21"
 tags: ["basketball", "technique", "James Harden", "offense", "NBA", "shooting", "skills", "training", "coaching"]
@@ -7,6 +8,7 @@ summary: "Examine the step-back jumper, focusing on its technique and how player
 
 images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_step_back_jumper_creating_space_for_a_clean_shot.webp']
 ---
+
 ```
 
 # The Step-Back Jumper: Creating Space for a Clean Shot

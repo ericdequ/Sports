@@ -1,4 +1,5 @@
 ---
+
 title: "Double Moves: Faking Out Defenders"
 date: "2024-05-21"
 tags: ["Football", "Wide Receivers", "Coaching Tips", "Player Development", "Skills Training", "Offensive Strategy", "Gameplay Analysis", "Advanced Techniques", "Separation Drill"]

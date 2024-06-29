@@ -1,4 +1,5 @@
 ---
+
 title: 'Bootleg and Rollout Passes: Throwing on the Move'
 date: '2023-07-25'
 tags: ['Football', 'Quarterback Techniques', 'Bootleg', 'Rollout', 'Coaching Tips', 'Footwork', 'Accuracy', 'Defense Reading']

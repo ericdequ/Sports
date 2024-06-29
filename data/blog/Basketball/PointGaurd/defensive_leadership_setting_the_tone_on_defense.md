@@ -1,4 +1,5 @@
 ---
+
 title: 'Defensive Leadership: Setting the Tone on Defense'
 date: '2022-06-21'
 tags: ['basketball', 'point guard', 'defense', 'leadership', 'coaching', 'teamwork', 'strategy', 'skills', 'gameplay']

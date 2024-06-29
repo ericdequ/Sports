@@ -1,4 +1,5 @@
 ---
+
 title: 'Perimeter Skills: Expanding the Power Forward’s Game'
 date: '2024-02-02'
 tags: ['Basketball', 'Power Forward', 'Perimeter Skills', 'Ball Handling', 'Shooting', 'Player Development', 'Coaching', 'Modern Basketball']
@@ -58,6 +59,7 @@ Power forwards must be proficient shooters not just in the post but also beyond 
 - **Catch-and-Shoot**: Quick release and readiness to shoot immediately upon receiving the ball.
 - **Pick-and-Pop**: Setting a screen and then stepping out to receive a pass for an open shot.
    
+
 ### Practice Regimen:
 
 - **Form Shooting**: Focus on mechanics close to the basket before moving out.

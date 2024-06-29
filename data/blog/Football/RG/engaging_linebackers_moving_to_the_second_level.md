@@ -1,4 +1,5 @@
 ---
+
 title: "Engaging Linebackers: Moving to the Second Level"
 date: "2024-05-21"
 tags: ['Football', 'Linebackers', 'Techniques', 'Run Plays', 'Pass Plays', 'Second Level', 'Coaching', 'Player Tips', 'Offensive Line']
@@ -19,6 +20,7 @@ In the game of football, mastering the art of engaging linebackers at the second
 The second level in football refers to the area occupied by linebackers and defensive backs. In run plays, offensive linemen must move past the defensive line to block at this level, while in pass plays, skill players often need to engage linebackers for successful route execution and yard gains.
 
 ### Key Terms:
+
 - **Second Level**: The area 3-5 yards beyond the line of scrimmage.
 - **Linebackers**: Defensive players who are responsible for stopping the run and covering receivers.
 - **Reach Block**: A technique where an offensive lineman moves laterally to block a defender.

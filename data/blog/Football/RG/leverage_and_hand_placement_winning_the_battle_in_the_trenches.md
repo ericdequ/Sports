@@ -1,4 +1,5 @@
 ---
+
 title: 'Leverage and Hand Placement: Winning the Battle in the Trenches'
 date: '2021-05-21'
 tags: ['Football', 'Coaching', 'Technique', 'Offensive Line', 'Defensive Line', 'Skill Development', 'Leverage', 'Hand Placement']

@@ -1,4 +1,5 @@
 ---
+
 title: "Set-Piece Strategies: Maximizing Scoring Opportunities from Dead Balls"
 date: '2021-06-27'
 tags: ['soccer', 'football', 'set pieces', 'scoring', 'coaching', 'strategies', 'training', 'dead balls', 'free kicks', 'corners']
@@ -11,13 +12,14 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/set_piece_strat
 # Set-Piece Strategies: Maximizing Scoring Opportunities from Dead Balls
 
 ## Table of Contents
-1. [Introduction](#introduction)
-2. [Types of Set-Pieces](#types-of-set-pieces)
-    * [Free Kicks](#free-kicks)
-    * [Corners](#corners)
-3. [Importance of Delivery](#importance-of-delivery)
-4. [Training Methods](#training-methods)
-5. [Conclusion](#conclusion)
+
+1. [Introduction](#i ntroduction)
+2. [Types of Set-Pieces](#t ypes-of-set-pieces)
+    * [Free Kicks](#f ree-kicks)
+    * [Corners](#c orners)
+3. [Importance of Delivery](#i mportance-of-delivery)
+4. [Training Methods](#t raining-methods)
+5. [Conclusion](#c onclusion)
 
 ## Introduction
 
@@ -84,5 +86,6 @@ Simulate game-like scenarios during practice. This includes setting up defensive
 Set pieces are critical moments in soccer that can make or break a game. By exploring various strategies, understanding the importance of delivery, and incorporating effective training methods, teams can significantly boost their scoring opportunities. Remember, consistency and innovation are the keys to mastering set pieces.
 
 ---
+
 *What strategies do you use for set-pieces? Share your thoughts in the comments below!*
 ```

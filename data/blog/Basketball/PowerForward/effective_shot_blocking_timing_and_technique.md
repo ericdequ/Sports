@@ -1,4 +1,5 @@
 ---
+
 title: 'Effective Shot Blocking: Timing and Technique'
 date: '2021-06-29'
 tags: ['Basketball', 'Shot Blocking', 'Power Forwards', 'Defense', 'Basketball Tips', 'Coaching', 'Player Development']

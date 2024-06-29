@@ -1,4 +1,5 @@
 ---
+
 title: "Scoring in the Paint: Finishing Through Contact"
 date: '2021-11-03'
 tags: ['Basketball', 'Skills Development', 'Coaching', 'Player Tips', 'Scoring', 'Technique', 'Layups', 'Floaters', 'Contact Finishes']

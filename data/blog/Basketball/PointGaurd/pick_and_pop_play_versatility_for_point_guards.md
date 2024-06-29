@@ -1,4 +1,5 @@
 ---
+
 title: "Pick-and-Pop Play: Versatility for Point Guards"
 date: "2024-05-21"
 tags: ['basketball', 'point guard', 'offense', 'strategy', 'pick-and-pop', 'coaching', 'player tips', 'versatility', 'fundamentals']
@@ -70,5 +71,5 @@ The pick-and-pop play is not just a trick up the sleeve; it's a reliable part of
 
 **Stay tuned for more basketball insights and strategies to elevate your game!**
 
-#DropDimes #PickAndPopPerfection
+#D ropDimes #P ickAndPopPerfection
 ```

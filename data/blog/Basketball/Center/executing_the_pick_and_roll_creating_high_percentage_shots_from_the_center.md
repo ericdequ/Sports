@@ -1,10 +1,10 @@
 ---
+
 title: "Executing the Pick and Roll: Creating High-Percentage Shots from the Center's Perspective"
 date: '2023-07-18'
 tags: ['basketball', 'pick and roll', 'coaching tips', 'center training', 'offensive strategies', 'NBA', 'high school basketball', 'skill development', 'player wisdom']
 draft: false
 summary: "Master the pick and roll from the center's perspective with this comprehensive guide. Learn to set effective screens, roll efficiently, and finish strong at the rim to create high-percentage scoring opportunities."
-
 
 images: ['https://www.sportstips.org/articleimage/Basketball/Center/executing_the_pick_and_roll_creating_high_percentage_shots_from_the_center.webp']
 ---
@@ -27,6 +27,7 @@ A well-timed, solid screen can make all the difference in freeing up the ball ha
 The roll is where you transform from a screen-setter to a scoring threat. Your goal is to get to the rim quickly and efficiently:
 
 ### Timing
+
 Once you've set the screen and the ball handler begins to make their move, pivot on the foot closest to the ball and roll towards the basket. This drill works wonders for perfecting the roll:
 
 | Drill Name          | Description                     | Duration      |
@@ -36,11 +37,13 @@ Once you've set the screen and the ball handler begins to make their move, pivot
 | Finish & Repeat     | Finish at the basket each roll, practicing layups and dunks. | 20 minutes     |
 
 ### Maintaining Vision
+
 Keep your head up and eyes on the ball handler. Communication is key in this phase:
 - Verbally cue the ball handler when you're ready to receive the pass.
 - Use hand signals as a supplementary cue if necessary.
 
 ### Reading the Defense
+
 Quickly assess the defensive setup:
 - **Hard Hedge**: If the opposing big man steps out aggressively, roll quickly to the open space.
 - **Drop Coverage**: If the defender sags back, you might have an open mid-range shot.

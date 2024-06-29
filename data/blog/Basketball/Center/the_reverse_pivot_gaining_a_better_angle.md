@@ -1,4 +1,5 @@
 ---
+
 title: 'The Reverse Pivot: Gaining a Better Angle'
 date: '2022-07-15'
 tags:  ['Basketball', 'Techniques', 'Player Skills', 'Coaching Tips', 'Scoring', 'Passing', 'Basketball Strategy', 'Player Development', 'Coaching Wisdom']
@@ -69,4 +70,5 @@ To successfully execute a reverse pivot, follow these steps:
 Mastering the reverse pivot can significantly elevate a player's game by opening up new scoring and passing angles. Coaches and players alike should invest time in practicing this technique, building the muscle memory and situational awareness necessary to utilize it effectively during games. Remember, it’s the small, fundamental moves like the reverse pivot that often separate good players from great ones.
 
 #### **Remember:**
+
 *"Perfect practice makes perfect."*

@@ -1,10 +1,10 @@
 ---
+
 title: "Footwork Fundamentals: Enhancing Mobility and Balance"
 date: "2024-05-21"
 tags: ['basketball', 'center position', 'footwork drills', 'agility', 'balance', 'coaching', 'player development', 'techniques', 'mobility']
 draft: false
 summary: "Analyze key footwork drills and techniques that improve a center's agility, balance, and effectiveness in the post, blending player knowledge and coaching wisdom."
-
 
 images: ['https://www.sportstips.org/articleimage/Basketball/Center/footwork_fundamentals_enhancing_mobility_and_balance.webp']
 ---

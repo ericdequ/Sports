@@ -1,4 +1,5 @@
 ---
+
 title: "Three-Point Shooting: Consistency from Beyond the Arc"
 date: "2024-05-21"
 tags: ['Basketball', 'Shooting', 'Skills', 'Consistency', 'Coaching']
@@ -43,6 +44,7 @@ Building range demands both physical endurance and mental confidence. Here's how
 - **Consistent Repetitions**: Regularly practice shooting from various spots beyond the arc to enhance muscle memory.
 
 ##### Pro Tip
+
 Establish a shooting routine that includes:
 - **Spot Up Shooting**: Shoot from five baseline and wing spots around the three-point line for 10 shots each.
 - **Off-the-Dribble**: Incorporate pull-up threes into your practice to mimic game situations.
@@ -72,5 +74,6 @@ Three-point shooting is an evolving skill that combines technique, strength, and
 Remember, great shooters aren't born; they're crafted through meticulous practice and unyielding determination. So lace up, hit the gym, and start draining those threes!
 
 ---
+
 For more tips on improving your basketball game, stay tuned for our next deep dive into defensive strategies that will transform your Teams game.
 ```

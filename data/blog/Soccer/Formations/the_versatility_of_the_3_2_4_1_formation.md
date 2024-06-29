@@ -1,4 +1,5 @@
 ---
+
 title: "The Versatility of the 3-2-4-1 Formation"
 date: "2024-05-21"
 tags: ['soccer', 'formations', 'tactics', 'coaching', '3-2-4-1', 'defense', 'attack', 'football', 'soccer tips']

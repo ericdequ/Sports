@@ -1,9 +1,10 @@
 ---
- title: "Film Study: Preparing for Opponents"
- date: "2024-05-21"
- tags: ['football', 'quarterbacks', 'film study', 'game planning', 'coaching', 'defense analysis', 'tendencies', 'preparation', 'sports', 'strategy']
- draft: false
- summary: "Discover the critical role of film study in a quarterback's preparation. Learn how to break down defenses, identify tendencies, and strategically plan for the game."
+
+title: "Film Study: Preparing for Opponents"
+date: "2024-05-21"
+tags: ['football', 'quarterbacks', 'film study', 'game planning', 'coaching', 'defense analysis', 'tendencies', 'preparation', 'sports', 'strategy']
+draft: false
+summary: "Discover the critical role of film study in a quarterback's preparation. Learn how to break down defenses, identify tendencies, and strategically plan for the game."
 
 images: ['https://www.sportstips.org/articleimage/Football/QB/film_study_preparing_for_opponents.webp']
 ---
@@ -65,6 +66,7 @@ Once the film is dissected, it’s time to build a game plan that exploits the o
 Film study is far more than a mundane necessity; it’s a pathway to becoming a smarter, more effective quarterback. By breaking down defenses, identifying tendencies, and meticulously game planning, quarterbacks can orchestrate surgical drives and lead their teams to victory.
 
 ### Pro Tip:
+
 Remember, the best quarterbacks aren't just physically gifted—they're mentally sharp and meticulously prepared. Spend as much time in the film room as you do on the field, and watch your understanding of the game elevate to new heights. 
 
 ---

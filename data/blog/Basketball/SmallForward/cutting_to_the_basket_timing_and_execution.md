@@ -1,4 +1,5 @@
 ---
+
 title: "Cutting to the Basket: Timing and Execution"
 date: "2024-05-21"
 tags: ['Basketball', 'Offense', 'Scoring', 'Fundamentals', 'Player Development', 'Coaching', 'Strategy', 'Team Play', 'Techniques']
@@ -85,9 +86,11 @@ Cutting to the basket effectively can make you invaluable to your team. Whether 
 Keep grinding, keep learning, and don’t forget: basketball is as much a game of intellect as it is physical skill. Happy cutting!
 
 ---
+
 **Coach’s Corner:**
 
 > “A well-timed cut is poetry in motion. Always be two steps ahead mentally, and the rest will follow.” - Coach J. Smith 
 
 ---
+
 ```

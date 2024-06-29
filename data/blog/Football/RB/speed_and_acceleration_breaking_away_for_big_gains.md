@@ -1,4 +1,5 @@
 ---
+
 title: 'Speed and Acceleration: Breaking Away for Big Gains'
 date: '2022-08-12'
 tags: ['Football', 'Training', 'Running Backs', 'Speed', 'Acceleration', 'Coaching', 'Player Development', 'Drills', 'Workout']
@@ -25,6 +26,7 @@ Speed and acceleration are products of strength, technique, and natural ability.
 ### Effective Training Methods
 
 #### Strength Training
+
 Strength training cannot be overstated in its importance. Here are some core exercises tailored for running backs:
 
 1. **Squats**: Essential for building leg and core strength. Perform variations like front squats and goblet squats.
@@ -32,6 +34,7 @@ Strength training cannot be overstated in its importance. Here are some core exe
 3. **Lunges**: Focus on dynamic lunges and split squats for single-leg strength and balance.
 
 #### Plyometric Drills
+
 Plyometrics aid in developing the explosive power vital for burst speed:
 
 1. **Box Jumps**: Improve vertical leap and power.
@@ -47,6 +50,7 @@ Form and technique are fundamental. This requires consistent practice and repeti
 - **Arm Swing Drills**: Concentrating on proper arm movement in sync with leg drive.
 
 #### Sprint Intervals 
+
 Tailored specifically for running backs, these drills improve speed and acceleration:
 
 - **10-20 Yard Sprints**: Short burst sprints to replicate game-time acceleration.

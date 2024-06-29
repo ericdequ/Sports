@@ -1,4 +1,5 @@
 ---
+
 title: "Back Shoulder Throws: Timing and Accuracy"
 date: "2024-05-21"
 tags: ['football', 'passing', 'technique', 'NFL', 'coaching', 'quarterback', 'wide receiver', 'training', 'tips']

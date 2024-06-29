@@ -1,4 +1,5 @@
 ---
+
 title: "Offensive Footwork: Enhancing Your Scoring Ability"
 date: "2024-05-21"
 tags: ['Basketball', 'Offense', 'Footwork', 'Training', 'Coaching', 'Player Development', 'Scoring', 'Techniques', 'Tips and Tricks']
@@ -23,6 +24,7 @@ Pivoting is the bedrock of basketball footwork. It allows players to maintain th
     - **Reverse Pivot**: Rotate the body away from the defender while keeping one foot in place.
 
 #### Tips:
+
 - Keep your pivot foot firm on the floor to avoid traveling.
 - Maintain a low center of gravity to maximize balance and quickness.
 - Use your body to shield the ball from defenders.
@@ -41,6 +43,7 @@ The jab step is an essential offensive move to put pressure on the defense and c
     - Use a quick, short movement to fake a drive.
 
 #### Tips:
+
 - Keep the motion quick and controlled to prevent traveling.
 - Use the jab step to read the defender's reaction.
 - Combine the jab step with a decisive move—either a drive, shot, or pass.
@@ -56,10 +59,12 @@ The jab step is an essential offensive move to put pressure on the defense and c
 Creating effective shooting angles can be the difference-maker in high-pressure situations.
 
 #### Techniques:
+
 - **V-Cut**: Start by moving towards the defender, then cut sharply to create separation.
 - **L-Cut**: Move horizontally before cutting vertically to receive the ball.
 
 #### Tips:
+
 - Always square your shoulders to the basket before taking a shot.
 - Use head and ball fakes to throw off the defender's timing.
 - Work on quick releases to capitalize on the created space.

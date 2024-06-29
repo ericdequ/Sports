@@ -1,11 +1,12 @@
 ---
+
 title: "The Driven Shot: Low and Hard"
 date: "2024-05-21"
 tags: ["soccer", "technique", "driven shot", "coaching tactics", "striker tips"]
 draft: false
 summary: "Analyze the technique for driven shots in soccer, emphasizing striking through the ball to keep it low and hard. This comprehensive guide blends player knowledge and coaching wisdom for mastering this essential skill."
 
-images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard.webp', '#image']
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard.webp', '#i mage']
 ---
 
 # The Driven Shot: Low and Hard
@@ -45,12 +46,12 @@ A driven shot is a powerful, low shot characterized by its speed and piercing ac
 
 | Step        | Visual                    | Key Points                                                |
 |-------------|---------------------------|------------------------------------------------------------|
-| Approach    | ![Approach](#image)       | Side angle, balanced stance                                |
-| Foot Plant  | ![Foot Placement](#image) | 6 inches (15 cm) away, pointing towards the target         |
-| Body Angle  | ![Body Angle](#image)     | Lean over the ball                                         |
-| Strike & Follow-Through | ![Strike](#image) | Contact at center, low follow-through                      |
+| Approach    | ![Approach](#i mage)       | Side angle, balanced stance                                |
+| Foot Plant  | ![Foot Placement](#i mage) | 6 inches (15 cm) away, pointing towards the target         |
+| Body Angle  | ![Body Angle](#i mage)     | Lean over the ball                                         |
+| Strike & Follow-Through | ![Strike](#i mage) | Contact at center, low follow-through                      |
 
-(Note: Replace `#image` with actual image URLs or paths)
+(Note: Replace `#i mage` with actual image URLs or paths)
 
 ---
 

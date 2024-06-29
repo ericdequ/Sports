@@ -1,4 +1,5 @@
 ---
+
 title: "Footwork Fundamentals: Enhancing Mobility and Balance"
 date: '2023-08-22'
 tags: ['Football', 'Right Tackles', 'Footwork Drills', 'Agility', 'Balance', 'Quickness', 'Coaching', 'Player Development', 'Training']

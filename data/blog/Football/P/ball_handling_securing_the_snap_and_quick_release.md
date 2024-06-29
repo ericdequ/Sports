@@ -1,4 +1,5 @@
 ---
+
 title: "Ball Handling: Securing the Snap and Quick Release"
 date: '2023-02-11'
 tags: ['football', 'ball handling', 'quarterback', 'coaching tips', 'techniques', 'quick release', 'snap', 'pressure', 'player skills']

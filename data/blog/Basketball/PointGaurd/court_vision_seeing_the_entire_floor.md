@@ -1,4 +1,5 @@
 ---
+
 title: "Court Vision: Seeing the Entire Floor"
 date: '2023-10-17'
 tags: ['basketball', 'skills', 'court vision', 'player development', 'coaching tips', 'reading defenses', 'passing', 'anticipation', 'offense']

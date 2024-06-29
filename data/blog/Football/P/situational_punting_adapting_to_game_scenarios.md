@@ -1,4 +1,5 @@
 ---
+
 title: "Situational Punting: Adapting to Game Scenarios"
 date: "2024-05-21"
 tags: ['Football', 'Special Teams', 'Punting', 'Game Strategy', 'Field Position', 'Coaching Tips', 'Player Knowledge', 'Time Management', 'Game Scenarios']
@@ -43,6 +44,7 @@ A well-placed boomer or directional punt can flip the field position, especially
 - **Communication:** Make sure the coverage team knows the desired punt location.
 
 ### Practical Example: 
+
 *In a game between the Seahawks and 49ers, a Petersen punt from the Seahawks' 30-yard line was aimed towards the left sideline. This forced the 49ers' returner to field it at the 15-yard line, resulting in a minimal gain and setting a defensive tone.*
 
 ## Time Management
@@ -66,10 +68,12 @@ In tight games, managing the clock can be crucial. A well-timed punt can drain p
 ## Player and Coach Insights
 
 ### Player Perspective:
+
 **Johnny Hekker (Punter, Carolina Panthers):**
 *"Mastering the coffin corner has been a game-changer. In high-pressure situations, I focus on targeting the 10-yard line sideline to minimize touchbacks and maximize our defense's chance to hold the opponents."*
 
 ### Coaching Wisdom:
+
 **Mike Westhoff (Special Teams Coach):**
 *"I always stress to my punters that every situation demands a different kind of punt. Understanding the game scenario and communicating effectively with the coverage team are the keys to successful situational punting."*
 

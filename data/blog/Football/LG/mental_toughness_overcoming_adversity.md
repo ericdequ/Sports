@@ -1,4 +1,5 @@
 ---
+
 title: "Mental Toughness: Overcoming Adversity"
 date: "2024-05-21"
 tags: ['sports psychology', 'mental toughness', 'athlete mindset', 'coaching strategies', 'performance enhancement']
@@ -75,3 +76,4 @@ Stay tough, stay focused, and let your confidence shine through every challenge 
 Stay tuned for more insights on sports psychology and performance enhancement!
 
 ---
+

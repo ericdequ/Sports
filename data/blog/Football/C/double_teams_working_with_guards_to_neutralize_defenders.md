@@ -1,4 +1,5 @@
 ---
+
 title: 'Double Teams: Working with Guards to Neutralize Defenders'
 date: '2021-04-03'
 tags:  ['Football','Offensive Line','Double Team','Guard Play','Coaching Tips']
@@ -60,5 +61,5 @@ Stay tough in the trenches, and remember: teamwork and technique are the bedrock
 
 **Stay connected for more tips and insights!** 
 
-[Subscribe to our newsletter](#) | [Follow us on Twitter](#) | [Join our Facebook community](#)
+[Subscribe to our newsletter](#)  | [Follow us on Twitter](#)  | [Join our Facebook community](#) 
 ```

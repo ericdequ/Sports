@@ -1,4 +1,5 @@
 ---
+
 title: "Anchor Strength: Holding the Line Against Bull Rushes"
 date: "2024-05-21"
 tags: ['American Football', 'Strength Training', 'Line Play', 'Coaching Tips', 'Player Development', 'Core Exercises', 'Leg Strength']

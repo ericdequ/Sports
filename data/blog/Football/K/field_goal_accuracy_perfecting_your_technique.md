@@ -1,4 +1,5 @@
 ---
+
 title: "Field Goal Accuracy: Perfecting Your Technique"
 date: "2023-10-21"
 tags: ['Football', 'Field Goal', 'Technique', 'Drills', 'Foot Placement', 'Mental Focus', 'Training', 'Coaching', 'Kicking']
@@ -17,10 +18,13 @@ Achieving field goal accuracy in football is a combination of physical skill, me
 One of the most crucial aspects of a successful field goal kick is where you place your plant foot.
 
 ### Key Points:
+
 - **Plant Foot Position:** Your non-kicking foot should be about one foot to the side of the ball and slightly behind it.
 - **Angle and Direction:** Ensure your plant foot is pointed towards your target.
   
+
 #### Tips:
+
 1. **Markers:** Use cones or markers during practice to visualize and guide your foot placement.
 2. **Repetition:** Repeatedly practicing your steps and placement can create a muscle memory.
 
@@ -35,10 +39,12 @@ One of the most crucial aspects of a successful field goal kick is where you pla
 A smooth and consistent follow-through is crucial for both distance and accuracy in your kicks.
 
 ### Key Points:
+
 - **Leg Swing:** Your leg should swing straight through the ball and continue upward.
 - **Body Alignment:** Your shoulders should remain square to the target.
 
 #### Tips:
+
 1. **Visualization:** Picture your leg moving fluidly through the ball and up to the target.
 2. **Balance:** Focus on maintaining balance throughout the motion.
 
@@ -53,10 +59,12 @@ A smooth and consistent follow-through is crucial for both distance and accuracy
 The psychological aspect of field goal kicking is often underestimated. Consistent performance requires a sharp and calm mind.
 
 ### Key Points:
+
 - **Routine:** Develop a pre-kick routine to center your thoughts.
 - **Visualization:** Visualize a successful kick before you take it.
 
 #### Tips:
+
 1. **Breathing Techniques:** Use deep breathing to relax before the kick.
 2. **Positive Reinforcement:** Foster a mindset of confidence and focus.
 

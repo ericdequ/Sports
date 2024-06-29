@@ -1,4 +1,5 @@
 ---
+
 title: 'Long-Range Shots: Power and Precision from Distance'
 date: '2024-01-02'
 tags: ['soccer', 'football', 'shooting', 'technique', 'coaching', 'player development', 'long-range', 'power', 'accuracy']
@@ -45,6 +46,7 @@ Effective training can drastically improve both power and precision. Here are so
 ### 🧠 Mental Graphics
 
 #### Visualizing Success:
+
 - **Before the Shot**: Picture the ball's trajectory.
 - **During the Preparation**: Focus on your body mechanics.
 - **At the Moment of Contact**: Confidently strike through the ball.
@@ -68,5 +70,6 @@ Here are some golden nuggets of wisdom from seasoned players:
 Long-range shots are a thrilling part of soccer, combining brute strength with surgical precision. By mastering the mechanics, practicing purpose-driven drills, and learning from the pros, you can add this formidable skill to your arsenal and make a significant impact on the field. 🏆
 
 ---
+
 With dedication and relentless practice, you'll be bending it like Beckham or smashing it like Gerrard in no time. Follow these tips, and let your feet do the talking.⚽️👟
 ```

@@ -1,4 +1,5 @@
 ---
+
 title: "Double Teams: Working with the Right Tackle to Neutralize Defenders"
 date: '2021-10-04'
 tags: ['Football', 'Offensive Line', 'Strategy', 'Teamwork', 'Coordination', 'Communication', 'Blocking Techniques', 'Coaching Tips', 'Defensive Strategies']

@@ -1,4 +1,5 @@
 ---
+
 title: "High Pressing Tactics: Forcing Mistakes and Winning the Ball Early"
 date: "2023-10-07"
 tags: ['Soccer', 'Tactics', 'Coaching', 'High Press', 'Defense', 'Possession', 'Tempo', 'Player Tips', 'Strategy']

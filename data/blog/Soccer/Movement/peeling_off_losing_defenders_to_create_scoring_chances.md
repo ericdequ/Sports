@@ -1,10 +1,10 @@
 ---
+
 title: 'Peeling Off: Losing Defenders to Create Scoring Chances'
 date: '2022-08-08'
 tags: ['soccer', 'football', 'tactics', 'attacking', 'coaching', 'player development', 'strategy', 'offense', 'soccer drills']
 draft: false
 summary: 'Explore the technique of peeling off defenders to create scoring opportunities in the attacking third, blending player insight and coaching tips.'
-
 
 images: ['https://www.sportstips.org/articleimage/Soccer/Movement/peeling_off_losing_defenders_to_create_scoring_chances.webp']
 ---

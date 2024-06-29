@@ -1,4 +1,5 @@
 ---
+
 title: 'Working in Tandem: Coordination with the Left Tackle and Center'
 date: '2024-05-30'
 tags:  ['Football', 'Offensive Line', 'Coordination', 'Communication', 'Coaching Tips', 'Left Tackle', 'Center']

@@ -1,10 +1,10 @@
 ---
+
 title: "Footwork Fundamentals: Enhancing Mobility and Balance"
 date: '2022-09-02'
 tags: ['Basketball', 'Footwork', 'Training', 'Coaching', 'Centers', 'Agility', 'Balance', 'Quickness', 'Sports']
 draft: false
 summary: "A comprehensive guide analyzing key footwork drills to improve agility, balance, and quickness for centers. Combining player insights and coaching tips for optimal performance."
-
 
 images: ['https://www.sportstips.org/articleimage/Football/C/footwork_fundamentals_enhancing_mobility_and_balance.webp']
 ---
@@ -30,6 +30,7 @@ Footwork is the linchpin of a center's game in basketball. It directly influence
 Jumping rope may seem basic, but it's fundamental for building foot speed and coordination. It sharpens reflexes and warms up muscles essential for more complex movements.
 
 #### Drill Routine
+
 | Set | Duration | Rest |
 |-----|----------|------|
 | 1   | 1 minute | 30 sec|
@@ -41,11 +42,13 @@ Jumping rope may seem basic, but it's fundamental for building foot speed and co
 Line drills enhance lateral quickness and balance. Use the lines on the court or tape lines for this exercise.
 
 #### Drill Steps
+
 1. **Side-to-Side Shuffle**: Shuffle side to side over the line for 30 seconds.
 2. **In-and-Out Step**: Step in and out over the line as fast as possible for 30 seconds.
 3. **Forward-Backward Movement**: Move forward and backward across the line for 30 seconds.
 
 #### Drill Routine
+
 | Set | Duration | Rest |
 |-----|----------|------|
 | 1   | 2 minutes| 1 minute|
@@ -57,13 +60,17 @@ Line drills enhance lateral quickness and balance. Use the lines on the court or
 Cone drills are pivotal for improving agility and quickness. They simulate in-game movements and decision-making.
 
 #### Drill Setup
+
 - Place cones in a zigzag pattern 3 feet apart.
   
+
 #### Drill Execution
+
 1. **Weave Drill**: Weave through the cones, focusing on tight, controlled steps and quick changes of direction.
 2. **Figure-8 Drill**: Move in a figure-8 pattern around two cones, emphasizing smooth transitions and balance.
 
 #### Drill Routine
+
 | Set | Duration | Rest |
 |-----|----------|------|
 | 1   | 2 minutes| 1 minute|
@@ -75,11 +82,13 @@ Cone drills are pivotal for improving agility and quickness. They simulate in-ga
 The drop step is crucial for centers both offensively and defensively. It aids in maintaining position and creating space.
 
 #### Drill Steps
+
 1. **Starting Position**: Begin with your back to the basket, feet shoulder-width apart.
 2. **Pivot and Drop**: Pivot on one foot while dropping the other back to create space.
 3. **Repeat**: Alternate legs and repeat the motion.
 
 #### Drill Routine
+
 | Set | Duration | Reps per Side | Rest |
 |-----|----------|---------------|------|
 | 1   | 2 minutes| 10            | 1 minute|

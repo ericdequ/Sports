@@ -1,4 +1,5 @@
 ---
+
 title: "False Nines: Disrupting Defenses"
 date: "2024-05-21"
 tags: ['soccer', 'false nine', 'tactics', 'coaching', 'Lionel Messi', 'formations', 'attacking play', 'defense', 'strategy']
@@ -18,7 +19,7 @@ In traditional soccer formations, the number '9' is the central striker, whose p
 
 Here's how it works in detail:
 
-| **Role**         | **Traditional #9**                                      | **False Nine**                                                |
+| **Role**         | **Traditional #9 **                                      | **False Nine**                                                |
 |------------------|---------------------------------------------------------|---------------------------------------------------------------|
 | Positioning      | Stays high up the pitch                                  | Drops deep into midfield                                      |
 | Primary Duties   | Score goals, hold the ball up                           | Create space, link up play, disrupt defensive lines           |
@@ -28,12 +29,15 @@ Here's how it works in detail:
 ### Advantage of Using a False Nine
 
 #### 1. **Creating Space**
+
 A false nine confuses central defenders who are traditionally accustomed to marking a fixed striker. The moment the false nine drops deeper, it lures these defenders out of their positions, creating significant space behind them for other attackers, such as wingers or attacking midfielders, to exploit.
 
 #### 2. **Overloading Midfield**
+
 By dropping into midfield, the false nine offers an extra passing option and numerical superiority in that zone. This can overwhelm the opposition’s midfielders and create an effective overload, giving the attacking team more control over ball possession.
 
 #### 3. **Positional Fluidity**
+
 The false nine role introduces a level of unpredictability and fluidity into the game. Players constantly interchange positions, making it difficult for opponents to maintain their defensive shape and marking responsibilities. 
 
 ### Case Study: Lionel Messi at FC Barcelona

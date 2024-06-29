@@ -1,4 +1,5 @@
 ---
+
 title: 'Inverted Fullbacks: Tactical Innovation'
 date: '2022-11-11'
 tags:  ['Tactics', 'Football', 'Joao Cancelo', 'Inverted Fullbacks', 'Coaching Strategies']

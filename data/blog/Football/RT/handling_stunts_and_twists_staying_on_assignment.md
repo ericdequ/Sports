@@ -1,4 +1,5 @@
 ---
+
 title: "Handling Stunts and Twists: Staying on Assignment"
 date: '2024-04-13'
 tags: ['Football', 'Defensive Strategies', 'Coaching Tips', 'Player Development', 'Assignment Discipline', 'Stunts', 'Twists', 'Offensive Line']
@@ -81,5 +82,5 @@ Successfully handling stunts and twists requires a synergy of clear communicatio
 
 ---
 
-**Tags**: #Football #DefensiveStrategies #CoachingTips #PlayerDevelopment #AssignmentDiscipline #Stunts #Twists #OffensiveLine
+**Tags**: #F ootball #D efensiveStrategies #C oachingTips #P layerDevelopment #A ssignmentDiscipline #S tunts #T wists #O ffensiveLine
 ```

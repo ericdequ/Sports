@@ -1,4 +1,5 @@
 ---
+
 title: "Engaging Linebackers: Moving to the Second Level"
 date: '2022-02-23'
 tags: ['Football', 'Linebackers', 'Offense', 'Run Plays', 'Pass Plays', 'Blocking', 'Technique', 'Coaching', 'Player Development']
@@ -19,16 +20,19 @@ The “second level” refers to the linebackers in a defensive scheme. These pl
 ## Techniques for Run Plays
 
 ### 1. Initial Engagement
+
 Before moving to the second level, make sure the first level is secure. This means your initial block on the defensive line should be solid. This may involve:
 - **Chipping**: A quick and powerful block on the defensive lineman.
 - **Combo Blocks**: Working in tandem with another lineman to initially engage a defender, then one player releases to the second level.
 
 ### 2. Reading the Defense
+
 Understand the defensive alignment and likely movement of the linebackers. Pre-snap reads and play recognition are crucial:
 - **Eyes Up**: Always keep your head on a swivel and eyes scanning for linebackers’ shifts.
 - **Anticipate Movement**: Recognize if the linebacker is playing downhill (aggressively toward the line) or scraping (moving laterally).
 
 ### 3. Engage and Sustain
+
 When engaging a linebacker, your technique should include:
 - **Taking a Proper Angle**: Aim for the linebacker’s inside shoulder to cut off their pursuit angle.
 - **Strong Hands**: Use your hands to steer and control the defender.
@@ -45,18 +49,22 @@ When engaging a linebacker, your technique should include:
 ## Techniques for Pass Plays
 
 ### 1. Communication
+
 Before the snap, ensure clear line communication to identify potential blitzing linebackers or complex stunts.
 
 ### 2. Quick Feet
+
 On the snap, the offensive lineman should be light on their feet to swiftly transition from initial protection to second-level engagement:
 - **Slide and Mirror**: Use side steps or shuffling to mirror the movements of the linebacker.
 
 ### 3. Hand Placement
+
 Proper hand placement can mean the difference between a sustained block and a quick shed:
 - **Inside Hands**: Keeping your hands inside the frame of the defender gives you more control.
 - **Punch and Reset**: A quick, forceful hand strike followed by immediate repositioning.
 
 ### 4. Knowing When to Release
+
 In pass protection, releasing to the second level needs timing. Overcommit and you expose the quarterback; hesitate and you miss your chance:
 - **Timed Release**: Release immediately after ensuring the defensive lineman is contained or diverted.
 

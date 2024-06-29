@@ -1,4 +1,5 @@
 ---
+
 title: "Outside of the Boot: Trivela Shots and Passes"
 date: '2022-04-06'
 tags: ['Football', 'Soccer', 'Technique', 'Coaching', 'Skills', 'Trivela', 'Shooting', 'Passing', 'Advanced Play']

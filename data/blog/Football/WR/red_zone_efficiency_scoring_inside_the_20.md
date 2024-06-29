@@ -1,4 +1,5 @@
 ---
+
 title: 'Red Zone Efficiency: Scoring Inside the 20'
 date: '2021-09-26'
 tags: ['Football', 'Red Zone', 'Coaching', 'Offense', 'Strategies', 'NFL', 'NCAA', 'Touchdown', 'Training']

@@ -1,4 +1,5 @@
 ---
+
 title: "Utilizing the 4-4-2 Diamond Formation for Midfield Dominance"
 date: '2023-04-20'
 tags: ['4-4-2', 'Diamond Formation', 'Soccer Tactics', 'Midfield Dominance', 'Attacking Flexibility', 'Coaching Wisdom', 'Player Knowledge', 'Soccer Strategies', 'Formation Analysis']

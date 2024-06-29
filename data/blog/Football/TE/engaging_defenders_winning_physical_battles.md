@@ -1,4 +1,5 @@
 ---
+
 title: 'Engaging Defenders: Winning Physical Battles'
 date: '2023-10-02'
 tags: ['Football', 'Techniques', 'Coaching', 'Players', 'Defenders', 'Physicality', 'Balance', 'Hand Fighting', 'Strategy']

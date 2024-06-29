@@ -1,4 +1,5 @@
 ---
+
 title: "Reading Defenses: Recognizing Coverages and Adjusting Routes"
 date: "2024-11-02"
 tags: ["football", "wide receivers", "defensive coverages", "strategy", "coaching", "routes", "playmaking", "NFL", "college football"]

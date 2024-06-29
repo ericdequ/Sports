@@ -1,4 +1,5 @@
 ---
+
 title: "Reading the Defense: Pre-Snap Recognition"
 date: "2024-05-21"
 tags: ['football', 'left tackle', 'offensive line', 'blitz', 'stunts', 'defensive alignments', 'coaching tips', 'player skills', 'strategy']
@@ -44,10 +45,12 @@ A left tackle must snap into action even before the ball is hiked. Here are some
 Blitzes and stunts are designed to confuse the offensive line and gain a defensive advantage. Here's how you can anticipate and adjust:
 
 ### Common Blitz Packages
+
 - **Zone Blitz**: Typically involves dropping linemen into coverage while linebackers or defensive backs rush.
 - **Double A-Gap**: Linebackers threaten both sides of the center, creating immediate pressure up the middle.
 
 ### Recognizing Stunts
+
 - **T-E Stunt (Tackle-End)**: The defensive tackle and end switch positions mid-rush to confuse blockers.
 - **E-T Stunt (End-Tackle)**: The defensive end loops inside while the tackle takes an outside path.
 

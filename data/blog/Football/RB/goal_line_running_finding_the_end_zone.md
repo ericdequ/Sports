@@ -1,4 +1,5 @@
 ---
+
 title: "Goal Line Running: Finding the End Zone"
 date: "2024-05-21"
 tags: ['Football', 'Coaching', 'Running Back', 'Tips', 'Techniques', 'Strategy', 'Goal Line']
@@ -17,11 +18,13 @@ When the offense is inches away from glory, it's the running back's time to shin
 Let's explore the fundamental components that contribute to successful goal line running:
 
 #### 1. **Low Pad Level**
+
 Maintaining a low pad level is an essential technique in goal line running. By staying low, a running back can maintain center of gravity and leverage, making it harder for defenders to get underneath and make a solid tackle.
 
 > **Tip:** Imagine trying to run with your shoulders slightly above knee level, forcing your body forward and down with each powerful stride.
 
 #### 2. **Quick Decision Making**
+
 Goal line situations often provide little room for dancing around. A running back must have the vision to quickly identify the gap and commit to it. Hesitation can be suffocating when defenders are crashing down the line.
 
 - **Read the blocks early.**
@@ -29,6 +32,7 @@ Goal line situations often provide little room for dancing around. A running bac
 - **Trust the offensive line.**
 
 #### 3. **Power Running**
+
 Power running is all about using brute strength and momentum. In the tight confines of the red zone, running backs can’t rely solely on finesse; they need to charge forward with everything they've got.
 
 | Drills for Power Running | Description |
@@ -43,6 +47,7 @@ Power running is all about using brute strength and momentum. In the tight confi
 NFL legends like Walter Payton and Emmitt Smith weren't just workhorses; they understood the game's subtleties. Emulating their approach involves more than physical prowess; it includes studying film, understanding opponent tendencies, and maximizing every carry.
 
 #### Watching the Greats
+
 - **Walter Payton**: Known for his relentless drive and deceptive jukes.
 - **Emmitt Smith**: Master strategist; never wasted a carry and used his blockers masterfully.
 

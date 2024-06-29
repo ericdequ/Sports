@@ -1,4 +1,5 @@
 ---
+
 title: "Pick-and-Pop: Versatility for Modern Power Forwards"
 date: "2024-05-21"
 tags: ['basketball', 'strategy', 'power forward', 'pick-and-pop', 'coaching', 'player development', 'shooting', 'plays', 'team dynamics']

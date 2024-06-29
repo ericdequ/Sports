@@ -1,4 +1,5 @@
 ---
+
 title: 'Footwork Fundamentals: Enhancing Mobility and Balance'
 date: '2023-03-05'
 tags: ['football', 'footwork', 'agility', 'balance', 'drills', 'left tackle', 'mobility', 'quickness', 'coaching']
@@ -15,6 +16,7 @@ Improving footwork is essential for left tackles to boost their agility, balance
 ## Key Footwork Drills for Left Tackles
 
 ### 1. **Kick Slide**
+
 The kick slide is a fundamental move for left tackles when pass-blocking. The technique involves a lateral backward movement to keep defenders in check.
 
 **How To:**
@@ -56,15 +58,19 @@ This drill develops the ability to deliver powerful blocks while maintaining bal
 ## Expert Tips for Optimal Performance
 
 ### 1. **Stay Low, Stay Powerful**
+
 Always maintain a low center of gravity to ensure stability and power. Bend at the hips rather than the waist to keep your balance intact.
 
 ### 2. **Eyes Up, Adjust on the Fly**
+
 Good vision is critical. Always keep your head up to see incoming threats and adjust footwork swiftly to counteract moves from defenders.
 
 ### 3. **Core Strength Matters**
+
 A strong core is the backbone of balanced footwork. Incorporate exercises like planks and medicine ball rotations into your routine for core stability.
 
 ### 4. **Consistent Reps Equal Muscle Memory**
+
 Repetition is the mother of skill. Regularly practice these drills to develop muscle memory, resulting in quicker and more instinctive movements.
 
 ## Coaching Wisdom: Bringing It All Together

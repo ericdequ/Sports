@@ -1,4 +1,5 @@
 ---
+
 title: "Stiff Arm Techniques: Keeping Defenders at Bay"
 date: "2024-05-21"
 tags: ['Football', 'Techniques', 'Coaching Tips', 'Player Skills', 'Defender', 'Hand Placement', 'Balance', 'Timing', 'Offense']
@@ -21,12 +22,14 @@ To effectively ward off defenders, players need to integrate three crucial compo
 - **Maintaining Balance**
 
 ### Timing
+
 Timing is everything in football, and it's no different with the stiff arm. Delivering it too soon or too late can render it ineffective.
 
 - **Recognize the Pursuer**: Develop an instinct for judging when a defender is closing in. 
 - **Initiate at the Right Moment**: Ideally, extend your arm when the defender is within arm’s reach but not yet in position to tackle.
 
 ### Hand Placement
+
 Where and how you place your hand determines the force and control of your stiff arm.
 
 - **Target Areas**: Aim for the defender’s shoulder pads, helmet, or chest.
@@ -43,6 +46,7 @@ Here's a quick reference table for effective hand placement:
 | **Face Mask**     | Penalty-prone and unsafe                    | Low (Avoid)                         |
 
 ### Maintaining Balance
+
 Balance is critical in executing a stiff arm without putting yourself at risk of losing ground or falling.
 
 - **Core Strength**: Engage your core muscles to keep stable.

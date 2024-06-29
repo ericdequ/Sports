@@ -6,7 +6,6 @@ tags: ['soccer', 'trequartista', 'playmaker', 'football tactics', 'Mesut Özil']
 draft: false
 summary: 'Dive into the world of the trequartista, the creative mastermind of soccer, and learn how legends like Mesut Özil master the art of finding space and creating chances.'
 
-
 images: ['https://www.sportstips.org/articleimage/Soccer/Positions/trequartistas_the_creative_sparks.webp']
 ---
 
@@ -35,12 +34,15 @@ Here's a breakdown of the primary attributes a successful trequartista should po
 No discussion about trequartistas is complete without mentioning **Mesut Özil**. His career has been a masterclass in embodying the traits of an exemplary playmaker.
 
 #### Özil's Vision:
+
 One of Özil’s most remarkable qualities is his almost telepathic vision. His ability to pick out a teammate with a seemingly impossible pass is unparalleled. Often, he sees and executes passes that most wouldn't even contemplate.
 
 #### Technical Proficiency:
+
 Özil’s technique is silky smooth. Whether it’s a deft touch to control a difficult ball or a perfectly weighted through-pass, his technical prowess ensures he maintains the upper hand during play.
 
 #### Exploiting Space:
+
 Özil's spatial awareness makes him a nightmare for defenders. He constantly drifts into pockets of space, making it hard for opponents to mark him.
 
 ### Coaching Insights: Nurturing a Trequartista
@@ -48,12 +50,15 @@ One of Özil’s most remarkable qualities is his almost telepathic vision. His 
 Coaching a trequartista involves more than just drills and practices. It’s about fostering creativity and understanding of the game.
 
 #### Encourage Experimentation:
+
 Allow your trequartista the freedom to experiment with passes and movement. Mistakes are part of the learning curve.
 
 #### Focus on Vision Drills:
+
 Practices that emphasize peripheral vision and split-second decision-making can significantly aid a trequartista.
 
 #### Analyzing Game Footage:
+
 Review footage of playmakers like Özil to understand their decision-making and movement patterns on the field.
 
 ### Conclusion

@@ -1,4 +1,5 @@
 ---
+
 title: "Anchor Strength: Holding the Line Against Bull Rushes"
 date: '2021-05-09'
 tags: ['football', 'linemen', 'strength training', 'defense', 'techniques', 'core exercises', 'leg strength']

@@ -1,4 +1,5 @@
 ---
+
 title: "Diagonal Runs: Breaking Through Defensive Lines"
 date: '2022-10-26'
 tags: ['Soccer', 'Tactics', 'Coaching', 'Player Development', 'Scoring', 'Strategy', 'Offense', 'Midfield', 'Forwards']
@@ -75,5 +76,6 @@ Implementing diagonal runs effectively leads to multiple strategic advantages:
 In conclusion, mastering diagonal runs can be a game-changer for any attacking player or team. By disrupting defensive lines, creating space, and confusing opponents, diagonal runs are a critical asset in the arsenal of modern soccer tactics. Whether you're a player looking to enhance your game or a coach aiming to elevate your Teams performance, understanding and executing diagonal runs can lead to a higher rate of success and more goals on the board.
 
 ---
+
 Embrace the diagonal run, and watch your team break through those defensive lines like never before!
 ```

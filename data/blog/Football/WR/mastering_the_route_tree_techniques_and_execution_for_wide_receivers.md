@@ -1,4 +1,5 @@
 ---
+
 title: "Mastering the Route Tree: Techniques and Execution for Wide Receivers"
 date: '2021-03-07'
 tags: ['Football', 'Wide Receivers', 'Route Tree', 'Techniques', 'Execution', 'Coaching', 'Player Development', 'Advanced Football', 'Strategy']
@@ -37,22 +38,27 @@ The route tree consists of the following core routes, each with its own techniqu
 - **Execution Tip**: Timing with the quarterback is crucial. Hit your mark right when he’s ready to release the ball. 
 
 ### Out Route
+
 - **Technique**: Sprint five yards, then make a sharp 90-degree turn towards the sideline. Keep your hips low to explode out of the cut.
 - **Execution Tip**: Ensure you maintain balance and speed through the break to create separation from the defender.
 
 ### Post Route
+
 - **Technique**: Run straight for 10-15 yards, then cut towards the goal post at a 45-degree angle. Keep your eyes on the quarterback.
 - **Execution Tip**: Sell the go route to the defender before making the cut. This will catch them off guard and give you an advantage.
 
 ## Fine-Tuning Your Craft
 
 ### Footwork and Speed
+
 Footwork and burst speed are critical. Drills like ladder drills and sprint intervals can improve your precision and agility.
 
 ### Reading Defenses
+
 Understanding defensive coverages allows you to adjust your routes on the fly. Study film and learn the tendencies of defenders to enhance your route running.
 
 ### Communication with Quarterbacks
+
 A strong understanding and rapport with your quarterback can elevate your route execution. Practice timing routes religiously and discuss nuances of each play.
 
 ## Training Drills for Route Mastery

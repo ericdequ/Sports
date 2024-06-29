@@ -1,4 +1,5 @@
 ---
+
 title: "Analyzing the 4-4-2 Formation: Strengths and Weaknesses"
 date: "2024-05-21"
 tags: ['soccer', 'tactics', 'formations', 'coaching', '4-4-2', 'defensive strategy', 'offensive strategy', 'soccer history', 'youth coaching']

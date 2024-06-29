@@ -1,4 +1,5 @@
 ---
+
 title: 'Engaging in the Pick and Pop: Versatility for Modern Centers'
 date: '2024-05-10'
 tags: ['Basketball', 'Coaching Techniques', 'Center', 'Offensive Strategies', 'Pick and Pop', 'Player Development', 'Shooting Skills', 'Game Tactics', 'Versatility']

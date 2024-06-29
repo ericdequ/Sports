@@ -1,4 +1,5 @@
 ---
+
 title: 'Versatility: Adapting to Multiple Roles in Basketball'
 date: '2024-04-08'
 tags: ['basketball', 'small forwards', 'versatility', 'position play', 'coaching tips', 'player knowledge', 'multi-skill development']

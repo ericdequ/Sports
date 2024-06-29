@@ -1,4 +1,5 @@
 ---
+
 title: "Double Teams: Working with the Right Guard to Neutralize Defenders"
 date: "2024-05-21"
 tags: ["American Football", "Offensive Line", "Double Teams", "Coaching Tips", "Guard Tactics", "Blocking Schemes", "Game Strategy", "Communication", "Coordination"]

@@ -1,4 +1,5 @@
 ---
+
 title: "The Flick-On: Heading with Precision"
 date: '2021-03-05'
 tags: ['soccer', 'heading techniques', 'flick-on', 'attacking strategies', 'defensive skills']
@@ -70,9 +71,10 @@ Ever scored a winning goal with a flick-on header or made a crucial defensive pl
 **Stay tuned for more soccer techniques and strategies to sharpen your game!**
 
 ---
+
 **Related Articles:**
 
-- [Mastering the Volley: Timing and Technique](#)
-- [The Art of the Through Ball: Vision and Precision](#)
-- [Defensive Tactics: Zonal vs. Man-Marking](#)
+- [Mastering the Volley: Timing and Technique](#) 
+- [The Art of the Through Ball: Vision and Precision](#) 
+- [Defensive Tactics: Zonal vs. Man-Marking](#) 
 ---

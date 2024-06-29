@@ -1,4 +1,5 @@
 ---
+
 title: "Ball Security: Protecting the Football"
 date: "2024-05-21"
 tags: ['Football', 'Ball Security', 'Coaching Tips', 'Player Wisdom', 'Fumbles', 'Techniques', 'Offense', 'Defense', 'Training']
@@ -55,14 +56,17 @@ Train your body to expect contact at all times:
 To solidify these fundamentals, incorporate specific drills into practice:
 
 ### 1. **Gauntlet Drill**
+
    - **Setup:** Run through teammates lined up to swat the ball.
    - **Objective:** Maintain proper holding form as defenders try to knock the ball out.
 
 ### 2. **Tag Drill**
+
    - **Setup:** Small area where defenders try to tag or strip the ball from the carrier.
    - **Objective:** Improve evasive movements and ball security under pressure.
 
 ### 3. **Strip Drill**
+
    - **Setup:** Teammates use pads or hands to try and strip the ball.
    - **Objective:** Learn to react quickly and adjust hold to secure the ball.
 
@@ -91,5 +95,5 @@ By integrating these strategies into your training regimen, you'll inevitably bo
 
 ---
 
-*Interested in more tips? Check out our full [Football Training Program](#). Dive into more in-depth strategies and elevate your game to the next level!*
+*Interested in more tips? Check out our full [Football Training Program](#) . Dive into more in-depth strategies and elevate your game to the next level!*
 ```

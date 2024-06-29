@@ -1,4 +1,5 @@
 ---
+
 title: "Central Overloads: Dominating the Middle of the Park"
 date: '2022-09-29'
 tags: ['soccer', 'tactics', 'central overloads', 'possession play', 'midfield', 'coaching', 'playmaking', 'strategy', 'attacking', 'skill development']
@@ -61,12 +62,15 @@ Here's a table to illustrate various in-game scenarios and how to exploit centra
 ## Player Roles in Central Overloads
 
 ### The Playmaker (No. 10)
+
 This player is the puppet master. They should possess excellent vision and passing ability to exploit spaces created by overloads.
 
 ### The Box-to-Box Midfielder (No. 8)
+
 A dynamic player who can contribute both defensively and offensively. Their energy and movement are crucial in maintaining the overload.
 
 ### The Deep-Lying Playmaker (No. 6)
+
 A calm presence who can dictate the tempo and recycle possession. They ensure that the overloads don't lead to vulnerabilities.
 
 ## Coaching Tips

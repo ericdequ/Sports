@@ -1,4 +1,5 @@
 ---
+
 title: "The Scissor Kick: Spectacular and Effective"
 date: "2024-05-21"
 tags: ['Soccer', 'Technique', 'Goals', 'Scissor Kick', 'Coaching', 'Player Skills', 'Top Plays', 'Training', 'Spectacular Goals']
@@ -65,5 +66,6 @@ To help players master the scissor kick, coaches can incorporate the following d
 The scissor kick remains one of soccer’s most thrilling techniques, combining the elements of athleticism, skill, and audacity. For players, nailing the perfect scissor kick can be a career-defining moment, while for coaches, it's about instilling the right technique and timing in their players. Practice and precision are key—so get out there, and start perfecting your scissor kicks!
 
 ---
-Feel free to visit our [Training Section](#) for more drills and tips!
+
+Feel free to visit our [Training Section](#)  for more drills and tips!
 ```

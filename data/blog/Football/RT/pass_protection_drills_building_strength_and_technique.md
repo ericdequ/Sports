@@ -1,4 +1,5 @@
 ---
+
 title: "Pass Protection Drills: Building Strength and Technique"
 date: '2023-06-18'
 tags: ['football', 'drills', 'technique', 'strength', 'coaching', 'training', 'player development', 'hand-eye coordination']
@@ -77,16 +78,19 @@ When it comes to football, especially for offensive linemen, pass protection is 
 ## Coaching Wisdom
 
 ### Emphasis on Fundamentals
+
 - **Footwork:** Teach linemen to take short, choppy steps, keeping their feet under their shoulders to maintain balance and power.
 - **Hand Placement:** Correct hand placement is crucial – aim for the chest plate, not the shoulders or helmet.
 - **Eyes:** Keep eyes on the defender’s torso, not the head or shoulders, to better predict movements.
 
 ### Progression
+
 - Begin with individual drills focusing on technique.
 - Gradually introduce resistance and dynamic movements.
 - Finally, simulate live-game scenarios to consolidate skills under pressure.
 
 ### Player Development Tips
+
 - **Consistency:** Encourage daily practice of these drills.
 - **Strength Training:** Complement drills with a robust strength training regimen.
 - **Film Study:** Review footage to identify improvement areas and reinforce proper techniques.

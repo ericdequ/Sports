@@ -1,4 +1,5 @@
 ---
+
 title: 'Film Study: Preparing for Opponents'
 date: '2021-12-06'
 tags: ['football', 'film study', 'left guard', 'game planning', 'coaching tips', 'player knowledge', 'strategy', 'offensive line', 'tendencies']
@@ -11,6 +12,7 @@ images: ['https://www.sportstips.org/articleimage/Football/LG/film_study_prepari
 # Film Study: Preparing for Opponents
 
 ## Introduction
+
 Film study is a critical component for any successful football team, particularly for the offensive line. When it comes to the left guard position, understanding defensive schemes and player tendencies can make the difference between a failed block and a key play. In this article, we will explore how left guards should approach film review, the key aspects to focus on, and how to incorporate these insights into game planning.
 
 ## The Importance of Film Study

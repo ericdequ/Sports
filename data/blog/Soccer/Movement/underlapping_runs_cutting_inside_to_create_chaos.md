@@ -21,12 +21,14 @@ Underlapping runs are moves where a player, often a full-back or a wing-back, cu
 To understand underlapping, it’s crucial to grasp its components and why it acts as a game-changer. Here's a breakdown:
 
 ### Key Players
+
 The primary actors in a successful underlapping run include:
 - **Full-Back/Wing-Back**: Initiates the run, cutting inside into central areas.
 - **Winger/Wide Midfielder**: Holds width, either stretching the defense wide or cutting inside as well to create numerical superiority.
 - **Central Midfielder/Attacker**: Often receives the ball in the vacated space created by the run or provides the decisive through ball.
 
 ### Execution
+
 1. **Initial Positioning**: The full-back starts wide, typically near the touchline.
 2. **Timing**: The move hinges on perfect timing. When the winger receives the ball wide, the full-back makes a powerful and sudden inward run.
 3. **Movement**: The full-back dashes into the half-space between the center-back and the full-back of the opposing team.
@@ -49,6 +51,7 @@ The primary actors in a successful underlapping run include:
 3. **Space Creation**: The run often drags defenders out of position, creating pockets of space that can be exploited by other attacking players.
 
 ## Player Insights
+
 ### Full-Back Wisdom
 
 From a full-back's perspective, executing an underlapping run requires a combination of stamina, spatial awareness, and synergy with the winger. 
@@ -65,6 +68,7 @@ For coaches integrating underlapping runs into their tactical framework, it’s 
 - **Video Analysis**: Utilize video analysis of both successful and unsuccessful underlapping runs to highlight key moments of execution and decision-making.
 
 ## Conclusion
+
 Underlapping runs inject a tactical twist designed to dismantle the stoutest of defenses. When executed with precision and harmony, these runs can transform a pedestrian attack into an overwhelming offensive wave, opening up scoring opportunities and leaving defenders scrambling. As a player or coach, investing time in mastering and integrating underlapping runs could be the secret weapon that sets your team apart.
 
 ---

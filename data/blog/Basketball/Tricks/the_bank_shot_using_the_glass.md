@@ -1,4 +1,5 @@
 ---
+
 title: "The Bank Shot: Using the Glass"
 date: "2024-05-21"
 tags: ['Basketball', 'Shooting Technique', 'Tim Duncan', 'Coaching Tips', 'Player Skills']
@@ -34,6 +35,7 @@ To master the bank shot, it's essential to understand its fundamental components
 - **Feet Set**: Square your feet towards the basket, with knees slightly bent for balance.
 - **Hand Placement**: Ensure that your shooting hand is under the ball and the guide hand on the side.
   
+
 #### Practice Drills
 
 1. **Spot Shooting Drill**: Practice bank shots from various spots on the court, particularly the corners and wings.
@@ -82,4 +84,5 @@ Whether you're a player looking to expand your skillset or a coach aiming to imp
 **Get out there and bank it like Duncan!**
 
 ---
+
 ```

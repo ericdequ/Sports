@@ -1,4 +1,5 @@
 ---
+
 title: 'Shadow Strikers: Operating Between the Lines'
 date: '2021-06-10'
 tags: ['soccer', 'football', 'tactics', 'Thomas Müller', 'shadow striker', 'space exploitation', 'off-the-ball movement', 'coaching', 'player analysis']
@@ -46,15 +47,19 @@ Thomas Müller, often dubbed the "Raumdeuter" (space interpreter), epitomizes th
 To develop a masterful shadow striker, coaches should focus on the following:
 
 #### 1. **Movement Drills**
+
    Train players with and without the ball. Emphasize zig-zag and curved running patterns to mimic Müller’s unpredictable movements.
 
 #### 2. **Vision Enhancement**
+
    Incorporate small-sided games to improve spatial awareness and decision-making under pressure.
 
 #### 3. **Finishing Practice**
+
    Focus on shooting drills from various positions to enhance a player's ability to score from tight angles and different distances.
 
 #### 4. **Positional Play**
+
    Conduct scenario-based training sessions to help players understand when and how to drop deep or push forward, simulating real-match situations.
 
 ### Example Drill: Shadow Striker’s Maze

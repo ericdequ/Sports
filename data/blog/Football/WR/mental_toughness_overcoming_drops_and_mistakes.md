@@ -1,4 +1,5 @@
 ---
+
 title: 'Mental Toughness: Overcoming Drops and Mistakes'
 date: '2022-06-26'
 tags: ['Sports Psychology', 'Mental Toughness', 'Coaching Tips', 'Athlete Mindset', 'Performance Improvement']
@@ -76,4 +77,5 @@ Building mental toughness is a continuous journey that involves focus, resilienc
 Feel free to share your stories and tips on building mental toughness in the comments below!
 
 ---
+
 ```

@@ -1,4 +1,5 @@
 ---
+
 title: 'Handling Stunts and Twists: Staying on Assignment'
 date: '2021-09-21'
 tags: ['Football', 'Strategy', 'Defensive Play', 'Coaching', 'Communication', 'Discipline', 'Stunts', 'Twists']

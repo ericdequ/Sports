@@ -1,4 +1,5 @@
 ---
+
 title: "Pass Protection: Anchoring the Blind Side"
 date: '2023-01-16'
 tags: ['football', 'offensive line', 'technique', 'coaching', 'left tackle', 'footwork', 'hand placement', 'leverage']

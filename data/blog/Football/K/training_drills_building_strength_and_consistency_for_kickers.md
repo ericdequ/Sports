@@ -1,10 +1,10 @@
 ---
+
 title: 'Training Drills: Building Strength and Consistency for Kickers'
 date: '2023-01-06'
 tags: ['sports', 'football', 'kicking', 'training drills', 'strength', 'accuracy', 'consistency', 'coaching', 'player development']
 draft: false
 summary: 'A comprehensive guide to key training drills for kickers focusing on leg strength, accuracy, and consistency routines to enhance performance on the field.'
-
 
 images: ['https://www.sportstips.org/articleimage/Football/K/training_drills_building_strength_and_consistency_for_kickers.webp']
 ---
@@ -96,7 +96,6 @@ Reviewing your performance can identify improvements:
 ## Conclusion
 
 Incorporating these training drills into your routine will undoubtedly help build strength, enhance accuracy, and foster consistency. Remember, kicking is not just about brute strength but a blend of physical power and refined technique. Kick on, and may your practice translate into clutch moments on the field!
-
 
 ---
 

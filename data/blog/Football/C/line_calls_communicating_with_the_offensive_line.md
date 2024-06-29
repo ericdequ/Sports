@@ -1,4 +1,5 @@
 ---
+
 title: "Line Calls: Communicating with the Offensive Line"
 date: '2023-08-21'
 tags: ['football', 'offensive line', 'communication', 'coaching', 'defensive alignments', 'line calls', 'teamwork', 'adjustments']

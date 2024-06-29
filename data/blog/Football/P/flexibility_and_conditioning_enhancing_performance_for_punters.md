@@ -1,4 +1,5 @@
 ---
+
 title: "Flexibility and Conditioning: Enhancing Performance for Punters"
 date: '2023-07-24'
 tags:  ['Punters', 'Conditioning', 'Flexibility', 'Leg Strength', 'Performance', 'NFL', 'Football', 'Training Programs']

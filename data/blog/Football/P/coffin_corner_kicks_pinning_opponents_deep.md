@@ -1,4 +1,5 @@
 ---
+
 title: "Coffin Corner Kicks: Pinning Opponents Deep"
 date: '2023-12-30'
 tags: ['football', 'special teams', 'coaching', 'strategy', 'NFL', 'punting', 'coffin corner', 'field position', 'precision']

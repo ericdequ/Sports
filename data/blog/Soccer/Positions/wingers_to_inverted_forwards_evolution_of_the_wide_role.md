@@ -1,10 +1,10 @@
 ---
+
 title: 'Wingers to Inverted Forwards: Evolution of the Wide Role'
 date: '2022-04-03'
 tags: ['soccer', 'football', 'tactics', 'coaching', 'player development', 'Liverpool', 'Mohamed Salah']
 draft: false
 summary: 'Explore the shift from traditional wingers to inside forwards, exemplified by Mohamed Salah.'
-
 
 images: ['https://www.sportstips.org/articleimage/Soccer/Positions/wingers_to_inverted_forwards_evolution_of_the_wide_role.webp']
 ---
@@ -18,6 +18,7 @@ Soccer has undergone a myriad of tactical revolutions, but few are as fascinatin
 Traditionally, wingers were tasked with hugging the sideline, using their pace and dribbling skills to beat full-backs and deliver crosses into the box. The goal was clear: supply the central striker with opportunities to score. 
 
 #### Key Attributes of Traditional Wingers:
+
 - Speed
 - Dribbling ability
 - Crossing accuracy
@@ -41,6 +42,7 @@ Mohamed Salah's role at Liverpool under Jurgen Klopp embodies this transformatio
 - **Interplay:** Their movements facilitate intricate build-up play and combinations with midfielders and full-backs.
 
 #### Tactical Benefits:
+
 - **Space Creation:** Drags defenders out of position, creating gaps for central players to exploit.
 - **Overloads:** Allows teams to create overloads in central areas, increasing the chances of breaking down compact defenses.
 - **Flexibility:** Provides tactical flexibility, enabling coaches to switch tactics mid-game without changing personnel.

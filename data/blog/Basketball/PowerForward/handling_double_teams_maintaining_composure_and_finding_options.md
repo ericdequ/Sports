@@ -1,4 +1,5 @@
 ---
+
 title: "Handling Double Teams: Maintaining Composure and Finding Options"
 date: "2024-05-21"
 tags: ['basketball', 'double team', 'coaching', 'player tips', 'strategy', 'court awareness', 'passing', 'decision making', 'teamwork']
@@ -22,6 +23,7 @@ _The sooner you spot the double team, the better your response._
 2. **Communication**: Pay attention to the opposing team’s communication, especially if you see pointing or hear teammates calling out commands.
 
 ### Tip:
+
 Stay calm and focused. Recognizing the double team early gives you precious seconds to make a smart move.
 
 ## Maintain Composure
@@ -34,6 +36,7 @@ _Maintaining your cool is half the battle won._
 - **Strong Stance**: Use a firm and balanced stance to protect the ball and maintain your position.
 
 ### Tip:
+
 Practicing under simulated double-team pressure situations during training can greatly improve your in-game composure.
 
 ## Make Smart Decisions
@@ -50,6 +53,7 @@ _Your next move can either break the double team or capitalize on it._
 | **Call Timeout**              | If you're trapped and the situation looks dire, calling a timeout can reset the play.            |
 
 ### Tip:
+
 Develop strong peripheral vision and passing skills to easily spot and execute the best option.
 
 ## Practice Scenarios
@@ -60,6 +64,7 @@ _Turn theory into practice with these drills._
 2. **Corner Trap Exercise**: Design drills where you deliberately get trapped in the corner to learn how to dribble or pass out effectively.
 
 ### Tip:
+
 Incorporate these drills into regular practice sessions to build confidence and improve under-game conditions.
 
 ## Lean on Teamwork
@@ -72,6 +77,7 @@ _A double team means someone is always open!_
 - **Continuous Communication**: Keep in-game communication alive and ensure your teammates are alert to the double team.
 
 ### Tip:
+
 Developing a strong court sense and chemistry with teammates ensures quicker and more effective responses.
 
 ## Conclusion

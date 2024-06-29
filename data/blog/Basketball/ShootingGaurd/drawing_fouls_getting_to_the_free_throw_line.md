@@ -1,4 +1,5 @@
 ---
+
 title: "Drawing Fouls: Getting to the Free Throw Line"
 date: '2022-06-04'
 tags: ['Basketball', 'Coaching', 'Player Tips', 'Offense', 'Scoring', 'Free Throws', 'Aggressive Play', 'Contact Initiation', 'Game Strategy']
@@ -15,6 +16,7 @@ Getting to the free throw line can change the outcome of a game. By drawing foul
 ## Techniques to Draw Fouls
 
 ### Pump Fakes
+
 Pump fakes are a classic move used to get defenders off their feet. Here’s how to do it effectively:
 
 1. **Sell the Shot**: Make your pump fake look like a real shot attempt. Use the same form and rhythm.
@@ -22,6 +24,7 @@ Pump fakes are a classic move used to get defenders off their feet. Here’s how
 3. **Draw Contact**: Once the defender is in the air, lean in slightly to ensure contact and draw the foul.
 
 ### Aggressive Drives
+
 Driving aggressively to the basket is another way to draw fouls. Here’s what you need to know:
 
 1. **Explode to the Rim**: Use a quick first step to beat your defender and create a lane to the basket.
@@ -29,6 +32,7 @@ Driving aggressively to the basket is another way to draw fouls. Here’s what y
 3. **Anticipate Contact**: Expect contact and be ready to finish strong or sell the foul.
 
 ### Initiating Contact
+
 Initiating contact smartly can get you to the line more often. Here are the key points:
 
 1. **Create Contact Zones**: Understand where you can initiate contact within the rules—using your shoulder or hip without pushing off.

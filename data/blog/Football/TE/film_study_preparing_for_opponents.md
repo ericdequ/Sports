@@ -1,4 +1,5 @@
 ---
+
 title: "Film Study: Preparing for Opponents"
 date: "2024-05-21"
 tags: ["Football", "Tight End", "Film Study", "Game Planning", "Coaching", "Player Development", "Defensive Analysis", "Skill Improvement", "Strategy"]

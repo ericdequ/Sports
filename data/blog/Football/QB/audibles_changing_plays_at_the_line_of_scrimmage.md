@@ -1,10 +1,10 @@
 ---
+
 title: "Audibles: Changing Plays at the Line of Scrimmage"
 date: "2024-05-21"
 tags: ["American Football", "Strategy", "Play Calling", "Coaching Wisdom", "Player Knowledge", "Offense", "Defense", "Communication", "Tactics"]
 draft: false
 summary: "Analyze the use of audibles in American football, including recognizing defensive alignments, communicating changes, and making the right call."
-
 
 images: ['https://www.sportstips.org/articleimage/Football/QB/audibles_changing_plays_at_the_line_of_scrimmage.webp']
 ---

@@ -1,4 +1,5 @@
 ---
+
 title: 'Creating Separation: Techniques for Beating Defenders'
 date: '2022-02-09'
 tags: ['sports', 'football', 'basketball', 'soccer', 'techniques', 'coaching', 'player-tips']
@@ -62,7 +63,8 @@ Use your body wisely to create physical separation from defenders. Proper positi
 
 ## Conclusion
 
-Mastering the art of creating separation requires a blend of technical skills, physical training, and tactical understanding. Incorporating quick cuts, varying your speed, and utilizing body leverage can effectively elevate your [game to new heights](#). Consistent practice of these techniques will not only improve your individual performance but also contribute to the overall success of your team. Get out there and start creating that separation!
+Mastering the art of creating separation requires a blend of technical skills, physical training, and tactical understanding. Incorporating quick cuts, varying your speed, and utilizing body leverage can effectively elevate your [game to new heights](#) . Consistent practice of these techniques will not only improve your individual performance but also contribute to the overall success of your team. Get out there and start creating that separation!
 
 ---
+
 Feel free to share your thoughts or ask any questions in the comments below. Happy training!

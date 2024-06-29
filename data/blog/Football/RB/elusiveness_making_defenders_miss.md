@@ -1,4 +1,5 @@
 ---
+
 title: 'Elusiveness: Making Defenders Miss'
 date: '2021-10-28'
 tags: ['football', 'elusiveness', 'technique', 'coaching', 'player development']
@@ -17,6 +18,7 @@ In the high-octane world of football, the ability to dodge, evade, and outmaneuv
 The juke move is all about sudden, deceptive footwork to throw defenders off balance.
 
 ### Key Points:
+
 - **Change of Direction:** A successful juke starts with planting your foot firmly and shifting your weight quickly.
 - **Body Language:** Use head fakes and shoulder dips to sell the move.
 - **Explosiveness:** Accelerate out of the move to gain separation from the defender.
@@ -35,6 +37,7 @@ Set up cones in a zigzag pattern. Run at full speed, practicing sharp changes of
 The spin move is a classic technique where the player uses a 360-degree turn to slip past defenders.
 
 ### Key Points:
+
 - **Timing:** Execute the spin as the defender commits to a direction.
 - **Foot Placement:** One foot acts as the pivot while the other completes the turn.
 - **Ball Security:** Keep the ball close to your body to avoid fumbles.
@@ -53,6 +56,7 @@ Use a tackling dummy. Approach it, then spin to either side while maintaining ba
 The stutter step involves quick, short steps to freeze the defender and create hesitation.
 
 ### Key Points:
+
 - **Footwork:** Quick, choppy steps to keep the defender guessing.
 - **Speed Variation:** Alternating between fast and slow steps to change tempo.
 - **Observation:** Watch the defender's hips; if they react, you've got them.

@@ -1,4 +1,5 @@
 ---
+
 title: 'Pass Protection: Anchoring the Right Side'
 date: '2022-04-06'
 tags: ['football', 'offensive line', 'techniques', 'right guard', 'coaching', 'player development', 'footwork', 'hand placement', 'leverage']

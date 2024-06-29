@@ -1,4 +1,5 @@
 ---
+
 title: "Yards After Catch (YAC): Maximizing Gains"
 date: '2021-11-19'
 tags: ['Football', 'YAC', 'Wide Receivers', 'Running Backs', 'Coaching', 'Skills Development', 'Agility', 'Tackling', 'Offense']

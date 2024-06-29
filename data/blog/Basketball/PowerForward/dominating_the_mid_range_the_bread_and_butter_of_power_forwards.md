@@ -1,4 +1,5 @@
 ---
+
 title: "Dominating the Mid-Range: The Bread and Butter of Power Forwards"
 date: '2021-08-01'
 tags: ['Basketball', 'Power Forward', 'Mid-Range Game', 'Coaching Tips', 'Player Development']
@@ -25,6 +26,7 @@ For a power forward, the ability to score consistently from mid-range offers sev
 To become lethal from mid-range, it’s not just about shooting thousands of jumpers. There’s a blend of technique, intelligence, and practice routines that ensures consistency. Here are some pivotal strategies:
 
 #### 1. **Footwork Fundamentals**
+
 Good footwork is the cornerstone of any reliable mid-range game. Focus on:
 
 - **Triple Threat Position:** Start every move from a balanced and threatening triple-threat position.
@@ -32,6 +34,7 @@ Good footwork is the cornerstone of any reliable mid-range game. Focus on:
 - **Pivot Moves:** Master pivot moves to find the best angles and throw off your defender's balance.
 
 #### 2. **Reading Defenses**
+
 Understanding defensive schemes and rotations can elevate your scoring:
 
 - **Pick-and-Pop Situations:** Learn to read pick-and-roll defenses and pop out to the mid-range for open looks.
@@ -39,6 +42,7 @@ Understanding defensive schemes and rotations can elevate your scoring:
 - **Defender Tendencies:** Notice how different defenders react and use their aggressiveness against them with pump fakes and step-back jumpers.
 
 #### 3. **Shooting Mechanics**
+
 Consistent shooting form is key:
 
 - **High Release Point:** Use a high release point to shoot over taller defenders.
@@ -46,6 +50,7 @@ Consistent shooting form is key:
 - **Follow-Through:** Hold your follow-through to ensure good shot rotation and accuracy.
 
 #### 4. **Practice Drills**
+
 Incorporate drills that simulate game situations:
 
 | Drill Name          | Focus Area                     | Description                                                    |
@@ -55,6 +60,7 @@ Incorporate drills that simulate game situations:
 | **Spot Shooting**   | Catch-and-Shoot Consistency    | Place cones at different mid-range spots. Practice catching and shooting from each spot rapidly. Focus on quick release and consistent form. |
 
 #### 5. **Mental Toughness**
+
 Mentally preparing yourself is just as crucial as the physical aspect:
 
 - **Confidence:** Believe in your shot and take it without hesitation.
@@ -68,4 +74,5 @@ The mid-range game, often overlooked in today’s three-point centric basketball
 Remember, it’s not just about scoring points; it’s about creating opportunities and becoming an indispensable asset to your team. Embrace the mid-range, and you'll carve out a spot among the greats. Keep grinding, stay focused, and dominate that mid-range!
 
 ---
+
 ```

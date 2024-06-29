@@ -1,4 +1,5 @@
 ---
+
 title: 'Off-Ball Movement: Creating Scoring Opportunities'
 date: '2023-08-03'
 tags: ['Basketball', 'Off-Ball Movement', 'Coaching Tips', 'Player Skills', 'Scoring', 'Cutting', 'Screens', 'Tactics', 'Strategy', 'Team Play']

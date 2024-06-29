@@ -1,4 +1,5 @@
 ---
+
 title: "Defensive Intensity: Locking Down Perimeter Players"
 date: '2022-02-02'
 tags: ['basketball', 'defense', 'small forward', 'coaching', 'lateral quickness', 'anticipation', 'hand positioning', 'perimeter defense', 'training']

@@ -1,4 +1,5 @@
 ---
+
 title: "Pass Protection Drills: Building Strength and Technique"
 date: '2021-12-21'
 tags: ['Football', 'Coaching', 'Training Drills', 'Pass Protection', 'Strength Training', 'Technique Improvement', 'Hand-Eye Coordination', 'Offensive Line', 'Player Development']
@@ -15,18 +16,22 @@ Pass protection is a critical aspect of football, especially for offensive linem
 ## Key Components of Pass Protection
 
 ### 1. Footwork
+
 Successful pass protection starts from the ground up. Offensive linemen must consistently maintain proper positioning and balance.
 - **Kick-Slide Drill**: This drill focuses on maintaining a low center of gravity while moving laterally, reinforcing precise and swift footwork.
 
 ### 2. Hand Placement
+
 Where and how an offensive lineman places his hands can be the difference between a successful block and a sack.
 - **Punching Bag Drill**: Practicing rapid and forceful hand movements against a punching bag helps perfect initial contact and positioning.
 
 ### 3. Strength
+
 Strength, especially in the upper body, is essential for an offensive lineman to stand firm against defensive rushes.
 - **Bull Rush Resistance Drill**: Engage in a controlled bull rush scenario where the offensive lineman resists a pushing force, enhancing strength and stamina.
 
 ### 4. Hand-Eye Coordination
+
 Precise timing and accuracy in blocking moves are paramount.
 - **Medicine Ball Toss Drill**: Partners throw a medicine ball to each other, focusing on catching and pushing back immediately, honing coordination and reaction time.
 

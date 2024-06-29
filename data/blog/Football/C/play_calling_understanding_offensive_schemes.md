@@ -1,4 +1,5 @@
 ---
+
 title: "Play Calling: Understanding Offensive Schemes"
 date: "2024-05-21"
 tags: ["football", "play calling", "offensive schemes", "coaching", "center", "strategy", "NFL", "college football", "defensive recognition"]

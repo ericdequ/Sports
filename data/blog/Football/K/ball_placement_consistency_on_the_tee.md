@@ -1,4 +1,5 @@
 ---
+
 title: "Ball Placement: Consistency on the Tee"
 date: "2024-05-21"
 tags: ['golf', 'ball placement', 'consistency', 'tee', 'technique', 'coaching', 'player tips', 'skills', 'performance']

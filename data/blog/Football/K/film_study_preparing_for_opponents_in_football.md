@@ -32,6 +32,7 @@ Each team has specific tendencies that can be leveraged. By watching film, kicke
 - **Coverage Weaknesses**: Do they over-commit to one side? Are there habitual errors that can be exploited?
 
 ### Example Breakdown
+
 In a game against Team X, film study might reveal that their return man has a habit of cutting to the left after catching the ball. By knowing this tendency, a kicker can strategically place the ball to the right, minimizing the return man's effectiveness.
 
 ### Game Planning

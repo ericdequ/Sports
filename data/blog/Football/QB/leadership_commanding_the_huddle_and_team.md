@@ -1,4 +1,5 @@
 ---
+
 title: "Leadership: Commanding the Huddle and Team"
 date: '2024-04-03'
 tags: ['football', 'leadership', 'quarterback', 'team dynamics', 'communication', 'motivation', 'strategy']

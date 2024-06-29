@@ -1,4 +1,5 @@
 ---
+
 title: 'Blocking Techniques: Dominating the Line of Scrimmage'
 date: '2023-12-22'
 tags: ['football', 'blocking', 'tight ends', 'coaching tips', 'line of scrimmage', 'leverage', 'hand placement', 'defense', 'player development']
@@ -78,5 +79,6 @@ Mastering blocking techniques for tight ends encompasses meticulous attention to
 Whether you are a player looking to polish your blocking skills or a coach aiming to enhance your Teams performance, these insights will guide you toward dominating the line of scrimmage. Remember, it's the small, consistent details that turn good players into great ones.
 
 ---
+
 *For further reading, you may consider detailed coaching manuals or join professional clinics to observe and practice these techniques in action.*
 ```

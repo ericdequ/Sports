@@ -1,4 +1,5 @@
 ---
+
 title: 'Innovative Approaches to the 4-3-2-1 Formation'
 date: '2023-01-28'
 tags: ['Soccer', 'Formations', 'Tactics', '4-3-2-1', 'Coaching', 'Player Development', 'Attacking', 'Defending', 'Football']
@@ -103,4 +104,4 @@ Feel free to comment below with your thoughts or any questions you have about de
 
 **Tags & Links**
 
-[Soccer Tactics](#), [Formation Analysis](#), [Coaching Tips](#), [Player Development](#)
+[Soccer Tactics](#) , [Formation Analysis](#) , [Coaching Tips](#) , [Player Development](#) 

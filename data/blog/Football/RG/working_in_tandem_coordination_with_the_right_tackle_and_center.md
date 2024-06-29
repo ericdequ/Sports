@@ -1,4 +1,5 @@
 ---
+
 title: 'Working in Tandem: Coordination with the Right Tackle and Center'
 date: '2023-11-17'
 tags:  ['football', 'offensive line', 'teamwork', 'coordination', 'communication', 'synchronized movements']

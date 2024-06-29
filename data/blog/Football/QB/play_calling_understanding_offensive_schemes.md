@@ -1,4 +1,5 @@
 ---
+
 title: 'Play Calling: Understanding Offensive Schemes'
 date: '2023-10-09'
 tags: ['Football', 'Play Calling', 'Offensive Schemes', 'Quarterbacks', 'Coaching Wisdom', 'Game Strategy', 'Defensive Analysis', 'Adjustments', 'Player Knowledge', 'Tutorial']

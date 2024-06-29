@@ -1,4 +1,5 @@
 ---
+
 title: "Pass Protection Drills: Building Strength and Technique"
 date: "2023-10-06"
 tags: ["Football", "Drills", "Strength Training", "Technique", "Hand-Eye Coordination"]
@@ -11,6 +12,7 @@ summary: "Explore various pass protection drills to build strength, improve tech
 For any offensive lineman, mastering pass protection is crucial to securing victory on the gridiron. It combines physical prowess with sharp technique and sharpens hand-eye coordination. Below, we delve into a range of pass protection drills designed to sharpen these skills.
 
 ## Key Components
+
 Pass protection isn't just about brute strength. The essential components include:
 
 - **Footwork:** Quick, agile feet to position oneself against defenders.
@@ -21,6 +23,7 @@ Pass protection isn't just about brute strength. The essential components includ
 ## Drills for Pass Protection
 
 ### 1. Kick Slide Drill
+
 **Purpose:** Enhance footwork and balance.
 
 **Steps:**
@@ -32,6 +35,7 @@ Pass protection isn't just about brute strength. The essential components includ
 **Tips:** Keep your head up and eyes focused forward.
 
 ### 2. Punch and Recover Drill
+
 **Purpose:** Improve hand placement and punching technique.
 
 **Steps:**
@@ -43,6 +47,7 @@ Pass protection isn't just about brute strength. The essential components includ
 **Tips:** Focus on a strong, quick punch while keeping elbows in.
 
 ### 3. Mirror Drill
+
 **Purpose:** Boost lateral quickness and body control.
 
 **Steps:**
@@ -54,6 +59,7 @@ Pass protection isn't just about brute strength. The essential components includ
 **Tips:** Concentrate on small, controlled steps.
 
 ### 4. Fit and Finish Drill
+
 **Purpose:** Combine overall pass blocking technique with tackling.
 
 **Steps:**
@@ -86,5 +92,5 @@ Enhance hand-eye coordination with these exercises:
 
 Pass protection is a vital skill for any successful offense. By incorporating a mix of drills focusing on footwork, hand placement, core strength, and hand-eye coordination, players can significantly improve their pass blocking capabilities. Coaches play a crucial role in providing structured and consistent training that mixes these elements, fostering well-rounded athletes ready to dominate on the field.
 
-*\#Football \#PassProtection \#OffensiveLineman \#StrengthTraining \#Technique*
+*\#F ootball \#P assProtection \#O ffensiveLineman \#S trengthTraining \#T echnique*
 ```

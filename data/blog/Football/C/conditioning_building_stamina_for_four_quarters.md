@@ -1,4 +1,5 @@
 ---
+
 title: "Conditioning: Building Stamina for Four Quarters"
 date: "2024-05-21"
 tags: ['Basketball', 'Conditioning', 'Stamina', 'Centers', 'Training', 'Endurance', 'Fitness', 'Performance', 'Coaching']
@@ -19,6 +20,7 @@ Playing the center position in basketball requires a unique blend of strength, a
 Centers are often the tallest and strongest players on the court, but height and strength alone won’t keep them effective for four quarters. They need to run the length of the court, battle for rebounds, set screens, and guard the paint. All of this requires exceptional endurance.
 
 ### Key Responsibilities of a Center:
+
 1. **Defensive Presence**: Blocking shots, contesting drives, switching on pick-and-rolls.
 2. **Rebounding**: Securing offensive and defensive rebounds.
 3. **Offensive Duties**: Setting screens, post plays, and sometimes stretching the defense with perimeter shooting.

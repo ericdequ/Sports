@@ -1,4 +1,5 @@
 ---
+
 title: "The Alley-Oop: High-Flying Finishes"
 date: '2021-03-20'
 tags: ['Basketball', 'LeBron James', 'Alley-Oop', 'NBA', 'Coaching', 'Player Techniques', 'High-Flying Moves', 'Passing', 'Finishing']
@@ -15,6 +16,7 @@ The alley-oop is one of the most electrifying plays in basketball, turning even 
 ### The Anatomy of an Alley-Oop
 
 #### 1. The Setup
+
 The setup is crucial. It involves reading the defense and understanding when to make the move. This is often orchestrated by the point guard:
 
 | **Step**         | **Details**                                                                 |
@@ -23,6 +25,7 @@ The setup is crucial. It involves reading the defense and understanding when to 
 | **Communication**| Often involves non-verbal cues between teammates, like eye contact or a nod.  |
 
 #### 2. The Pass
+
 The pass must be lobbed to a spot where only the catching player can reach it.
 
 | **Type of Pass** | **When to Use It**                      |
@@ -31,6 +34,7 @@ The pass must be lobbed to a spot where only the catching player can reach it.
 | **Bounce Pass**  | Rarely used but effective if defenders have hands up. |
 
 #### 3. The Catch
+
 The receiving player must time their jump perfectly to catch the ball at its highest point.
 
 | **Key Aspects**          | **Details**                                         |
@@ -39,6 +43,7 @@ The receiving player must time their jump perfectly to catch the ball at its hig
 | **Hand Position**        | Hands should be ready and extended towards the ball.|
 
 #### 4. The Finish
+
 This is where the magic happens. An alley-oop can finish with an authoritative dunk or a soft layup, depending on the situation.
 
 | **Type of Finish** | **Description**                                |
@@ -62,12 +67,14 @@ LeBron James has made the alley-oop an art form. Here’s how he perfects this m
 ### Coaching Tips for Executing an Alley-Oop
 
 #### For Passers:
+
 - **Practice Timing**:
   Work on your timing and accuracy when throwing lobs.
 - **Develop Chemistry**:
   Build a rapport with your teammates through practice and in-game experience.
 
 #### For Receivers:
+
 - **Improve Vertical Leap**:
   Conditioning and plyometric exercises can enhance your jumping ability.
 - **Hand-Eye Coordination**:

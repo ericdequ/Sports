@@ -1,4 +1,5 @@
 ---
+
 title: "Situational Awareness: Knowing Down, Distance, and Game Context"
 date: '2021-07-16'
 tags: ['Football', 'Situational Awareness', 'Coaching', 'Player Intelligence', 'Game Strategy', 'Tips', 'Performance Enhancement']

@@ -1,4 +1,5 @@
 ---
+
 title: "Target Men: More Than Just Aerial Threats"
 date: "2024-05-21"
 tags: ['soccer', 'football', 'target men', 'strikers', 'Olivier Giroud', 'tactics', 'coaching', 'player analysis', 'link-up play']

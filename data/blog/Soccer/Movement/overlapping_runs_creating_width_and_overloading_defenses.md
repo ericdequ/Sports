@@ -1,4 +1,5 @@
 ---
+
 title: "Overlapping Runs: Creating Width and Overloading Defenses"
 date: "2024-05-21"
 tags: ['soccer', 'football', 'tactics', 'coaching', 'fullbacks', 'wingers']
@@ -22,17 +23,21 @@ Overlapping runs involve a player, usually a fullback, moving past a teammate (t
 ## How Overlapping Runs Stretch Defenses
 
 ### 1. Widening the Play
+
 By pushing higher up the pitch, fullbacks force the opposition's wingers and midfielders to track back, isolating the defensive line. This widening of the play opens up channels in the center for attacking midfielders to exploit.
 
 ### 2. Drawing Defenders
+
 An overlapping run draws one or more defenders towards the ball, freeing up teammates for a pass or shot. This movement is instrumental in unbalancing zonal defensive systems, creating a ripple effect in the defensive alignment.
 
 ### 3. Creating 2v1 Situations
+
 When the overlapping fullback and the winger overpopulate a single flank, they force a response from the defense. A well-coordinated combination can lead to frequent 2v1 situations, often making it easier to penetrate the final third.
 
 ## Examples from Top Teams
 
 ### Liverpool FC
+
 Liverpool's fullbacks, Trent Alexander-Arnold and Andrew Robertson, are excellent exponents of overlapping runs. Their understanding with wingers like Mohamed Salah and Sadio Mané creates numerous chances, as seen in their 2019-2020 Premier League-winning season.
 
 | Player                | Position  | Contribution                        |
@@ -43,6 +48,7 @@ Liverpool's fullbacks, Trent Alexander-Arnold and Andrew Robertson, are excellen
 | Sadio Mané            | Left Wing | Decoy runs and cutting inside       |
 
 ### Manchester City
+
 Pep Guardiola's tactical mastery utilizes overlapping runs effectively. City’s fullbacks, often Kyle Walker and João Cancelo, provide width and attacking options, often leading to intricate passing plays culminating in goals.
 
 | Player              | Position  | Contribution                        |

@@ -1,4 +1,5 @@
 ---
+
 title: "Foul Drawing Techniques: Getting to the Line"
 date: "2023-10-04"
 tags: ['basketball', 'foul drawing', 'player tips', 'coaching wisdom', 'game strategy', 'pump fake', 'driving', 'initiating contact', 'free throws']
@@ -15,12 +16,14 @@ In the world of basketball, getting to the free-throw line can be a game-changer
 ## 1. The Crafty Pump Fake
 
 ### **Player Insight:**
+
 The pump fake is a staple in every player's arsenal, but executing it effectively requires finesse. Here’s how to make your pump fake irresistible to defenders:
 - **Sell the Shot:** The more believable your fake shot, the higher the chances the defender will bite. Create your pump fake with the same fluid motion as your actual shot.
 - **Stay Grounded:** Keep your pivot foot planted to avoid a traveling violation.
 - **Read the Defense:** Use the pump fake when a defender is closing out aggressively or is already in the air.
 
 ### **Coaching Wisdom:**
+
 To teach the pump fake, emphasize:
 - **Consistency in Form:** Encourage players to practice their pump fakes with the same form as their real shots.
 - **Situational Awareness:** Educate players on recognizing when defenders are most vulnerable to biting on the fake.
@@ -28,12 +31,14 @@ To teach the pump fake, emphasize:
 ## 2. Aggressive Drives to the Basket
 
 ### **Player Insight:**
+
 Driving aggressively towards the basket forces the defender to make a split-second decision, often resulting in a foul. Focus on:
 - **Controlled Aggression:** Attack the paint with speed and power, but maintain control to avoid offensive fouls.
 - **Body Positioning:** Use your body to shield the ball and draw contact from the defender.
 - **Finish Strong:** Even with contact, aim to finish your shot. This increases the chances of an "and-one" opportunity.
 
 ### **Coaching Wisdom:**
+
 To encourage aggressive driving:
 - **Strength Training:** Develop players’ core and lower body strength to help them absorb contact.
 - **Drills for Driving Lanes:** Create drills that simulate game scenarios, focusing on driving through traffic and initiating contact.
@@ -41,11 +46,13 @@ To encourage aggressive driving:
 ## 3. Initiating Contact
 
 ### **Player Insight:**
+
 Creating contact with the defender can often make them commit a foul. Here’s how to do it subtly:
 - **Use Your Off-Hand:** When going for a layup or a drive, use your non-dribbling arm to create space and initiate contact without appearing offensive.
 - **Seek Out the Body:** Move into the defender's body before they have a chance to adjust, making it difficult for them to avoid the foul.
 
 ### **Coaching Wisdom:**
+
 Teaching players to initiate contact involves:
 - **Drawing Exercises:** Practice scenarios where players drive and initiate contact in a controlled environment.
 - **Film Analysis:** Review game footage to highlight effective and ineffective contact initiation, showing real examples and non-examples.

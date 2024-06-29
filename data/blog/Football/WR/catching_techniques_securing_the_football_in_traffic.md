@@ -1,4 +1,5 @@
 ---
+
 title: "Catching Techniques: Securing the Football in Traffic"
 date: "2024-05-21"
 tags: ['Football', 'Catching Techniques', 'Receiver Tips', 'Coaching Wisdom', 'Player Knowledge']

@@ -1,4 +1,5 @@
 ---
+
 title: "Building from the Back: Constructing Attacks from Goalkeeper to Forward"
 date: "2024-05-21"
 tags: ['soccer', 'strategy', 'goalkeeping', 'defending', 'midfield', 'coaching', 'attacking', 'team dynamics', 'player development']
@@ -15,11 +16,13 @@ Constructing attacks from the back is a sophisticated strategy in modern soccer 
 ## The Role of the Goalkeeper
 
 ### Distribution Techniques
+
 - **Roll Out**: Ideal for short, quick starts. Useful when defenders are open and ready to receive the ball.
 - **Throw**: Longer than a roll-out, perfect for counter-attacks with wingers sprinting into space.
 - **Punt/Kick**: Used for long clearances, aiming towards a target man or the wings to bypass high-pressing opponents.
 
 ### Decision Making
+
 Goalkeepers must assess the field quickly:
 - Check opponent's pressing strategy.
 - Communicate effectively with defenders.
@@ -28,6 +31,7 @@ Goalkeepers must assess the field quickly:
 ## Defender Movement
 
 ### Center Backs
+
 - **Split Wide**: During goal kicks, center backs move towards the flanks, creating space for build-up.
     ```markdown
     | Movement Type | Description                            |
@@ -39,6 +43,7 @@ Goalkeepers must assess the field quickly:
 - **Pass and Move**: Quick, short passes to the midfield followed by repositioning to offer subsequent passing options.
 
 ### Fullbacks
+
 - **Overlapping Runs**: Move up the wings to provide width and support wide midfielders.
 - **Inverted Runs**: Cut inside to create additional midfield support or shooting opportunities.
 
