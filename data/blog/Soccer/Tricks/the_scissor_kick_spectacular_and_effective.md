@@ -67,5 +67,5 @@ The scissor kick remains one of soccer’s most thrilling techniques, combining 
 
 ---
 
-Feel free to visit our [Training Section](#)  for more drills and tips!
+Feel free to visit our [Training Section](#)   for more drills and tips!
 ```

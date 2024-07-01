@@ -91,5 +91,5 @@ Mastering the art of finishing inside the box requires a blend of technical skil
 
 ---
 
-**Enjoyed this article?** Check out our [Ultimate Guide to Goal Scoring](#)  for more in-depth insights and drills.
+**Enjoyed this article?** Check out our [Ultimate Guide to Goal Scoring](#)   for more in-depth insights and drills.
 ```

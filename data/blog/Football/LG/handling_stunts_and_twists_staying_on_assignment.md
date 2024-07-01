@@ -101,7 +101,7 @@ Feel free to share your thoughts or add your experiences in the comments below!
 
 ### Join the Discussion
 
-Have a unique tip or story about dealing with defensive stunts and twists? Drop it in the comments or share on social media using #G ridironStrategy.
+Have a unique tip or story about dealing with defensive stunts and twists? Drop it in the comments or share on social media using #G  ridironStrategy.
 
 ---
 

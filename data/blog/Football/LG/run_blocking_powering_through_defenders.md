@@ -86,6 +86,6 @@ Remember, the gridiron is won in the trenches. Master these techniques, and you'
 
 ---
 
-**Get social:** Share your tips and success stories in the comments below or connect with us on [Twitter](#)  and [Facebook](#) !
+**Get social:** Share your tips and success stories in the comments below or connect with us on [Twitter](#)   and [Facebook](#)  !
 
 ```

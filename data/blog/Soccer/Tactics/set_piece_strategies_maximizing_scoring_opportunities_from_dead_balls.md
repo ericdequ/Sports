@@ -13,13 +13,13 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Tactics/set_piece_strat
 
 ## Table of Contents
 
-1. [Introduction](#i ntroduction)
-2. [Types of Set-Pieces](#t ypes-of-set-pieces)
-    * [Free Kicks](#f ree-kicks)
-    * [Corners](#c orners)
-3. [Importance of Delivery](#i mportance-of-delivery)
-4. [Training Methods](#t raining-methods)
-5. [Conclusion](#c onclusion)
+1. [Introduction](#i  ntroduction)
+2. [Types of Set-Pieces](#t  ypes-of-set-pieces)
+    * [Free Kicks](#f  ree-kicks)
+    * [Corners](#c  orners)
+3. [Importance of Delivery](#i  mportance-of-delivery)
+4. [Training Methods](#t  raining-methods)
+5. [Conclusion](#c  onclusion)
 
 ## Introduction
 

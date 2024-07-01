@@ -74,7 +74,7 @@ Ever scored a winning goal with a flick-on header or made a crucial defensive pl
 
 **Related Articles:**
 
-- [Mastering the Volley: Timing and Technique](#) 
-- [The Art of the Through Ball: Vision and Precision](#) 
-- [Defensive Tactics: Zonal vs. Man-Marking](#) 
+- [Mastering the Volley: Timing and Technique](#)  
+- [The Art of the Through Ball: Vision and Precision](#)  
+- [Defensive Tactics: Zonal vs. Man-Marking](#)  
 ---
