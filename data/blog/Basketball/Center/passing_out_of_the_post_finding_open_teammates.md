@@ -74,7 +74,7 @@ By mastering these techniques and incorporating these drills into your training,
 ---
 
 *For further reading*:
-- [Basketball IQ: Understanding the Game](#)  
-- [Effective Team Communication on the Court](#)  
-- [Mastering the Art of the Bounce Pass](#)  
+- [Basketball IQ: Understanding the Game](#)   
+- [Effective Team Communication on the Court](#)   
+- [Mastering the Art of the Bounce Pass](#)   
 ```

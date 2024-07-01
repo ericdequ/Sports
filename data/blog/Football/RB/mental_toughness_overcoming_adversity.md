@@ -13,12 +13,12 @@ In the high-stakes world of sports, the mentally tough prosper while the fragile
 
 ## Table of Contents
 
-1. [Understanding Mental Toughness](#u  nderstanding-mental-toughness)
-2. [Handling Adversity](#h  andling-adversity)
-3. [Staying Focused](#s  taying-focused)
-4. [Maintaining Confidence](#m  aintaining-confidence)
-5. [Tips from the Pros](#t  ips-from-the-pros)
-6. [Conclusion](#c  onclusion)
+1. [Understanding Mental Toughness](#u   nderstanding-mental-toughness)
+2. [Handling Adversity](#h   andling-adversity)
+3. [Staying Focused](#s   taying-focused)
+4. [Maintaining Confidence](#m   aintaining-confidence)
+5. [Tips from the Pros](#t   ips-from-the-pros)
+6. [Conclusion](#c   onclusion)
 
 ## Understanding Mental Toughness
 

@@ -19,7 +19,7 @@ In traditional soccer formations, the number '9' is the central striker, whose p
 
 Here's how it works in detail:
 
-| **Role**         | **Traditional #9  **                                      | **False Nine**                                                |
+| **Role**         | **Traditional #9   **                                      | **False Nine**                                                |
 |------------------|---------------------------------------------------------|---------------------------------------------------------------|
 | Positioning      | Stays high up the pitch                                  | Drops deep into midfield                                      |
 | Primary Duties   | Score goals, hold the ball up                           | Create space, link up play, disrupt defensive lines           |

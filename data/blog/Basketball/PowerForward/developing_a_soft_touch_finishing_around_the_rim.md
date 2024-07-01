@@ -88,5 +88,5 @@ Developing a soft touch around the rim is a blend of skill, strength, and smart 
 Happy hooping, and may your touch be soft and your finishes flawless!
 
 --- 
-Feel free to reach out with any questions or share your progress on social media. Use the hashtag #S  oftTouchHoopers.
+Feel free to reach out with any questions or share your progress on social media. Use the hashtag #S   oftTouchHoopers.
 ```

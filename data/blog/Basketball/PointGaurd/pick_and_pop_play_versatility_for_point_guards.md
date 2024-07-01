@@ -71,5 +71,5 @@ The pick-and-pop play is not just a trick up the sleeve; it's a reliable part of
 
 **Stay tuned for more basketball insights and strategies to elevate your game!**
 
-#D  ropDimes #P  ickAndPopPerfection
+#D   ropDimes #P   ickAndPopPerfection
 ```

@@ -77,5 +77,5 @@ By integrating these elements, teams can harness the power of the 4-5-1 for both
 
 ---
 
-**Tags:** #S  occer #T  actics #F  ormation #D  efense #C  ounterAttack #C  oaching #S  trategy #4  -5-1 #F  ootball
+**Tags:** #S   occer #T   actics #F   ormation #D   efense #C   ounterAttack #C   oaching #S   trategy #4   -5-1 #F   ootball
 ```

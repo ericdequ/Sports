@@ -78,9 +78,9 @@ Take this knowledge to the field, and may your Flip Flap leave defenders in the 
 
 #### Further Reading and Resources:
 
-- **[Flip Flap Tutorial by Neymar Jr.](#)  **
-- **[Advanced Dribbling Techniques](#)  **
-- **[Physical Conditioning for Quick Footwork](#)  **
+- **[Flip Flap Tutorial by Neymar Jr.](#)   **
+- **[Advanced Dribbling Techniques](#)   **
+- **[Physical Conditioning for Quick Footwork](#)   **
 
 ---
 

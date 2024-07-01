@@ -12,12 +12,12 @@ images: ['https://www.sportstips.org/articleimage/Football/LT/play_calling_under
 # Play Calling: Understanding Offensive Schemes
 
 **Table of Contents**
-- [Introduction](#i  ntroduction)
-- [Key Concepts](#k  ey-concepts)
-- [Recognizing Defensive Weaknesses](#r  ecognizing-defensive-weaknesses)
-- [Making Adjustments](#m  aking-adjustments)
-- [Conclusion](#c  onclusion)
-- [Further Reading](#f  urther-reading)
+- [Introduction](#i   ntroduction)
+- [Key Concepts](#k   ey-concepts)
+- [Recognizing Defensive Weaknesses](#r   ecognizing-defensive-weaknesses)
+- [Making Adjustments](#m   aking-adjustments)
+- [Conclusion](#c   onclusion)
+- [Further Reading](#f   urther-reading)
 
 ## Introduction
 

@@ -61,5 +61,5 @@ Stay tough in the trenches, and remember: teamwork and technique are the bedrock
 
 **Stay connected for more tips and insights!** 
 
-[Subscribe to our newsletter](#)   | [Follow us on Twitter](#)   | [Join our Facebook community](#)  
+[Subscribe to our newsletter](#)    | [Follow us on Twitter](#)    | [Join our Facebook community](#)   
 ```
