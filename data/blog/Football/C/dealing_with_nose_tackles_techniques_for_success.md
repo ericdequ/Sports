@@ -81,4 +81,4 @@ Facing off against a nose tackle can seem like a daunting task, but with the rig
 
 Remember, if you have any questions or need more personalized tips, feel free to drop a comment below or reach out to our coaching team!
 
-**Tags:** #F   ootball #C   oachingTips #P   layerDevelopment #N   oseTackle
+**Tags:** #F    ootball #C    oachingTips #P    layerDevelopment #N    oseTackle

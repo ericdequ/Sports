@@ -95,5 +95,5 @@ By integrating these strategies into your training regimen, you'll inevitably bo
 
 ---
 
-*Interested in more tips? Check out our full [Football Training Program](#)   . Dive into more in-depth strategies and elevate your game to the next level!*
+*Interested in more tips? Check out our full [Football Training Program](#)    . Dive into more in-depth strategies and elevate your game to the next level!*
 ```

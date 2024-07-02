@@ -60,5 +60,5 @@ Silent counts and varied snap cadences are not just advanced techniques; they ar
 
 ---
 
-Inline questions, comments, or experiences? Sound off in the comments below or tweet at us with #S   ilentSnapStrategy!
+Inline questions, comments, or experiences? Sound off in the comments below or tweet at us with #S    ilentSnapStrategy!
 ```

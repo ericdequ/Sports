@@ -92,5 +92,5 @@ Enhance hand-eye coordination with these exercises:
 
 Pass protection is a vital skill for any successful offense. By incorporating a mix of drills focusing on footwork, hand placement, core strength, and hand-eye coordination, players can significantly improve their pass blocking capabilities. Coaches play a crucial role in providing structured and consistent training that mixes these elements, fostering well-rounded athletes ready to dominate on the field.
 
-*\#F   ootball \#P   assProtection \#O   ffensiveLineman \#S   trengthTraining \#T   echnique*
+*\#F    ootball \#P    assProtection \#O    ffensiveLineman \#S    trengthTraining \#T    echnique*
 ```

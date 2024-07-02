@@ -72,9 +72,9 @@ Passing from the post is more than just a skill; it's an art that requires aware
 ---
 
 **Related Articles:**
-- [The Role of the Big Man in Modern Basketball](#)   
-- [How to Break a Full-Court Press](#)   
-- [Essential Drills for Improving Court Vision](#)   
+- [The Role of the Big Man in Modern Basketball](#)    
+- [How to Break a Full-Court Press](#)    
+- [Essential Drills for Improving Court Vision](#)    
 ---
 
 ```

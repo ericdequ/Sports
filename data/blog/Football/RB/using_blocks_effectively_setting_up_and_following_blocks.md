@@ -89,9 +89,9 @@ Remember, it’s not just about the individual talent but how well each player e
 
 ### Further Reading
 
-1. [Zone Blocking Schemes Explained](#)   
-2. [The Importance of Vision for Running Backs](#)   
-3. [Top Footwork Drills for Offensive Linemen](#)   
+1. [Zone Blocking Schemes Explained](#)    
+2. [The Importance of Vision for Running Backs](#)    
+3. [Top Footwork Drills for Offensive Linemen](#)    
 
 Got tips or questions? Leave them in the comments below!
 

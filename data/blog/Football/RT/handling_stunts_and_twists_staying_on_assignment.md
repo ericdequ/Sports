@@ -82,5 +82,5 @@ Successfully handling stunts and twists requires a synergy of clear communicatio
 
 ---
 
-**Tags**: #F   ootball #D   efensiveStrategies #C   oachingTips #P   layerDevelopment #A   ssignmentDiscipline #S   tunts #T   wists #O   ffensiveLine
+**Tags**: #F    ootball #D    efensiveStrategies #C    oachingTips #P    layerDevelopment #A    ssignmentDiscipline #S    tunts #T    wists #O    ffensiveLine
 ```

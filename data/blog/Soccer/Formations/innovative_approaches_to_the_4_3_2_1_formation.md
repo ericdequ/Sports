@@ -104,4 +104,4 @@ Feel free to comment below with your thoughts or any questions you have about de
 
 **Tags & Links**
 
-[Soccer Tactics](#)   , [Formation Analysis](#)   , [Coaching Tips](#)   , [Player Development](#)   
+[Soccer Tactics](#)    , [Formation Analysis](#)    , [Coaching Tips](#)    , [Player Development](#)    
