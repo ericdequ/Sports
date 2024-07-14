@@ -6,7 +6,7 @@ tags: ['Football', 'Linebackers', 'Techniques', 'Run Game', 'Pass Game', 'Coachi
 draft: false
 summary: "Analyze techniques for moving to the second level and effectively engaging linebackers in both run and pass plays. A blend of player and coaching wisdom to elevate your game."
 
-images: ['https://example.com/comboblock.jpg', 'https://www.sportstips.org/articleimage/Football/LG/engaging_linebackers_moving_to_the_second_level.webp']
+images: ['https://www.sportstips.org/articleimage/Football/LG/engaging_linebackers_moving_to_the_second_level_1_20240714_160813.webp', 'https://www.sportstips.org/articleimage/Football/LG/engaging_linebackers_moving_to_the_second_level.webp']
 ---
 
 # Engaging Linebackers: Moving to the Second Level
@@ -27,7 +27,7 @@ In Zone Blocking schemes, linemen move in unison to cover an area rather than a 
     3. **Leverage**: Use your inside hand to maintain inside leverage.
     4. **Combo Block**: Work with a teammate to execute a double team before peeling off to the linebacker.
 
-Example: ![Combo Block](https://example.com/comboblock.jpg)
+Example: ![Combo Block](https://www.sportstips.org/articleimage/Football/LG/engaging_linebackers_moving_to_the_second_level_1_20240714_160813.webp)
 
 #### 2. Man Blocking
 

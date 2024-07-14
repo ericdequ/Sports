@@ -6,7 +6,7 @@ tags: ['basketball', 'skills', 'court vision', 'player development', 'coaching t
 draft: false
 summary: "Explore advanced techniques for improving court vision in basketball, including reading defenses, anticipating plays, and making accurate passes. This article is packed with tips for both players and coaches to enhance their game awareness and decision-making skills."
 
-images: ['https://example.com/basketball-passes.jpg', 'https://www.sportstips.org/articleimage/Basketball/PointGaurd/court_vision_seeing_the_entire_floor.webp']
+images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/court_vision_seeing_the_entire_floor_1_20240714_160738.webp', 'https://www.sportstips.org/articleimage/Basketball/PointGaurd/court_vision_seeing_the_entire_floor.webp']
 ---
 
 # Court Vision: Seeing the Entire Floor
@@ -64,7 +64,7 @@ Court vision is the ability to survey the entire court, understand the flow of t
    - **Overhead Pass**: For long distances or over tall defenders.
    - **No-Look Pass**: Keeps defenders guessing.
 
-![Types of Basketball Passes](https://example.com/basketball-passes.jpg)
+![Types of Basketball Passes](https://www.sportstips.org/articleimage/Basketball/PointGaurd/court_vision_seeing_the_entire_floor_1_20240714_160738.webp)
 
 2. **Timing and Precision**:
    - Pass at the right moment to avoid interception.

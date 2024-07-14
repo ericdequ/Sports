@@ -6,7 +6,7 @@ tags: ['football', 'elusiveness', 'technique', 'coaching', 'player development']
 draft: false
 summary: 'Analyze techniques for improving elusiveness, including jukes, spins, and stutter steps to evade defenders in football.'
 
-images: ['https://linktoimage.com', 'https://www.sportstips.org/articleimage/Football/RB/elusiveness_making_defenders_miss.webp']
+images: ['https://www.sportstips.org/articleimage/Football/RB/elusiveness_making_defenders_miss.webp', 'https://linktoimage.com']
 ---
 
 # Elusiveness: Making Defenders Miss

@@ -6,7 +6,7 @@ tags: ['football', 'blocking', 'tight ends', 'coaching tips', 'line of scrimmage
 draft: false
 summary: 'Explore the critical blocking techniques for tight ends, including essential hand placement, leverage tactics, and ways to engage defenders effectively.'
 
-images: ['https://example.com/hand_placement.webp', 'https://example.com/leverage_technique.webp', 'https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage.webp']
+images: ['https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage.webp', 'https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_2_20240714_160945.webp', 'https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_1_20240714_160934.webp']
 ---
 
 # Blocking Techniques: Dominating the Line of Scrimmage
@@ -34,7 +34,7 @@ Proper hand placement is crucial for tight ends to gain control and maintain bal
 | **Elbow Tuck**     | Maintain elbows tucked in tight to your body to generate more force and maintain leverage. |
 | **Explosive Punch**| Ensure an explosive "punch" motion upon collision to gain immediate control over the defender. |
 
-![Hand Placement Technique](https://example.com/hand_placement.webp)
+![Hand Placement Technique](https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_1_20240714_160934.webp)
 
 ## Leverage: Winning the Battle of Inches
 
@@ -46,7 +46,7 @@ Leverage determines how well a tight end can maintain or regain control over an 
 - **Staggered Stance:** A staggered stance (one foot slightly ahead of the other) can provide better balance and power generation.
 - **Core Engagement:** Use your core muscles to maintain a strong, balanced position and to transfer power efficiently from your lower to upper body.
 
-![Leverage Techniques](https://example.com/leverage_technique.webp)
+![Leverage Techniques](https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_2_20240714_160945.webp)
 
 ### Real-World Tips for Leveraging
 

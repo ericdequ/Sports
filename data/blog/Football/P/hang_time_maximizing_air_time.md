@@ -6,7 +6,7 @@ tags: ['basketball', 'jumping', 'player performance', 'coach tips', 'leg strengt
 draft: false
 summary: 'Discover the secrets to maximizing your hang time on the court. This article dives into techniques involving leg strength, ball contact, and follow-through to elevate your game.'
 
-images: ['https://www.sportstips.org/articleimage/Football/P/hang_time_maximizing_air_time.webp', 'https://example.com/hang-time.jpg']
+images: ['https://www.sportstips.org/articleimage/Football/P/hang_time_maximizing_air_time_1_20240714_160848.webp', 'https://www.sportstips.org/articleimage/Football/P/hang_time_maximizing_air_time.webp']
 ---
 
 # Hang Time: Maximizing Air Time
@@ -65,6 +65,6 @@ Stay dedicated, keep training, and soon you’ll be floating in the air like a p
 
 Have any questions or need personalized tips? Drop a comment below! Don't forget to share this article with your teammates and fellow hoop fanatics.
 
-![Maximize Your Hang Time](https://example.com/hang-time.jpg)
+![Maximize Your Hang Time](https://www.sportstips.org/articleimage/Football/P/hang_time_maximizing_air_time_1_20240714_160848.webp)
 
-*[Image Source](https://example.com/hang-time.jpg)*
+*[Image Source](https://www.sportstips.org/articleimage/Football/P/hang_time_maximizing_air_time_1_20240714_160848.webp)*

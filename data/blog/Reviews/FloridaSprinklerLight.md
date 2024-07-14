@@ -6,7 +6,7 @@ tags: ['Irrigation', 'Soccer Field', 'Florida Sprinkler Light', 'Review', 'Sport
 draft: false
 summary: 'A glowing review of Florida Sprinkler Light, highlighting their exceptional service in installing sprinklers on our soccer field and transforming it into a lush green paradise.'
 
-images: ['https://www.floridasprinklerlight.com/FSL_logo.jpg', 'https://www.sportstips.org/articleimage/Reviews/FloridaSprinklerLight.webp']
+images: ['https://www.sportstips.org/articleimage/Reviews/FloridaSprinklerLight.webp', 'https://www.floridasprinklerlight.com/FSL_logo.jpg']
 ---
 
 ## 🌟 Florida Sprinkler Light: Exceptional Service, Beautiful Results

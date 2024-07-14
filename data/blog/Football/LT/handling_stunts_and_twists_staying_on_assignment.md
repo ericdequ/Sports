@@ -6,7 +6,7 @@ tags: ['Football', 'Strategy', 'Defensive Play', 'Coaching', 'Communication', 'D
 draft: false
 summary: 'Explore effective strategies to handle defensive stunts and twists, emphasizing communication, quick recognition, and assignment discipline.'
 
-images: ['https://www.sportstips.org/articleimage/Football/LT/handling_stunts_and_twists_staying_on_assignment.webp', 'https://example.com/football_offensive_line.jpg']
+images: ['https://www.sportstips.org/articleimage/Football/LT/handling_stunts_and_twists_staying_on_assignment.webp', 'https://www.sportstips.org/articleimage/Football/LT/handling_stunts_and_twists_staying_on_assignment_1_20240714_160831.webp']
 ---
 
 ## Handling Stunts and Twists: Staying on Assignment
@@ -79,6 +79,6 @@ By incorporating these strategies into your playbook, you’ll improve your offe
 
 For more football strategies, tips, and resources, stay tuned to our blog!
 
-![Football O-Line](https://example.com/football_offensive_line.jpg)
+![Football O-Line](https://www.sportstips.org/articleimage/Football/LT/handling_stunts_and_twists_staying_on_assignment_1_20240714_160831.webp)
 ```
 

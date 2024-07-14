@@ -6,7 +6,7 @@ tags: ["soccer", "technique", "driven shot", "coaching tactics", "striker tips"]
 draft: false
 summary: "Analyze the technique for driven shots in soccer, emphasizing striking through the ball to keep it low and hard. This comprehensive guide blends player knowledge and coaching wisdom for mastering this essential skill."
 
-images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard.webp', '#i    mage']
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_3_20240714_161202.webp', 'https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_2_20240714_161150.webp', 'https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_1_20240714_161137.webp', 'https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard.webp', 'https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_4_20240714_161214.webp']
 ---
 
 # The Driven Shot: Low and Hard
@@ -46,12 +46,12 @@ A driven shot is a powerful, low shot characterized by its speed and piercing ac
 
 | Step        | Visual                    | Key Points                                                |
 |-------------|---------------------------|------------------------------------------------------------|
-| Approach    | ![Approach](#i    mage)       | Side angle, balanced stance                                |
-| Foot Plant  | ![Foot Placement](#i    mage) | 6 inches (15 cm) away, pointing towards the target         |
-| Body Angle  | ![Body Angle](#i    mage)     | Lean over the ball                                         |
-| Strike & Follow-Through | ![Strike](#i    mage) | Contact at center, low follow-through                      |
+| Approach    | ![Approach](https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_1_20240714_161137.webp)       | Side angle, balanced stance                                |
+| Foot Plant  | ![Foot Placement](https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_1_20240714_161137.webp) | 6 inches (15 cm) away, pointing towards the target         |
+| Body Angle  | ![Body Angle](https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_1_20240714_161137.webp)     | Lean over the ball                                         |
+| Strike & Follow-Through | ![Strike](https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_1_20240714_161137.webp) | Contact at center, low follow-through                      |
 
-(Note: Replace `#i    mage` with actual image URLs or paths)
+(Note: Replace `https://www.sportstips.org/articleimage/Soccer/Tech/the_driven_shot_low_and_hard_1_20240714_161137.webp` with actual image URLs or paths)
 
 ---
 

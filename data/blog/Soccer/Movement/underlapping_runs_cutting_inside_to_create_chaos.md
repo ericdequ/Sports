@@ -5,7 +5,7 @@ tags: ['soccer', 'tactics', 'coaching', 'player development', 'attacking', 'form
 draft: false 
 summary: "Examine the use of underlapping runs to disrupt defensive organization and create scoring opportunities." 
 
-images: ['https://www.sportstips.org/articleimage/Soccer/Movement/underlapping_runs_cutting_inside_to_create_chaos.webp', 'https://example.com/underlapping-run-diagram.webp']
+images: ['https://www.sportstips.org/articleimage/Soccer/Movement/underlapping_runs_cutting_inside_to_create_chaos.webp', 'https://www.sportstips.org/articleimage/Soccer/Movement/underlapping_runs_cutting_inside_to_create_chaos_1_20240714_161025.webp']
 --- 
 
 # Underlapping Runs: Cutting Inside to Create Chaos
@@ -42,7 +42,7 @@ The primary actors in a successful underlapping run include:
 | Winger       | Holds width or combines centrally        | Either stretches defense or passes inside   |
 | Midfielder   | Exploits the space or provides through ball | Moves into vacated space, receiving pass    |
 
-![Underlapping Run Diagram](https://example.com/underlapping-run-diagram.webp)
+![Underlapping Run Diagram](https://www.sportstips.org/articleimage/Soccer/Movement/underlapping_runs_cutting_inside_to_create_chaos_1_20240714_161025.webp)
 
 ### Tactical Benefits
 
