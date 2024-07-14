@@ -6,7 +6,7 @@ tags: ['Football', 'Soccer', 'Technique', 'Coaching', 'Skills', 'Trivela', 'Shoo
 draft: false
 summary: "Explore the art of the trivela, diving into the technique, use cases, and notable players who excel at utilizing the outside of the boot to create jaw-dropping shots and passes."
 
-images: ['https://www.sportstips.org/articleimage/Soccer/Tech/outside_of_the_boot_trivela_shots_and_passes_1_20240714_161123.webp', 'https://www.sportstips.org/articleimage/Soccer/Tech/outside_of_the_boot_trivela_shots_and_passes.webp']
+images: ['https://www.sportstips.org/articleimage/Soccer/Tech/outside_of_the_boot_trivela_shots_and_passes.webp', 'https://www.sportstips.org/articleimage/Soccer/Tech/outside_of_the_boot_trivela_shots_and_passes_1_20240714_161123.webp']
 ---
 
 # Outside of the Boot: Trivela Shots and Passes

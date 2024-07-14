@@ -6,7 +6,7 @@ tags: ['soccer', 'skills', 'possession', 'coaching-tips', 'player-knowledge', 'a
 draft: false
 summary: "Explore the drag back move, its variations, and how it can be used to maintain possession and create passing lanes in soccer."
 
-images: ['images/followthrough.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_1_20240714_161229.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_161248.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity.webp']
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_161248.webp', 'https://www.sportstips.org/articleimage//Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_174938.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_1_20240714_161229.webp']
 ---
 
 # The Drag Back: Creating Space with Simplicity
@@ -32,7 +32,7 @@ The Drag Back is a fundamental skill where the player pulls the ball backwards w
 |----------------|-------------------------------------------------------|----------------------------------------------|
 | 1. Setup       | Position body over the ball                           | ![Setup Position](https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_1_20240714_161229.webp)          |
 | 2. Execution   | Pull ball back with the sole, pivot to change direction| ![Execution](https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_161248.webp)           |
-| 3. Follow Through | Control and transition                              | ![Follow Through](images/followthrough.webp)  |
+| 3. Follow Through | Control and transition                              | ![Follow Through](https://www.sportstips.org/articleimage//Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_174938.webp)  |
 
 ## Variations of the Drag Back
 

@@ -6,7 +6,7 @@ tags: ['Football', 'Offensive Strategies', 'Quarterback', 'Coaching Tips', 'Play
 draft: false
 summary: "The Run-Pass Option (RPO) is a dynamic play in modern football that demands rapid decision-making and adaptive execution from quarterbacks. This article delves into the intricacies of the RPO, offering insights from both player and coaching perspectives."
 
-images: ['https://www.sportstips.org/articleimage/Football/QB/rpo_run_pass_option_making_quick_decisions_1_20240714_160906.webp', 'https://www.sportstips.org/articleimage/Football/QB/rpo_run_pass_option_making_quick_decisions.webp']
+images: ['https://www.sportstips.org/articleimage/Football/QB/rpo_run_pass_option_making_quick_decisions.webp', 'https://www.sportstips.org/articleimage/Football/QB/rpo_run_pass_option_making_quick_decisions_1_20240714_160906.webp']
 ---
 
 # RPO (Run-Pass Option): Making Quick Decisions
