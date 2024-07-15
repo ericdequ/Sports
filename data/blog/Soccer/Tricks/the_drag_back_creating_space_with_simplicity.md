@@ -6,7 +6,7 @@ tags: ['soccer', 'skills', 'possession', 'coaching-tips', 'player-knowledge', 'a
 draft: false
 summary: "Explore the drag back move, its variations, and how it can be used to maintain possession and create passing lanes in soccer."
 
-images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_161248.webp', 'https://www.sportstips.org/articleimage//Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_174938.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_1_20240714_161229.webp']
+images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_1_20240714_161229.webp', 'https://www.sportstips.org/articleimage//Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_174938.webp', 'https://www.sportstips.org/articleimage/Soccer/Tricks/the_drag_back_creating_space_with_simplicity_3_20240714_161248.webp']
 ---
 
 # The Drag Back: Creating Space with Simplicity

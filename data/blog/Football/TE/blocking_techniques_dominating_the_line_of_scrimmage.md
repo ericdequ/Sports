@@ -6,7 +6,7 @@ tags: ['football', 'blocking', 'tight ends', 'coaching tips', 'line of scrimmage
 draft: false
 summary: 'Explore the critical blocking techniques for tight ends, including essential hand placement, leverage tactics, and ways to engage defenders effectively.'
 
-images: ['https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage.webp', 'https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_1_20240714_160934.webp', 'https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_2_20240714_160945.webp']
+images: ['https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_1_20240714_160934.webp', 'https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage_2_20240714_160945.webp', 'https://www.sportstips.org/articleimage/Football/TE/blocking_techniques_dominating_the_line_of_scrimmage.webp']
 ---
 
 # Blocking Techniques: Dominating the Line of Scrimmage
