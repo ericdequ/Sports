@@ -6,7 +6,7 @@ tags: ['football', 'soccer', 'goal scoring', 'poachers', 'finishing', 'positioni
 draft: false
 summary: "Explore the key attributes of goal poachers like Filippo Inzaghi, who master the art of positioning and finishing in football."
 
-images: ['https://www.sportstips.org/articleimage/Soccer/Positions/poachers_the_ultimate_finishers_1_20240714_161052.webp', 'https://www.sportstips.org/articleimage/Soccer/Positions/poachers_the_ultimate_finishers.webp']
+images: ['https://www.sportstips.org/articleimage/Soccer/Positions/poachers_the_ultimate_finishers.webp', 'https://www.sportstips.org/articleimage/Soccer/Positions/poachers_the_ultimate_finishers_1_20240714_161052.webp']
 ---
 
 ## Poachers: The Ultimate Finishers
