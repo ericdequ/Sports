@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/RB/vision_and_patienc
 
 ### Vision and Patience: Finding the Running Lanes
 
-As a running back, **vision** and **patience** are your bread and butter. Without these skills, even the most physically gifted players can struggle to find success on the field. In this article, we'll delve into advanced techniques that can help you improve your vision and patience, allowing you to read blocks and anticipate openings like a pro.
+As a running back, **vision** and **patience** are your bread and butter. Without these skills, even the most physically gifted players can struggle to find success on the field. In this article, well delve into advanced techniques that can help you improve your vision and patience, allowing you to read blocks and anticipate openings like a pro.
 
 ---
 

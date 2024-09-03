@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/RG/pass_protection_dr
 
 # Pass Protection Drills: Building Strength and Technique
 
-When it comes to football, effective pass protection is a non-negotiable skill for any successful offensive lineman. Blocking a fierce edge rusher or maintaining a solid pocket for your quarterback requires a blend of raw strength, refined technique, and exceptional hand-eye coordination. In this article, we'll break down some core pass protection drills designed to build these critical attributes.
+When it comes to football, effective pass protection is a non-negotiable skill for any successful offensive lineman. Blocking a fierce edge rusher or maintaining a solid pocket for your quarterback requires a blend of raw strength, refined technique, and exceptional hand-eye coordination. In this article, well break down some core pass protection drills designed to build these critical attributes.
 
 ## The Importance of Pass Protection
 

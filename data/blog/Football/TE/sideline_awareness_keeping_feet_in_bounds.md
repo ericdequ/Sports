@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/TE/sideline_awareness
 
 # Sideline Awareness: Keeping Feet In-Bounds
 
-When it comes to making sideline catches, finesse and precision are paramount. The ability to keep your feet in-bounds while hauling in a pass can mean the difference between a game-winning play and a missed opportunity. In this article, we'll delve into the essential techniques for maintaining sideline awareness, including toe-tap drills, body control, and catching near the boundary. Whether you're a player looking to refine your skills or a coach aiming to elevate your Teams performance, these tips will give you a leg up on the competition.
+When it comes to making sideline catches, finesse and precision are paramount. The ability to keep your feet in-bounds while hauling in a pass can mean the difference between a game-winning play and a missed opportunity. In this article, well delve into the essential techniques for maintaining sideline awareness, including toe-tap drills, body control, and catching near the boundary. Whether you're a player looking to refine your skills or a coach aiming to elevate your Teams performance, these tips will give you a leg up on the competition.
 
 ## The Art of the Toe-Tap
 

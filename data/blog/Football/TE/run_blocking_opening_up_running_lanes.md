@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/TE/run_blocking_openi
 
 # Run Blocking: Opening Up Running Lanes
 
-Effective run blocking is the backbone of a successful ground attack in football. Offensive linemen must master various strategies and techniques to open up running lanes for their backs. In this comprehensive guide, we'll blend player knowledge with coaching wisdom to discuss key elements such as understanding blocking schemes, maintaining leverage, and driving through defenders.
+Effective run blocking is the backbone of a successful ground attack in football. Offensive linemen must master various strategies and techniques to open up running lanes for their backs. In this comprehensive guide, well blend player knowledge with coaching wisdom to discuss key elements such as understanding blocking schemes, maintaining leverage, and driving through defenders.
 
 ## Understanding Blocking Schemes
 

@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/transiti
 
 # Transition Play: Leading the Fast Break
 
-Transition play in basketball can dismantle even the most disciplined defenses. The fast break, when executed with precision, allows teams to capitalize on their opponents' weaknesses and missteps. In this article, we'll dive deep into the core techniques for running a successful fast break: outlet passing, finishing at the rim, and setting up your teammates.
+Transition play in basketball can dismantle even the most disciplined defenses. The fast break, when executed with precision, allows teams to capitalize on their opponents' weaknesses and missteps. In this article, well dive deep into the core techniques for running a successful fast break: outlet passing, finishing at the rim, and setting up your teammates.
 
 ## Outlet Passing: Initiating the Break
 

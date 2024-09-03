@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Formations/the_tactical
 
 ## The Tactical Flexibility of the 3-4-3 Formation
 
-The 3-4-3 formation isn't just a buzzword among modern football tacticians; it's a sophisticated approach that strikes a balance between defense and attack. Here we'll delve into how this formation can be a game-changer for teams, with a specific spotlight on the pivotal role of wingbacks.
+The 3-4-3 formation isn't just a buzzword among modern football tacticians; it's a sophisticated approach that strikes a balance between defense and attack. Here well delve into how this formation can be a game-changer for teams, with a specific spotlight on the pivotal role of wingbacks.
 
 ### Formation Breakdown: What is a 3-4-3?
 

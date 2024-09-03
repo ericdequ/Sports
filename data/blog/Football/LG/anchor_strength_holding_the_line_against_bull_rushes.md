@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/LG/anchor_strength_ho
 
 # Anchor Strength: Holding the Line Against Bull Rushes
 
-In the rough-and-tumble world of American football, holding the line against a charging defender is crucial. This action is known as "anchoring," and it requires a unique blend of core strength, leg power, and impeccable stance. In this article, we'll break down the essentials of developing anchor strength, blending player knowledge and coaching wisdom to keep your linesmen rock solid.
+In the rough-and-tumble world of American football, holding the line against a charging defender is crucial. This action is known as "anchoring," and it requires a unique blend of core strength, leg power, and impeccable stance. In this article, well break down the essentials of developing anchor strength, blending player knowledge and coaching wisdom to keep your linesmen rock solid.
 
 ## The Importance of Anchor Strength 
 

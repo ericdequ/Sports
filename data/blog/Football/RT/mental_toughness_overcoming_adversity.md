@@ -13,7 +13,7 @@ images: ['https://www.sportstips.org/articleimage/Football/RT/mental_toughness_o
 
 ## Introduction
 
-In sports, mental toughness is as crucial as physical prowess. The ability to stay focused, maintain confidence, and handle mistakes distinguishes elite athletes from the rest. Today, we'll explore strategies for developing mental toughness, blending insights from seasoned coaches and experienced players.
+In sports, mental toughness is as crucial as physical prowess. The ability to stay focused, maintain confidence, and handle mistakes distinguishes elite athletes from the rest. Today, well explore strategies for developing mental toughness, blending insights from seasoned coaches and experienced players.
 
 ## 1. Handling Mistakes with Grace
 

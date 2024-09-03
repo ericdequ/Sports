@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Tech/the_art_of_the_fin
 
 ## The Art of the Finishing Touch: Inside the Box
 
-For a striker, the box is the hunting ground where opportunities bloom and legends are made. Mastering the art of finishing inside the box can significantly elevate a player's goal-scoring efficacy. Whether you're a seasoned player looking to refine your technique or a coach guiding young talent, understanding and practicing these various finishing methods can be crucial. In this article, we'll break down three primary techniques: the side-foot finish, the toe-poke, and the quick release. We'll explore both player insights and coaching wisdom to give you a comprehensive grasp of each method. 
+For a striker, the box is the hunting ground where opportunities bloom and legends are made. Mastering the art of finishing inside the box can significantly elevate a player's goal-scoring efficacy. Whether you're a seasoned player looking to refine your technique or a coach guiding young talent, understanding and practicing these various finishing methods can be crucial. In this article, well break down three primary techniques: the side-foot finish, the toe-poke, and the quick release. well explore both player insights and coaching wisdom to give you a comprehensive grasp of each method. 
 
 ### Side-foot Finishes: The Precision Weapon
 

@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/TE/creating_separatio
 
 ## Introduction
 
-Separation between an offensive player and their defender is crucial in many sports, from basketball and football to soccer and beyond. Mastering this skill can elevate a player's game to new heights. In this extensive guide, we'll delve into the key techniques for creating separation, combining player insights and coaching strategies. Ready to break some ankles? Let’s dive in!
+Separation between an offensive player and their defender is crucial in many sports, from basketball and football to soccer and beyond. Mastering this skill can elevate a player's game to new heights. In this extensive guide, well delve into the key techniques for creating separation, combining player insights and coaching strategies. Ready to break some ankles? Let’s dive in!
 
 ## Techniques for Beating Defenders
 

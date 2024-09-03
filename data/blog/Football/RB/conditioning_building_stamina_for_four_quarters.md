@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/RB/conditioning_build
 
 # Conditioning: Building Stamina for Four Quarters
 
-One of the most critical components for a successful running back in football is the ability to maintain performance throughout the entire game. This requires exceptional stamina and endurance. In this article, we'll explore conditioning programs designed specifically for running backs, blending player knowledge with coaching wisdom to help you go the distance.
+One of the most critical components for a successful running back in football is the ability to maintain performance throughout the entire game. This requires exceptional stamina and endurance. In this article, well explore conditioning programs designed specifically for running backs, blending player knowledge with coaching wisdom to help you go the distance.
 
 ## Why Stamina Matters for Running Backs
 

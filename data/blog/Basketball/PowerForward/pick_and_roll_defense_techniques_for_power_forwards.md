@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/pick_a
 
 ## Pick-and-Roll Defense: Techniques for Power Forwards
 
-Defending the pick-and-roll is one of the most critical skills for any power forward aiming to be a defensive stalwart. In this article, we'll explore the essential techniques—hedging, switching, and trapping—that can transform your defensive abilities and give your team the edge on the court.
+Defending the pick-and-roll is one of the most critical skills for any power forward aiming to be a defensive stalwart. In this article, well explore the essential techniques—hedging, switching, and trapping—that can transform your defensive abilities and give your team the edge on the court.
 
 ### 1. Hedging
 

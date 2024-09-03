@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Formations/Formationbre
 
 # Breaking Down the 4-3-3 Formation: A Comprehensive Guide
 
-The 4-3-3 formation is a favorite among many top football clubs today. Characterized by its balance between attack and defense, it comprises four defenders, three midfielders, and three forwards. This setup promotes fluid attacking play while maintaining a solid defensive structure. Here, we'll delve into the roles and responsibilities of each position.
+The 4-3-3 formation is a favorite among many top football clubs today. Characterized by its balance between attack and defense, it comprises four defenders, three midfielders, and three forwards. This setup promotes fluid attacking play while maintaining a solid defensive structure. Here, well delve into the roles and responsibilities of each position.
 
 ## Structure of the 4-3-3 Formation
 

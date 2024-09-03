@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Movement/switching_play
 
 # Switching Play: Spreading the Defense
 
-Switching play, also known as "changing the point of attack," is an essential tactic in soccer that involves quickly moving the ball from one side of the field to the other. This maneuver is designed to exploit weaknesses in the opposition's defense by creating space and increasing attacking opportunities. Here, we'll dive deep into the technique and importance of switching play, blending player knowledge and coaching wisdom to help you master this critical strategy.
+Switching play, also known as "changing the point of attack," is an essential tactic in soccer that involves quickly moving the ball from one side of the field to the other. This maneuver is designed to exploit weaknesses in the opposition's defense by creating space and increasing attacking opportunities. Here, well dive deep into the technique and importance of switching play, blending player knowledge and coaching wisdom to help you master this critical strategy.
 
 ## The Basics of Switching Play
 

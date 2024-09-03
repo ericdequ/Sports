@@ -13,7 +13,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/PowerForward/post_m
 
 ## Introduction
 
-Low post scoring is an essential skill for power forwards, often critical to a Teams success. Mastering post moves involves a blend of technical skill, footwork, and basketball IQ. In this article, we'll dive into key moves like the drop step, hook shot, and up-and-under to help elevate your game.
+Low post scoring is an essential skill for power forwards, often critical to a Teams success. Mastering post moves involves a blend of technical skill, footwork, and basketball IQ. In this article, well dive into key moves like the drop step, hook shot, and up-and-under to help elevate your game.
 
 ## The Essential Post Moves
 

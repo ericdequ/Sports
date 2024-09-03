@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/TE/pass_protection_pr
 
 ## Pass Protection: Protecting the Quarterback
 
-In the high-octane world of football, the difference between a successful play and a devastating sack often hinges on effective pass protection. Tight ends (TEs) play a pivotal role in this dynamic, balancing their duties between receiving passes and providing crucial blocks. In this article, we'll delve into the essentials of pass protection for tight ends, covering key aspects like recognizing blitzes, proper positioning, and effective blocking techniques.
+In the high-octane world of football, the difference between a successful play and a devastating sack often hinges on effective pass protection. Tight ends (TEs) play a pivotal role in this dynamic, balancing their duties between receiving passes and providing crucial blocks. In this article, well delve into the essentials of pass protection for tight ends, covering key aspects like recognizing blitzes, proper positioning, and effective blocking techniques.
 
 ### Recognizing Blitzes
 

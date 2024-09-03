@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_crossove
 
 # The Crossover: Breaking Ankles with Style
 
-Basketball is a sport driven by finesse, agility, and creative flair. One skill that epitomizes all three is the **crossover dribble**. This iconic move has left many defenders on the ground, quite literally "breaking ankles." Today, we'll delve into the mechanics of the crossover, its execution, and how legends like **Allen Iverson** mastered it to become nearly unstoppable.
+Basketball is a sport driven by finesse, agility, and creative flair. One skill that epitomizes all three is the **crossover dribble**. This iconic move has left many defenders on the ground, quite literally "breaking ankles." Today, well delve into the mechanics of the crossover, its execution, and how legends like **Allen Iverson** mastered it to become nearly unstoppable.
 
 ## What is a Crossover Dribble?
 

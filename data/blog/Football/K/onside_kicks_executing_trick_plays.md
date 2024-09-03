@@ -13,7 +13,7 @@ images: ['https://www.sportstips.org/articleimage/Football/K/onside_kicks_execut
 
 When it comes to football, the onside kick is one of the most thrilling and risky tactics a team can employ. It's a high-stakes play that can pivot the outcome of a game if executed correctly. Whether you're a player on the field or a coach on the sidelines, understanding the nuances of the onside kick is crucial for success.
 
-In this article, we'll delve into the strategies behind successful onside kicks, covering ball placement, kick angle, and timing. We'll break down the techniques and wisdom that can give your team an edge.
+In this article, well delve into the strategies behind successful onside kicks, covering ball placement, kick angle, and timing. well break down the techniques and wisdom that can give your team an edge.
 
 ### Ball Placement
 

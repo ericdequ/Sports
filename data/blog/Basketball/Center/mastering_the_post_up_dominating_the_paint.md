@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/Center/mastering_th
 
 ## Introduction
 
-When it comes to dominating the paint in basketball, mastering the post-up play is crucial. A solid post-up game can turn an average player into an unstoppable force. In this guide, we'll dive deep into the vital techniques and strategies that will help you command the paint, featuring insights from both players and coaches.
+When it comes to dominating the paint in basketball, mastering the post-up play is crucial. A solid post-up game can turn an average player into an unstoppable force. In this guide, well dive deep into the vital techniques and strategies that will help you command the paint, featuring insights from both players and coaches.
 
 ## The Fundamentals of Post-Up Play
 

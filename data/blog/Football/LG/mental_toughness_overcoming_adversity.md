@@ -13,7 +13,7 @@ images: ['https://www.sportstips.org/articleimage/Football/LG/mental_toughness_o
 
 ### Introduction
 
-Mental toughness is the cornerstone of athletic excellence. It separates the good from the great and often determines who comes out on top in the face of adversity. This article merges player insights and coaching wisdom to provide a comprehensive guide to building mental toughness. We'll touch on handling mistakes, staying focused, and maintaining confidence—all key elements that help athletes thrive under pressure.
+Mental toughness is the cornerstone of athletic excellence. It separates the good from the great and often determines who comes out on top in the face of adversity. This article merges player insights and coaching wisdom to provide a comprehensive guide to building mental toughness. well touch on handling mistakes, staying focused, and maintaining confidence—all key elements that help athletes thrive under pressure.
 
 ---
 

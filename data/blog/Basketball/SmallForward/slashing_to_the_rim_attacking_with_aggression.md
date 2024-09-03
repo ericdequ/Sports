@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/SmallForward/slashi
 
 ## Slashing to the Rim: Attacking with Aggression
 
-For small forwards, or "threes" as they are known in hoops lingo, mastering the art of driving to the basket is essential. Not only does it put pressure on the defense, but it also opens up opportunities for teammates and leads to high-percentage shots. In this article, we'll explore key techniques that ensure small forwards can effectively attack the rim, finish through contact, and consistently draw fouls.
+For small forwards, or "threes" as they are known in hoops lingo, mastering the art of driving to the basket is essential. Not only does it put pressure on the defense, but it also opens up opportunities for teammates and leads to high-percentage shots. In this article, well explore key techniques that ensure small forwards can effectively attack the rim, finish through contact, and consistently draw fouls.
 
 ### The Basics of an Aggressive Drive
 

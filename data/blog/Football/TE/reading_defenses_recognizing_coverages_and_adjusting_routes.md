@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/TE/reading_defenses_r
 
 ## Reading Defenses: Recognizing Coverages and Adjusting Routes
 
-Tight ends are often the unsung heroes of the football field, serving as pivotal players in both the passing and blocking games. However, what sets elite tight ends apart from the rest is their ability to read defensive coverages and adjust their routes accordingly. In this article, we'll dive into the nuances of reading defensive coverages, adapting routes, and exploiting open spaces in the defense.
+Tight ends are often the unsung heroes of the football field, serving as pivotal players in both the passing and blocking games. However, what sets elite tight ends apart from the rest is their ability to read defensive coverages and adjust their routes accordingly. In this article, well dive into the nuances of reading defensive coverages, adapting routes, and exploiting open spaces in the defense.
 
 ### Identifying Common Defensive Coverages
 

@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_post_hoo
 
 # The Post Hook: Scoring from the Block
 
-If you've ever played basketball or watched the NBA, you've undoubtedly seen the magic of a well-executed post hook shot. This go-to move for many big men has been a staple for scoring within the paint. In this article, we'll drill deep into the post hook shot, dissecting its technique, historical significance, and tips to master it, just like the legend, Kareem Abdul-Jabbar.
+If you've ever played basketball or watched the NBA, you've undoubtedly seen the magic of a well-executed post hook shot. This go-to move for many big men has been a staple for scoring within the paint. In this article, well drill deep into the post hook shot, dissecting its technique, historical significance, and tips to master it, just like the legend, Kareem Abdul-Jabbar.
 
 ## The Essence of the Post Hook
 

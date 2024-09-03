@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/scoring_
 
 ## Scoring in the Paint: Finishing Through Traffic
 
-Scoring in the paint is an essential skill for any basketball player looking to elevate their game. Mastering techniques like floaters, layups, and finishing through contact can set you apart and make you a formidable presence near the basket. In this article, we'll dive deep into the mechanics, strategies, and tips to help you become an elite finisher in the paint.
+Scoring in the paint is an essential skill for any basketball player looking to elevate their game. Mastering techniques like floaters, layups, and finishing through contact can set you apart and make you a formidable presence near the basket. In this article, well dive deep into the mechanics, strategies, and tips to help you become an elite finisher in the paint.
 
 ### The Art of the Floater
 

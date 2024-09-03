@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/C/run_blocking_creati
 
 ### Introduction
 
-In football, run blocking is a crucial skill for offensive linemen, tight ends, and even wide receivers. Effective run blocking isn't just about brute strength; it involves a combination of perfect footwork, precise hand placement, and relentless drive. In this article, we'll delve into these techniques to help you create the best running lanes for your ball carriers.
+In football, run blocking is a crucial skill for offensive linemen, tight ends, and even wide receivers. Effective run blocking isn't just about brute strength; it involves a combination of perfect footwork, precise hand placement, and relentless drive. In this article, well delve into these techniques to help you create the best running lanes for your ball carriers.
 
 ### Footwork: The Foundation of a Good Block
 

@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/QB/handling_pressure_
 
 ## Handling Pressure: Staying Cool Under the Blitz
 
-Handling the blitz effectively can be the difference between a game-winning drive and a drive-killing play. In this article, we'll explore techniques for staying cool under the blitz, with insights from both player knowledge and coaching wisdom.
+Handling the blitz effectively can be the difference between a game-winning drive and a drive-killing play. In this article, well explore techniques for staying cool under the blitz, with insights from both player knowledge and coaching wisdom.
 
 ### 1. Mastering Pre-Snap Reads
 

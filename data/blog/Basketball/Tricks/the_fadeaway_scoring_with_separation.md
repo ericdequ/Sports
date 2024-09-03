@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/Tricks/the_fadeaway
 
 ## The Fadeaway: Scoring with Separation
 
-The fadeaway shot in basketball is an art form, combining skill, strategy, and precision. It's a move that has been popularized by legends like Michael Jordan, admired for its effectiveness in creating separation from defenders. In this article, we'll dive deep into the mechanics of the fadeaway shot, examining its execution, the benefits it brings to a player's arsenal, and how coaches can help players master this iconic move.
+The fadeaway shot in basketball is an art form, combining skill, strategy, and precision. It's a move that has been popularized by legends like Michael Jordan, admired for its effectiveness in creating separation from defenders. In this article, well dive deep into the mechanics of the fadeaway shot, examining its execution, the benefits it brings to a player's arsenal, and how coaches can help players master this iconic move.
 
 ### What is a Fadeaway?
 

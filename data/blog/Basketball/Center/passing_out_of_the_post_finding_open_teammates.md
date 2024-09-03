@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/Center/passing_out_
 
 ## Passing Out of the Post: Finding Open Teammates
 
-In basketball, the post position is a pivotal spot for initiating offense. The ability to pass effectively out of the post can turn a strong interior presence into a dual threat, creating scoring opportunities both inside and out. In this article, we'll delve into key techniques for making precise passes from the post, recognizing double teams, and setting up open shooters. Whether you're a player looking to enhance your skills or a coach aiming to bolster your Teams offensive arsenal, understanding how to utilize the post effectively will elevate your game. 
+In basketball, the post position is a pivotal spot for initiating offense. The ability to pass effectively out of the post can turn a strong interior presence into a dual threat, creating scoring opportunities both inside and out. In this article, well delve into key techniques for making precise passes from the post, recognizing double teams, and setting up open shooters. Whether you're a player looking to enhance your skills or a coach aiming to bolster your Teams offensive arsenal, understanding how to utilize the post effectively will elevate your game. 
 
 ### Recognizing Double Teams
 

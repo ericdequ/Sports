@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/C/double_teams_workin
 
 ## Double Teams: Working with Guards to Neutralize Defenders
 
-When it comes to neutralizing defensive threats in football, double teaming is a fundamental technique that can dramatically shift the dynamic on the field. This article dives deep into the art of double teaming, specifically focusing on working with guards. From perfecting timing to maintaining leverage, we'll explore how players and coaches can enhance this crucial piece of offensive strategy.
+When it comes to neutralizing defensive threats in football, double teaming is a fundamental technique that can dramatically shift the dynamic on the field. This article dives deep into the art of double teaming, specifically focusing on working with guards. From perfecting timing to maintaining leverage, well explore how players and coaches can enhance this crucial piece of offensive strategy.
 
 ### The Fundamentals of Double Teaming
 

@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Basketball/PointGaurd/pick_and
 
 # Pick-and-Roll Defense: Disrupting Opponents
 
-The pick-and-roll is a staple in basketball offenses at all levels, from high school hoops to the NBA. Though fundamentally straightforward, its effectiveness can wreak havoc if not countered properly. The key to neutralizing this tactic lies in the defense's ability to adapt and apply specific strategies like hedging, switching, and fighting through screens. In this article, we'll dive deep into each of these defensive maneuvers, blending player knowledge with coaching wisdom to provide a comprehensive guide to pick-and-roll defense.
+The pick-and-roll is a staple in basketball offenses at all levels, from high school hoops to the NBA. Though fundamentally straightforward, its effectiveness can wreak havoc if not countered properly. The key to neutralizing this tactic lies in the defense's ability to adapt and apply specific strategies like hedging, switching, and fighting through screens. In this article, well dive deep into each of these defensive maneuvers, blending player knowledge with coaching wisdom to provide a comprehensive guide to pick-and-roll defense.
 
 ## Hedging: Forcing Decisions
 

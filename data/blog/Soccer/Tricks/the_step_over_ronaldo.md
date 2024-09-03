@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Soccer/Tricks/the_step_over_ro
 
 ## The Step Over: Ronaldo's Quick Feet
 
-When it comes to dazzling footwork and leaving defenders in the dust, few moves are as iconic as the step over. This slick maneuver, mastered by the likes of Cristiano Ronaldo, is a cornerstone of any dribbler's arsenal. In this post, we'll explore the step over, its variations, and how to wield it like CR7 himself.
+When it comes to dazzling footwork and leaving defenders in the dust, few moves are as iconic as the step over. This slick maneuver, mastered by the likes of Cristiano Ronaldo, is a cornerstone of any dribbler's arsenal. In this post, well explore the step over, its variations, and how to wield it like CR7 himself.
 
 ### What is the Step Over?
 

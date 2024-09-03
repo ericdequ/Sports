@@ -11,7 +11,7 @@ images: ['https://www.sportstips.org/articleimage/Football/QB/bootleg_and_rollou
 
 # Bootleg and Rollout Passes: Throwing on the Move
 
-Throwing on the move is a skill that differentiates the elite quarterbacks from the rest. Bootleg and rollout passes are particularly effective for evading pressure, creating passing lanes, and taking advantage of a defense's weaknesses. In this article, we'll break down the key elements of executing these plays, focusing on footwork, maintaining accuracy, and reading the defense. Whether you're a player looking to enhance your skills or a coach aiming to fine-tune your Teams performance, this guide has you covered.
+Throwing on the move is a skill that differentiates the elite quarterbacks from the rest. Bootleg and rollout passes are particularly effective for evading pressure, creating passing lanes, and taking advantage of a defense's weaknesses. In this article, well break down the key elements of executing these plays, focusing on footwork, maintaining accuracy, and reading the defense. Whether you're a player looking to enhance your skills or a coach aiming to fine-tune your Teams performance, this guide has you covered.
 
 ## What are Bootleg and Rollout Passes?
 
