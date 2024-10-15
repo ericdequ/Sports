@@ -75,7 +75,7 @@ Transition scoring is not just about speed; it’s about composure, awareness, a
 Embrace these strategies, and watch your transition game reach new heights!
 
 --- 
-**Author**: [Your Name]  
+
 *Expert in Basketball Coaching and Player Development*
 
 ```
