@@ -1,0 +1,54 @@
+// File: /pages/api/get-images.js
+
+/* Move This File and make a page that turns each of the blog websites into an image api */
+import path from 'path';
+import fs from 'fs';
+
+const allowedExtensions = ['png', 'webp', 'jpg', 'jpeg', 'svg', 'gif'];
+
+function crawlDirectory(dirPath, basePath = '') {
+  const result = {};
+  const items = fs.readdirSync(dirPath);
+
+  items.forEach((item) => {
+    const fullPath = path.join(dirPath, item);
+    const relativePath = path.join(basePath, item);
+    const stats = fs.statSync(fullPath);
+
+    if (stats.isDirectory()) {
+      result[item] = crawlDirectory(fullPath, relativePath);
+    } else {
+      const extension = item.split('.').pop().toLowerCase();
+      if (allowedExtensions.includes(extension)) {
+        const parentDir = path.dirname(relativePath);
+        const dirKey = parentDir === '.' ? 'files' : parentDir;
+
+        if (!result[dirKey]) {
+          result[dirKey] = [];
+        }
+
+        result[dirKey].push({
+          name: item,
+          url: `/${relativePath.replace(/\\/g, '/')}`,
+          extension,
+          size: stats.size,
+          lastModified: stats.mtime,
+        });
+      }
+    }
+  });
+
+  return result;
+}
+
+export default function handler(req, res) {
+  try {
+    const publicFolderPath = path.join(process.cwd(), 'public/articleimage');
+    const directoryStructure = crawlDirectory(publicFolderPath);
+
+    res.status(200).json(directoryStructure);
+  } catch (error) {
+    console.error('Error reading directory:', error);
+    res.status(500).json({ error: 'Failed to load directory structure' });
+  }
+}
