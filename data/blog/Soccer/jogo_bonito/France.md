@@ -2,7 +2,7 @@
 title: "How France and Football Show Us That Embracing Newcomers Is a Win-Win for Everyone"
 date: "2025-02-06"
 tags: ['Immigration', 'Diversity', 'Inclusion', 'Sports', 'Football', 'France', 'Culture', 'Community', 'Success']
-draft: false
+draft: true
 summary: "France’s success in football is a reflection of its inclusive approach to immigration. This article explores how embracing newcomers strengthens a nation—on and off the field."
 images: ['https://www.rics-notebook.com/articleimage/jogo_bonito/France.webp']
 ---
@@ -68,5 +68,7 @@ Whether it’s in football or in life, **inclusion is a game-changer**. And if t
 ---
 
 What do you think? Would love to hear your take! Should more countries follow France’s lead? ⚽🇫🇷💙
+
+https://www.govcon.me/blog/Relations/SpaceRace
 
 https://youtube.com/clip/UgkxrZx0C6qZV9Ba92bFKg6LcJ20yf1Acj1j?si=6P12IhQ2rEwvQ8dB
