@@ -2,7 +2,7 @@
 title: "How France and Football Show Us That Embracing Newcomers Is a Win-Win for Everyone"
 date: "2025-02-06"
 tags: ['Immigration', 'Diversity', 'Inclusion', 'Sports', 'Football', 'France', 'Culture', 'Community', 'Success']
-draft: true
+draft: false 
 summary: "France’s success in football is a reflection of its inclusive approach to immigration. This article explores how embracing newcomers strengthens a nation—on and off the field."
 images: ['https://www.rics-notebook.com/articleimage/jogo_bonito/France.webp']
 ---
