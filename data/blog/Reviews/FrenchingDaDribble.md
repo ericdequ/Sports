@@ -1,11 +1,10 @@
 ---
 title: 'Revolutionary Baller Life'
 date: '2025-04-02'
-tags: ['sports', 'freedom', 'ownership', 'athlete-empowerment']
+tags: ['sports', 'freedom', 'ownership', 'empowerment']
 draft: false
-summary: 'American sports from outdated power structures.vExploring how athletes like Kaepernick, LeBron, and Ja Morant have challenged systemic injustice,
-  this essay calls for a new era of player-led leagues, freedom of expression, People First Player Empowerment'
-images: ['', '']
+summary: 'American sports from outdated power structures. Exploring how athletes like Kaepernick, LeBron, and Ja Morant have challenged systemic injustice,Lets Explore The Possibility of a new era of player-led leagues, freedom of expression, People First Player Empowerment'
+images: ['/KingJa.png']
 ---
 
 ## Revolutionary Baller Life
@@ -163,3 +162,18 @@ About doing something better—even when it’s hard. Especially when it’s har
 LAPARKa dont give up your Merman Voice, Riding LA's Buss's  
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/TbElPXIId7E?si=QsuajuidfHXqDKoj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+
+
+Lets reward Our National Team Players Like Matt Turner, With Teams & Academies of Their Own Maybe USL or second division MLS Teams and we could build a regulation system like Europe.
+
+These Players can then help train the Youth leading to better entertainment, better players, more Money!
+
+Also having more money in second division leauges mean that we can retain Americas best talent so we dont have Stars like Gio Reyna, Christian Pulisic, Going to Play over sees, Lets Keep our most Valuable State Side.
+
+We can see European Basketball leauges allowing players to be professional younger, has had profound effects for the development of players such as LUKA, WEMBY, JOKA, EMBIID, KOBE  is why USA has 1 out of the Top 5 Players In The NBA.
+
+2 If we didnt suspend JA for his 2nd Amendment Rights.
+
+
+<blockquote class="tiktok-embed" cite="https://www.tiktok.com/@sharerandomvids/video/7221564420969811246" data-video-id="7221564420969811246" style="max-width: 605px;min-width: 325px;" > <section> <a target="_blank" title="@sharerandomvids" href="https://www.tiktok.com/@sharerandomvids?refer=embed">@sharerandomvids</a> Younger Joel Embiid was wild 😂        <a title="joelembiid" target="_blank" href="https://www.tiktok.com/tag/joelembiid?refer=embed">#joelembiid</a> <a title="nba" target="_blank" href="https://www.tiktok.com/tag/nba?refer=embed">#nba</a> <a title="playoffs" target="_blank" href="https://www.tiktok.com/tag/playoffs?refer=embed">#playoffs</a> <a title="trending" target="_blank" href="https://www.tiktok.com/tag/trending?refer=embed">#trending</a> <a title="fyp" target="_blank" href="https://www.tiktok.com/tag/fyp?refer=embed">#fyp</a> <a title="basketball" target="_blank" href="https://www.tiktok.com/tag/basketball?refer=embed">#basketball</a> <a title="throwback" target="_blank" href="https://www.tiktok.com/tag/throwback?refer=embed">#throwback</a> <a target="_blank" title="♬ Love You So - The King Khan &#38; BBQ Show" href="https://www.tiktok.com/music/Love-You-So-7096858059892328450?refer=embed">♬ Love You So - The King Khan &#38; BBQ Show</a> </section> </blockquote> <script async src="https://www.tiktok.com/embed.js"></script>

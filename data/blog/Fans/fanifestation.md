@@ -3,8 +3,8 @@ title: "The Power of the 6th & 12th Man: How Fans Shape the Game"
 date: "2025-03-02"
 tags: ['Sports', 'Psychology', 'Home Field Advantage', 'Music', 'Fan Culture', 'Mental Toughness']
 draft: false
-summary: "Home-field advantage isn't just a myth—it's a science. From the roar of the crowd to rhythmic chants, the impact of fans on players is undeniable. But while some athletes thrive under the pressure, others crumble. What makes the difference?"
-images: ['https://www.example.com/stadium_crowd.webp']
+summary: "Home-field advantage isn't just a myth—its a science. From the roar of the crowd to rhythmic chants, the impact of fans on players is undeniable. But while some athletes thrive under the pressure, others crumble. What makes the difference?"
+images: ['/LSwampDe.png']
 ---
 
 # **The Power of the 6th & 12th Man: How Fans Shape the Game**
