@@ -5,7 +5,7 @@ date: '2025-04-02'
 tags: ['sports', 'freedom', 'ownership', 'empowerment']
 draft: false
 summary: 'American sports from outdated power structures. Exploring how athletes like Collin, LeBron, and Ja Morant have challenged systemic injustice,Lets Explore The Possibility of a new era of player-led leagues, freedom of expression, People First Player Empowerment'
-images: ['/KingJa.png']
+images: ['https://www.sportstips.org/KingJa.png']
 
 ---
 
