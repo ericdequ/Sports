@@ -4,7 +4,7 @@ date: '2025-04-30'
 tags: ['electric boats', 'wakeboarding', 'hydro turbines', 'micro windmills', 'marine AI', 'sustainable watercraft', 'lake technology', 'boating innovation', 'reversible energy systems']  
 draft: false  
 summary: "The PARC 3000S isn’t just a boat—it’s an autonomous, electric, AI-tuned hydro-turbine beast. From micro windmill sails to reversible water-to-air propulsion systems, it's redefining the future of wake, water, and wonder."  
-images: ['https://www.quantumcreativesolutions.org/arbor/parc1.png']  
+images: ['https://www.quantumcybersolutions.org/arbor/parc1.png']  
 ---
 
 # 🚤 Introducing the PARC 3000S: The Intelligent Electric Wake Boat that Charges Itself

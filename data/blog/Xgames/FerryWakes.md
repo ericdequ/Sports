@@ -6,7 +6,7 @@ tags: ['boat sharing', 'decentralized apps', 'sustainable mobility', 'lake touri
 draft: false  
 summary: "Introducing a decentralized boat-sharing network that turns local ferries, idle pontoons, and superhero dock tours into income streams. It’s Uber, Airbnb, and Pokémon Go—on water."  
 
-images: ['https://www.quantumcreativesolutions.org/articleimage/DockToDock/BoatCNBNetwork.webp']  
+images: ['https://www.quantumcybersolutions.org/articleimage/DockToDock/BoatCNBNetwork.webp']  
 ---
 
 # 🚤 Dock to Dock: The Decentralized Boat Ferry and Tour Network
