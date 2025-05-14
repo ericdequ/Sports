@@ -1,4 +1,5 @@
-title: "Ocho: The People’s Sports Network — Built for the Athletes You Know"  
+---
+title: "Ocho: The Peoples Sports Network — Built for the Athletes You Know"  
 date: '2025-05-12'  
 tags: ['sports streaming', 'minor leagues', 'amateur sports', 'youth athletics', 'celebrity matches', 'community broadcasting', 'NIL recruiting', 'decentralized media', 'next-gen ESPN']  
 draft: false  

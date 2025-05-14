@@ -1,3 +1,4 @@
+---
 title: "Wake Winch: Modular Towing & Floating Zipline for Jet Skis, Tubes, and Wake Parks"  
 date: '2025-05-12'  
 tags: ['wakeboarding', 'boat accessories', 'aquatic sports', 'modular winch system', 'floating skate park', 'lake lifestyle', 'tow ropes', 'water zipline', 'wake innovation']  
