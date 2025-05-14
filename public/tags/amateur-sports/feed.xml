@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Sports Tips</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Get Informed, Get Ahead, Get Winning!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</webMaster>
+      <lastBuildDate>Mon, 12 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/amateur-sports/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Xgames/OchoSports</guid>
+    <title>Ocho: The Peoples Sports Network — Built for the Athletes You Know</title>
+    <link>https://www.sportstips.org/blog/Xgames/OchoSports</link>
+    
+    <description>Ocho is the streaming platform that levels the playing field—bringing underground leagues, high school legends, and Sunday warriors to your screen. Powered by community broadcasters and fueled by passion, this is sports... reimagined.</description>
+    <pubDate>Mon, 12 May 2025 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</author>
+    <category>sports streaming</category><category>minor leagues</category><category>amateur sports</category><category>youth athletics</category><category>celebrity matches</category><category>community broadcasting</category><category>NIL recruiting</category><category>decentralized media</category><category>next-gen ESPN</category>
+    <image> https://www.quantumcybersolutions.org/arbor/ocho1.png</image>
+  </item>
+
+    </channel>
+  </rss>

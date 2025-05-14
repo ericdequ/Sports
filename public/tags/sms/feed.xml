@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Sports Tips</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Get Informed, Get Ahead, Get Winning!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</webMaster>
+      <lastBuildDate>Fri, 02 May 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/sms/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/Fans/PBP</guid>
+    <title>PlayByPlay AI: SMS &amp; Email to Instant Meme Moments</title>
+    <link>https://www.sportstips.org/blog/Fans/PBP</link>
+    
+    <description>Imagine texting a score or emailing your favorite live‑event details and instantly receiving the perfect memeable highlight—PlayByPlay AI turns any live TV moment into shareable gold via SMS or email.</description>
+    <pubDate>Fri, 02 May 2025 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</author>
+    <category>AI</category><category>SMS</category><category>Email</category><category>MVP</category><category>sports tech</category><category>memes</category>
+    <image> https://www.rics-notebook.com/blow.jpg</image>
+  </item>
+
+    </channel>
+  </rss>
