@@ -4,7 +4,7 @@ date: '2025-05-12'
 tags: ['fitness tech', 'clean energy', 'kinetic charging', 'peloton innovation', 'energy harvesting', 'sustainable gyms', 'home power generation', 'green lifestyle', 'smart bikes']  
 draft: false  
 summary: "Introducing the KinetiCycle—an electric Peloton-style bike that transforms your workout into a power source. Burn calories, charge batteries, and turn kinetic energy into clean electricity, one spin session at a time."  
-images: ['https://www.quantumcybersolutions.org/energy/kineticycle.png']  
+images: ['https://www.quantumcybersolutions.com/energy/kineticycle.png']  
 ---
 
 # 🚴‍♂️ The Power Cycle: Generate Electricity While You Ride with the KinetiCycle

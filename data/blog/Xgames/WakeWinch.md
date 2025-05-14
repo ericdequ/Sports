@@ -4,7 +4,7 @@ date: '2025-05-12'
 tags: ['wakeboarding', 'boat accessories', 'aquatic sports', 'modular winch system', 'floating skate park', 'lake lifestyle', 'tow ropes', 'water zipline', 'wake innovation']  
 draft: false  
 summary: "Introducing Wake Winch—a versatile, boat-mounted winch system that turns any lake into a playground. Tow in jet skis, link boats into floating wake parks, or zipline across the water with this plug-and-play aquatic invention."  
-images: ['https://www.quantumcybersolutions.org/arbor/wakewinch1.png']  
+images: ['https://www.quantumcybersolutions.com/arbor/wakewinch1.png']  
 ---
 
 # 🧲 Wake Winch: The Modular System That Turns Boats into Floating Amusement Parks

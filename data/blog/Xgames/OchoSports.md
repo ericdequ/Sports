@@ -4,7 +4,7 @@ date: '2025-05-12'
 tags: ['sports streaming', 'minor leagues', 'amateur sports', 'youth athletics', 'celebrity matches', 'community broadcasting', 'NIL recruiting', 'decentralized media', 'next-gen ESPN']  
 draft: false  
 summary: "Ocho is the streaming platform that levels the playing field—bringing underground leagues, high school legends, and Sunday warriors to your screen. Powered by community broadcasters and fueled by passion, this is sports... reimagined."  
-images: ['https://www.quantumcybersolutions.org/arbor/ocho1.png']  
+images: ['https://www.quantumcybersolutions.com/arbor/ocho1.png']  
 ---
 
 # 🏆 Ocho: The People’s Sports Network — Built for the Athletes You Know
