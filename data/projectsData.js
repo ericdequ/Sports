@@ -38,7 +38,7 @@ const projectsData = [
     description:
       'A platform that allows anyone to commentate games and makes it super easy to switch commentators, allowing for local people, college students get experience commentating sports games, like a stream ',
     url: 'https://www.quantumcybersolutions.com/',
-    imgSrc: 'https://www.quantumcybersolutions.com/entanglement.webp',
+    imgSrc: 'https://rikara.vercel.app/2.webp',
   },
 
 ]
