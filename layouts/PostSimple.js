@@ -8,7 +8,7 @@ import formatDate from '@/lib/utils/formatDate'
 import Comments from '@/components/comments'
 import ScrollTopAndComment from '@/components/ScrollTopAndComment'
 
-export default function PostLayout({ frontMatter, authorDetails, next, prev, children }) {
+export default function PostLayout({ frontMatter, authorDetails, next, prev, children, images }) {
   const { date, title } = frontMatter
 
   const variants = {
@@ -23,6 +23,17 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
       <article>
         <div>
           <header>
+            {images && images.length > 0 && (
+              <div className="absolute inset-0 z-0">
+                <img
+                  src={images[0]}
+                  alt={title}
+                  layout="fill"
+                  objectFit="cover"
+                  className="opacity-50 dark:opacity-30"
+                />
+              </div>
+            )}
             <motion.div
               className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700 overflow-x-hidden overflow-y-hidden"
               variants={variants}

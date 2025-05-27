@@ -42,6 +42,17 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           transition={{ duration: 0.6, delay: 0.2 }}
         >
           <header className="pt-6 xl:pb-6">
+            {images && images.length > 0 && (
+              <div className="absolute inset-0 z-0">
+                <img
+                  src={images[0]}
+                  alt={title}
+                  layout="fill"
+                  objectFit="cover"
+                  className="opacity-50 dark:opacity-30"
+                />
+              </div>
+            )}
             <div className="space-y-1 text-center">
               <dl className="space-y-10">
                 <div>
