@@ -4,7 +4,7 @@ date: '2025-05-02'
 tags: ['AI', 'SMS', 'Email', 'MVP', 'sports tech', 'memes']  
 draft: false  
 summary: "Imagine texting a score or emailing your favorite live‑event details and instantly receiving the perfect memeable highlight—PlayByPlay AI turns any live TV moment into shareable gold via SMS or email."  
-images: ['https://www.rics-notebook.com/blow.jpg']  
+images: ['https://www.rics-notebook.com/blow.png']  
 
 ---
 

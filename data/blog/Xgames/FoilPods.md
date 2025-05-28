@@ -4,7 +4,7 @@ date: '2025-04-30'
 tags: ['electric foils', 'renewable watercraft', 'foil charging', 'modular boats', 'electric marine toys', 'self-charging systems', 'hydro innovation', 'sustainable design']  
 draft: false  
 summary: "What if your hydrofoil, jet toy, or sub-board wasn’t just fun—but also recharged the boat that launched it? Introducing FoilPods: modular, rideable, energy-reversible electric watercraft that turn every splash into backup power."  
-images: ['https://www.quantumcybersolutions.com/boat/ReverseRideCharge.webp']  
+images: ['https://www.quantumcybersolutions.com/boat/ReverseRideCharge.png']  
 ---
 
 # 🧲 FoilPods: Ride, Recharge, Repeat – The Future of Reversible Electric Water Toys
