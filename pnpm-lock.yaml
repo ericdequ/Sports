@@ -35,6 +35,9 @@ importers:
       axios:
         specifier: ^1.7.7
         version: 1.9.0
+      canvas:
+        specifier: ^3.1.0
+        version: 3.1.0
       dotenv:
         specifier: ^16.4.5
         version: 16.5.0
@@ -61,19 +64,19 @@ importers:
         version: 8.1.0(esbuild@0.13.15)
       next:
         specifier: 14.2.3
-        version: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-mdx-enhanced:
         specifier: ^5.0.0
-        version: 5.0.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
+        version: 5.0.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1)
       next-pwa:
         specifier: ^5.6.0
-        version: 5.6.0(@babel/core@7.12.9)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.7(esbuild@0.13.15))
+        version: 5.6.0(@babel/core@7.27.1)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.7(esbuild@0.13.15))
       next-seo:
         specifier: ^6.6.0
-        version: 6.6.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 6.6.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       next-themes:
         specifier: ^0.0.14
-        version: 0.0.14(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+        version: 0.0.14(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       node-polyfill-webpack-plugin:
         specifier: ^3.0.0
         version: 3.0.0(webpack@5.99.7(esbuild@0.13.15))
@@ -158,7 +161,7 @@ importers:
         version: 7.32.0
       eslint-config-next:
         specifier: 12.1.4
-        version: 12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5)
+        version: 12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5)
       eslint-config-prettier:
         specifier: ^8.10.0
         version: 8.10.0(eslint@7.32.0)
@@ -1835,6 +1838,10 @@ packages:
   caniuse-lite@1.0.30001716:
     resolution: {integrity: sha512-49/c1+x3Kwz7ZIWt+4DvK3aMJy9oYXXG6/97JKsnjdCk/6n9vVyWL8NAwVt95Lwt9eigI10Hl782kDfZUUlRXw==}
 
+  canvas@3.1.0:
+    resolution: {integrity: sha512-tTj3CqqukVJ9NgSahykNwtGda7V33VLObwrHfzT0vqJXu7J4d4C/7kQQW3fOEGDfZZoILPut5H00gOjyttPGyg==}
+    engines: {node: ^18.12.0 || >= 20.9.0}
+
   ccount@1.1.0:
     resolution: {integrity: sha512-vlNK021QdI7PNeiUh/lKkC/mNHHfV0m/Ad5JoI0TYtlBnJAslM/JIkm/tGC88bkLIwO6OQ5uV6ztS6kVAtCDlg==}
 
@@ -2231,6 +2238,10 @@ packages:
   decompress-response@4.2.1:
     resolution: {integrity: sha512-jOSne2qbyE+/r8G1VU+G/82LBs2Fs4LAsTiLSHOCOMZQl2OKZ6i8i4IyHemTe+/yIXOtTcRQMzPcgyhoFlqPkw==}
     engines: {node: '>=8'}
+
+  decompress-response@6.0.0:
+    resolution: {integrity: sha512-aW35yZM6Bb/4oJlZncMH2LCoZtJXTRxES17vE3hoRiowU2kWHaJKFkSBDnDR+cm9J+9QhXmREyIfv0pji9ejCQ==}
+    engines: {node: '>=10'}
 
   dedent@0.7.0:
     resolution: {integrity: sha512-Q6fKUPqnAHAyhiUgFU7BUzLiv0kd8saH9al7tnu5Q/okj6dnupxyTgFIBjVzJATdfIAm9NAsvXNzjaKa+bxVyA==}
@@ -4174,6 +4185,10 @@ packages:
     resolution: {integrity: sha512-wXqjST+SLt7R009ySCglWBCFpjUygmCIfD790/kVbiGmUgfYGuB14PiTd5DwVxSV4NcYHjzMkoj5LjQZwTQLEA==}
     engines: {node: '>=8'}
 
+  mimic-response@3.1.0:
+    resolution: {integrity: sha512-z0yWI+4FDrrweS8Zmt4Ej5HdJmky15+L2e6Wgn3+iK5fWzb6T3fhNFq2+MeTRb064c6Wr4N/wv0DzQTjNzHNGQ==}
+    engines: {node: '>=10'}
+
   mini-svg-data-uri@1.4.4:
     resolution: {integrity: sha512-r9deDe9p5FJUPZAk3A59wGH7Ii9YrjjWw0jmw/liSbHl2CHiyXj6FcDXDu2K3TjVAXqiJdaw3xxwlZZr9E6nHg==}
     hasBin: true
@@ -4266,6 +4281,9 @@ packages:
   napi-build-utils@1.0.2:
     resolution: {integrity: sha512-ONmRUqK7zj7DWX0D9ADe03wbwOBZxNAfF20PlGfCWQcD3+/MakShIHrMqx9YwPTfxDdF1zLeL+RGZiR9kGMLdg==}
 
+  napi-build-utils@2.0.0:
+    resolution: {integrity: sha512-GEbrYkbfF7MoNaoh2iGG84Mnf/WZfB0GdGEsM8wz7Expx/LlWf5U8t9nvJKXSp3qr5IsEbK04cBGhol/KwOsWA==}
+
   natural-compare@1.4.0:
     resolution: {integrity: sha512-OWND8ei3VtNC9h7V60qff3SVobHr996CTwgxubgyQYEpg290h9J0buyECNNJexkFm5sOajh5G116RYA1c8ZMSw==}
 
@@ -4325,11 +4343,18 @@ packages:
   node-abi@2.30.1:
     resolution: {integrity: sha512-/2D0wOQPgaUWzVSVgRMx+trKJRC2UG4SUc4oCJoXx9Uxjtp0Vy3/kt7zcbxHF8+Z/pK3UloLWzBISg72brfy1w==}
 
+  node-abi@3.75.0:
+    resolution: {integrity: sha512-OhYaY5sDsIka7H7AtijtI9jwGYLyl29eQn/W623DiN/MIv5sUqc4g7BIDThX+gb7di9f6xK02nkp8sdfFWZLTg==}
+    engines: {node: '>=10'}
+
   node-addon-api@1.7.2:
     resolution: {integrity: sha512-ibPK3iA+vaY1eEjESkQkM0BbCqFOaZMiXRTtdB0u7b4djtY6JnsjvPdUHVMg6xQt3B8fpTTWHI9A+ADjM9frzg==}
 
   node-addon-api@3.2.1:
     resolution: {integrity: sha512-mmcei9JghVNDYydghQmeDX8KoAm0FAiYyIcUt/N4nhyAipB17pllZQDOJD2fotxABnt4Mdz+dKTO7eftLg4d0A==}
+
+  node-addon-api@7.1.1:
+    resolution: {integrity: sha512-5m3bsyrjFWE1xf7nz7YXdN4udnVtXK6/Yfgn5qnahL6bCkf2yKt4k3nuTKAtT4r3IG8JNR2ncsIMdZuAzJjHQQ==}
 
   node-domexception@1.0.0:
     resolution: {integrity: sha512-/jKZoMpw0F8GRwl4/eLROPA3cfcXtLApP0QzLmUT/HuPCZWyB7IY9ZrMeKw2O/nFIqPQB3PVM9aYm0F312AXDQ==}
@@ -4761,6 +4786,11 @@ packages:
   prebuild-install@6.1.4:
     resolution: {integrity: sha512-Z4vpywnK1lBg+zdPCVCsKq0xO66eEV9rWo2zrROGGiRS4JtueBOdlB1FnY8lcy7JsUud/Q3ijUxyWN26Ika0vQ==}
     engines: {node: '>=6'}
+    hasBin: true
+
+  prebuild-install@7.1.3:
+    resolution: {integrity: sha512-8Mf2cbV7x1cXPUILADGI3wuhfqWvtiLA1iclTDbFRZkgRQS0NqsPZphna9V+HyTEadheuPmjaJMsbzKQFOzLug==}
+    engines: {node: '>=10'}
     hasBin: true
 
   prebuild-webpack-plugin@1.1.1:
@@ -5295,6 +5325,9 @@ packages:
 
   simple-get@3.1.1:
     resolution: {integrity: sha512-CQ5LTKGfCpvE1K0n2us+kuMPbk/q0EKl82s4aheV9oXjFEz6W/Y7oQFVJuU6QG77hRT4Ghb5RURteF5vnWjupA==}
+
+  simple-get@4.0.1:
+    resolution: {integrity: sha512-brv7p5WgH0jmQJr1ZDDfKDOSeWWg+OVypG99A/5vYGPqJ6pxiaHLy8nxtFjBA7oMa01ebA9gfh1uMCFqOuXxvA==}
 
   simple-swizzle@0.2.2:
     resolution: {integrity: sha512-JA//kQgZtbuY83m+xT+tXJkmJncGMTFT+C+g2h2R9uxkYIrE2yy9sgmcLhCnw57/WSD+Eh3J97FPEDFnbXnDUg==}
@@ -8038,9 +8071,9 @@ snapshots:
 
   axobject-query@2.2.0: {}
 
-  babel-loader@8.4.1(@babel/core@7.12.9)(webpack@5.99.7(esbuild@0.13.15)):
+  babel-loader@8.4.1(@babel/core@7.27.1)(webpack@5.99.7(esbuild@0.13.15)):
     dependencies:
-      '@babel/core': 7.12.9
+      '@babel/core': 7.27.1
       find-cache-dir: 3.3.2
       loader-utils: 2.0.4
       make-dir: 3.1.0
@@ -8260,6 +8293,11 @@ snapshots:
   camelcase@6.3.0: {}
 
   caniuse-lite@1.0.30001716: {}
+
+  canvas@3.1.0:
+    dependencies:
+      node-addon-api: 7.1.1
+      prebuild-install: 7.1.3
 
   ccount@1.1.0: {}
 
@@ -8627,6 +8665,10 @@ snapshots:
   decompress-response@4.2.1:
     dependencies:
       mimic-response: 2.1.0
+
+  decompress-response@6.0.0:
+    dependencies:
+      mimic-response: 3.1.0
 
   dedent@0.7.0: {}
 
@@ -9096,7 +9138,7 @@ snapshots:
 
   escape-string-regexp@5.0.0: {}
 
-  eslint-config-next@12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5):
+  eslint-config-next@12.1.4(eslint@7.32.0)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(typescript@4.9.5):
     dependencies:
       '@next/eslint-plugin-next': 12.1.4
       '@rushstack/eslint-patch': 1.0.8
@@ -9108,7 +9150,7 @@ snapshots:
       eslint-plugin-jsx-a11y: 6.5.1(eslint@7.32.0)
       eslint-plugin-react: 7.29.1(eslint@7.32.0)
       eslint-plugin-react-hooks: 4.3.0(eslint@7.32.0)
-      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
     optionalDependencies:
       typescript: 4.9.5
     transitivePeerDependencies:
@@ -11098,6 +11140,8 @@ snapshots:
 
   mimic-response@2.1.0: {}
 
+  mimic-response@3.1.0: {}
+
   mini-svg-data-uri@1.4.4: {}
 
   minimalistic-assert@1.0.1: {}
@@ -11172,13 +11216,15 @@ snapshots:
 
   napi-build-utils@1.0.2: {}
 
+  napi-build-utils@2.0.0: {}
+
   natural-compare@1.4.0: {}
 
   negotiator@0.6.3: {}
 
   neo-async@2.6.2: {}
 
-  next-mdx-enhanced@5.0.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1):
+  next-mdx-enhanced@5.0.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react@18.3.1):
     dependencies:
       '@babel/core': 7.27.1
       '@mdx-js/loader': 1.6.22(react@18.3.1)
@@ -11187,19 +11233,19 @@ snapshots:
       glob: 7.2.3
       gray-matter: 4.0.3
       loader-utils: 2.0.4
-      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       prebuild-webpack-plugin: 1.1.1
       stringify-object: 3.3.0
     transitivePeerDependencies:
       - react
       - supports-color
 
-  next-pwa@5.6.0(@babel/core@7.12.9)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.7(esbuild@0.13.15)):
+  next-pwa@5.6.0(@babel/core@7.27.1)(esbuild@0.13.15)(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(webpack@5.99.7(esbuild@0.13.15)):
     dependencies:
-      babel-loader: 8.4.1(@babel/core@7.12.9)(webpack@5.99.7(esbuild@0.13.15))
+      babel-loader: 8.4.1(@babel/core@7.27.1)(webpack@5.99.7(esbuild@0.13.15))
       clean-webpack-plugin: 4.0.0(webpack@5.99.7(esbuild@0.13.15))
       globby: 11.1.0
-      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       terser-webpack-plugin: 5.3.14(esbuild@0.13.15)(webpack@5.99.7(esbuild@0.13.15))
       workbox-webpack-plugin: 6.6.0(webpack@5.99.7(esbuild@0.13.15))
       workbox-window: 6.6.0
@@ -11222,19 +11268,19 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  next-seo@6.6.0(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  next-seo@6.6.0(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
-      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  next-themes@0.0.14(next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  next-themes@0.0.14(next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1))(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
-      next: 14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
+      next: 14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
 
-  next@14.2.3(@babel/core@7.12.9)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
+  next@14.2.3(@babel/core@7.27.1)(react-dom@18.3.1(react@18.3.1))(react@18.3.1):
     dependencies:
       '@next/env': 14.2.3
       '@swc/helpers': 0.5.5
@@ -11244,7 +11290,7 @@ snapshots:
       postcss: 8.4.31
       react: 18.3.1
       react-dom: 18.3.1(react@18.3.1)
-      styled-jsx: 5.1.1(@babel/core@7.12.9)(react@18.3.1)
+      styled-jsx: 5.1.1(@babel/core@7.27.1)(react@18.3.1)
     optionalDependencies:
       '@next/swc-darwin-arm64': 14.2.3
       '@next/swc-darwin-x64': 14.2.3
@@ -11263,10 +11309,16 @@ snapshots:
     dependencies:
       semver: 5.7.2
 
+  node-abi@3.75.0:
+    dependencies:
+      semver: 7.7.1
+
   node-addon-api@1.7.2:
     optional: true
 
   node-addon-api@3.2.1: {}
+
+  node-addon-api@7.1.1: {}
 
   node-domexception@1.0.0: {}
 
@@ -11730,6 +11782,21 @@ snapshots:
       pump: 3.0.2
       rc: 1.2.8
       simple-get: 3.1.1
+      tar-fs: 2.1.2
+      tunnel-agent: 0.6.0
+
+  prebuild-install@7.1.3:
+    dependencies:
+      detect-libc: 2.0.4
+      expand-template: 2.0.3
+      github-from-package: 0.0.0
+      minimist: 1.2.8
+      mkdirp-classic: 0.5.3
+      napi-build-utils: 2.0.0
+      node-abi: 3.75.0
+      pump: 3.0.2
+      rc: 1.2.8
+      simple-get: 4.0.1
       tar-fs: 2.1.2
       tunnel-agent: 0.6.0
 
@@ -12605,6 +12672,12 @@ snapshots:
       once: 1.4.0
       simple-concat: 1.0.1
 
+  simple-get@4.0.1:
+    dependencies:
+      decompress-response: 6.0.0
+      once: 1.4.0
+      simple-concat: 1.0.1
+
   simple-swizzle@0.2.2:
     dependencies:
       is-arrayish: 0.3.2
@@ -12850,12 +12923,12 @@ snapshots:
       hey-listen: 1.0.8
       tslib: 2.8.1
 
-  styled-jsx@5.1.1(@babel/core@7.12.9)(react@18.3.1):
+  styled-jsx@5.1.1(@babel/core@7.27.1)(react@18.3.1):
     dependencies:
       client-only: 0.0.1
       react: 18.3.1
     optionalDependencies:
-      '@babel/core': 7.12.9
+      '@babel/core': 7.27.1
 
   sucrase@3.35.0:
     dependencies:
