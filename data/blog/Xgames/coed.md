@@ -4,8 +4,7 @@ date: '2025-07-08'
 tags: ['Inclusive Sports', 'Trans Rights', 'HGH Ethics', 'Body Sovereignty', 'Coed Leagues']
 draft: false
 summary: 'Imagine a league with no gender restrictions, no drug testing, and no shame. The Post-Gender League welcomes trans athletes, embraces hormonal science as empowerment, and redefines what fair play really means. This is sports beyond binaries.'
-
-images: ['https://www.sportstips.org/articleimage/jrgareth.png']
+images: ['https://www.sportstips.org/articleimage/coed.png']
 ---
 
 ## ⚖️ Welcome to the Future of Sports
