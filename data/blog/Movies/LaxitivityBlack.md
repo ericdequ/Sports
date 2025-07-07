@@ -4,7 +4,7 @@ date: '2025-07-07'
 tags: ['Lacrosse', 'Black Excellence', 'Buddy Comedy', 'Alt-Sports', 'Atlanta Vibes', 'LAX', 'Hockey', 'Football']
 draft: false
 summary: 'A coming-of-age alt-sports saga where brotherhood, scholarship, and icy dreams meet in a Princeton fieldhouse. From lax to law to the NHL—this is the epic tale of how two friends rewrote the script of race, class, and dreams through the most unlikely team sport pairings.'
-images: [https://www.sportstips.org/articleimage/laxblack.png']
+images: ['https://www.sportstips.org/articleimage/laxblack.png']
 ---
 
 ## 🥍 The Premise: *Laxitivitily Black*

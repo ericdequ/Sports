@@ -1,0 +1,26 @@
+
+  <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+      <title>Sports Tips</title>
+      <link>https://www.sportstips.org/blog</link>
+      <description>Get Informed, Get Ahead, Get Winning!</description>
+      <language>en-us</language>
+      <managingEditor>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</managingEditor>
+      <webMaster>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</webMaster>
+      <lastBuildDate>Sun, 06 Jul 2025 00:00:00 GMT</lastBuildDate>
+      <atom:link href="https://www.sportstips.org/tags/sports-merch/feed.xml" rel="self" type="application/rss+xml"/>
+      
+  <item>
+    <guid>https://www.sportstips.org/blog/inventions/fanocracy</guid>
+    <title>AI Factories, Fan Designers, and the Rise of the Custom Sports Economy 🤖👟🥍</title>
+    <link>https://www.sportstips.org/blog/inventions/fanocracy</link>
+    
+    <description>From custom cleats to clean-energy stadiums, were entering a new era of fan-powered sports economics. With AI factories enabling hyper-personalized gear, fans are evolving into designers, resellers, and freelance marketers—transforming the landscape of athlete branding and community-driven infrastructure.</description>
+    <pubDate>Sun, 06 Jul 2025 00:00:00 GMT</pubDate>
+    <author>contact@quantumcybersolutions.com (Quantum Cyber Solutions)</author>
+    <category>AI Factories</category><category>Sports Merch</category><category>Fan Economy</category><category>Custom Cleats</category><category>Sustainable Infrastructure</category>
+    <image> https://www.sportstips.org/articleimage/laxblack.png</image>
+  </item>
+
+    </channel>
+  </rss>
