@@ -3,7 +3,7 @@ title: 'FounderFranchises: The Future of Fan-Owned Sports, Streaming Parks, and 
 date: '2025-07-07'
 tags: ['FounderFranchise', 'Community Sports', 'Sunday League', 'Stadium Infrastructure', 'Clean Energy Initiative']
 draft: false
-summary: 'What if you didn’t just watch your favorite team—you founded it? From free-roaming fans funding local clubs, to parks equipped with streaming cameras and clean-powered stadiums, the rise of FounderFranchises is reshaping the economics, ethics, and energy of sport.'
+summary: 'What if you didnt just watch your favorite team—you founded it? From free-roaming fans funding local clubs, to parks equipped with streaming cameras and clean-powered stadiums, the rise of FounderFranchises is reshaping the economics, ethics, and energy of sport.'
 images: ['https://www.rics-notebook.com/articleimage/FounderFranchise/fanownedstadium.webp']
 ---
 
