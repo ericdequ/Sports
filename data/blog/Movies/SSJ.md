@@ -4,7 +4,7 @@ date: '2025-07-07'
 tags: ['Soccer Mythology', 'Alt-History', 'Plant Spirits', 'Sports Revolution', 'Soccer']
 draft: false
 summary: 'From Willy Wonka conspiracies in Argentina to plant spirit-fueled revolutions in global football, this surreal sports odyssey reimagines how the soul of the game rises up against ownership, fossil fuels, and soulless tactics.'
-images: ['https://www.sportstips.org/articleimage/soccerjam.pnp']
+images: ['https://rikara.vercel.app/Realms/Amazon/SJ.webp']
 ---
 
 ## 🌌 The Premise: Soccer Space Jam, But Make It Mystical
