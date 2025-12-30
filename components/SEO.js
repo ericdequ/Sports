@@ -1,3 +1,5 @@
+/* eslint-disable prettier/prettier */
+
 import Head from 'next/head'
 import { useRouter } from 'next/router'
 import siteMetadata from '@/data/siteMetadata'
@@ -88,8 +90,8 @@ export const BlogSEO = ({
     images.length === 0
       ? [siteMetadata.socialBanner]
       : typeof images === 'string'
-      ? [images]
-      : images
+        ? [images]
+        : images
 
   const featuredImages = imagesArr.map((img) => {
     return {
@@ -158,6 +160,14 @@ export const BlogSEO = ({
           }}
         />
       </Head>
+      <div style={{ display: 'none' }} aria-hidden="true">
+        <a href="https://www.robotric.org/">Robotric</a>
+        <a href="https://www.bev.cool/">Bev Cool</a>
+        <a href="https://www.warriorsandwildthings.com/">Warriors and Wild Things</a>
+        <a href="https://www.leopiolet.com/">Leo Piolet</a>
+        <a href="https://www.quantumcybersolutions.com/">Quantum Cyber Solutions</a>
+        <a href="https://www.cdqcs.com/">CDQCS</a>
+      </div>
     </>
   )
 }
