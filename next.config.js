@@ -89,11 +89,6 @@ module.exports = withBundleAnalyzer({
       },
     ]
   },
-  pwa: {
-    dest: 'public',
-    skipWaiting: true,
-    clientsClaim: true,
-  },
   webpack: (config, { dev, isServer }) => {
     config.module.rules.push({
       test: /\.svg$/,

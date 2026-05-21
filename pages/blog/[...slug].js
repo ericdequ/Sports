@@ -1,10 +1,7 @@
-import fs from 'fs'
 import PageTitle from '@/components/PageTitle'
-import generateRss from '@/lib/generate-rss'
 import { MDXLayoutRenderer } from '@/components/MDXComponents'
 import { formatSlug, getAllFilesFrontMatter, getFileBySlug, getFiles } from '@/lib/mdx'
 import { motion } from 'framer-motion'
-
 
 const DEFAULT_LAYOUT = 'PostLayout'
 
@@ -33,13 +30,6 @@ export async function getStaticProps({ params }) {
       return authorResults.frontMatter
     })
     const authorDetails = await Promise.all(authorPromise)
-
-    // rss
-    if (allPosts.length > 0) {
-      const rss = generateRss(allPosts)
-      fs.writeFileSync('./public/feed.xml', rss)
-    }
-
     return { props: { post, authorDetails, prev, next } }
   } catch (error) {
     console.error(`Error in getStaticProps for slug ${params.slug.join('/')}:`, error)
@@ -66,7 +56,7 @@ export default function Blog({ post, authorDetails, prev, next }) {
           animate="visible"
           variants={variants}
           transition={{ duration: 0.5, ease: 'easeInOut' }}
-          className={"overflow-x-hidden overflow-y-hidden"}
+          className={'overflow-x-hidden overflow-y-hidden'}
         >
           <MDXLayoutRenderer
             layout={frontMatter.layout || DEFAULT_LAYOUT}

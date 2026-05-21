@@ -1,9 +1,17 @@
 import { useState, useRef } from 'react'
+import Mermaid from './Mermaid'
 
 const Pre = (props) => {
   const textInput = useRef(null)
   const [hovered, setHovered] = useState(false)
   const [copied, setCopied] = useState(false)
+  const codeElement = Array.isArray(props.children) ? props.children[0] : props.children
+  const codeClassName = codeElement?.props?.className || ''
+  const code = codeElement?.props?.children || ''
+
+  if (codeClassName.includes('language-mermaid')) {
+    return <Mermaid chart={String(code).trim()} />
+  }
 
   const onEnter = () => {
     setHovered(true)

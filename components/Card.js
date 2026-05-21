@@ -5,7 +5,13 @@ const Card = ({ title, description, imgSrc, href }) => (
   <div className="overflow-hidden rounded-lg shadow-lg">
     {imgSrc && (
       <div className="relative h-48">
-        <Image alt={title} src={imgSrc} layout="fill" objectFit="cover" className="object-center" />
+        <Image
+          alt={title}
+          src={imgSrc}
+          fill
+          sizes="(min-width: 768px) 33vw, 100vw"
+          className="object-cover object-center"
+        />
       </div>
     )}
     <div className="p-6">

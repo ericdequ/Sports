@@ -41,19 +41,20 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           animate="visible"
           transition={{ duration: 0.6, delay: 0.2 }}
         >
-          <header className="pt-6 xl:pb-6">
+          <header className="relative overflow-hidden rounded-lg px-4 py-16 sm:py-20 xl:my-6">
             {images && images.length > 0 && (
               <div className="absolute inset-0 z-0">
-                <img
+                <Image
                   src={images[0]}
                   alt={title}
-                  layout="fill"
-                  objectFit="cover"
-                  className="opacity-50 dark:opacity-30"
+                  fill
+                  sizes="100vw"
+                  className="opacity-50 dark:opacity-30 object-cover"
+                  priority
                 />
               </div>
             )}
-            <div className="space-y-1 text-center">
+            <div className="relative z-10 space-y-1 text-center">
               <dl className="space-y-10">
                 <div>
                   <dt className="sr-only">Published on</dt>

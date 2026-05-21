@@ -3,6 +3,7 @@ import Link from '@/components/Link'
 import PageTitle from '@/components/PageTitle'
 import SectionContainer from '@/components/SectionContainer'
 import { BlogSEO } from '@/components/SEO'
+import Image from '@/components/Image'
 import siteMetadata from '@/data/siteMetadata'
 import formatDate from '@/lib/utils/formatDate'
 import Comments from '@/components/comments'
@@ -25,12 +26,13 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
           <header>
             {images && images.length > 0 && (
               <div className="absolute inset-0 z-0">
-                <img
+                <Image
                   src={images[0]}
                   alt={title}
-                  layout="fill"
-                  objectFit="cover"
-                  className="opacity-50 dark:opacity-30"
+                  fill
+                  sizes="100vw"
+                  className="opacity-50 dark:opacity-30 object-cover"
+                  priority
                 />
               </div>
             )}
