@@ -17,7 +17,7 @@ export default function AuthorLayout({ children, frontMatter }) {
       <div className="divide-y divide-gray-200 dark:divide-gray-700 overflow-x-hidden overflow-y-hidden">
         <motion.div
           className="space-y-2 pt-6 pb-8 md:space-y-5"
-          initial="hidden"
+          initial={false}
           animate="visible"
           variants={{
             hidden: { opacity: 0, y: 20 },
@@ -31,7 +31,7 @@ export default function AuthorLayout({ children, frontMatter }) {
         <div className="items-start space-y-2 xl:grid xl:grid-cols-3 xl:gap-x-8 xl:space-y-0">
           <motion.div
             className="flex flex-col items-center pt-8"
-            initial="hidden"
+            initial={false}
             animate="visible"
             variants={{
               hidden: { opacity: 0, y: 20 },
@@ -57,7 +57,7 @@ export default function AuthorLayout({ children, frontMatter }) {
           </motion.div>
           <motion.div
             className="prose max-w-none pt-8 pb-8 dark:prose-dark xl:col-span-2"
-            initial="hidden"
+            initial={false}
             animate="visible"
             variants={{
               hidden: { opacity: 0, y: 20 },

@@ -1,24 +1,24 @@
-const withBundleAnalyzer = require('@next/bundle-analyzer')({
+﻿const withBundleAnalyzer = require('@next/bundle-analyzer')({
   enabled: process.env.ANALYZE === 'true',
 })
 
 // You might need to insert additional domains in script-src if you are using external services
 const ContentSecurityPolicy = `
   default-src 'self';
-  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app;
+  script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app utteranc.es;
   style-src 'self' 'unsafe-inline';
   img-src * blob: data:;
   media-src 'none';
   connect-src *;
   font-src 'self';
-  frame-src giscus.app quantumcybersolutions.com; // Added quantumcybersolutions.com here
+  frame-src giscus.app utteranc.es quantumcybersolutions.com; // Added quantumcybersolutions.com here
 `
 
 const securityHeaders = [
   {
     key: 'Content-Security-Policy',
     value:
-      "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app; style-src 'self' 'unsafe-inline'; img-src * blob: data:; media-src 'none'; connect-src *; font-src 'self'; frame-src *;", // Added frame-src *
+      "default-src 'self'; script-src 'self' 'unsafe-eval' 'unsafe-inline' giscus.app utteranc.es; style-src 'self' 'unsafe-inline'; img-src * blob: data:; media-src 'none'; connect-src *; font-src 'self'; frame-src *;", // Added frame-src *
   },
   {
     key: 'Referrer-Policy',

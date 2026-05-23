@@ -1,4 +1,4 @@
-import siteMetadata from '@/data/siteMetadata'
+﻿import siteMetadata from '@/data/siteMetadata'
 import dynamic from 'next/dynamic'
 
 const UtterancesComponent = dynamic(
@@ -20,18 +20,29 @@ const DisqusComponent = dynamic(
   { ssr: false }
 )
 
+const hasValue = (value) => typeof value === 'string' && value.trim().length > 0
+
 const Comments = ({ frontMatter }) => {
   const comment = siteMetadata?.comment
   if (!comment || Object.keys(comment).length === 0) return <></>
+
+  const giscusConfig = comment.giscusConfig || {}
+  const utterancesConfig = comment.utterancesConfig || {}
+  const hasGiscusConfig =
+    hasValue(giscusConfig.repo) &&
+    hasValue(giscusConfig.repositoryId) &&
+    hasValue(giscusConfig.category) &&
+    hasValue(giscusConfig.categoryId)
+  const hasUtterancesConfig =
+    hasValue(utterancesConfig.repo) && hasValue(utterancesConfig.issueTerm)
+  const provider = comment.provider
+
   return (
     <div id="comment">
-      {siteMetadata.comment && siteMetadata.comment.provider === 'giscus' && <GiscusComponent />}
-      {siteMetadata.comment && siteMetadata.comment.provider === 'utterances' && (
-        <UtterancesComponent />
-      )}
-      {siteMetadata.comment && siteMetadata.comment.provider === 'disqus' && (
-        <DisqusComponent frontMatter={frontMatter} />
-      )}
+      {provider === 'giscus' && hasGiscusConfig && <GiscusComponent />}
+      {((provider === 'giscus' && !hasGiscusConfig && hasUtterancesConfig) ||
+        (provider === 'utterances' && hasUtterancesConfig)) && <UtterancesComponent />}
+      {provider === 'disqus' && <DisqusComponent frontMatter={frontMatter} />}
     </div>
   )
 }

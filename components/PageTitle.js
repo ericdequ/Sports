@@ -47,9 +47,9 @@ export default function PageTitle({ children }) {
   return (
     <motion.h1
       variants={container}
-      initial="hidden"
+      initial={false}
       animate="visible"
-      className="text-2xl font-extrabold leading-9 tracking-tight text-gray-900 dark:text-gray-100 sm:text-3xl sm:leading-10 md:text-4xl md:leading-14 lg:text-5xl lg:leading-none xl:text-6xl overflow-hidden"
+      className="overflow-hidden text-balance text-3xl font-black leading-tight text-gray-950 dark:text-white sm:text-4xl md:text-5xl xl:text-6xl"
     >
       <div className="flex flex-wrap justify-center">
         {words.map((word, index) => (

@@ -1,4 +1,4 @@
-const siteMetadata = {
+﻿const siteMetadata = {
   title: 'Sports Tips',
   author: 'Quantum Cyber Solutions',
   headerTitle: `Elevate your Game!`,
@@ -11,7 +11,7 @@ const siteMetadata = {
   image: 'https://www.sportstips.org/loogo.webp',
   socialBanner: 'https://www.sportstips.org/loogo.webp',
   email: 'contact@quantumcybersolutions.com',
-  github: 'https://https://github.com/ericdequ',
+  github: 'https://github.com/ericdequ',
   twitter: '',
   facebook: '',
   youtube: '',
@@ -41,7 +41,7 @@ const siteMetadata = {
     giscusConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://giscus.app/
-      repo: process.env.NEXT_PUBLIC_GISCUS_REPO,
+      repo: process.env.NEXT_PUBLIC_GISCUS_REPO || 'ericdequ/Sports',
       repositoryId: process.env.NEXT_PUBLIC_GISCUS_REPOSITORY_ID,
       category: process.env.NEXT_PUBLIC_GISCUS_CATEGORY,
       categoryId: process.env.NEXT_PUBLIC_GISCUS_CATEGORY_ID,
@@ -66,9 +66,9 @@ const siteMetadata = {
     utterancesConfig: {
       // Visit the link below, and follow the steps in the 'configuration' section
       // https://utteranc.es/
-      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO,
-      issueTerm: '', // supported options: pathname, url, title
-      label: '', // label (optional): Comment 💬
+      repo: process.env.NEXT_PUBLIC_UTTERANCES_REPO || 'ericdequ/Sports',
+      issueTerm: 'pathname', // supported options: pathname, url, title
+      label: 'comments', // label (optional): Comment ðŸ’¬
       // theme example: github-light, github-dark, preferred-color-scheme
       // github-dark-orange, icy-dark, dark-blue, photon-dark, boxy-light
       theme: 'github-dark-orange',

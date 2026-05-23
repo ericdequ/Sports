@@ -39,7 +39,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <motion.div
               className="space-y-1 border-b border-gray-200 pb-10 text-center dark:border-gray-700 overflow-x-hidden overflow-y-hidden"
               variants={variants}
-              initial="hidden"
+              initial={false}
               animate="visible"
               transition={{ duration: 0.6, delay: 0.2 }}
             >
@@ -63,7 +63,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
             <motion.div
               className="divide-y divide-gray-200 dark:divide-gray-700 xl:col-span-3 xl:row-span-2 xl:pb-0"
               variants={variants}
-              initial="hidden"
+              initial={false}
               animate="visible"
               transition={{ duration: 0.6, delay: 0.4 }}
             >
@@ -74,7 +74,7 @@ export default function PostLayout({ frontMatter, authorDetails, next, prev, chi
               <motion.div
                 className="flex flex-col text-sm font-medium sm:flex-row sm:justify-between sm:text-base"
                 variants={variants}
-                initial="hidden"
+                initial={false}
                 animate="visible"
                 transition={{ duration: 0.6, delay: 0.6 }}
               >

@@ -4,7 +4,6 @@ import Tag from '@/components/Tag'
 import { useState } from 'react'
 import Pagination from '@/components/Pagination'
 import formatDate from '@/lib/utils/formatDate'
-import Image from 'next/image'
 
 export default function ListLayout({ posts, title, initialDisplayPosts = [], pagination }) {
   const [searchValue, setSearchValue] = useState('')
@@ -18,17 +17,16 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
 
   return (
     <>
-      <div className="divide-y divide-primary-300 dark:divide-primary-700 overflow-x-hidden overflow-y-hidden">
+      <div className="overflow-x-hidden overflow-y-hidden">
         <motion.div
-          className="space-y-6 pt-6 pb-8 md:space-y-8 text-center"
-          initial={{ opacity: 0, y: 20 }}
+          className="archive-hero"
+          initial={false}
           animate={{ opacity: 1, y: 0 }}
           transition={{ duration: 0.5, delay: 0.2 }}
         >
-          <h1 className="text-4xl font-extrabold leading-10 tracking-tight text-primary-900 dark:text-primary-100 sm:text-5xl sm:leading-12 md:text-6xl md:leading-14">
-            {title}
-          </h1>
-          <div className="relative max-w-lg mx-auto">
+          <p className="hero-eyebrow">Archive</p>
+          <h1 className="hero-title">{title}</h1>
+          <div className="relative mx-auto w-full max-w-xl">
             <label htmlFor="search" className="sr-only">
               Search articles
             </label>
@@ -37,10 +35,10 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
               type="text"
               onChange={(e) => setSearchValue(e.target.value)}
               placeholder="Search articles"
-              className="block w-full rounded-md border border-primary-300 bg-white px-4 py-2 text-primary-900 focus:border-primary-500 focus:ring-primary-500 dark:border-primary-700 dark:bg-primary-500 dark:text-primary-100"
+              className="search-input"
             />
             <svg
-              className="absolute right-3 top-3 h-5 w-5 text-primary-400 dark:text-primary-300"
+              className="absolute right-4 top-1/2 h-5 w-5 -translate-y-1/2 text-gray-400"
               xmlns="http://www.w3.org/2000/svg"
               fill="none"
               viewBox="0 0 24 24"
@@ -66,13 +64,11 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
               },
             },
           }}
-          initial="hidden"
+          initial={false}
           animate="visible"
         >
           {!filteredBlogPosts.length && (
-            <p className="py-4 text-center text-primary-500 dark:text-primary-400">
-              No posts found.
-            </p>
+            <p className="py-8 text-center text-gray-500">No posts found.</p>
           )}
           {displayPosts.map((frontMatter) => {
             const { slug, date, title, summary, tags, images } = frontMatter
@@ -86,46 +82,41 @@ export default function ListLayout({ posts, title, initialDisplayPosts = [], pag
                   visible: { opacity: 1, y: 0 },
                 }}
               >
-                <Link href={`/blog/${slug}`}>
-                  <article
-                    className="relative p-6 border border-primary-300 dark:border-primary-700 rounded-lg shadow-sm hover:shadow-md hover:border-primary-500 dark:hover:border-primary-500 transition duration-200"
-                    style={{
-                      backgroundImage: `url(${firstImage})`,
-                      backgroundSize: 'cover',
-                      backgroundPosition: 'center',
-                    }}
-                  >
-                    <div className="relative z-10 flex flex-col md:flex-row md:items-center">
-                      <div className="flex-grow">
-                        <dl>
-                          <dt className="sr-only">Published on</dt>
-                          <dd className="text-base font-medium leading-6 text-white">
-                            <time dateTime={date}>{formatDate(date)}</time>
-                          </dd>
-                        </dl>
-                        <div className="space-y-3">
-                          <h3 className="text-2xl font-bold leading-8 tracking-tight text-white">
-                            <Link
-                              href={`/blog/${slug}`}
-                              className="hover:underline transition duration-200"
-                            >
-                              {title}
-                            </Link>
-                          </h3>
-                          <div className="flex flex-wrap gap-2 mt-2">
-                            {tags.map((tag) => (
-                              <Tag key={tag} text={tag} className="bg-white text-primary-900" />
-                            ))}
-                          </div>
-                          <Link href={`/blog/${slug}`} className="block mt-2">
-                            <div className="prose max-w-none text-white">{summary}</div>
-                          </Link>
-                        </div>
-                      </div>
+                <article className="archive-card">
+                  {firstImage && (
+                    <div
+                      className="archive-card-media"
+                      style={{ backgroundImage: `url(${firstImage})` }}
+                    />
+                  )}
+                  <div className="archive-card-body">
+                    <dl>
+                      <dt className="sr-only">Published on</dt>
+                      <dd className="meta-date">
+                        <time dateTime={date}>{formatDate(date)}</time>
+                      </dd>
+                    </dl>
+                    <h3 className="mt-3 text-2xl font-black leading-tight text-gray-950 dark:text-white">
+                      <Link
+                        href={`/blog/${slug}`}
+                        className="transition-colors hover:text-[var(--theme-accent)]"
+                      >
+                        {title}
+                      </Link>
+                    </h3>
+                    <div className="mt-3 flex flex-wrap gap-2">
+                      {tags.map((tag) => (
+                        <Tag key={tag} text={tag} />
+                      ))}
                     </div>
-                    <div className="absolute inset-0 bg-black opacity-50 rounded-lg"></div>
-                  </article>
-                </Link>
+                    <p className="mt-4 text-base leading-8 text-gray-600 dark:text-gray-300">
+                      {summary}
+                    </p>
+                    <Link href={`/blog/${slug}`} className="read-link mt-5 inline-flex">
+                      Read article &rarr;
+                    </Link>
+                  </div>
+                </article>
               </motion.li>
             )
           })}
