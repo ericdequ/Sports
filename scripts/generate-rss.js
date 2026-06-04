@@ -18,6 +18,20 @@ const normalizeSlug = (file) =>
     .replace(/^data\/blog\//, '')
     .replace(/\.(mdx|md)$/, '')
 
+const normalizeImageUrl = (image) => {
+  if (!image) return ''
+  try {
+    return new URL(String(image).trim(), `${siteMetadata.siteUrl}/`).href
+  } catch {
+    return String(image).trim()
+  }
+}
+
+const normalizeImageUrls = (images) => {
+  if (!images) return []
+  return (Array.isArray(images) ? images : [images]).map(normalizeImageUrl).filter(Boolean)
+}
+
 const generateRssItem = (post) => `
   <item>
     <guid>${siteMetadata.siteUrl}/blog/${post.slug}</guid>
@@ -27,7 +41,9 @@ const generateRssItem = (post) => `
     <pubDate>${new Date(post.date).toUTCString()}</pubDate>
     <author>${siteMetadata.email} (${siteMetadata.author})</author>
     ${post.tags ? post.tags.map((tag) => `<category>${escape(tag)}</category>`).join('') : ''}
-    ${post.images ? post.images.map((image) => `<image>${escape(image)}</image>`).join('') : ''}
+    ${normalizeImageUrls(post.images)
+      .map((image) => `<image>${escape(image)}</image>`)
+      .join('')}
   </item>
 `
 

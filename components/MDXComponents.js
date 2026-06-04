@@ -6,11 +6,13 @@ import Image from './Image'
 import CustomLink from './Link'
 import TOCInline from './TOCInline'
 import Pre from './Pre'
+import ResponsiveIframe from './ResponsiveIframe'
 
 export const MDXComponents = {
   Image,
   TOCInline,
   a: CustomLink,
+  iframe: ResponsiveIframe,
   pre: Pre,
   wrapper: ({ components, layout, ...rest }) => {
     const Layout = require(`../layouts/${layout}`).default

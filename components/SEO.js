@@ -4,6 +4,15 @@ import Head from 'next/head'
 import { useRouter } from 'next/router'
 import siteMetadata from '@/data/siteMetadata'
 
+const absoluteUrl = (value) => {
+  if (!value) return siteMetadata.siteUrl
+  try {
+    return new URL(value, `${siteMetadata.siteUrl}/`).href
+  } catch {
+    return value
+  }
+}
+
 const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl }) => {
   const router = useRouter()
   return (
@@ -35,8 +44,8 @@ const CommonSEO = ({ title, description, ogType, ogImage, twImage, canonicalUrl 
 }
 
 export const PageSEO = ({ title, description }) => {
-  const ogImageUrl = 'https://www.sportstips.org/loogo.webp'
-  const twImageUrl = 'https://www.sportstips.org/loogo.webp'
+  const ogImageUrl = absoluteUrl(siteMetadata.image || siteMetadata.socialBanner)
+  const twImageUrl = absoluteUrl(siteMetadata.image || siteMetadata.socialBanner)
   return (
     <CommonSEO
       title={title}
@@ -49,8 +58,8 @@ export const PageSEO = ({ title, description }) => {
 }
 
 export const TagSEO = ({ title, description }) => {
-  const ogImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
-  const twImageUrl = siteMetadata.siteUrl + siteMetadata.socialBanner
+  const ogImageUrl = absoluteUrl(siteMetadata.socialBanner)
+  const twImageUrl = absoluteUrl(siteMetadata.socialBanner)
   const router = useRouter()
   return (
     <>
@@ -96,7 +105,7 @@ export const BlogSEO = ({
   const featuredImages = imagesArr.map((img) => {
     return {
       '@type': 'ImageObject',
-      url: img.includes('http') ? img : siteMetadata.siteUrl + img,
+      url: absoluteUrl(img),
     }
   })
 
@@ -132,7 +141,7 @@ export const BlogSEO = ({
       name: siteMetadata.author,
       logo: {
         '@type': 'ImageObject',
-        url: `${siteMetadata.siteUrl}${siteMetadata.siteLogo}`,
+        url: absoluteUrl(siteMetadata.siteLogo),
       },
     },
     description: summary,

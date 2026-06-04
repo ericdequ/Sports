@@ -51,6 +51,8 @@ export default function Projects() {
                   description={project.description}
                   imgSrc={project.imgSrc}
                   href={project.url}
+                  gitUrl={project.gitUrl || project.repoUrl || project.sourceUrl}
+                  mapRequests={project.mapRequests}
                 />
               </motion.div>
             ))}
