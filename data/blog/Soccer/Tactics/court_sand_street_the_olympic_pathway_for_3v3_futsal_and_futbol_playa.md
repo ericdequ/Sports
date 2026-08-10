@@ -4,7 +4,7 @@ date: '2026-08-10'
 tags: ['soccer', 'futsal', 'beach soccer', '3v3 football', 'olympics', 'player development', 'ID camps']
 draft: false
 summary: "A practical campaign to bring 3v3 football, futsal, and beach soccer into the Olympic movement while using all three formats to build better players."
-images: ['https://github.com/user-attachments/assets/d9b04cc2-cac0-4d41-a54b-acf2a57628cc']
+images: ['https://github.com/user-attachments/assets/d9b04cc2-cac0-4d41-a54b-acf2a57628cc', 'https://github.com/user-attachments/assets/1ae60c87-b268-438f-a888-ed22ba3704f9']
 ---
 
 # Court, Sand, Street: The Olympic Pathway for 3v3, Futsal, and Fútbol Playa
@@ -67,6 +67,22 @@ The strongest Olympic case is to present these as disciplines within the FIFA fo
 
 Together, they produce more complete players.
 
+## The 9-Event Olympic Medal Proposal
+
+This concept proposes **nine new Olympic football medal events**:
+
+1. Men’s 3v3 football
+2. Women’s 3v3 football
+3. Coed 3v3 football
+4. Men’s futsal
+5. Women’s futsal
+6. Coed futsal
+7. Men’s fútbol playa / beach soccer
+8. Women’s fútbol playa / beach soccer
+9. Coed fútbol playa / beach soccer
+
+That is the full vision: men, women, and coed competition in all three compact football disciplines.
+
 ## How ID Camps Should Use This Model
 
 ID camps can grade players across all three formats instead of relying on one game environment.
@@ -88,6 +104,8 @@ The most realistic near-term pathway is staged:
 3. Use ID-camp outcomes, participation data, and competition operations to prove long-term Olympic value.
 
 A petition alone is not enough. This has to be governance-driven: federations, confederations, FIFA, host organizers, and IOC processes.
+
+A practical rollout can still phase these events responsibly, but the long-term destination is clear: a nine-medal-event structure that fully represents football’s inclusive, technical, and global identity.
 
 ## Let Retired Legends Compete Too
 
