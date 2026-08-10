@@ -4,7 +4,7 @@ date: '2026-08-10'
 tags: ['Global Basketball', 'NBA', 'WNBA', 'EuroLeague', 'EuroLeague Women', 'World Championship', 'Sports Globalization']
 draft: false
 summary: 'The NBA and WNBA often celebrate their championship winners as world champions—but a true world club champion should defeat the best champion from outside its own league. A seven-game World Club Finals between the NBA and EuroLeague champions, alongside a WNBA–EuroLeague Women series, could transform basketball's global economy, athlete pipeline, and competitive identity.'
-images: []
+images: ['https://github.com/user-attachments/assets/e3e88208-bd94-46b6-9057-ecee237f1cec']
 ---
 
 # 🌍 Sports Have Outgrown Their Borders
