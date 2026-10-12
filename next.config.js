@@ -49,6 +49,9 @@ module.exports = withBundleAnalyzer({
   experimental: { cpus: 2, staticGenerationMaxConcurrency: 1 },
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
   images: {
+    remotePatterns: [
+      { protocol: 'https', hostname: 'github.com', pathname: '/user-attachments/assets/**' },
+    ],
     domains: [
       'quantumcybersolutions.com',
       'www.quantumcybersolutions.com',
