@@ -45,10 +45,9 @@ const securityHeaders = [
 
 module.exports = withBundleAnalyzer({
   reactStrictMode: true,
+  // Bound concurrent MDX compilation memory on CI and Vercel.
+  experimental: { cpus: 2, staticGenerationMaxConcurrency: 1 },
   pageExtensions: ['js', 'jsx', 'md', 'mdx'],
-  eslint: {
-    dirs: ['pages', 'components', 'lib', 'layouts', 'scripts'],
-  },
   images: {
     domains: [
       'quantumcybersolutions.com',

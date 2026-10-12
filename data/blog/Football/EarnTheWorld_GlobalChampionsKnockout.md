@@ -1,9 +1,9 @@
 ---
-title: 'Earn the World: A Three-Match Knockout to Crown Football's True Global Club Champion 🌍⚽'
+title: "Earn the World: A Three-Match Knockout to Crown Football's True Global Club Champion 🌍⚽"
 date: '2026-08-10'
 tags: ['Global Football', 'Club World Championship', 'Champions League', "Women's Football", 'Player Welfare', 'Futsal', 'Beach Soccer', '3v3 Football']
 draft: false
-summary: 'Football does not need another month-long tournament to determine the world's best club. It needs a short annual knockout in which continental champions face one another, every match carries real stakes, and no finalist adds more than two or three games to an already crowded season.'
+summary: "Football does not need another month-long tournament to determine the world's best club. It needs a short annual knockout in which continental champions face one another, every match carries real stakes, and no finalist adds more than two or three games to an already crowded season."
 images: ['https://github.com/user-attachments/assets/887201a9-4929-43f9-98c1-8b08c1b8156c']
 ---
 

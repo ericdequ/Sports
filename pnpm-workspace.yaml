@@ -3,3 +3,5 @@ allowBuilds:
   core-js-pure: true
   deasync: true
   unrs-resolver: true
+  esbuild: true
+  sharp: true

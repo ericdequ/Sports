@@ -4,15 +4,17 @@
   "private": true,
   "scripts": {
     "start": "cross-env SOCKET=true node ./scripts/next-remote-watch.js ./data",
-    "dev": "next dev",
-    "build": "next build && node ./scripts/generate-rss.js && node ./scripts/generate-sitemap && node ./scripts/indexnow.js",
+    "dev": "next dev --webpack",
+    "build": "node ./scripts/validate-frontmatter.js && next build --webpack && node ./scripts/generate-rss.js && node ./scripts/generate-sitemap",
     "serve": "next start",
-    "analyze": "cross-env ANALYZE=true next build",
-    "lint": "next lint --fix --dir pages --dir components --dir lib --dir layouts --dir scripts",
+    "analyze": "cross-env ANALYZE=true next build --webpack",
+    "lint": "eslint pages components lib layouts scripts",
     "prepare": "husky install",
     "commit": "git add . && git commit -m 'production push' && git push",
     "deploy": "pnpm i && next build && pnpm vercel && pnpm vercel --prod && pnpm run commit",
-    "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build"
+    "restart": "rm .next && pnpm rm node_modules && rm pnpm-lock.yaml && pnpm i && pnpm run build",
+    "indexnow": "node ./scripts/indexnow.js",
+    "validate:content": "node ./scripts/validate-frontmatter.js"
   },
   "dependencies": {
     "@badrap/bar-of-progress": "^0.2.2",
@@ -38,7 +40,6 @@
     "mdx-bundler": "^8.1.0",
     "mermaid": "^11.15.0",
     "next": "16.2.6",
-    "next-mdx-enhanced": "^5.0.0",
     "next-pwa": "^5.6.0",
     "next-seo": "^6.8.0",
     "next-themes": "^0.0.14",
@@ -97,5 +98,6 @@
     "*.+(js|jsx|ts|tsx|json|css|md|mdx)": [
       "prettier --write"
     ]
-  }
+  },
+  "packageManager": "pnpm@10.33.4"
 }
