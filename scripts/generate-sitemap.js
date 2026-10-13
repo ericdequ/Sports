@@ -1,3 +1,4 @@
+const { isPublicPost, escapeXml } = require('../lib/publication.cjs')
 const fs = require('fs')
 const globby = require('globby')
 const matter = require('gray-matter')
@@ -22,12 +23,15 @@ const siteMetadata = require('../data/siteMetadata')
     <?xml version="1.0" encoding="UTF-8"?>
     <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
       ${pages
+        .filter(
+          (page) => !page.startsWith('public/tags/') || /<item>/.test(fs.readFileSync(page, 'utf8'))
+        )
         .map((page) => {
           // Exclude drafts from the sitemap
           if (page.search('.md') >= 1 && fs.existsSync(page)) {
             const source = fs.readFileSync(page, 'utf8')
             const fm = matter(source)
-            if (fm.data.draft) {
+            if (!isPublicPost(fm.data)) {
               return
             }
             if (fm.data.canonicalUrl) {
@@ -69,7 +73,7 @@ const siteMetadata = require('../data/siteMetadata')
 
           return `
             <url>
-              <loc>${siteMetadata.siteUrl}${route}</loc>
+              <loc>${escapeXml(siteMetadata.siteUrl + route)}</loc>
               <lastmod>${lastModified}</lastmod>
               <changefreq>${changefreq}</changefreq>
               <priority>${priority}</priority>
@@ -87,4 +91,7 @@ const siteMetadata = require('../data/siteMetadata')
 
   // eslint-disable-next-line no-sync
   fs.writeFileSync('public/sitemap.xml', formatted)
-})()
+})().catch((error) => {
+  console.error(error)
+  process.exitCode = 1
+})
