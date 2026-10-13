@@ -34,7 +34,7 @@ const unescapeXml = (value) =>
       ({ amp: '&', lt: '<', gt: '>', quot: '"', apos: "'", '#039': "'", '#39': "'" }[name])
   )
 const sitemap = fs.readFileSync('public/sitemap.xml', 'utf8')
-const actualUrls = [...sitemap.matchAll(/<loc>\s*([^<]*)\s*<\/loc>/g)]
+const actualUrls = [...sitemap.matchAll(/<loc\s*>\s*([^<]*)\s*<\/loc\s*>/g)]
   .map((match) => unescapeXml(match[1].trim()))
   .filter((url) => new URL(url).pathname.startsWith('/blog/'))
 const expectedUrls = posts
